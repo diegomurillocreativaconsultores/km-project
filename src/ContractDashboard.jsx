@@ -8,7 +8,7 @@ const GanttTooltip = ({ item }) => {
   const start = new Date(item.start_date);
   const end = new Date(item.end_date);
   const durationInDays = Math.round((end - start) / (1000 * 60 * 60 * 24));
-  
+
   return (
     <div className="bg-white p-3 rounded shadow-lg border max-w-lg">
       <h3 className="font-bold mb-2">{item.scope_title}</h3>
@@ -42,7 +42,7 @@ const GanttTooltip = ({ item }) => {
 
 const GanttChart = ({ data }) => {
   const [tooltipInfo, setTooltipInfo] = useState(null);
-  
+
   // Calculate date range
   const startDates = data.map(d => new Date(d.start_date));
   const endDates = data.map(d => new Date(d.end_date));
@@ -51,27 +51,27 @@ const GanttChart = ({ data }) => {
   const startYear = minDate.getFullYear();
   const endYear = maxDate.getFullYear();
   const years = _.range(startYear, endYear + 1);
-  
+
   const getPositionStyle = (startDate, endDate) => {
     const start = new Date(startDate);
     const end = new Date(endDate);
-    
+
     // Calculate quarters considering months
     const startQuarter = Math.floor(start.getMonth() / 3);
     const endQuarter = Math.floor(end.getMonth() / 3);
     const startPosition = (start.getFullYear() - startYear) * 4 + startQuarter;
     const endPosition = (end.getFullYear() - startYear) * 4 + endQuarter;
-    
+
     // Calculate total width including fractional quarters
     const totalQuarters = (years.length) * 4;
     const left = (startPosition / totalQuarters) * 100;
-    
+
     // Calculate width based on actual duration
     const durationInDays = (end - start) / (1000 * 60 * 60 * 24);
     const quarterDays = 91.25; // Average days per quarter
     const widthInQuarters = durationInDays / quarterDays;
     const width = (widthInQuarters / totalQuarters) * 100;
-    
+
     return {
       left: `${left}%`,
       width: `${Math.max(width, 2)}%` // Ensure minimum visibility
@@ -87,7 +87,7 @@ const GanttChart = ({ data }) => {
           <div className="w-48 flex-shrink-0 p-2 font-bold border-r bg-gray-100">
             Task
           </div>
-          
+
           {/* Years and quarters */}
           <div className="flex flex-grow">
             {years.map(year => (
@@ -99,8 +99,8 @@ const GanttChart = ({ data }) => {
                 {/* Quarters */}
                 <div className="flex">
                   {['Q1', 'Q2', 'Q3', 'Q4'].map(quarter => (
-                    <div key={`${year}-${quarter}`} 
-                         className="flex-1 text-center p-2 border-r bg-gray-50">
+                    <div key={`${year}-${quarter}`}
+                      className="flex-1 text-center p-2 border-r bg-gray-50">
                       {quarter}
                     </div>
                   ))}
@@ -114,11 +114,11 @@ const GanttChart = ({ data }) => {
         {data.map((item, index) => (
           <div key={index} className="flex border-b hover:bg-gray-50">
             {/* Task name */}
-            <div className="w-48 flex-shrink-0 p-2 border-r truncate" 
-                 title={item.scope_title}>
+            <div className="w-48 flex-shrink-0 p-2 border-r truncate"
+              title={item.scope_title}>
               {item.scope_title}
             </div>
-            
+
             {/* Timeline grid */}
             <div className="flex-grow relative h-12">
               {/* Quarter grid lines */}
@@ -131,7 +131,7 @@ const GanttChart = ({ data }) => {
                   </div>
                 ))}
               </div>
-              
+
               {/* Contract bar */}
               <div
                 className="absolute top-2 h-8 bg-blue-500 rounded shadow-sm cursor-pointer 
@@ -169,9 +169,12 @@ const ContractDashboard = () => {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await window.fs.readFile('contract_results.json', { encoding: 'utf8' });
-        const jsonData = JSON.parse(response);
-        
+        const response = await fetch('/contract_results.json'); // Adjust the path as needed
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const jsonData = await response.json();
+
         // Filter out entries with missing or invalid amounts
         const validData = jsonData.filter(item => {
           const amount = parseFloat(item.amount?.replace(/[$,]/g, ''));
