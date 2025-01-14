@@ -1,9 +1,9 @@
-import ContractRiskDashboard from "./ContractRiskDashboard";
+import ContractDashboard from "./ContractDashboard";
 
 function App() {
   return (
     <>
-      <ContractRiskDashboard />
+      <ContractDashboard />
     </>
   );
 }

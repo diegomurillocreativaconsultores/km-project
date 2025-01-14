@@ -256,5 +256,56 @@
         }
       ]
     }
-  }
+  },
+  "radarData": [
+    {
+      "category": "Liability",
+      "customerRisk": 45,
+	  "providerRisk": 15,
+      "priority": 90,
+      "negotiable": 70
+    },
+    {
+      "category": "SLA",
+      "customerRisk": 60,
+      "providerRisk": 30,
+      "priority": 85,
+      "negotiable": 75
+    },
+    {
+      "category": "Security",
+      "customerRisk": 75,
+      "providerRisk": 65,
+      "priority": 80,
+      "negotiable": 60
+    },
+    {
+      "category": "Implementation",
+      "customerRisk": 80,
+      "providerRisk": 40,
+      "priority": 75,
+      "negotiable": 65
+    },
+    {
+      "category": "IP Rights",
+      "customerRisk": 40,
+      "providerRisk": 20,
+      "priority": 50,
+      "negotiable": 0
+    },
+    {
+      "category": "Payment Terms",
+      "customerRisk": 90,
+      "providerRisk": 20,
+      "priority": 60,
+      "negotiable": 0
+    },
+    {
+      "category": "Usage Rights",
+      "customerRisk": 50,
+      "providerRisk": 30,
+      "priority": 55,
+      "negotiable": 0
+    }
+  ]
 }
