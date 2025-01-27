@@ -1,9 +1,9 @@
-import ContractDashboard from "./ContractDashboard";
+import MSADashboard from "./MSAdashboard";
 
 function App() {
   return (
     <>
-      <ContractDashboard />
+      <MSADashboard />
     </>
   );
 }

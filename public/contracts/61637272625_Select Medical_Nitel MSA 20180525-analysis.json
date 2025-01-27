@@ -1,0 +1,96 @@
+{
+  "Executive Summary": {
+    "Overall Score": 6.5,
+    "Key Strengths": [
+      "Clear payment terms with net-30 payment structure.",
+      "Defined service acceptance testing period.",
+      "Confidentiality provisions in place."
+    ],
+    "Critical Weaknesses": [
+      "Unclear termination provisions.",
+      "Limited liability cap may expose customer to risk.",
+      "Lack of detailed service level remedies."
+    ],
+    "Priority Recommendations": [
+      "Clarify termination provisions and notice requirements.",
+      "Enhance service level agreements with specific remedies.",
+      "Review and adjust liability limitations."
+    ]
+  },
+  "Detailed Category Scoring": {
+    "Term & Renewal": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Initial term is defined, but renewal terms are not month-to-month.",
+      "Deviation from Best Practices": "Preferred month-to-month renewal not present.",
+      "Improvement Opportunities": "Consider allowing month-to-month renewals."
+    },
+    "Payment & Financial Terms": {
+      "Score": 8,
+      "Specific Provisions Analysis": "Net-30 payment terms and late fee structure are clear.",
+      "Deviation from Best Practices": "No clear early termination fee calculation methods.",
+      "Improvement Opportunities": "Include explicit early termination fee calculations."
+    },
+    "Service Level Agreements": {
+      "Score": 5,
+      "Specific Provisions Analysis": "Service level definitions are vague and lack specific credit mechanisms.",
+      "Deviation from Best Practices": "Missing clear service level remedies.",
+      "Improvement Opportunities": "Define service levels and include credit mechanisms."
+    },
+    "Risk Allocation": {
+      "Score": 4,
+      "Specific Provisions Analysis": "Liability cap is limited to 12 months of service charges.",
+      "Deviation from Best Practices": "Capped liability may expose customer to significant risk.",
+      "Improvement Opportunities": "Consider increasing liability cap and excluding consequential damages."
+    },
+    "Operational Terms": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Installation and disconnection processes are defined.",
+      "Deviation from Best Practices": "Change management procedures are not detailed.",
+      "Improvement Opportunities": "Include detailed change management procedures."
+    },
+    "Security & Compliance": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Confidentiality and data protection provisions are present.",
+      "Deviation from Best Practices": "Lacks detailed regulatory compliance obligations.",
+      "Improvement Opportunities": "Add specific regulatory compliance requirements."
+    },
+    "Contract Administration": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Assignment rights and amendment procedures are mentioned.",
+      "Deviation from Best Practices": "Notice requirements could be clearer.",
+      "Improvement Opportunities": "Clarify notice requirements and dispute resolution processes."
+    }
+  },
+  "Risk Assessment": {
+    "High-Priority Concerns": [
+      "Unclear termination provisions.",
+      "Limited liability cap exposing customer to risk."
+    ],
+    "Medium-Priority Issues": [
+      "Missing service level remedies.",
+      "Lack of detailed change management procedures."
+    ],
+    "Low-Priority Items": [
+      "Notice requirements could be clearer."
+    ],
+    "Mitigation Recommendations": [
+      "Clarify termination provisions and enhance service level agreements."
+    ]
+  },
+  "Improvement Recommendations": {
+    "Must-Have Changes": [
+      "Clarify termination provisions and notice requirements.",
+      "Enhance service level agreements with specific remedies."
+    ],
+    "Nice-to-Have Improvements": [
+      "Review and adjust liability limitations.",
+      "Include explicit early termination fee calculations."
+    ],
+    "Strategic Considerations": [
+      "Consider customer feedback on service levels and operational terms."
+    ],
+    "Implementation Priorities": [
+      "Prioritize clarifying termination and service level provisions."
+    ]
+  }
+}

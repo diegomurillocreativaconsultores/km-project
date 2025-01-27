@@ -1,0 +1,94 @@
+{
+  "Executive Summary": {
+    "Overall Score": 6.5,
+    "Key Strengths": [
+      "Clear definitions of services and pricing structures.",
+      "Provisions for invoicing and payment terms are well-defined."
+    ],
+    "Critical Weaknesses": [
+      "Termination provisions lack clarity on notice periods for non-renewal.",
+      "Service level agreements and remedies are not explicitly stated."
+    ],
+    "Priority Recommendations": [
+      "Clarify termination notice requirements and non-renewal processes.",
+      "Include specific service level agreements and remedies for service failures."
+    ]
+  },
+  "Detailed Category Scoring": {
+    "Term & Renewal": {
+      "Score": 5,
+      "Specific Provisions Analysis": "Initial term is not specified; renewal terms require 30 days notice which is less than the preferred 45 days.",
+      "Deviation from Best Practices": "Lack of clarity on initial term length.",
+      "Improvement Opportunities": "Specify an optimal initial term length and extend notice period for non-renewal."
+    },
+    "Payment & Financial Terms": {
+      "Score": 8,
+      "Specific Provisions Analysis": "Net-30 payment terms are present; late fees are aligned with standard practices.",
+      "Deviation from Best Practices": "No clear early termination fee calculation methods.",
+      "Improvement Opportunities": "Include explicit early termination fee calculations."
+    },
+    "Service Level Agreements": {
+      "Score": 4,
+      "Specific Provisions Analysis": "No clear service level definitions or credit mechanisms.",
+      "Deviation from Best Practices": "Missing service level remedies.",
+      "Improvement Opportunities": "Establish clear service level definitions and credit mechanisms."
+    },
+    "Risk Allocation": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Limitation of liability provisions are vague; indemnification structure is not detailed.",
+      "Deviation from Best Practices": "Uncapped liability exposure.",
+      "Improvement Opportunities": "Define limitation of liability and indemnification structure more clearly."
+    },
+    "Operational Terms": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Installation and maintenance processes are mentioned but lack detail.",
+      "Deviation from Best Practices": "Change management procedures are not specified.",
+      "Improvement Opportunities": "Detail change management procedures and technical support provisions."
+    },
+    "Security & Compliance": {
+      "Score": 5,
+      "Specific Provisions Analysis": "Data protection provisions are mentioned but lack depth.",
+      "Deviation from Best Practices": "Inadequate data protection measures.",
+      "Improvement Opportunities": "Enhance data protection and confidentiality requirements."
+    },
+    "Contract Administration": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Amendment procedures and assignment rights are mentioned.",
+      "Deviation from Best Practices": "Dispute resolution processes are not clearly defined.",
+      "Improvement Opportunities": "Clarify dispute resolution processes."
+    }
+  },
+  "Risk Assessment": {
+    "High-Priority Concerns": [
+      "Uncapped liability exposure",
+      "Missing service level remedies"
+    ],
+    "Medium-Priority Issues": [
+      "Unclear termination provisions",
+      "Inadequate data protection measures"
+    ],
+    "Low-Priority Items": [
+      "Weak confidentiality provisions"
+    ],
+    "Mitigation Recommendations": [
+      "Define liability caps and service level remedies.",
+      "Enhance data protection measures and confidentiality provisions."
+    ]
+  },
+  "Improvement Recommendations": {
+    "Must-Have Changes": [
+      "Clarify termination notice requirements.",
+      "Establish clear service level agreements."
+    ],
+    "Nice-to-Have Improvements": [
+      "Detail change management procedures.",
+      "Enhance data protection provisions."
+    ],
+    "Strategic Considerations": [
+      "Align contract terms with industry best practices to mitigate risks."
+    ],
+    "Implementation Priorities": [
+      "Prioritize the inclusion of service level agreements and liability caps."
+    ]
+  }
+}

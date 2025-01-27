@@ -1,0 +1,98 @@
+{
+  "Executive Summary": {
+    "Overall Score": 7.5,
+    "Key Strengths": [
+      "Initial term of 36 months aligns with best practices.",
+      "Clear service level agreements with specific performance guarantees.",
+      "Well-defined payment terms with a standard late fee structure."
+    ],
+    "Critical Weaknesses": [
+      "Unclear termination provisions regarding early termination charges.",
+      "Limited flexibility in renewal terms beyond the initial term.",
+      "Potentially uncapped liability exposure."
+    ],
+    "Priority Recommendations": [
+      "Clarify early termination charges and conditions.",
+      "Introduce more flexible renewal options.",
+      "Consider capping liability exposure to a specific amount."
+    ]
+  },
+  "Detailed Category Scoring": {
+    "Term & Renewal": {
+      "Score": 8,
+      "Specific Provisions Analysis": "Initial term is 36 months, but renewal terms are month-to-month with 45-day notice, which is acceptable but could be more flexible.",
+      "Deviation from Best Practices": "Minor gaps in flexibility.",
+      "Improvement Opportunities": "Consider adding options for longer renewal terms."
+    },
+    "Payment & Financial Terms": {
+      "Score": 8,
+      "Specific Provisions Analysis": "Net-30 payment terms and late fee structure are well-defined.",
+      "Deviation from Best Practices": "No significant gaps.",
+      "Improvement Opportunities": "Ensure clarity on early termination fee calculations."
+    },
+    "Service Level Agreements": {
+      "Score": 9,
+      "Specific Provisions Analysis": "Service levels are clearly defined with specific credit mechanisms.",
+      "Deviation from Best Practices": "None noted.",
+      "Improvement Opportunities": "Maintain current standards."
+    },
+    "Risk Allocation": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Limitation of liability is present but lacks a clear cap.",
+      "Deviation from Best Practices": "Capped liability should be defined.",
+      "Improvement Opportunities": "Introduce a cap on liability exposure."
+    },
+    "Operational Terms": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Installation and maintenance processes are outlined but could be more detailed.",
+      "Deviation from Best Practices": "Moderate gaps in detail.",
+      "Improvement Opportunities": "Enhance clarity on change management procedures."
+    },
+    "Security & Compliance": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Data protection and confidentiality provisions are present but could be strengthened.",
+      "Deviation from Best Practices": "Some gaps in regulatory compliance obligations.",
+      "Improvement Opportunities": "Add explicit regulatory compliance measures."
+    },
+    "Contract Administration": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Assignment rights and amendment procedures are defined.",
+      "Deviation from Best Practices": "Minor gaps in clarity.",
+      "Improvement Opportunities": "Clarify dispute resolution processes."
+    }
+  },
+  "Risk Assessment": {
+    "High-Priority Concerns": [
+      "Uncapped liability exposure.",
+      "Unclear early termination provisions."
+    ],
+    "Medium-Priority Issues": [
+      "Limited flexibility in renewal terms.",
+      "Potential gaps in regulatory compliance."
+    ],
+    "Low-Priority Items": [
+      "Minor gaps in operational terms."
+    ],
+    "Mitigation Recommendations": [
+      "Define a cap on liability exposure.",
+      "Clarify early termination conditions.",
+      "Enhance regulatory compliance measures."
+    ]
+  },
+  "Improvement Recommendations": {
+    "Must-Have Changes": [
+      "Clarify early termination charges.",
+      "Introduce a cap on liability exposure."
+    ],
+    "Nice-to-Have Improvements": [
+      "Enhance flexibility in renewal terms.",
+      "Strengthen data protection measures."
+    ],
+    "Strategic Considerations": [
+      "Consider the impact of regulatory changes on compliance obligations."
+    ],
+    "Implementation Priorities": [
+      "Address high-priority concerns in the next contract review."
+    ]
+  }
+}

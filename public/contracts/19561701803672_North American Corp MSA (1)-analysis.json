@@ -1,0 +1,99 @@
+{
+  "Executive Summary": {
+    "Overall Score": 5.5,
+    "Key Strengths": [
+      "Clear identification of parties and services",
+      "Defined term length of 60 months"
+    ],
+    "Critical Weaknesses": [
+      "Lack of month-to-month renewal terms",
+      "Unclear early termination fee calculation methods",
+      "Missing specific service level agreements"
+    ],
+    "Priority Recommendations": [
+      "Introduce month-to-month renewal options",
+      "Clarify early termination fee calculations",
+      "Establish clear service level agreements"
+    ]
+  },
+  "Detailed Category Scoring": {
+    "Term & Renewal": {
+      "Score": 4,
+      "Specific Provisions Analysis": "Initial term is 60 months with no month-to-month renewal option.",
+      "Deviation from Best Practices": "Preferred month-to-month renewal not present.",
+      "Improvement Opportunities": "Add month-to-month renewal terms with a 45-day notice."
+    },
+    "Payment & Financial Terms": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Payment terms not explicitly stated; early termination fees are mentioned but not detailed.",
+      "Deviation from Best Practices": "Lack of clarity on late fees and billing dispute procedures.",
+      "Improvement Opportunities": "Define net-30 payment terms and late fee structure."
+    },
+    "Service Level Agreements": {
+      "Score": 3,
+      "Specific Provisions Analysis": "No specific service level definitions or credit mechanisms provided.",
+      "Deviation from Best Practices": "Missing service level remedies and response time commitments.",
+      "Improvement Opportunities": "Establish clear service level definitions and credit mechanisms."
+    },
+    "Risk Allocation": {
+      "Score": 5,
+      "Specific Provisions Analysis": "Limitation of liability provisions not clearly defined.",
+      "Deviation from Best Practices": "Uncapped liability exposure and unclear indemnification structure.",
+      "Improvement Opportunities": "Define limitation of liability and indemnification provisions."
+    },
+    "Operational Terms": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Basic operational terms mentioned but lack detail.",
+      "Deviation from Best Practices": "Change management procedures and maintenance notifications not specified.",
+      "Improvement Opportunities": "Detail change management and maintenance notification processes."
+    },
+    "Security & Compliance": {
+      "Score": 5,
+      "Specific Provisions Analysis": "General references to compliance but lacking specific data protection measures.",
+      "Deviation from Best Practices": "Inadequate data protection and audit rights.",
+      "Improvement Opportunities": "Include specific data protection provisions and audit rights."
+    },
+    "Contract Administration": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Basic contract administration terms are present.",
+      "Deviation from Best Practices": "Amendment procedures and dispute resolution processes could be clearer.",
+      "Improvement Opportunities": "Clarify amendment procedures and dispute resolution processes."
+    }
+  },
+  "Risk Assessment": {
+    "High-Priority Concerns": [
+      "Unclear early termination fee calculations",
+      "Missing service level remedies"
+    ],
+    "Medium-Priority Issues": [
+      "Lack of month-to-month renewal terms",
+      "Uncapped liability exposure"
+    ],
+    "Low-Priority Items": [
+      "Basic operational terms lacking detail"
+    ],
+    "Mitigation Recommendations": [
+      "Clarify early termination fees in the agreement",
+      "Introduce service level agreements with remedies"
+    ]
+  },
+  "Improvement Recommendations": {
+    "Must-Have Changes": [
+      "Add month-to-month renewal options",
+      "Define early termination fee calculations",
+      "Establish clear service level agreements"
+    ],
+    "Nice-to-Have Improvements": [
+      "Detail change management and maintenance notification processes",
+      "Include specific data protection provisions"
+    ],
+    "Strategic Considerations": [
+      "Consider the impact of service level agreements on customer satisfaction",
+      "Evaluate the risk exposure related to liability provisions"
+    ],
+    "Implementation Priorities": [
+      "Negotiate clear service level agreements",
+      "Revise payment and financial terms for clarity"
+    ]
+  }
+}

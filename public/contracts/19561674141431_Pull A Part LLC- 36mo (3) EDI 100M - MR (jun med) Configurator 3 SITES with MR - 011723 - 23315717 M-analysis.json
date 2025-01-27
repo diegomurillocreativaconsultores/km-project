@@ -1,0 +1,98 @@
+{
+  "Executive Summary": {
+    "Overall Score": 5.5,
+    "Key Strengths": [
+      "Clear identification of parties and services",
+      "Defined term length of 60 months"
+    ],
+    "Critical Weaknesses": [
+      "Lack of month-to-month renewal options",
+      "Unclear early termination fee structure",
+      "Missing detailed service level agreements"
+    ],
+    "Priority Recommendations": [
+      "Introduce month-to-month renewal terms",
+      "Clarify early termination fee calculations",
+      "Establish clear service level agreements with remedies"
+    ]
+  },
+  "Detailed Category Scoring": {
+    "Term & Renewal": {
+      "Score": 4,
+      "Specific Provisions Analysis": "Initial term is 60 months with no month-to-month renewal option.",
+      "Deviation from Best Practices": "Preferred month-to-month renewal not present.",
+      "Improvement Opportunities": "Add month-to-month renewal terms with a 45-day notice."
+    },
+    "Payment & Financial Terms": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Payment terms not explicitly stated; early termination fees are mentioned but not detailed.",
+      "Deviation from Best Practices": "Lack of clarity on payment terms and late fees.",
+      "Improvement Opportunities": "Define net-30 payment terms and late fee structure."
+    },
+    "Service Level Agreements": {
+      "Score": 3,
+      "Specific Provisions Analysis": "No clear service level definitions or credit mechanisms provided.",
+      "Deviation from Best Practices": "Missing service level remedies and response time commitments.",
+      "Improvement Opportunities": "Establish clear service level agreements with defined credits and response times."
+    },
+    "Risk Allocation": {
+      "Score": 5,
+      "Specific Provisions Analysis": "Limitation of liability and indemnification structure not clearly defined.",
+      "Deviation from Best Practices": "Unclear liability caps and missing force majeure provisions.",
+      "Improvement Opportunities": "Clarify limitation of liability and include force majeure protections."
+    },
+    "Operational Terms": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Basic operational terms mentioned but lack detail on change management and support.",
+      "Deviation from Best Practices": "Insufficient detail on maintenance notifications and technical support.",
+      "Improvement Opportunities": "Enhance operational terms with detailed support and change management procedures."
+    },
+    "Security & Compliance": {
+      "Score": 5,
+      "Specific Provisions Analysis": "Basic data protection and confidentiality provisions mentioned.",
+      "Deviation from Best Practices": "Missing detailed regulatory compliance obligations and audit rights.",
+      "Improvement Opportunities": "Include comprehensive security incident procedures and audit rights."
+    },
+    "Contract Administration": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Basic assignment rights and amendment procedures are present.",
+      "Deviation from Best Practices": "Notice requirements and dispute resolution processes could be clearer.",
+      "Improvement Opportunities": "Clarify notice requirements and enhance dispute resolution processes."
+    }
+  },
+  "Risk Assessment": {
+    "High-Priority Concerns": [
+      "Missing service level remedies",
+      "Unclear early termination fee structure"
+    ],
+    "Medium-Priority Issues": [
+      "Lack of month-to-month renewal options",
+      "Insufficient force majeure protections"
+    ],
+    "Low-Priority Items": [
+      "Basic operational terms lack detail"
+    ],
+    "Mitigation Recommendations": [
+      "Establish clear service level agreements",
+      "Clarify early termination fees and renewal options"
+    ]
+  },
+  "Improvement Recommendations": {
+    "Must-Have Changes": [
+      "Introduce month-to-month renewal terms",
+      "Define net-30 payment terms and late fee structure",
+      "Establish clear service level agreements"
+    ],
+    "Nice-to-Have Improvements": [
+      "Enhance operational terms with detailed support procedures",
+      "Include comprehensive security incident procedures"
+    ],
+    "Strategic Considerations": [
+      "Consider the impact of early termination fees on customer retention"
+    ],
+    "Implementation Priorities": [
+      "Prioritize the establishment of service level agreements",
+      "Clarify payment and termination terms in the next amendment"
+    ]
+  }
+}

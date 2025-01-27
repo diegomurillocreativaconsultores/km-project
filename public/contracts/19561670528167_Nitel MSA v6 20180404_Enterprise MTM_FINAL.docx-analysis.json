@@ -1,0 +1,94 @@
+{
+  "Executive Summary": {
+    "Overall Score": 6.5,
+    "Key Strengths": [
+      "Clear payment terms with net-30 payment structure.",
+      "Defined service level agreements with credit mechanisms."
+    ],
+    "Critical Weaknesses": [
+      "Unclear termination provisions with lengthy notice requirements.",
+      "Limited liability caps that may expose the customer to significant risk."
+    ],
+    "Priority Recommendations": [
+      "Revise termination notice requirements to be more favorable.",
+      "Clarify and potentially cap liability exposure."
+    ]
+  },
+  "Detailed Category Scoring": {
+    "Term & Renewal": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Initial term is not specified but renewal is month-to-month with a 45-day notice.",
+      "Deviation from Best Practices": "Initial term length is not optimal.",
+      "Improvement Opportunities": "Specify an initial term of 36 months."
+    },
+    "Payment & Financial Terms": {
+      "Score": 8,
+      "Specific Provisions Analysis": "Net-30 payment terms and late fee structure are clear.",
+      "Deviation from Best Practices": "No clear early termination fee calculation methods.",
+      "Improvement Opportunities": "Include detailed early termination fee calculations."
+    },
+    "Service Level Agreements": {
+      "Score": 7,
+      "Specific Provisions Analysis": "SLAs are referenced but not detailed in the agreement.",
+      "Deviation from Best Practices": "Lack of specific credit caps.",
+      "Improvement Opportunities": "Define credit caps explicitly in the agreement."
+    },
+    "Risk Allocation": {
+      "Score": 5,
+      "Specific Provisions Analysis": "Liability is capped at 60 days of service charges.",
+      "Deviation from Best Practices": "Uncapped liability exposure for certain claims.",
+      "Improvement Opportunities": "Introduce caps on liability for all claims."
+    },
+    "Operational Terms": {
+      "Score": 6,
+      "Specific Provisions Analysis": "Installation and disconnection processes are outlined.",
+      "Deviation from Best Practices": "Change management procedures are not detailed.",
+      "Improvement Opportunities": "Include clear change management procedures."
+    },
+    "Security & Compliance": {
+      "Score": 5,
+      "Specific Provisions Analysis": "Confidentiality is mentioned but lacks detail.",
+      "Deviation from Best Practices": "Inadequate data protection measures.",
+      "Improvement Opportunities": "Enhance data protection and compliance provisions."
+    },
+    "Contract Administration": {
+      "Score": 7,
+      "Specific Provisions Analysis": "Notice requirements and amendment procedures are clear.",
+      "Deviation from Best Practices": "Assignment rights are limited.",
+      "Improvement Opportunities": "Consider allowing more flexibility in assignment rights."
+    }
+  },
+  "Risk Assessment": {
+    "High-Priority Concerns": [
+      "Uncapped liability exposure.",
+      "Inadequate data protection measures."
+    ],
+    "Medium-Priority Issues": [
+      "Unclear termination provisions.",
+      "Missing early termination fee calculations."
+    ],
+    "Low-Priority Items": [
+      "Limited assignment rights."
+    ],
+    "Mitigation Recommendations": [
+      "Introduce caps on liability.",
+      "Clarify termination provisions."
+    ]
+  },
+  "Improvement Recommendations": {
+    "Must-Have Changes": [
+      "Revise termination notice requirements.",
+      "Clarify and cap liability exposure."
+    ],
+    "Nice-to-Have Improvements": [
+      "Include detailed early termination fee calculations.",
+      "Enhance data protection provisions."
+    ],
+    "Strategic Considerations": [
+      "Align contract terms with industry best practices."
+    ],
+    "Implementation Priorities": [
+      "Negotiate changes in the next contract review."
+    ]
+  }
+}
