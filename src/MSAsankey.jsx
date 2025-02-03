@@ -14,15 +14,19 @@ const ContractFlow = () => {
   useEffect(() => {
     const processData = async () => {
       try {
-        const response = await window.fs.readFile('./data/contract_analysis1.csv', { encoding: 'utf8' });
-        const result = Papa.parse(response, {
+        // Fetch the CSV file from the public folder
+        const response = await fetch('/data/contract_analysis1.csv');
+        const csvText = await response.text();
+
+        // Parse the CSV text
+        const result = Papa.parse(csvText, {
           header: true,
           skipEmptyLines: true
         });
 
-        const csvData = result.data.filter(row => 
-          row['Party1 Name'] && 
-          row['Agreement Classification'] && 
+        const csvData = result.data.filter(row =>
+          row['Party1 Name'] &&
+          row['Agreement Classification'] &&
           row['Party2 Name']
         );
 
@@ -74,8 +78,9 @@ const ContractFlow = () => {
     processData();
   }, []);
 
+  // Added an extra check to ensure payload exists before accessing its properties
   const CustomTooltip = ({ active, payload, label }) => {
-    if (active && payload && payload.length) {
+    if (active && payload && payload.length && payload[0].payload) {
       return (
         <div className="bg-white p-4 border rounded shadow">
           <p className="font-medium">{label}</p>
@@ -98,28 +103,32 @@ const ContractFlow = () => {
             margin={{ top: 5, right: 30, left: 250, bottom: 5 }}
           >
             <CartesianGrid strokeDasharray="3 3" />
-            <XAxis 
+            <XAxis
               type="number"
-              label={{ 
+              label={{
                 value: 'Number of Contracts',
                 position: 'bottom',
                 offset: -5
               }}
             />
-            <YAxis 
-              type="category" 
-              dataKey="name" 
+            <YAxis
+              type="category"
+              dataKey="name"
               width={240}
               tick={{ fill: '#374151' }}
             />
             <Tooltip content={<CustomTooltip />} />
-            <Bar 
-              dataKey="count" 
+            <Bar
+              dataKey="count"
               fill={color}
-              label={{ 
+              label={{
                 position: 'right',
                 fill: '#374151',
-                formatter: (value, entry) => `${value} (${entry.payload.percentage}%)`,
+                // Guard against an undefined entry before accessing entry.payload
+                formatter: (value, entry) => {
+                  if (!entry || !entry.payload) return value;
+                  return `${value} (${entry.payload.percentage}%)`;
+                }
               }}
             />
           </BarChart>
@@ -134,21 +143,21 @@ const ContractFlow = () => {
         <CardTitle>Contract Analysis Summary</CardTitle>
       </CardHeader>
       <CardContent className="space-y-8">
-        <ChartSection 
-          title="Top 10 Party 1 Organizations" 
-          data={data.party1} 
+        <ChartSection
+          title="Top 10 Party 1 Organizations"
+          data={data.party1}
           color="#8884d8"
           height="h-96"
         />
-        <ChartSection 
-          title="Agreement Classifications" 
-          data={data.classifications} 
+        <ChartSection
+          title="Agreement Classifications"
+          data={data.classifications}
           color="#82ca9d"
           height="h-48"
         />
-        <ChartSection 
-          title="Top 10 Party 2 Organizations" 
-          data={data.party2} 
+        <ChartSection
+          title="Top 10 Party 2 Organizations"
+          data={data.party2}
           color="#ffc658"
           height="h-96"
         />

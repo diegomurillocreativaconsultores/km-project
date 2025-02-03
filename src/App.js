@@ -1,9 +1,9 @@
-import ContractHeatmap from "./ContractHeatmap";
+import MSAsankey from "./MSAsankey";
 
 function App() {
   return (
     <>
-      <ContractHeatmap/>
+      <MSAsankey/>
     </>
   );
 }
