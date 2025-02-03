@@ -1,0 +1,132 @@
+{
+  "Executive Summary": {
+    "Overall Score": 6.5,
+    "Key Strengths": [
+      "Clear definitions of services and payment obligations.",
+      "Indemnification provisions are present and cover necessary scenarios."
+    ],
+    "Critical Weaknesses": [
+      "Unclear termination provisions and lack of flexibility in the term.",
+      "Capped liability exposure is not adequately defined."
+    ],
+    "Priority Recommendations": [
+      "Clarify termination and renewal terms to align with best practices.",
+      "Define liability caps and ensure they are reasonable."
+    ]
+  },
+  "Detailed Category Scoring": {
+    "Term & Renewal": {
+      "Score": 5,
+      "Provisions with Detailed Analysis": {
+        "Clause 3.1": "The MSA continues until the last Service Order's term expires, which lacks a clear initial term.",
+        "Clause 3.2": "The auto-renewal for month-to-month is present, but the notice period is longer than preferred."
+      },
+      "Deviation from Best Practices": "The initial term is not defined, and the notice period for termination is longer than optimal.",
+      "Improvement Opportunities": "Define an initial term of 36 months and reduce the notice period for termination to 45 days."
+    },
+    "Payment & Financial Terms": {
+      "Score": 7,
+      "Provisions with Detailed Analysis": {
+        "Clause 5": "Payment terms are clear, with a late fee structure defined.",
+        "Clause 7": "Billing disputes must be raised within 30 days, which is acceptable."
+      },
+      "Deviation from Best Practices": "The early termination fee is not clearly defined.",
+      "Improvement Opportunities": "Clarify early termination fee calculations and ensure they are fair."
+    },
+    "Service Level Agreements": {
+      "Score": 5,
+      "Provisions with Detailed Analysis": {
+        "Clause 16": "Services are provided without warranties, which may lead to customer dissatisfaction.",
+        "Clause 17": "Limitation of liability is present but lacks specific caps."
+      },
+      "Deviation from Best Practices": "Missing specific service level commitments and credit mechanisms.",
+      "Improvement Opportunities": "Include specific service level commitments and credit mechanisms for service failures."
+    },
+    "Risk Allocation": {
+      "Score": 4,
+      "Provisions with Detailed Analysis": {
+        "Clause 17": "Limitation of liability is broad and uncapped.",
+        "Clause 20": "Force majeure provisions are present but could be more detailed."
+      },
+      "Deviation from Best Practices": "Uncapped liability exposure and insufficient force majeure protections.",
+      "Improvement Opportunities": "Define liability caps and enhance force majeure provisions."
+    },
+    "Operational Terms": {
+      "Score": 6,
+      "Provisions with Detailed Analysis": {
+        "Clause 11": "Equipment ownership is clearly defined.",
+        "Clause 15": "Abuse of service provisions are present."
+      },
+      "Deviation from Best Practices": "Change management procedures are not detailed.",
+      "Improvement Opportunities": "Include clear change management procedures."
+    },
+    "Security & Compliance": {
+      "Score": 6,
+      "Provisions with Detailed Analysis": {
+        "Clause 23": "Confidentiality provisions are present but could be stronger.",
+        "Clause 9": "Tax and regulatory fee provisions are clear."
+      },
+      "Deviation from Best Practices": "Data protection measures are not explicitly outlined.",
+      "Improvement Opportunities": "Include specific data protection measures."
+    },
+    "Regulatory Compliance & Technical Requirements": {
+      "Score": 7,
+      "Provisions with Detailed Analysis": {
+        "Clause 9": "Regulatory compliance obligations are mentioned.",
+        "Clause 12": "Third-party service charges are clearly defined."
+      },
+      "Deviation from Best Practices": "Specific FCC compliance requirements are not detailed.",
+      "Improvement Opportunities": "Include explicit FCC compliance requirements."
+    },
+    "Contract Administration": {
+      "Score": 6,
+      "Provisions with Detailed Analysis": {
+        "Clause 26": "Assignment rights are defined but favor USAD.",
+        "Clause 28": "Amendment procedures are present."
+      },
+      "Deviation from Best Practices": "Notice requirements could be more detailed.",
+      "Improvement Opportunities": "Clarify notice requirements and ensure they are balanced."
+    }
+  },
+  "Risk Assessment": {
+    "High-Priority Concerns": [
+      "Uncapped liability exposure (Clause 17).",
+      "Unclear termination provisions (Clause 3)."
+    ],
+    "Medium-Priority Issues": [
+      "Missing service level remedies (Clause 16).",
+      "Insufficient data protection measures (Clause 23)."
+    ],
+    "Low-Priority Items": [
+      "Minor concerns regarding change management procedures (Clause 15)."
+    ],
+    "Mitigation Recommendations": {
+      "High-Priority": [
+        "Define liability caps and clarify termination provisions."
+      ],
+      "Medium-Priority": [
+        "Include specific service level commitments and data protection measures."
+      ],
+      "Low-Priority": [
+        "Enhance change management procedures."
+      ]
+    }
+  },
+  "Improvement Recommendations": {
+    "Must-Have Changes": [
+      "Define an initial term and clarify termination provisions.",
+      "Establish liability caps and specific service level commitments."
+    ],
+    "Nice-to-Have Improvements": [
+      "Strengthen confidentiality and data protection measures.",
+      "Clarify change management procedures."
+    ],
+    "Strategic Considerations": [
+      "Regularly review and update the MSA to align with industry standards."
+    ],
+    "Implementation Priorities": [
+      "Address high-priority concerns immediately.",
+      "Plan for medium-priority improvements in the next review cycle."
+    ]
+  }
+}

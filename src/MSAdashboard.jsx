@@ -1,192 +1,301 @@
-import {
-  Bar,
-  XAxis,
-  YAxis,
-  Legend,
-  Tooltip,
-  BarChart,
-  CartesianGrid,
-  ResponsiveContainer
-} from 'recharts';
-import {
-  Card,
-  CardTitle,
-  CardHeader,
-  CardContent,
-} from './components/ui/card';
-import { AlertCircle } from 'lucide-react';
-import { parseContractData } from './lib/utils';
 import React, { useState, useEffect } from 'react';
+import { Card, CardContent } from './components/ui/card';
 
-function importAll(requireContext) {
-  return requireContext.keys().map((key) => requireContext(key));
-}
+const ContractHeatmap = () => {
+  const [contracts, setContracts] = useState({});
+  const [hoveredCell, setHoveredCell] = useState(null);
+  const [hoveredContract, setHoveredContract] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [errors, setErrors] = useState([]);
 
-const MSADashboard = () => {
-  const [contracts, setContracts] = useState([]);
-  const [error, setError] = useState(null);
+  const categories = [
+    "Term & Renewal",
+    "Payment & Financial Terms",
+    "Service Level Agreements",
+    "Risk Allocation",
+    "Operational Terms",
+    "Security & Compliance",
+    "Contract Administration"
+  ];
+
+  // Validate the structure of loaded JSON data
+  const validateContractData = (data, filename) => {
+    const validationErrors = [];
+
+    // Check for required top-level properties
+    const requiredProperties = ["Executive Summary", "Detailed Category Scoring"];
+    requiredProperties.forEach(prop => {
+      if (!data[prop]) {
+        validationErrors.push(`Missing required property "${prop}" in ${filename}`);
+      }
+    });
+
+    // Check Executive Summary structure
+    if (data["Executive Summary"]) {
+      const summaryProps = ["Overall Score", "Key Strengths", "Critical Weaknesses", "Priority Recommendations"];
+      summaryProps.forEach(prop => {
+        if (!data["Executive Summary"][prop]) {
+          validationErrors.push(`Missing "${prop}" in Executive Summary of ${filename}`);
+        }
+      });
+    }
+
+    // Check Detailed Category Scoring structure
+    if (data["Detailed Category Scoring"]) {
+      categories.forEach(category => {
+        if (!data["Detailed Category Scoring"][category]) {
+          validationErrors.push(`Missing category "${category}" in ${filename}`);
+          return;
+        }
+
+        const categoryData = data["Detailed Category Scoring"][category];
+        if (typeof categoryData.Score !== 'number') {
+          validationErrors.push(`Invalid or missing Score for "${category}" in ${filename}`);
+        }
+
+        // Check for required category properties
+        const requiredFields = ["Score", "Provisions Analysis", "Deviation from Best Practices", "Improvement Opportunities"];
+        requiredFields.forEach(field => {
+          if (!categoryData[field] && !categoryData["Specific Provisions Analysis"]) {
+            validationErrors.push(`Missing "${field}" in category "${category}" of ${filename}`);
+          }
+        });
+      });
+    }
+
+    return validationErrors;
+  };
+
+  const importAll = (r) => {
+    let files = {};
+    r.keys().forEach((key) => {
+      files[key] = r(key);
+    });
+    return files;
+  };
 
   useEffect(() => {
-    try {
-      const allJson = importAll(require.context('./contracts', false, /\.json$/));
+    const loadContractData = async () => {
+      try {
+        setLoading(true);
+        setErrors([]);
+        const contractsData = {};
+        const validationErrors = [];
+        
+        // Import all JSON files from the contracts directory
+        const allJson = importAll(require.context('./contracts', false, /\.json$/));
+        
+        for (const [filename, data] of Object.entries(allJson)) {
+          try {
+            // Data is already parsed as it's imported through webpack
 
-      if (!allJson || allJson.length === 0) {
-        setError('No JSON files found. Using sample data.');
-        setContracts([]);
-      } else {
-        const loadedContracts = allJson.map((rawJson) => {
-          return parseContractData(rawJson);
-        });
+            // Validate data structure
+            const fileValidationErrors = validateContractData(data, filename);
+            if (fileValidationErrors.length > 0) {
+              validationErrors.push(...fileValidationErrors);
+              continue;
+            }
 
-        setContracts(loadedContracts);
+            // Extract contract name
+            // Extract contract name from the file path
+            const baseFilename = filename.split('/').pop();
+            const nameMatch = baseFilename.match(/\d+_(.+?)(?:-analysis\.json|_.*-analysis\.json)/);
+            const contractName = nameMatch 
+              ? nameMatch[1].replace(/-/g, ' ').trim()
+              : baseFilename.replace(/-analysis\.json$/, '').trim();
+
+            // Build contract object with error checking
+            try {
+              contractsData[contractName] = {
+                name: contractName,
+                scores: {},
+                details: {},
+                executiveSummary: data["Executive Summary"]
+              };
+
+              // Process each category with error checking
+              categories.forEach(category => {
+                const categoryData = data["Detailed Category Scoring"][category];
+                if (categoryData) {
+                  contractsData[contractName].scores[category] = categoryData.Score;
+                  contractsData[contractName].details[category] = {
+                    "Provisions Analysis": categoryData["Provisions Analysis"] || 
+                                         categoryData["Specific Provisions Analysis"] || 
+                                         "Not specified",
+                    "Deviation from Best Practices": categoryData["Deviation from Best Practices"] || "Not specified",
+                    "Improvement Opportunities": categoryData["Improvement Opportunities"] || "Not specified"
+                  };
+                } else {
+                  validationErrors.push(`Missing data for category "${category}" in ${filename}`);
+                }
+              });
+            } catch (processError) {
+              validationErrors.push(`Error processing data for ${filename}: ${processError.message}`);
+            }
+          } catch (fileError) {
+            validationErrors.push(`Error reading file ${filename}: ${fileError.message}`);
+          }
+        }
+
+        if (Object.keys(contractsData).length === 0) {
+          validationErrors.push("No valid contract data could be loaded");
+        }
+
+        setContracts(contractsData);
+        setErrors(validationErrors);
+        setLoading(false);
+      } catch (err) {
+        setErrors([`Fatal error loading contract data: ${err.message}`]);
+        setLoading(false);
       }
-    } catch (err) {
-      console.error('Error loading JSON:', err);
-      setError('Error loading contract data. Using sample data.');
-      setContracts([]);
-    }
+    };
+
+    loadContractData();
   }, []);
 
-  const CustomTooltip = ({ active, payload, label }) => {
-    if (!active || !payload) return null;
+  const getColor = (score) => {
+    if (typeof score !== 'number' || isNaN(score)) {
+      return 'rgb(200, 200, 200)'; // Gray for invalid scores
+    }
+    const red = Math.max(0, Math.min(255, 255 - (score * 25.5)));
+    const green = Math.max(0, Math.min(255, score * 25.5));
+    return `rgb(${red}, ${green}, 100)`;
+  };
+
+  const CellTooltip = ({ contract, category }) => {
+    if (!contract || !category || !contracts[contract]?.details[category]) return null;
+    const details = contracts[contract].details[category];
+    
     return (
-      <div className="bg-white p-4 border rounded shadow-lg">
-        <h3 className="font-bold">{label}</h3>
-        {payload.map((entry, index) => (
-          <div key={index} className="mt-2">
-            <p className="text-sm">
-              {entry.name}: {entry.value}
-            </p>
-            {entry.payload.details && (
-              <div className="mt-1 text-xs text-gray-600">
-                {Object.entries(entry.payload.details).map(([key, value]) => (
-                  <p key={key}>
-                    {key}: {value}
-                  </p>
-                ))}
-              </div>
-            )}
-          </div>
-        ))}
+      <div className="absolute z-50 p-4 bg-white shadow-lg rounded-lg max-w-md border border-gray-200">
+        <h3 className="font-bold mb-2">{category}</h3>
+        <div className="space-y-2">
+          <p><span className="font-semibold">Analysis:</span> {details["Provisions Analysis"]}</p>
+          <p><span className="font-semibold">Deviation:</span> {details["Deviation from Best Practices"]}</p>
+          <p><span className="font-semibold">Improvements:</span> {details["Improvement Opportunities"]}</p>
+        </div>
       </div>
     );
   };
 
-  const categoryScores = (contracts || []).map((contract, i) => {
-    const scores = contract.scores.categories;
-    if (!scores) {
-      return {};
-    }
+  const ContractTooltip = ({ contract }) => {
+    if (!contract || !contracts[contract]?.executiveSummary) return null;
+    const summary = contracts[contract].executiveSummary;
+    
+    return (
+      <div className="absolute z-50 p-4 bg-white shadow-lg rounded-lg max-w-md border border-gray-200">
+        <h3 className="font-bold mb-2">Executive Summary</h3>
+        <div className="space-y-2">
+          <p><span className="font-semibold">Overall Score:</span> {summary["Overall Score"]}</p>
+          <div>
+            <p className="font-semibold">Key Strengths:</p>
+            <ul className="list-disc pl-4">
+              {summary["Key Strengths"]?.map((strength, i) => (
+                <li key={i}>{strength}</li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <p className="font-semibold">Critical Weaknesses:</p>
+            <ul className="list-disc pl-4">
+              {summary["Critical Weaknesses"]?.map((weakness, i) => (
+                <li key={i}>{weakness}</li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <p className="font-semibold">Priority Recommendations:</p>
+            <ul className="list-disc pl-4">
+              {summary["Priority Recommendations"]?.map((rec, i) => (
+                <li key={i}>{rec}</li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      </div>
+    );
+  };
 
-    return {
-      name: `Client ${i + 1}`,
-      term: scores.term.score ?? 0,
-      payment: scores.payment.score ?? 0,
-      sla: scores.sla.score ?? 0,
-      risk: scores.risk.score ?? 0,
-      operational: scores.operational.score ?? 0,
-      security: scores.security.score ?? 0,
-      administration: scores.administration.score ?? 0,
-    };
-  });
+  if (loading) {
+    return (
+      <Card className="w-full max-w-6xl">
+        <CardContent className="p-6">
+          <div className="flex items-center justify-center h-64">
+            <p className="text-gray-500">Loading contract data...</p>
+          </div>
+        </CardContent>
+      </Card>
+    );
+  }
 
   return (
-    <div className="space-y-8 p-8">
-      {error && (
-        <div className="p-4 bg-yellow-50 text-yellow-700 rounded flex items-center">
-          <AlertCircle className="mr-2" />
-          {error}
-        </div>
-      )}
-
-      <Card>
-        <CardHeader>
-          <CardTitle>Contract Overview</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {contracts.map((contract, i) => (
-              <div key={contract.metadata.contractId} className="p-4 border rounded">
-                <h3 className="font-bold">Client {i + 1}</h3>
-                <p>Overall Score: {contract.scores.overall}/10</p>
-                <p>Analysis Date: {contract.metadata.analysisDate}</p>
-              </div>
-            ))}
+    <Card className="w-full max-w-6xl">
+      <CardContent className="p-6">
+        {errors.length > 0 && (
+          <div className="mb-4 p-4 bg-yellow-50 border border-yellow-200 rounded-md">
+            <p className="font-medium text-yellow-800 mb-2">Warning:</p>
+            <ul className="list-disc pl-4 text-yellow-700">
+              {errors.map((error, index) => (
+                <li key={index} className="mb-1">{error}</li>
+              ))}
+            </ul>
           </div>
-        </CardContent>
-      </Card>
-
-      <Card>
-        <CardHeader>
-          <CardTitle>Category Scores Comparison</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="h-96">
-            <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={categoryScores}>
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="name" />
-                <YAxis domain={[0, 10]} />
-                <Tooltip content={<CustomTooltip />} />
-                <Legend />
-                <Bar dataKey="term" name="Term" fill="#3B82F6" />
-                <Bar dataKey="payment" name="Payment" fill="#10B981" />
-                <Bar dataKey="sla" name="SLA" fill="#6366F1" />
-                <Bar dataKey="risk" name="Risk" fill="#F59E0B" />
-                <Bar dataKey="operational" name="Operational" fill="#EC4899" />
-                <Bar dataKey="security" name="Security" fill="#8B5CF6" />
-                <Bar dataKey="administration" name="Admin" fill="#14B8A6" />
-              </BarChart>
-            </ResponsiveContainer>
+        )}
+        
+        {Object.keys(contracts).length > 0 ? (
+          <div className="relative overflow-x-auto">
+            <table className="w-full">
+              <thead>
+                <tr>
+                  <th className="p-2 border"></th>
+                  {categories.map(category => (
+                    <th key={category} className="p-2 border text-sm rotate-45 h-32">
+                      <div className="w-32 text-right">{category}</div>
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {Object.keys(contracts).map(contractKey => (
+                  <tr key={contractKey}>
+                    <td 
+                      className="p-2 border font-medium relative"
+                      onMouseEnter={() => setHoveredContract(contractKey)}
+                      onMouseLeave={() => setHoveredContract(null)}
+                    >
+                      {contracts[contractKey].name}
+                      {hoveredContract === contractKey && (
+                        <ContractTooltip contract={contractKey} />
+                      )}
+                    </td>
+                    {categories.map(category => (
+                      <td
+                        key={`${contractKey}-${category}`}
+                        className="p-2 border text-center relative"
+                        style={{ backgroundColor: getColor(contracts[contractKey].scores[category]) }}
+                        onMouseEnter={() => setHoveredCell({ contract: contractKey, category })}
+                        onMouseLeave={() => setHoveredCell(null)}
+                      >
+                        {contracts[contractKey].scores[category]}
+                        {hoveredCell?.contract === contractKey && 
+                         hoveredCell?.category === category && (
+                          <CellTooltip contract={contractKey} category={category} />
+                        )}
+                      </td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
-        </CardContent>
-      </Card>
-
-      <Card>
-        <CardHeader>
-          <CardTitle>Risk Analysis</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {contracts.map((contract) => (
-              <div key={contract.metadata.contractId} className="space-y-4">
-                <div className="p-4 bg-red-50 rounded">
-                  <h4 className="font-bold text-red-700">High Risks</h4>
-                  <ul className="list-disc list-inside">
-                    {contract.analysis.risks.high.map((risk, i) => (
-                      <li key={i} className="text-sm">
-                        {risk}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-                <div className="p-4 bg-yellow-50 rounded">
-                  <h4 className="font-bold text-yellow-700">Medium Risks</h4>
-                  <ul className="list-disc list-inside">
-                    {contract.analysis.risks.medium.map((risk, i) => (
-                      <li key={i} className="text-sm">
-                        {risk}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-                <div className="p-4 bg-green-50 rounded">
-                  <h4 className="font-bold text-green-700">Critical Recommendations</h4>
-                  <ul className="list-disc list-inside">
-                    {contract.analysis.recommendations.critical.map((rec, i) => (
-                      <li key={i} className="text-sm">
-                        {rec}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              </div>
-            ))}
+        ) : (
+          <div className="flex items-center justify-center h-64">
+            <p className="text-red-500">No valid contract data available</p>
           </div>
-        </CardContent>
-      </Card>
-    </div>
+        )}
+      </CardContent>
+    </Card>
   );
 };
 
-export default MSADashboard;
+export default ContractHeatmap;

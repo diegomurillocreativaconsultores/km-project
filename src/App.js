@@ -1,9 +1,9 @@
-import MSADashboard from "./MSAdashboard";
+import ContractHeatmap from "./ContractHeatmap";
 
 function App() {
   return (
     <>
-      <MSADashboard />
+      <ContractHeatmap/>
     </>
   );
 }

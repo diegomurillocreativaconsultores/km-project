@@ -1,0 +1,132 @@
+{
+  "Executive Summary": {
+    "Overall Score": 6.5,
+    "Key Strengths": [
+      "Initial term of 36 months aligns with best practices.",
+      "Clear identification of service terms and early termination fees."
+    ],
+    "Critical Weaknesses": [
+      "Lack of clarity on renewal terms and termination notice periods.",
+      "Insufficient detail on service level agreements and risk allocation."
+    ],
+    "Priority Recommendations": [
+      "Define renewal terms and termination notice periods clearly.",
+      "Enhance service level agreements and risk allocation provisions."
+    ]
+  },
+  "Detailed Category Scoring": {
+    "Term & Renewal": {
+      "Score": 6,
+      "Provisions with Detailed Analysis": {
+        "Clause": "SA Term",
+        "Commentary": "Initial term is 36 months, but renewal terms are not specified."
+      },
+      "Deviation from Best Practices": "Renewal terms should ideally allow for month-to-month with a 45-day notice.",
+      "Improvement Opportunities": "Add clear renewal terms and termination notice periods."
+    },
+    "Payment & Financial Terms": {
+      "Score": 7,
+      "Provisions with Detailed Analysis": {
+        "Clause": "early termination fees",
+        "Commentary": "Early termination fees are mentioned but lack clarity on calculation."
+      },
+      "Deviation from Best Practices": "Payment terms and late fee structures are not detailed.",
+      "Improvement Opportunities": "Specify payment terms and late fee structures."
+    },
+    "Service Level Agreements": {
+      "Score": 5,
+      "Provisions with Detailed Analysis": {
+        "Clause": "Terms and Conditions",
+        "Commentary": "Service levels are not clearly defined in the provided text."
+      },
+      "Deviation from Best Practices": "Missing specific service level commitments and credit mechanisms.",
+      "Improvement Opportunities": "Include detailed service level agreements with penalties for non-compliance."
+    },
+    "Risk Allocation": {
+      "Score": 4,
+      "Provisions with Detailed Analysis": {
+        "Clause": "Terms and Conditions",
+        "Commentary": "Liability caps and indemnification provisions are not clearly defined."
+      },
+      "Deviation from Best Practices": "Uncapped liability exposure and unclear indemnification.",
+      "Improvement Opportunities": "Define liability caps and indemnification provisions."
+    },
+    "Operational Terms": {
+      "Score": 6,
+      "Provisions with Detailed Analysis": {
+        "Clause": "installation process",
+        "Commentary": "Installation processes are not clearly outlined."
+      },
+      "Deviation from Best Practices": "Lack of clarity on change management and technical support.",
+      "Improvement Opportunities": "Clarify installation processes and technical support details."
+    },
+    "Security & Compliance": {
+      "Score": 7,
+      "Provisions with Detailed Analysis": {
+        "Clause": "Privacy Policy",
+        "Commentary": "Data protection measures are referenced but not detailed."
+      },
+      "Deviation from Best Practices": "Insufficient detail on data protection and security incidents.",
+      "Improvement Opportunities": "Enhance data protection measures and incident notification provisions."
+    },
+    "Regulatory Compliance & Technical Requirements": {
+      "Score": 6,
+      "Provisions with Detailed Analysis": {
+        "Clause": "Terms and Conditions",
+        "Commentary": "Regulatory compliance obligations are not explicitly stated."
+      },
+      "Deviation from Best Practices": "Missing specific compliance requirements.",
+      "Improvement Opportunities": "Include explicit regulatory compliance obligations."
+    },
+    "Contract Administration": {
+      "Score": 5,
+      "Provisions with Detailed Analysis": {
+        "Clause": "assignment rights",
+        "Commentary": "Assignment rights are not clearly defined."
+      },
+      "Deviation from Best Practices": "Unclear amendment procedures and dispute resolution mechanisms.",
+      "Improvement Opportunities": "Clarify assignment rights and dispute resolution processes."
+    }
+  },
+  "Risk Assessment": {
+    "High-Priority Concerns": [
+      "Uncapped liability exposure.",
+      "Missing service level remedies."
+    ],
+    "Medium-Priority Issues": [
+      "Unclear termination provisions.",
+      "Insufficient data protection measures."
+    ],
+    "Low-Priority Items": [
+      "Weak confidentiality provisions."
+    ],
+    "Mitigation Recommendations": {
+      "High-Priority": [
+        "Define liability caps and include service level remedies."
+      ],
+      "Medium-Priority": [
+        "Clarify termination provisions and enhance data protection measures."
+      ],
+      "Low-Priority": [
+        "Strengthen confidentiality provisions."
+      ]
+    }
+  },
+  "Improvement Recommendations": {
+    "Must-Have Changes": [
+      "Define renewal terms and termination notice periods.",
+      "Clarify liability caps and indemnification provisions."
+    ],
+    "Nice-to-Have Improvements": [
+      "Enhance service level agreements with specific commitments.",
+      "Clarify installation processes and technical support details."
+    ],
+    "Strategic Considerations": [
+      "Regularly review and update the agreement to align with industry standards."
+    ],
+    "Implementation Priorities": [
+      "Immediate focus on high-priority concerns.",
+      "Address medium-priority issues in the next review cycle."
+    ]
+  }
+}
