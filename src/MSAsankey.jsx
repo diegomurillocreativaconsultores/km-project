@@ -9,9 +9,9 @@ const MSAsankey = () => {
     const processData = async () => {
       try {
         // Read and parse CSV file
-        //const response = await window.fs.readFile('/data/contract_analysis1.csv', { encoding: 'utf8' });
         const response = await fetch('/data/contract_analysis1.csv');
-        const result = Papa.parse(response, {
+        const csvText = await response.text(); // Convert response to text
+        const result = Papa.parse(csvText, {
           header: true,
           skipEmptyLines: true
         });
@@ -48,7 +48,7 @@ const MSAsankey = () => {
             providers[party1] = (providers[party1] || 0) + 1;
             if (!isProvider(party2)) {
               customers[party2] = (customers[party2] || 0) + 1;
-              
+
               // Count connections
               const provKey = `${party1}-${agreementType}`;
               const custKey = `${agreementType}-${party2}`;
@@ -100,7 +100,7 @@ const MSAsankey = () => {
   return (
     <div className="w-full">
       <div className="overflow-x-auto">
-        <svg 
+        <svg
           viewBox={`0 0 ${calculateTotalWidth} ${calculateTotalHeight}`}
           className="w-full h-auto min-w-[1000px]"
         >
