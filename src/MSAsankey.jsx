@@ -4,14 +4,19 @@ import _ from 'lodash';
 
 const MSAsankey = () => {
   const [sankeyData, setSankeyData] = useState(null);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
     const processData = async () => {
       try {
-        // Read and parse CSV file
-        //const response = await window.fs.readFile('/data/contract_analysis1.csv', { encoding: 'utf8' });
+        // Fetch and parse CSV file
         const response = await fetch('/data/contract_analysis1.csv');
-        const result = Papa.parse(response, {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const csvText = await response.text();
+        
+        const result = Papa.parse(csvText, {
           header: true,
           skipEmptyLines: true
         });
@@ -81,11 +86,20 @@ const MSAsankey = () => {
 
       } catch (error) {
         console.error('Error processing data:', error);
+        setError(error.message);
       }
     };
 
     processData();
   }, []);
+
+  if (error) {
+    return (
+      <div className="p-4 text-red-600">
+        Error loading data: {error}
+      </div>
+    );
+  }
 
   if (!sankeyData) {
     return <div className="p-4">Loading...</div>;
