@@ -40,29 +40,6 @@ const ContractHeatmap = () => {
       });
     }
 
-    // Check Detailed Category Scoring structure
-    if (data["Detailed Category Scoring"]) {
-      categories.forEach(category => {
-        if (!data["Detailed Category Scoring"][category]) {
-          validationErrors.push(`Missing category "${category}" in ${filename}`);
-          return;
-        }
-
-        const categoryData = data["Detailed Category Scoring"][category];
-        if (typeof categoryData.Score !== 'number') {
-          validationErrors.push(`Invalid or missing Score for "${category}" in ${filename}`);
-        }
-
-        // Check for required category properties
-        const requiredFields = ["Score", "Provisions Analysis", "Deviation from Best Practices", "Improvement Opportunities"];
-        requiredFields.forEach(field => {
-          if (!categoryData[field] && !categoryData["Specific Provisions Analysis"]) {
-            validationErrors.push(`Missing "${field}" in category "${category}" of ${filename}`);
-          }
-        });
-      });
-    }
-
     return validationErrors;
   };
 
@@ -87,8 +64,6 @@ const ContractHeatmap = () => {
         
         for (const [filename, data] of Object.entries(allJson)) {
           try {
-            // Data is already parsed as it's imported through webpack
-
             // Validate data structure
             const fileValidationErrors = validateContractData(data, filename);
             if (fileValidationErrors.length > 0) {
@@ -96,34 +71,35 @@ const ContractHeatmap = () => {
               continue;
             }
 
-            // Extract contract name
             // Extract contract name from the file path
             const baseFilename = filename.split('/').pop();
-            const nameMatch = baseFilename.match(/\d+_(.+?)(?:-analysis\.json|_.*-analysis\.json)/);
-            const contractName = nameMatch 
-              ? nameMatch[1].replace(/-/g, ' ').trim()
-              : baseFilename.replace(/-analysis\.json$/, '').trim();
+            const contractName = baseFilename.replace(/-analysis\.json$/, '').trim();
 
             // Build contract object with error checking
             try {
               contractsData[contractName] = {
                 name: contractName,
+                overallScore: data["Executive Summary"]["Overall Score"],
                 scores: {},
                 details: {},
                 executiveSummary: data["Executive Summary"]
               };
 
-              // Process each category with error checking
+              // Process each category
               categories.forEach(category => {
                 const categoryData = data["Detailed Category Scoring"][category];
                 if (categoryData) {
                   contractsData[contractName].scores[category] = categoryData.Score;
                   contractsData[contractName].details[category] = {
-                    "Provisions Analysis": categoryData["Provisions Analysis"] || 
-                                         categoryData["Specific Provisions Analysis"] || 
-                                         "Not specified",
-                    "Deviation from Best Practices": categoryData["Deviation from Best Practices"] || "Not specified",
-                    "Improvement Opportunities": categoryData["Improvement Opportunities"] || "Not specified"
+                    "Analysis": categoryData["Provisions with Detailed Analysis"]
+                               ? `${categoryData["Provisions with Detailed Analysis"].Clause}: ${categoryData["Provisions with Detailed Analysis"].Commentary}`
+                               : "Not specified",
+                    "Deviation": categoryData["Deviation"] ||
+                                categoryData["Deviation from Best Practices"] || 
+                                "Not specified",
+                    "Recommendations": categoryData["Recommendations"] ||
+                                     categoryData["Improvement Opportunities"] || 
+                                     "Not specified"
                   };
                 } else {
                   validationErrors.push(`Missing data for category "${category}" in ${filename}`);
@@ -153,13 +129,14 @@ const ContractHeatmap = () => {
     loadContractData();
   }, []);
 
+  // New color function using shades of blue
   const getColor = (score) => {
     if (typeof score !== 'number' || isNaN(score)) {
       return 'rgb(200, 200, 200)'; // Gray for invalid scores
     }
-    const red = Math.max(0, Math.min(255, 255 - (score * 25.5)));
-    const green = Math.max(0, Math.min(255, score * 25.5));
-    return `rgb(${red}, ${green}, 100)`;
+    // Calculate blue intensity (darker blue for higher scores)
+    const blueBase = Math.max(0, Math.min(255, 255 - (score * 20)));
+    return `rgb(${blueBase + 40}, ${blueBase + 40}, 255)`;
   };
 
   const CellTooltip = ({ contract, category }) => {
@@ -170,9 +147,9 @@ const ContractHeatmap = () => {
       <div className="absolute z-50 p-4 bg-white shadow-lg rounded-lg max-w-md border border-gray-200">
         <h3 className="font-bold mb-2">{category}</h3>
         <div className="space-y-2">
-          <p><span className="font-semibold">Analysis:</span> {details["Provisions Analysis"]}</p>
-          <p><span className="font-semibold">Deviation:</span> {details["Deviation from Best Practices"]}</p>
-          <p><span className="font-semibold">Improvements:</span> {details["Improvement Opportunities"]}</p>
+          <p><span className="font-semibold">Analysis:</span> {details["Analysis"]}</p>
+          <p><span className="font-semibold">Deviation:</span> {details["Deviation"]}</p>
+          <p><span className="font-semibold">Recommendations:</span> {details["Recommendations"]}</p>
         </div>
       </div>
     );
@@ -218,8 +195,8 @@ const ContractHeatmap = () => {
 
   if (loading) {
     return (
-      <Card className="w-full max-w-6xl">
-        <CardContent className="p-6">
+      <Card className="w-full max-w-8xl">
+        <CardContent className="p-8">
           <div className="flex items-center justify-center h-64">
             <p className="text-gray-500">Loading contract data...</p>
           </div>
@@ -228,9 +205,13 @@ const ContractHeatmap = () => {
     );
   }
 
+  // Sort contracts by overall score
+  const sortedContracts = Object.entries(contracts)
+    .sort(([, a], [, b]) => b.overallScore - a.overallScore);
+
   return (
-    <Card className="w-full max-w-6xl">
-      <CardContent className="p-6">
+    <Card className="w-full max-w-8xl">
+      <CardContent className="p-8">
         {errors.length > 0 && (
           <div className="mb-4 p-4 bg-yellow-50 border border-yellow-200 rounded-md">
             <p className="font-medium text-yellow-800 mb-2">Warning:</p>
@@ -242,12 +223,13 @@ const ContractHeatmap = () => {
           </div>
         )}
         
-        {Object.keys(contracts).length > 0 ? (
+        {sortedContracts.length > 0 ? (
           <div className="relative overflow-x-auto">
             <table className="w-full">
               <thead>
                 <tr>
-                  <th className="p-2 border"></th>
+                  <th className="p-2 border">Contract Name</th>
+                  <th className="p-2 border">Overall Score</th>
                   {categories.map(category => (
                     <th key={category} className="p-2 border text-sm rotate-45 h-32">
                       <div className="w-32 text-right">{category}</div>
@@ -256,27 +238,33 @@ const ContractHeatmap = () => {
                 </tr>
               </thead>
               <tbody>
-                {Object.keys(contracts).map(contractKey => (
+                {sortedContracts.map(([contractKey, contract]) => (
                   <tr key={contractKey}>
                     <td 
                       className="p-2 border font-medium relative"
                       onMouseEnter={() => setHoveredContract(contractKey)}
                       onMouseLeave={() => setHoveredContract(null)}
                     >
-                      {contracts[contractKey].name}
+                      {contract.name}
                       {hoveredContract === contractKey && (
                         <ContractTooltip contract={contractKey} />
                       )}
+                    </td>
+                    <td 
+                      className="p-2 border text-center"
+                      style={{ backgroundColor: getColor(contract.overallScore) }}
+                    >
+                      {contract.overallScore?.toFixed(1)}
                     </td>
                     {categories.map(category => (
                       <td
                         key={`${contractKey}-${category}`}
                         className="p-2 border text-center relative"
-                        style={{ backgroundColor: getColor(contracts[contractKey].scores[category]) }}
+                        style={{ backgroundColor: getColor(contract.scores[category]) }}
                         onMouseEnter={() => setHoveredCell({ contract: contractKey, category })}
                         onMouseLeave={() => setHoveredCell(null)}
                       >
-                        {contracts[contractKey].scores[category]}
+                        {contract.scores[category]}
                         {hoveredCell?.contract === contractKey && 
                          hoveredCell?.category === category && (
                           <CellTooltip contract={contractKey} category={category} />
