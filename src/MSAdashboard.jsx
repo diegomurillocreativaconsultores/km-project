@@ -7,6 +7,8 @@ const ContractHeatmap = () => {
   const [hoveredContract, setHoveredContract] = useState(null);
   const [loading, setLoading] = useState(true);
   const [errors, setErrors] = useState([]);
+  // New state to track selected cells.
+  const [selectedCells, setSelectedCells] = useState([]);
 
   const categories = [
     "Term & Renewal",
@@ -21,16 +23,12 @@ const ContractHeatmap = () => {
   // Validate the structure of loaded JSON data
   const validateContractData = (data, filename) => {
     const validationErrors = [];
-
-    // Check for required top-level properties
     const requiredProperties = ["Executive Summary", "Detailed Category Scoring"];
     requiredProperties.forEach(prop => {
       if (!data[prop]) {
         validationErrors.push(`Missing required property "${prop}" in ${filename}`);
       }
     });
-
-    // Check Executive Summary structure
     if (data["Executive Summary"]) {
       const summaryProps = ["Overall Score", "Key Strengths", "Critical Weaknesses", "Priority Recommendations"];
       summaryProps.forEach(prop => {
@@ -39,7 +37,6 @@ const ContractHeatmap = () => {
         }
       });
     }
-
     return validationErrors;
   };
 
@@ -58,24 +55,16 @@ const ContractHeatmap = () => {
         setErrors([]);
         const contractsData = {};
         const validationErrors = [];
-        
-        // Import all JSON files from the contracts directory
         const allJson = importAll(require.context('./contracts', false, /\.json$/));
-        
         for (const [filename, data] of Object.entries(allJson)) {
           try {
-            // Validate data structure
             const fileValidationErrors = validateContractData(data, filename);
             if (fileValidationErrors.length > 0) {
               validationErrors.push(...fileValidationErrors);
               continue;
             }
-
-            // Extract contract name from the file path
             const baseFilename = filename.split('/').pop();
             const contractName = baseFilename.replace(/-analysis\.json$/, '').trim();
-
-            // Build contract object with error checking
             try {
               contractsData[contractName] = {
                 name: contractName,
@@ -84,8 +73,6 @@ const ContractHeatmap = () => {
                 details: {},
                 executiveSummary: data["Executive Summary"]
               };
-
-              // Process each category
               categories.forEach(category => {
                 const categoryData = data["Detailed Category Scoring"][category];
                 if (categoryData) {
@@ -112,11 +99,9 @@ const ContractHeatmap = () => {
             validationErrors.push(`Error reading file ${filename}: ${fileError.message}`);
           }
         }
-
         if (Object.keys(contractsData).length === 0) {
           validationErrors.push("No valid contract data could be loaded");
         }
-
         setContracts(contractsData);
         setErrors(validationErrors);
         setLoading(false);
@@ -129,22 +114,50 @@ const ContractHeatmap = () => {
     loadContractData();
   }, []);
 
-  // New color function using shades of blue
+  // Updated getColor function using HSL.
   const getColor = (score) => {
-    if (typeof score !== 'number' || isNaN(score)) {
-      return 'rgb(200, 200, 200)'; // Gray for invalid scores
+    const clampedScore = Math.max(0, Math.min(10, score));
+    const fraction = clampedScore / 10;
+    const lowHue = 0;
+    const highHue = 120;
+    const hue = lowHue + (highHue - lowHue) * fraction;
+    let saturation = 40;
+    let lightness = 70;
+    const adjustmentStart = 0.6;
+    if (fraction > adjustmentStart) {
+      const adjustFactor = (fraction - adjustmentStart) / (1 - adjustmentStart);
+      saturation = 40 + (60 - 40) * adjustFactor;
+      lightness = 70 - (70 - 50) * adjustFactor;
     }
-    // Calculate blue intensity (darker blue for higher scores)
-    const blueBase = Math.max(0, Math.min(255, 255 - (score * 20)));
-    return `rgb(${blueBase + 40}, ${blueBase + 40}, 255)`;
+    return `hsl(${hue}, ${saturation}%, ${lightness}%)`;
   };
 
-  const CellTooltip = ({ contract, category }) => {
+  // --- Tooltip Components & Positioning ---
+  const computeTooltipPosition = (rect, tooltipWidth = 300, tooltipHeight = 150) => {
+    let left = rect.right;
+    if (left + tooltipWidth > window.innerWidth) {
+      left = rect.left - tooltipWidth;
+      if (left < 0) left = 0;
+    }
+    let top = rect.top;
+    if (top + tooltipHeight > window.innerHeight) {
+      top = window.innerHeight - tooltipHeight - 10;
+      if (top < 0) top = 0;
+    }
+    return { left, top };
+  };
+
+  const CellTooltip = ({ contract, category, cellRect }) => {
     if (!contract || !category || !contracts[contract]?.details[category]) return null;
     const details = contracts[contract].details[category];
-    
+    const tooltipWidth = 300;
+    const tooltipHeight = 150;
+    const { left, top } = computeTooltipPosition(cellRect, tooltipWidth, tooltipHeight);
     return (
-      <div className="absolute z-50 p-4 bg-white shadow-lg rounded-lg max-w-md border border-gray-200">
+      <div 
+        style={{ position: 'fixed', top, left, width: tooltipWidth }}
+        className="z-50 p-4 bg-white shadow-lg rounded-lg border border-gray-200"
+      >
         <h3 className="font-bold mb-2">{category}</h3>
         <div className="space-y-2">
           <p><span className="font-semibold">Analysis:</span> {details["Analysis"]}</p>
@@ -155,12 +168,17 @@ const ContractHeatmap = () => {
     );
   };
 
-  const ContractTooltip = ({ contract }) => {
+  const ContractTooltip = ({ contract, cellRect }) => {
     if (!contract || !contracts[contract]?.executiveSummary) return null;
     const summary = contracts[contract].executiveSummary;
-    
+    const tooltipWidth = 300;
+    const tooltipHeight = 200;
+    const { left, top } = computeTooltipPosition(cellRect, tooltipWidth, tooltipHeight);
     return (
-      <div className="absolute z-50 p-4 bg-white shadow-lg rounded-lg max-w-md border border-gray-200">
+      <div 
+        style={{ position: 'fixed', top, left, width: tooltipWidth }}
+        className="z-50 p-4 bg-white shadow-lg rounded-lg border border-gray-200"
+      >
         <h3 className="font-bold mb-2">Executive Summary</h3>
         <div className="space-y-2">
           <p><span className="font-semibold">Overall Score:</span> {summary["Overall Score"]}</p>
@@ -193,6 +211,22 @@ const ContractHeatmap = () => {
     );
   };
 
+  // Helper to toggle cell selection.
+  const toggleCellSelection = (contract, category) => {
+    setSelectedCells((prevSelected) => {
+      const exists = prevSelected.find(
+        (cell) => cell.contract === contract && cell.category === category
+      );
+      if (exists) {
+        return prevSelected.filter(
+          (cell) => !(cell.contract === contract && cell.category === category)
+        );
+      } else {
+        return [...prevSelected, { contract, category }];
+      }
+    });
+  };
+
   if (loading) {
     return (
       <Card className="w-full max-w-8xl">
@@ -205,7 +239,7 @@ const ContractHeatmap = () => {
     );
   }
 
-  // Sort contracts by overall score
+  // Sort contracts by overall score.
   const sortedContracts = Object.entries(contracts)
     .sort(([, a], [, b]) => b.overallScore - a.overallScore);
 
@@ -242,12 +276,14 @@ const ContractHeatmap = () => {
                   <tr key={contractKey}>
                     <td 
                       className="p-2 border font-medium relative"
-                      onMouseEnter={() => setHoveredContract(contractKey)}
+                      onMouseEnter={(e) => {
+                        setHoveredContract({ contract: contractKey, rect: e.currentTarget.getBoundingClientRect() });
+                      }}
                       onMouseLeave={() => setHoveredContract(null)}
                     >
                       {contract.name}
-                      {hoveredContract === contractKey && (
-                        <ContractTooltip contract={contractKey} />
+                      {hoveredContract?.contract === contractKey && hoveredContract.rect && (
+                        <ContractTooltip contract={contractKey} cellRect={hoveredContract.rect} />
                       )}
                     </td>
                     <td 
@@ -256,21 +292,42 @@ const ContractHeatmap = () => {
                     >
                       {contract.overallScore?.toFixed(1)}
                     </td>
-                    {categories.map(category => (
-                      <td
-                        key={`${contractKey}-${category}`}
-                        className="p-2 border text-center relative"
-                        style={{ backgroundColor: getColor(contract.scores[category]) }}
-                        onMouseEnter={() => setHoveredCell({ contract: contractKey, category })}
-                        onMouseLeave={() => setHoveredCell(null)}
-                      >
-                        {contract.scores[category]}
-                        {hoveredCell?.contract === contractKey && 
-                         hoveredCell?.category === category && (
-                          <CellTooltip contract={contractKey} category={category} />
-                        )}
-                      </td>
-                    ))}
+                    {categories.map(category => {
+                      // Check if this cell is selected.
+                      const isSelected = selectedCells.some(
+                        cell => cell.contract === contractKey && cell.category === category
+                      );
+                      return (
+                        <td
+                          key={`${contractKey}-${category}`}
+                          className={`p-2 border text-center relative cursor-pointer ${
+                            isSelected ? 'border-blue-500 border-2' : ''
+                          }`}
+                          style={{ backgroundColor: getColor(contract.scores[category]) }}
+                          onMouseEnter={(e) => {
+                            setHoveredCell({ 
+                              contract: contractKey, 
+                              category, 
+                              rect: e.currentTarget.getBoundingClientRect() 
+                            });
+                          }}
+                          onMouseLeave={() => setHoveredCell(null)}
+                          onClick={() => toggleCellSelection(contractKey, category)}
+                        >
+                          {contract.scores[category]}
+                          {hoveredCell &&
+                            hoveredCell.contract === contractKey && 
+                            hoveredCell.category === category &&
+                            hoveredCell.rect && (
+                              <CellTooltip 
+                                contract={contractKey} 
+                                category={category}
+                                cellRect={hoveredCell.rect}
+                              />
+                          )}
+                        </td>
+                      );
+                    })}
                   </tr>
                 ))}
               </tbody>
@@ -279,6 +336,18 @@ const ContractHeatmap = () => {
         ) : (
           <div className="flex items-center justify-center h-64">
             <p className="text-red-500">No valid contract data available</p>
+          </div>
+        )}
+
+        {/* Display the list of selected cells */}
+        {selectedCells.length > 0 && (
+          <div className="mt-4 p-4 border border-gray-300 rounded">
+            <h4 className="font-bold mb-2">Selected Cells:</h4>
+            <ul className="list-disc pl-4">
+              {selectedCells.map((cell, i) => (
+                <li key={i}>{cell.contract} - {cell.category}</li>
+              ))}
+            </ul>
           </div>
         )}
       </CardContent>
