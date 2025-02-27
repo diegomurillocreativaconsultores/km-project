@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useMemo } from 'react';
 import Papa from 'papaparse';
 import _ from 'lodash';
+import { FaSort, FaSortUp, FaSortDown } from 'react-icons/fa';
 
 const MSAsankey = () => {
   const [sankeyData, setSankeyData] = useState(null);
@@ -9,6 +10,7 @@ const MSAsankey = () => {
   const [selectedLabels, setSelectedLabels] = useState(new Set());
   const [selectedRows, setSelectedRows] = useState(new Set());
   const [selectAll, setSelectAll] = useState(false);
+  const [sortConfig, setSortConfig] = useState({ key: '', direction: 'asc' });
 
   // Function to normalize roles
   const normalizeRole = (role) => {
@@ -207,49 +209,84 @@ const MSAsankey = () => {
     setSelectedRows(newSelectedRows);
   };
 
+  // Updated filter logic: contracts must match ALL selected labels (logical AND)
   const getSelectedData = () => {
     if (!sankeyData || !contractsData || selectedLabels.size === 0) return [];
-    
-    const result = [];
-    selectedLabels.forEach(label => {
-      const [category, ...nameParts] = label.split('-');
-      const name = nameParts.join('-');
-      
-      let matchingContracts = [];
-      switch (category) {
-        case 'provider':
-          matchingContracts = contractsData.filter(contract => 
-            contract['Party1 Name'] === name || contract['Party2 Name'] === name
-          );
-          break;
-        case 'agreement':
-          matchingContracts = contractsData.filter(contract => 
-            contract['Agreement Classification'] === name
-          );
-          break;
-        case 'customer':
-          matchingContracts = contractsData.filter(contract => 
-            contract['Party1 Name'] === name || contract['Party2 Name'] === name
-          );
-          break;
-      }
 
-      matchingContracts.forEach(contract => {
-        result.push({
-          type: category === 'provider' ? 'Service Provider' : 
-                category === 'agreement' ? 'Agreement Type' : 'Customer',
+    // Convert selectedLabels into an array of filter objects
+    const filters = Array.from(selectedLabels).map(label => {
+      const [category, ...nameParts] = label.split('-');
+      return { category, name: nameParts.join('-') };
+    });
+
+    return contractsData
+      .filter(contract =>
+        filters.every(filter => {
+          if (filter.category === 'provider' || filter.category === 'customer') {
+            return (
+              contract['Party1 Name'] === filter.name ||
+              contract['Party2 Name'] === filter.name
+            );
+          } else if (filter.category === 'agreement') {
+            return contract['Agreement Classification'] === filter.name;
+          }
+          return false;
+        })
+      )
+      .map(contract => {
+        // When only one filter is active, use its type and name.
+        // When multiple filters are active, display combined values.
+        let type, name;
+        if (filters.length === 1) {
+          const filter = filters[0];
+          type =
+            filter.category === 'provider'
+              ? 'Service Provider'
+              : filter.category === 'agreement'
+              ? 'Agreement Type'
+              : 'Customer';
+          name = filter.name;
+        } else {
+          type = filters.map(f => f.category).join(', ');
+          name = filters.map(f => f.name).join(', ');
+        }
+        return {
+          type,
           name,
           contractName: contract['Agreement Name'],
           party1: contract['Party1 Name'],
           party1Role: normalizeRole(contract['Party1 Role']),
           party2: contract['Party2 Name'],
           party2Role: normalizeRole(contract['Party2 Role']),
-          classification: contract['Agreement Classification']
-        });
+          classification: contract['Agreement Classification'],
+          fileName: contract['source_filename'] // using the CSV field "source_filename"
+        };
       });
-    });
+  };
 
-    return result;
+  // Sorting functionality for the table below the Sankey chart
+  const selectedData = getSelectedData();
+  const sortedData = useMemo(() => {
+    if (sortConfig.key) {
+      return [...selectedData].sort((a, b) => {
+        if (a[sortConfig.key] < b[sortConfig.key]) {
+          return sortConfig.direction === 'asc' ? -1 : 1;
+        }
+        if (a[sortConfig.key] > b[sortConfig.key]) {
+          return sortConfig.direction === 'asc' ? 1 : -1;
+        }
+        return 0;
+      });
+    }
+    return selectedData;
+  }, [selectedData, sortConfig]);
+
+  const handleSort = (key) => {
+    let direction = 'asc';
+    if (sortConfig.key === key && sortConfig.direction === 'asc') {
+      direction = 'desc';
+    }
+    setSortConfig({ key, direction });
   };
 
   if (error) return <div className="p-4 text-red-600">Error loading data: {error}</div>;
@@ -428,7 +465,7 @@ const MSAsankey = () => {
         <table className="min-w-full divide-y divide-gray-200">
           <thead>
             <tr>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+              <th className="px-6 py-3 bg-gray-50">
                 <input
                   type="checkbox"
                   checked={selectAll}
@@ -436,18 +473,127 @@ const MSAsankey = () => {
                   className="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
                 />
               </th>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Type</th>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Contract Name</th>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Party 1</th>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Party 1 Role</th>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Party 2</th>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Party 2 Role</th>
-              <th className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Classification</th>
+              <th 
+                onClick={() => handleSort('type')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  Type
+                  {sortConfig.key === 'type' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
+              <th 
+                onClick={() => handleSort('name')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  Name
+                  {sortConfig.key === 'name' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
+              <th 
+                onClick={() => handleSort('contractName')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  Contract Name
+                  {sortConfig.key === 'contractName' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
+              <th 
+                onClick={() => handleSort('party1')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  Party 1
+                  {sortConfig.key === 'party1' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
+              <th 
+                onClick={() => handleSort('party1Role')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  Party 1 Role
+                  {sortConfig.key === 'party1Role' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
+              <th 
+                onClick={() => handleSort('party2')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  Party 2
+                  {sortConfig.key === 'party2' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
+              <th 
+                onClick={() => handleSort('party2Role')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  Party 2 Role
+                  {sortConfig.key === 'party2Role' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
+              <th 
+                onClick={() => handleSort('classification')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  Classification
+                  {sortConfig.key === 'classification' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
+              <th 
+                onClick={() => handleSort('fileName')}
+                className="px-6 py-3 bg-gray-50 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer select-none"
+              >
+                <div className="flex items-center">
+                  File Name
+                  {sortConfig.key === 'fileName' ? (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="ml-1" /> : <FaSortDown className="ml-1" />
+                  ) : (
+                    <FaSort className="ml-1" />
+                  )}
+                </div>
+              </th>
             </tr>
           </thead>
           <tbody className="bg-white divide-y divide-gray-200">
-            {getSelectedData().map((item, index) => (
+            {sortedData.map((item, index) => (
               <tr key={index}>
                 <td className="px-6 py-4 whitespace-nowrap">
                   <input
@@ -465,11 +611,12 @@ const MSAsankey = () => {
                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{item.party2}</td>
                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{item.party2Role}</td>
                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{item.classification}</td>
+                <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{item.fileName}</td>
               </tr>
             ))}
             {selectedLabels.size === 0 && (
               <tr>
-                <td colSpan={9} className="px-6 py-4 text-sm text-gray-500 text-center">
+                <td colSpan={10} className="px-6 py-4 text-sm text-gray-500 text-center">
                   Click on labels in the chart above to view details
                 </td>
               </tr>
