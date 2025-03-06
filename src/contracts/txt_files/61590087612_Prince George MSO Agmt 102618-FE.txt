@@ -1,0 +1,309 @@
+I Managed Services Agreement
+BUNDLE OPTIONS
+distributed computing inc.
+Date: February 19, 2018
+This Agrooment is made between Distributed Computing, Inc. (DCi), located at 1700 Union Avenue, Suite B, Ballimore, MD 21211,
+and Palmetto Prince George Operating, LLC {Client). Client's Facility Code;_32577_; Tax ID # (FEIN):_20-5423729 .
+EQUIPMENT LOCATION: : 7 BILLING LOCATION: 2
+Prince George Healthcare Center _____ ni 1 Administrat i
+ ———————— 920 Ridgebrook Ri
+Georgetown, SC 29440 Sparks, MD 21152
+As of the ___ day of . 2018 (Effective Date), DCi and Client enter into this Managed Services Agreement, wherein DCi
+agrees to provide to Client the below-selected essential managed service components. Managed Services can include but is not
+limited to proactive monitoring, managing and problem resolution for telephone system equipment, hosted solutions, fixed cellular
+{internet access), fax management and connectivity. ais i
+The Managed Service components checked below shall be included in this Agreement:
+[x] GRANDSTREAM TELEPHONE SYSTEM (Appendix A)
+[ x] TEN4PBX HOSTED SOLUTIONS (Appendix B)
+[| SIERRA WIRELESS FIXED CELLULAR (INTERNET ACCESS) (Appendix C)
+[x] CONNECTIVITY & SITE SERVICES ADMINISTRATION (Appendix D)
+Each of the Managed Service components selected shall bo supported in the manner described in its Appendix; however, ALL listed
+components shall additionally be supported as follows:
+Four (4) hour response time during 8x5 coverage
+Proactive monitoring and alerting
+Trouble ticket creation and resolution
+Diagnose, repair or replace any malfunctioning equipment
+Expedited replacement of equipment
+* Network system inventory at Client site, stored within DCi's Internet-accessible portal ©
+Coverage .
+Coverage shall be during the business day (8am-5pm, EST), five days per week (Monday-Friday), excluding major holidays.
+Client expressly and explicilly agrees to be bound by any and all underlying carrier contracts. If primary connectivity such as Fiber,
+Cable or POTS is nol included in this Agreement, it MUST be obtained separately.
+Term and Payment Schedule
+MRC: Client agrees to pay Ono Thousand Four Hundred Thirty Dollars ($1,430.00) per month for a Term of sixty (60)
+months, invoiced to Client on a monthly basis, which shall become due and payable on the first day of each month.
+NRC: Client agrees to pay a one-time fee of Eleven Thousand Dollars ($11,000.00) in advance, at the time this Agreement is
+signed.
+Sales Tax and USF Charges may be added. Services may be suspended If MRC payment is not received within thirly (30) days
+following date duo.
+Itis understood that any and all Services requested by Client that fall outside of the terms of this Agreement will bo considered new
+Projects, and will be quoted and billed as separate, individual Services.
+DCi owns and shall continue to own any and all Equipment included herein for the entire term of the Agreement, including any
+renewals. There is no end-of-term purchase option. Client is required to provide and maintain insurance related to the equipment
+and shall pay all appropriate taxes.
+If the Grandstream option is selected and upon expiration of the original Service Term, this Agreement may continue month-to-
+month with a fifty percent (50%) reduction in the MRC payment and oilher Party may terminate at any time with thirty (30) days
+written notification, If Client has and accepts tho option to refresh Grandstream equipment, as described in Appendix A, MRC
+renewal rate will be determined at the timo of renewal and a new Agreement shall be signed,
+1700 Union Avenue + Baltimore, MD 21211 © 410.464.8900 + FAX 410.464.8950
+{n the event that Client fails to pay as agreed upon, DCI reserves the right to recover all costs of collection, includin but nol limited
+y , DCI ig! D i]
+Client Obligations
+Client agrees to co }
+Hirvonen ella Uy hh sell fequested forms, including but not limiled to Service Order Fi
+preibin erp bape 2 follow its standard and customary procedures. In processi wn ete
+'Y be provided by DCi through one or more of its affiliates. ane SPIO ope eRe
+Client agrees to provide DCi all
+nocessary access to Client
+paseibiac ; 8 physical and no!
+Hahei as sot forth herein. In the event that said access is not provided a: or phloem aca nett
+ariayhe cians Ss requested, Client is aware that monitoring and (rouble
+Support and Escalation
+DCi will respond to Client's Troubl
+le Tickets under the provisions o} if
+holidays. Trouble Tickets must be opened by Client's designated enied nae Lig llama iietabed artes
+email is unavailable. Each i son, by email ;
+Schedule A, call will be assigned a Trouble Ticket number for tracking. Our pathy eg lpg Aetna "
+Termination
+This Agreement may be terminated by either Pa ly upon thirty wnillen notice e other e}
+by either Part thirty (30) d itt oli the other Party breaches or fails to ful v
+F ) days i
+any material respect ils obligations under this Agreement and does not cure such fail lure within thirty (30) days of receipt of such
+{fa phone ion i i is i
+phone system option is taken and this Agreement is terminated for convenience within ninety (90) days from the phone system
+installation, Client has the option to return the oe: mi in we order. shall then reimburse
+A
+h sulpiment {o DCi undamaged and in good working order, DCi shall th imb
+Should Client terminate any Services followin i i
+\ 9 the ninety (90) day options but prior to the expiration of the Servi i
+ead a a early termination fee equal to fifty percent (50%) of the remaining (MRC) contract value. Except pila ha elas
+he win e lurn, in no event shall Client be entitled to any refund of already paid charges (MRC or NRC) if this Agreement is
+At the termination of this Agreement, the Client shall, within thirty (30) days of said termination, return all equipment to DCi
+undamaged and in good working order. Client shall deinstall and ship the equipment using a shipping label provided by DCi. DCi
+shall use reasonable discretion in determining the condition of the equipment upon its return. It is also agreed that the failure of the
+Client to return any equipment, either within thirty (30) days of the termination of this Agreement or in a condition reasonably
+determined to be undamaged and in good working order, shall mako the Client liable to DCi in the amount of One Thousand Dollars
+($1,000) as liquidated damages.
+Warranty
+All equipment received from DCI will be covered under warranty for the full term of this Agreement. With regard to services provided
+or installed by anyone other than DCi or its representatives, affiliates or subcontractors, DCi makes no warranties, express or
+implied, and specifically disclaims any warranty of fitness for a particular purpose. Performance of any service or maintenance work
+by anyone other than DCi or ils representatives, affiliates or subcontractors during the warranty poriod described herein shall cause
+this warranty to be void and terminated.
+Exclusion
+This Agreement does i : a ee
+misuse, accident or resulting from electrical storm, r
+H ith the repair or replacement thereof. Further, this Agreemen' n
+pee ne patel by phason DCi shall not be liable for any costs or feos associated wilh repal
+performed by any non-approved third-party vendors or service providers.
+i i tampering,
+Jacement of equipment that is lost, stolen or damaged by negligence,
+ap clehathrecbr lightning es Sher violent weather or causes other than ordinary use, nor the labor
+t does not include labor and material costs for additions,
+irs or other work required or
+a i d that DCi is not an insurer and will not
+i i ioment is the responsibility of the Client. It is agreed thal n a ae
+per ble f anv operation of fneeemny end hold harmless OCi, Sierra Wireless, Sen ane pit lh ai offi
+poke sad id ts, any and all claims regarding injury or damage to persons oF properly al te y Se ree toereol, ulead
+pals chorea ies under this Agreement, or the operation or er tity  fede dae Se any coined pen
+pay ¥ iliful misconduct. In no event wil 0 lial " af
+pvc i deggie otra sneak including but not limited to damages for loss of business, loss of use,
+incidental,
+i dor the performance or
+revenue, loss of profits, loss of clionts or loss of life ai from this Agreement an pi
+nonperformance hereunder.
+rising in any manner
+any obligation hereunder resulting from
+ofthe ton-performing party, including, but
+failures, power failure, the .
+ther federal or state law, of acts
+Force Majeure
+Neither party shall be responsible f
+conditions commonly referred to as
+not limited to fire, flood, war, strikes,
+infrastructure of the Internet, governm:
+of God.
+Distributed Computing, Inc.
+ith
+any loss, harm, damage, or failure to comply wil
+; Foros Majoure events that are not within the coniret ote
+cable culs, acts of terrorism, explosions, communication
+ental restrictions, acts of third parties that are illegal under el
+Subcontracting
+DCi may subcontract work to be performed under this Agreement but shall retain responsibility for the work.
+Assignment
+Neither party may assign its rights and obligations, whether by operation of law or otherwise, without the prior writton consent of the
+other party, not to be unreasonably withheld. Notwithstanding tho foregoing, oither party, in connection with a merger,
+reorganization, or sale of all or substantially all of the assets or equity of such party, may assign this Agreement in its entirely to
+such party's Successor without the other party's consent. This Agreement shall bind and inure to the benefit of the parties, their
+fespective successors and permitted assigns.
+Dispute Resolution
+In the event of a dispute between the parties arising under this Agreement, the parties shall submit to binding arbitration before a
+single arbitrator under the Commercial Arbitration Rules of the American Arbitration Association, The decision of the arbitrator shall
+be final and binding with respoct to the dispute subject to arbitration and shall be enforceable in any court of competent jurisdiction.
+Each party shall bear its own expenses and costs incurred in such arbitration but those related to the compensation of the mediator
+shall be borne equally. The parties, their represontalives, other participants-and the arbitrator shall hold the existence, content and
+result of arbitration in confidence. The parties furlher agree that the mediation and arbitration, if required, shall take place in the area
+of Baltimore, Maryland. Nothing in this paragraph shall derogate from the rights of the parties to seek proliminary injunctive relief to
+preserve the status quo. : 
+Notification
+Any notices, requests, consents and other communication under this Agreement shall be in writing and shall be deemed to have
+been delivered on the date (a) personally delivered, (b) mailed, postage prepaid, by certified mail with return receipt requested, or
+(c) electronically mailed and confirmed. All communications under this section shall be addressed to the respective parties heroto
+as follows:
+If to Client: Fundamental Administrative Services, LLC If to DCi: Distributed Computing, Inc.
+920 Ridgebrook Road 1700 Union Avenue, Suite B
+Sparks, MD 21152 Baltimore, MD 21211
+Attn: Legal Dept. Altn: Legal Dept.
+AND.
+FAS-Telecom-Billing@fundite.com
+Governing Law
+by the laws of the State of Maryland
+i construed and enforced under and in accordance with and governed by the | a
+wae se paeity an aie of law rules. If any provision of this Agreement shall be held to be invalid or unenforceable, said
+provision shall not affect in any respect the validity or enforceability of the remainder of this Agreement.
+Entire Agreement ue
+This yarn Me including all schedules and appendices referenced here conan {he Jest elas eee the oars
+; or contemporaneous oral and written agreements, © . Ha
+sh Tite tani This Acreamrent may not be modified, except by a writing signed by both parties
+have read and understood the terms and conditions of the above Managed Services Agreement and have had the opportunity to
+J
+c It counsel if so desired. By my signature hereun ler, | indicate that | am authorizor to bind the Client and that Clien|
+onsullt legal 1 if so di d. he id dicate th: th d to bind the Client id that Client
+agrees to the terms and conditions herein.
+tributed Computing, Inc.
+Palmetto Prince George Operating, LLC Distr
+y:
+Title: Prosident
+Bi
+Title: 2lmrais fra for Dale? 10/7 26/18
+Date: ;o- as - 20
+Distributed Computing, Inc.
+MRC Payments
+we RRR RR Oe RO me RR OR Oe ROR OR Rk eR oe eR HR Ok Ow
+CREDIT CARD Authorization
+Card No. Exp.Date. Code.
+Namo on Card/ Billing Address:
+Signature:__ ae
+Billing Email:
+Oe KR OR He OR KR RO Ow Re oR RR ee OR RO OR Ok OR OR Om kom
+Distributed Computing, Inc.
+APPENDIX A
+Grandstream Telephone System Additional T&C
+Phone System Equipment Included
+Grandstream UCM6208- IP PBX Appliance, 800U SOSIP
+Grandstream GXW4232- 32-Port Analog VoIP Gateway
+Grandstream GXP2170- IP Phone, 12Ln 6SIP acct
+Grandstream GXP2200- BLF Phone Module
+Grandstream GXP2135- IP Phone, 8Ln 4SIP acct
+Grandstream GXP17160- Basic IP Phone
+Grandstream GAC2500- Conference Room IP Phone, 6Ln 6SIP
+Grandstream DP750 DECT- DECT VolP Base Station
+Grandstream DP720 DECT- DECT Cordless HD Handset
+SanDisk 32GB Memory Card
+WaltBox UPS 1500 VA
+WattBox UPS 825 VA
+WaltBox IP Power Conditioner, 12-Oullet
+Edgemarc 2900A Switch
+Viking RAD 1-A Overhead Paging
+7' CatSe Patch Cord
+10° Cat3 Cut Cord
+PPR EE
+PEEEDEEEPEP
+Coverage
+In addition lo the support coverages listed in the Agreement, Cl
+administrative programming services for telephone system changes
+ients selection of the Grandstream component shall also include all
+("MACDs" - moves, adds, changes, deletes).
+i Clit lephone
+Upon expiration of the original Service Term, Client has the right to renew: Client shall receive a complete refresh of tel r
+ayalem cauacment with installation and training Included, for an additional sixty (60) months under the same terms and conditions
+as set forth herein (pricing may vary). A new Managed Services Agreement shall be signed at the time of renewal.
+ITAL
+ree
+= Distributed Computing, Inc.
+: APPENDIX B
+en4pbx & Sangoma Hosted Solutions, Additional T&C
+Ten4pbx Hosted Services
+tt SIP Trunk pine poe — a re
+™ igh-Volume Fax Tier
+ees | ee Unlimited Hosted Fax Trunk - ia
+ee E941 Service Charge
+180 Domestic Telephone No. (DID)
+Business Hosted Extension
+Polycom VVX300 Conference Phone
+Edgemarc 2900A Router, Setup & Appliance Monitoring
+rep
+E911 NOTICE
+Client understands and acknowledges that the SIP and/or VoIP connectivi
+ectivily services ("Service") s
+throughTen4pbx.com (TENA) may have the E911 limitations specified below: , a
+ted to emergency servicas using Service, TEN4 must have the correct service
+address for the Client. if Service is moved to a different location without TEN4s approval, 911 calls may be directed to the
+wrong emergency authority, may transmit the wrong address and/or Service (including 911) may fail altogether.
+Service uses electrical power in the Client's premises. If there isan electrical power outage, 911 calling may be
+interrupted if the battery back-up in the associated multimedia terminal adapter is not installed, fails or is exhausted after
+several hours.
+* — Service, including calls to 911, may not be completed if there is a p
+: congestion, network/equipmenUpower fallure, or another technical problem. 3
+*  TEN4 will need several business days to update a Client service address in the E911 system. All change requests and
+questions should be directed to 1-866-324-8555 USE OF SERVICE AFTER DELIVERY OF THIS DOCUMENT
+CONSTITIUES CLIENT ACKNOWLEDGEMENT OF THE E911 NOTICE HEREIN. " .
+held dialing liable for any claim, damage or loss, and Client hereby waives and
+olaling to 911-type dialing. Client agrees to indemnify and hold harmless TEN4
+-lype calls, Including but not limited to Client's failure to provide correct
+« — Inorder for 914 calls to be properly direc
+roblem with network facilities, including network
+rs or employees may be
+f-action arising from or
+ing out of misroutes of 914
+Neither TEN4 nor its offico
+all such claims or causés Oo!
+from any claim or action aris|
+information herewith. 
+In addition to the terms and canditions listed herein, CLIENT EXPRESSLY AND EXPLICITLY AGREES TO BE 80!
+UNDERLYING CARRIER CONTRACT, INCLUDING TERMS & CONTITIONS.
+UND BY THE
+ra . Ms
+. a Distributed Computing, Inc.
+APPENDIX ©
+Sierra Wireless Fixed Cellular Additional T&C
+Sierra Wireless Fixed Cellular Services
+Q Cellular broadband, 5 GB per month, Includes:
+2 ee Maestro Antenna and LTE Modem
+Hi Indoor / Outdoor installation (choose one)
+DCi reserves the right to increase Client's Bundled Service plan, based on monthly usage over thirly percent (30%), upon thirty (30)
+days written notice to Client.
+Indoor vs, Outdoor installation selection based on preliminary evaluation; final determination and rates will be based on actual
+installation,
+One-time Pro-Install fee requires that site be accessible and local contact be available lo service technician. Additional fees may
+apply for subsequent visits of cancellations.
+Sales (axes will be applied on the final invoice based on the jurisdiction's applicable rates at the servica location.
+In the event that at Client site is deemed Technically Not Feasible (TNF), meaning it does aol meet the minimum data rate of 150ms
+latency and 6Mbps/2Mbps over a 24-hour porlod, Client may terminate its obligation for the remainder of the Term of the SOF with
+no early termination foes, provided such termination is exercised within thitty (30) days of corimencement of the Services. DCi shall
+provide a shipping labol for raturn of equipment.
+INITIAL of?
+OKS-
+Distributed Computing, Inc.
+APPENDIX D
+SITE SERVICES ADMINISTRATION
+Services Administration Options
+4 Connectivity (Fiver) Order: Spectrum 20x20 Fiber
+| a Connectivity (Coax) Order:
+4 Connectivity (Fiber) Monitoring and Trouble-ticketing
+1 Connectivity Billing Aggregation
+At the time this Agreement becomes effective, Client agrees to execute reterenced connectivity order with underlying carrier OR
+Customer will execute an LOA, allowing DCi to purchase connectivity services for this site as agreed to by the Parties and described
+herein above.
+Upon selection of the Site Services Administration option, DCi agrees to provide the following:
+Aggregate billing in single invoice
+* Advance payments to carrier for fiber
+« — Monthly billing reviews
+itis agreed that the Client end user will call DCis help desk with any network issue, or via other mutually agreed upon method.
+CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND BY THE UNDERLYING FIBER CARRIER CONTRACT/S.
+This includes but is not limited to carrier resolution of issyes. DCI shall pramplly contact, carrier for carrier-relatod issues but DCiis
+not responsible for any delay that is caused solely by tho carer In resolving such carriér-related issues.
+INITIAL Lo
+Bx
+Distributed Computing, Inc.

@@ -1,0 +1,27 @@
+{
+  "Agreement Name": "Addendum to Master Services Agreement",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "Indel Power Group LLC dba Western Branch Diesel",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified",
+  "Signature Date": "4/29/2020",
+  "Term": "Not specified",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "Not specified",
+  "Nonrecurring Charges": "Not specified",
+  "Services": [
+    "SIP Trunk Bundling (with option for unlimited)",
+    "Hosted Fax",
+    "Additional DIDs and setup",
+    "Remote setup and configuration of Edgemarc device to support SIP trunking",
+    "Hosted Phones",
+    "Access to account information via Ten4 Portal"
+  ],
+  "Locations": "2011 Corp Drive, Portsmouth, VA 23703",
+  "Payment Terms": "All bills are due within thirty (30) days upon receipt of Ten4 invoice.",
+  "effective_date": "04/29/2020",
+  "signature_date": "05/12/2020"
+}

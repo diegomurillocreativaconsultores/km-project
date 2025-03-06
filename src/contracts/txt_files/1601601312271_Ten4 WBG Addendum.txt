@@ -1,0 +1,52 @@
+ADDENDUM to Master Services Agreement
+TeNn4.
+Customer Legat Name: KZ.) [eg Qeecraoa Corgofahou
+Customer Address: (Qo | Joo ernes& Aye. , Balkmore, tD 207 oR
+As ofthe ___ day of , 2020 ("Effective Date), Tend and Customer enter into this Addendum to the Managed Services Agreement
+(MSA). This Addendum is intended to be used in conjunction with the MSA, which includes the standard terms and conditions, and any
+Service Order Forms ("SOF") for Wireless Broadband Services, which include the site-related order details. All such documents are
+incorporated herein by reference and constitute part of this Addendum.
+1. Service Term
+The Service Term for Wireless Broadband Services is provided on the SOF. Billing for the services shall commence on the earlier of: (i) use
+of the Service by customer or (ii) five (5) days after delivery of the service to the Customer's service address. This Addendum shall continue in
+effect for as long as any SOF for Billing Aggregation Services is in effect.
+Auto Renewal: Following the Initial Service Term, the SOF shall renew automatically on a month-to-month basis upon the same terms and
+conditions, and either party either party may terminate at any time with sixty (60) days written notice.
+2. Coverage & Usage
+Services: During the Service Term, Ten4 agrees to provide wireless broadband services to Customer's network, for sites listed in the SOF,
+and as may be amended hereafter in writing. Ten4 agrees to provide the following Services:
+e Fixed cellular connectivity for backup and/or primary, as needed
+¢  Custom-designed data plan and equipment selection per site
+*  Cross-carrier data pooling
+« Trouble ticketing, returns, usage reporting, analytics
+In addition to the terms and conditions in the MSA and listed herein, CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND
+BY THE UNDERLYING SERVICE PROVIDER CONTRACTS.
+Usage: Tend reserves the right to increase Customer's Service plan, based on usage, if Customer utilizes more than 3x their data service rate
+in any consecutive 3-month period during their term of agreement. Ex. If base rate is 5GB and Customer usage is greater than 15GB for three
+consecutive months, data rate plan may be amended and Customer may be billed accordingly going forward.
+3. Payments
+Customer will pay all Charges as set forth in the SOF. Charges may not include taxes, fees, or regulatory surcharges that may be assessed
+on the Services (Taxes), and Customer will be responsible for all such Taxes. Alll bills are due within thirty (30) days upon receipt of Ten4
+invoice.
+Billing for Wireless Broadband Services shall commence when the SOF is signed and shall continue on a monthly basis. In the event any
+additional Services sites are later added on a date that is not the first day of the month, fees shall be pro-rated for the month of migration and
+invoiced in the next subsequent full month.
+4. Customer Obligations
+Customer agrees to fully complete all reasonably requested forms which may be needed to provide the Services, including but not limited to
+Service Order Forms, Letters of Agency, Provider Contracts and others. One-time Pro-Install fee requires that site be accessible and local
+contact be available to service technician. Additional fees may apply for subsequent visits or cancellations. Services may be provided by Ten4
+through one or more of its affiliates.
+5. Termination
+Termination For Cause. Either party may immediately terminate the SOF by written notice if the other party breaches a provision of this
+Addendum or the MSA and the breaching party does not cure such breach as follows:
+a, _ after written notice and a five (5) day cure period in the event of any failure to pay an amount due hereunder, or
+b. after written notice and a thirty (30) day cure period in the event of any other breach.
+If Tend Terminates for Cause, Ten4 will have no further liability or obligation under this Addendum and accompanying SOF.
+Early Termination Fee. If Customer terminates any Services prior to the expiration of the Service Term, Customer shall pay Ten4 an Early
+Termination Fee equal to twenty-five percent (25%) of the initial contract value for that site. In no event shall Customer be entitled to any
+refund of already paid charges if the SOF, Addendum or MSA, or any portion thereof, is terminated.
+Ten4 and Customer have caused this Addendum to be executed below by their duly authorized signatories.
+Distributed Computing, Inc. dba Ten4
+By: Deanna R. Kelly
+Title: Vice President
+1700 Union Avenue, Suite B + Baltimore, MD 21211 + 410-464-8900 + www.ten4.us

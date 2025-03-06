@@ -1,0 +1,175 @@
+Ver. 04252022 _EVPL_EIA_TPA_Vlocity  v. 11 10-2022  Page 1                        
+This is Schedule Number S -5550092304 to the Frontier Services Agreement dated 05/25/2023  (FSA) by and b etween Southeastern Paper Group 
+(Customer) and Frontier Communications of America, Inc. on behalf of itself and its affiliates  (Frontier).  Customer orders and Frontier agrees to 
+provide the Services and Equipment identified in the Schedule below.      
+  Schedule Date:  05/25/2023  
+Schedule Type/Purpose:  DIA Schedule_02012021  Service Term:          36 Months  
+Service Location: 7080 Havertys Way, Lakeland, FL  338051413  
+Ethernet Service Description  Quantity  MRC  NRC  
+DIA (Dedicated Internet Access)  
+Silver   100 Mbps      1 $800.00  $0.00  
+IP 
+   /29 = 5 IPs     1 $0.00  $0.00  
+Total:   $800.00  $0.00  
+1. Service Description :  
+a. Dedicated Internet Access  (DIA) DIA is a dedicated bandwidth from Customer Service Location to the Frontier IP network then to the public 
+Internet which provides reliable, secure and scalable bandwidth.    Physical termination shall conform to applicable rules and regulations with respect to 
+Minimum point of entry (MPOE) and demarcation point. If Customer requests extensions beyond th e MPOE, such extension (s) shall be subject to 
+Frontiers cabling service policies and Frontiers charges related thereto per separate Frontier Cabling Service and Fee Sche dule.  
+2. Pre-installation cancellation fees, FOC Notice and Special Construction . 
+a. Pre-installation cancellation fees . Notwithstanding any provision of the FSA: (1) If Customer cancels any Service or Equipment prior to delivery of any 
+Equipment or installation of the Service or Equipment, Customer shall pay a processing fee of $750 (the Processing Fee) and  (2) Frontier w ill provide 
+Customer with notice (the FOC Notice) of the project completion date (the FOC Date) as soon as possible in light of the r equested services and customers 
+location. If Customer cancels more than ten (10) business days after the issuance of t he FOC Notice, Customer shall pay the Processing Fee and the total 
+costs and expenditures of Frontier in connection with establishing the Service and / or providing the Equipment prior to Fron tiers receipt of notice of 
+cancellation including but not limit ed to any construction and engineering costs and Equipment restocking fees.   
+b. Special Construction :  All Services are subject to availability and Frontier Network limitations. The rates identified in this Schedule are estimate d based 
+on standard installati on costs and Services may not be available at all service locations at the rates identified.    If Frontier determines, in its reasonable 
+discretion, that the costs of provisioning Service to any service location are materially higher than normal, Frontier will notify Customer of the additional costs 
+associated with provision of the Services and request Customers acceptance of such costs as a condition to proceeding (Spec ial Construction).   Upon 
+notification that Special Construction is required, Customer  will have ten (10) business days to notify Frontier of its acceptance. If the Customer does not 
+agree to the Special Construction within ten (10) business days, the Customer shall be deemed to have cancelled the Service S chedule without further 
+liability.   If the Customer agrees to the Special Construction, Frontier and Customer will execute a replacement Schedule.   Notwithstanding the foregoing, 
+Customer shall not be required to pay construction, engineering and Processing Fees if the cancellation is with in ten (10) business days of receipt of 
+Frontiers notification of additional special construction and engineering costs pursuant to this Service Schedule.  
+3. Obligations of Customer . Customer is responsible to ensure appropriate processes and protocols are in place for rate shaping to the amount of 
+throughput ordered.  Customer acknowledges that failure to comply with this responsibility may negatively impact Service performance.  
+4. After Hours/Holiday Labor Hours .  If Customer desires coordinated turn up services (After Hours) during non -business hours, defined below, then the 
+After Hours services shall be provided at the rate of $175.00 per hour.  Non -business hours include: (1) weeknights between the hours of 5:00 p.m. and 
+7:59 a.m.  local time; (2) weekends, including Saturday and/or Sunday and (3) the Frontier designated holidays (New Years Day, Martin L uther King Day, 
+Presidents Day, Memorial Day, Independence Day, Labor Day, Veterans Day, Thanksgiving Day and Christmas Day).  
+Ver. 04252022 _EVPL_EIA_TPA_Vlocity  v. 11 10-2022  Page 2                        
+Such After Hours services may be subject to change, based upon Frontiers reasonable determination of increases in actual cost s to provide such After 
+Hours services, determined in accordance with generally accepted commercial accounting practices, and consi stent with After Hours service charges for 
+projects comparable to the project outlined in this Schedule.  
+5. Internet Acceptable Use Policy and Security . Customer shall comply, and shall cause all Service users to comply, with Frontiers Acceptable Use 
+Policy (AUP ), which Frontier may modify at any time.  The current AUP is available for review at the following address, subject to chang e: 
+http://www.frontier.com/policies/commercial_aup/ . Customer is responsible for maintaining awareness of the current AUP and adhering to the AUP as it may 
+be amended from time to time.  Failure to comply with the AUP is grounds for immediate suspension or termination of Frontier Internet Service, 
+notwiths tanding any notice requirement provisions of the FSA. Customer is responsible for the security of its own networks, equipment , hardware, software 
+and software applications.  Abuse that occurs as a result of Customers systems or account being compromised o r as a result of activities of third parties 
+permitted by Customer may result in suspension of Customers accounts or Internet access by Frontier.  Customer will defend a nd indemnify Frontier and 
+its affiliates with respect to claims arising from Customer s or third parties usage of Frontier Internet access through Customers hardware or software.  
+6.  Producer Price Index Adjustment .  Unless otherwise prohibited by tariff, regulation or applicable law, Frontier shall, once per year in July, increase the 
+above MRC  for each service by the annual increase in the Producer Price Index for Total Final Demand as published by the U.S. Bureau of  Labor Statistics 
+(PPI -FD). The adjustment will be based on the percentage increase, if any, in PPI -FD for the most recent  yearly period ending April 30th compared to the 
+prior 12 month period ending April 30th and shall not exceed 9.5% in any year.   The increase, if any, will be reflected as either an increase in the base MRC 
+or as a separately stated item and occur for the first time in July of the calendar year after service installation  
+7. Service Level Agreement . 
+The Ethernet Service Level Agreement for the described Ethernet Services is attached hereto and incorporated herein as Exhibi t 1. 
+This Schedule is not effective and pricing, dates and terms are subject to change until signed by both parties.  This Schedul e and any of the provisions 
+hereof may not be modified in any manner except by mutual written agreement.  The above rates do not in clude any taxes, fees , regulatory fees/surcharges 
+or surcharges applicable to the Service. This Schedule, and all terms and conditions of the FSA, is the entire agreement betw een the parties with respect 
+to the Services described herein, and supersedes any  and all prior or contemporaneous agreements, representations, statements, negotiations, and 
+undertakings written or oral with respect to the subject matter hereof.  
+Frontier Communications of America, Inc.  
+ Southeastern Paper Group  
+Signature:  {{Sig2_es_:signer2:signature}}  Signature:  {{Sig1_es_:signer1:signature}}  
+Printed Name:  Michelle Martin  Printed 
+Name:  {{Name1_es_:signer1:fullname}}  
+Title:  Sr. Manager Sales Support  Title:  {{Ttl1_es_:signer1:title}}  
+Date:  {{Dte2_es_:signer2:date}}  Date:  {{Dte1_es_:signer1:date}}  
+Robyn Conner
+6/28/2023Regional Controller
+Ver. 04252022 _EVPL_EIA_TPA_Vlocity  v. 11 10-2022  Page 3                        
+EXHIBIT 1  
+EVPL AND DIA SERVICE LEVEL AGREEMENT  
+This Ethernet Service Level Agreement (SLA)  applies to Ethernet Services ordered pursuant to an EVPL Ethernet Virtual Private Line (EVPL) 
+Dedicated Internet Access ( DIA) executed by and b etween Southeastern Paper Group  (Customer) and Frontier Communications of America, Inc.  
+(Frontier). The term s of this SLA apply exclusively to the Ethernet network elements directly within Frontiers management responsibility and con trol 
+(EVPL/ DIA Service, or where specifically designated EVPL Service).  
+1. Operational Objectives  
+a. On Time Provisioning : The objective for On -Time Provisioning for On -Net Services, where available, ( specifically, qualified Tampa operating 
+area), is determined from (a) the date the order is submitted and approved into the Frontier ordering system (by Frontier) t o (b) successful 
+testing by Frontier, within 30 calendar days.  Customer must contact Frontiers dedicated phone number (1 -800-921-8002) within 30 days 
+of objective target date.  If Frontiers failure to meet the On Time Provisioning objective is validated , Customer will receive a one month 
+MRC credit (taxes, fees and surcharges are excluded).  The Customer credit will appear within two (2) billing cycles from the  time of credit 
+validation.  The On -Time Provisioning objective excludes bandwidths of 1G to 10 0G On -Net Service or Customer requested non -standard 
+bandwidth speeds.  The On -Time Provisioning credit is also subject to Sections 3 and 4 below, as applicable.   Customer is required to 
+provide (i) suitable building facilities (including but not limited to space, circuitry, power, backup power, and surge protectors) for the 
+installation, operation, and maintenance of Frontiers Network in accordance with manufacturers documentation and Frontiers  installation 
+standards, and (ii) a well -lighted and safe w orking area that complies with all local safety standards and regulations.  
+b. Circuit Availability : Circuit Availability  is the ability to 
+exchange data packets with the nearest Frontier Internet 
+Point of Presence (POP) or DIA Customer egress port (Z 
+location) via the ingress port (A location). Service Outage 
+occurs when packet transport is unavailable or wh en the 
+output signal is outside the limits of this service guarantee.  
+Availability is measured by the number of minutes during a 
+calendar month that the On -Net Service is operational, 
+divided by the total minutes in that calendar month. 
+Calculation is bas ed on the stop -clock method beginning at 
+the date and time of the Customer -initiated trouble ticket and 
+ends when Frontier restores SLA -compliant circuit operation. 
+Frontiers On -Net Service Availability commitment and applicable Service credit are outline d in Table 1A , subject to Sections 3 and 4 below . 
+c. Mean Time to Repair (MTTR) : MTTR is a monthly calculation of the 
+average duration of time between Trouble Ticket initiation (in accordance 
+with Section 2B) and Frontiers reinstatement of the DIA Service to meet 
+the Availability performance objective.  The MTTR objectives, and cred its 
+applicable to a failure to meet such objectives, are outlined in Table 1B , 
+subject to Sections 3 and 4 below .  
+2. Service Outage Reporting Procedure.  
+a. Frontier will maintain a point -of-contact for Customer to report a Service Outage, twenty -four (24) hours a day, seven (7) days a week.  
+b. When EVPL/DIA Service is impacted from a Service Outage, Customer must contact Frontiers commercial customer support center (also 
+known as the NOC) at 1 -(888) 637 -9620 to identify the Service Outage a nd initiate an investigation of the cause (Trouble Ticket). 
+Responsibility for Trouble Ticket initiation rests solely with Customer. Once the Trouble Ticket has been opened, the appropr iate Frontier 
+departments will initiate diagnostic testing and isolat ion activities to determine the source. In the event of a Service Outage, Frontier and 
+Customer will cooperate to restore the Service. If the cause of a Service Outage is a failure of Frontiers equipment or faci lities, Frontier 
+will be responsible for the  repair. If the degradation is caused by a factor outside the control of Frontier, Frontier will cooperate with Customer 
+to conduct testing and repair activities at Customers cost and at Frontiers, then current, standard technician rates.  
+c. A Service Outag e begins when a Trouble Ticket is initiated and ends when the affected EVPL/DIA Service is Available; provided that if the 
+Customer reports a problem with a Service but declines to allow Frontier access for testing and repair, the Service will be c onsidere d to be 
+impaired, but will not be deemed a Service Outage subject to these terms.  
+d. If Frontier dispatches a field technician to perform diagnostic troubleshooting and the failure was caused by the acts or omi ssions of 
+Customer or its employees, affiliates, contractors, agents, representatives or invitees; then Customer will pay Frontier for all related time 
+and material costs at Frontier's standard rates.  
+ Table 1A: Dedicated Internet Access  
+Circuit Availability (CA)  MRC Service 
+Credit  
+Availability  99.99%   
+Below 99.99% 
+Service 
+Credit 
+30% 
+MRC  
+Table 1B: Dedicated  Internet Access  
+Mean Time To Repair  MRC Service Credit  
+MTTR  4 Hours  25 % MRC above 4 hrs  
+50% MRC above 6 hrs.  
+Ver. 04252022 _EVPL_EIA_TPA_Vlocity  v. 11 10-2022  Page 4                        
+3. Credit Request and Eligibility.  
+a. In the event of a Service Outage, Customer may be entitled to a credit against the applicable On -Net  Service MRC if (i) Customer initiated a 
+Trouble Ticket; (ii) the Service Outage was caused by a failure of Frontiers equipment, facilities or personnel; (iii) the S ervice Outage warrants a 
+credit based on the terms of Sectio n 1; and (iv) Customer requests the credit within thirty (30) days of last day of the calendar month in which the 
+Service Outage occurred.  
+b. Credits do not apply to Service Outages caused, in whole or in part, by one or more of the following: (i) the acts or  omissions of Customer or its 
+employees, affiliates, contractors, agents, representatives or invitees; (ii) failure of power; (iii) the failure or malfunct ion of non -Frontier equipment 
+or systems; (iv) circumstances or causes beyond the control of Frontier  or its representatives; (v) a Planned Service Interruption; (vi) Emergency 
+Maintenance or (vii) interruptions resulting form Force Majeure events as defined in Customers FSA. In addition, Customer wi ll not be issued 
+credits for a Service Outage during an y period in which Frontier is not provided with access to the Service location or any Frontier network 
+element, or while Customer is testing and/or verifying that the problem has been resolved. Planned Service Interruption mea ns any Service 
+Outage caused  by scheduled maintenance, planned enhancements or upgrades to the Frontier network; provided that Frontier will endeavor to 
+provide at least five (5) business days notice prior to any such activity if it will impact the Services provided to Custome r. Em ergency 
+Maintenance means maintenance which, if not performed promptly, could result in a serious degradation or loss of service ove r the Frontier 
+network.  
+c. Except for the On -Time Provisioning credit (if applicable), all credit allowances will be limited t o maximum of 50% of the MRC for the 
+impacted EVPL/DIA Service, per month. For cascading failures, only the primary or causal failure is used in determining Servi ce Outage 
+and associated consequences. Only one service level component metric can be used for determining credits for a Service Outage. In the 
+event of the failure of the Service to meet multiple metrics in a one -month period, the highest Service credit will apply, not the sum of 
+multiple Service credits.   For example, If Customers Service Outage  triggers both operational objectives (i.e. Circuit Availability and Mean 
+Time to Repair), Customer will receive the highest available Service Credit, but not both.  
+d. This SLA guarantees service performance of Frontiers Ethernet data services only. This SLA  does not cover TDM services [DS1, NxDS1, 
+or DS3 services] or other voice or data services provided by Frontier. This SLA does not apply to services provided over thir d party non -
+partner facilities, through a carrier hotel, or over Frontier facilities whic h terminate through a meet point circuit with a third party non -partner 
+carrier.  
+e. The final determination of whether Frontier has or has not met SLA metrics will be based on Frontiers methodology for assess ment of 
+compliant performance. Service Outage credits are calculated based on the duration of the Service Outage, regardless of whether such 
+Service Outage is the result of failure of the Service to meet one or more performance metric.  
+f. Credit allowances, if any, will be deducted from the charge s payable by Customer hereunder and will be expressly indicated on a 
+subsequent bill to Customer. Credits provided pursuant to this SLA shall be Customers sole remedy with regard to Service Out ages.  
+4. Chronic Outage : An individual EVPL/DIA Service qualifie s for Chronic Outage status if such service fails to meet the Availability objectives, 
+and one or more of the following: (a) a single Trouble Ticket extends for longer than 24 hours, (b) more than 3 Trouble Ticke ts extend for more 
+than 8 hours, during a rolling 6 month period, or (c) 15 separate Trouble Tickets of any duration within a calendar month.  If an EVPL/DIA Service 
+reaches Chronic Outage status, then Customer may terminate the affected EVPL/DIA Service without penalty; provided that Custo mer mus t 
+exercise such right within ten (10) days of the EVPL/DIA Service reaching Chronic Outage status and provide a minimum of 15 d ays prior written 
+notice to Frontier of the intent to exercise such termination right.

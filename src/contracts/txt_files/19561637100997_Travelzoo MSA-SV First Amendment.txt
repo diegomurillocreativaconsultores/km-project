@@ -1,0 +1,42 @@
+Amendment  No. CA-25355844 -pweck /A1  
+Comcast Cable Communications Management , LLC  
+CONFIDENTIAL and PROPRIETARY  
+AMW  
+COM:1190727v1   FIRST AMENDMENT  
+to  
+Comcast Enterprise Services Master Services Agreement No . CA-25355844 -pweck  
+This First Amendment (Amendment)  is concurrently entered into on October 29, 2021  (Effective 
+Date) in conjunction with the Comcast Enterprise Services Master Services Agreement No.  CA-25355844 -
+pweck  (Agre ement) by and between Comcast Cable Communications Management, LLC (Comcast) 
+and Travelzoo , Inc., (Customer), individually referred to herein as Party and jointly referred to as 
+Parties. Capitalized terms used and not defined in this Amendment have the respective meanings assigned 
+to them in the Agreement.  
+Whereas,  the Parties desire to amend the Agreement by this writing to reflect the amended or additional 
+terms and c onditions to which the Parties have agreed . 
+Now, therefore,  in consideration of the mutual covenants, promises, and consideration set forth in this 
+Amendment, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:  
+1. Article 4.1 of the Comca st Enterprise  Services General Terms and Conditions (General Terms and 
+Conditions) is hereby modified to read as follows:  
+Sales Order Term.  Upon the expiration of the Service Term applicable to a Sales Order, such Sales 
+Order shall automatically renew for successive periods of one (1) month each (each, a Renewal 
+Term), unless prior written notice of nonrenewal is delivered by either party to the other at least thirty 
+(30) days before the expiration of the  Service Term  or the then current Renewal Term. To the extent 
+the initial Service Term or a Renewal Term applicable to a Sales Order extends beyond the expiration 
+date of the MSA Term, such Sales Order shall continue to be governed by the terms and conditi ons of 
+the Ag reement . 
+2. In the event of an explicit conflict between this Amendment and the Agreement, the terms and 
+conditions of this Amendment shall take precedence in the interpretation of the explicit matter in 
+question.  
+3. Except as expressly modified by this Amendment, all other terms and conditions set forth in the  
+Agreement shall remain in full force and effect  and are hereby ratified and confirmed by the Parties.  
+IN WITNESS WHEREOF,  the Parties hereto have executed this Amendment  as of the day and year 
+written below and the persons signing covenant and warrant that they are duly authorized to sign for and 
+on behalf of the respective Parties.   
+    Travelzoo , Inc.  Comcast Cable Communications Management, LLC  
+ Signature:   Signature:   
+Printed Name:   Printed Name:   
+Title:   Title:   
+Date:   Date:   
+Azar Hashemi
+Head of Engineering
+11/15/2021

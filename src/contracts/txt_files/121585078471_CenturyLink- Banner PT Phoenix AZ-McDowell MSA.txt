@@ -1,0 +1,161 @@
+CENTURYLINK® TOTAL ADVANTAGE EXPRESS — AGREEMENT - Summary Page
+This CenturyLink® Total Advantage® Express Agreement is between CenturyLink Sales Solutions, Inc. as contracting agent on behalf
+of the applicable CenturyLink company providing the Services under this Agreement (CenturyLink") and BANNER PHYSICAL
+THERAPY (Customer or You). The name of the CenturyLink operating company providing Services to Customer is listed in the
+service-specific terms and conditions. CenturyLink may withdraw this offer if Customer does not execute and deliver the Agreement to
+CenturyLink on or before March 17, 2018 (Cutoff Date). Using CenturyLinks electronic signature process for the Agreement is
+acceptable.
+1. Services. CenturyLink provides Services under the terms of this CenturyLink Total Advantage Express Agreement and Summary
+Page including (a) the Terms and Conditions following the signature block, as more fully described in Section |. General Terms and
+Conditions of the Detailed Terms and Conditions (DT&C) at: http:/Wwww.centurink O.pdf, (b) the servce-specific
+terms and conditions applicable to the Services in Section II. Additional Service-Speafic Terms and Conditions of the DT&C, and (c)
+the supplemental terms and conditions (if any) for which links have been provided below the pricing table(s) in this Agreement or in a
+valid CenturyLink quote that references this Agreement (collectively the Agreement.) Provisions that are applicable to a specific
+CenturyLink company are so indicated. All general provisions are applicable to services provided by the CenturyLink company p roviding
+the Services under this Agreement. For an interim period of time until all work is completed to update the Service-spediic provisions,
+various on-line offer provisions, Tariffs and other terms and conditions incorporated by attachment or reference into this Agreement, all
+references to Qwest Communications Company, LLC mean CenturyLink Communications, LLC f/k/a Qwest Communications Company,
+LLC.
+The following Services are incorporated into the Agreement:
+FIBER + ENTERPRISE 1A PACKAGE
+CenturyLink will charge Customer, and Customer will pay, the rates set forth in a signed CenturyLink issued quote for Service, which will
+reference this Agreement. The Initial Service Term is set forth in the quote.
+2. Rates
+2.1 Rate Changes. Rates apply only for the above Services and Service Address(es) and will not apply if Customer moves a Service
+Address or changes any of the Bundle or Senice Details. The rates for Local Access Service and CPE Purchase may be subject to
+valid quote forms, which control if they conflict with the rates listed on this Summary Page, all of which are subject to change.
+2.2 Additional Charges. Additional charges may apply. Rates and charges for Service elements not identified appear in the applicable
+terms and conditions. Rates do not include foreign, federal, state or local taxes, surcharges, fees, EAS, Zone, CALC, or other similar
+charges.
+3. Term and Termination.
+3.1 Term. This Agreement is effective on the date all parties have signed below (Effective Date) and continues until expiration of all
+Orders placed under this Agreement. Service Terms begin on their Start of Service Date and automatically renew unless terminated by
+either party. The Start of Service Date, renewal periods and renewal period rates are described in the DT&C, Bundle or Package
+Provisions, Service Provisions, or in an applicable Tariff, RSS or ISS.
+3.2 Termination. If Customer gives notice of cancellation or termination, disconnects any portion of a Service or breaches this
+Agreement resulting in the termination of a Service before the end of the applicable Service Tem, Cancellation Charges will apply as
+set forth in the applicable terms and conditions.
+4. Amendments. At CenturyLinks sole discretion, the parties may amend the Agreement to add additional CenturyLink senices.
+Except as otherwise expressly permitted in the Agreement, amendments must be in writing and signed by both parties authorized
+representatives.
+CUSTOMER: BANNER PHYSICAL THERAPY CENTURYLINK SALES SOLUTIONS, INC.
+ofized Signature Authorized Signature
+peanna Ke/
+Name Typed or Printe Name Typed or Printed
+Vice President 1/31 fl g
+Title ate Title Date
+911 EMERGENCY SERVICE ACKNOWLEDGMENT:
+Customer Initials: CKNOWL EDGE THAT | HAVE READ AND UNDERSTAND THE 911 LIMITATIONS IN THE 911 EMERGENCY
+s
+SERVICES-VOIP THE TERMS AND CONDITIONS APPLICABLE TO ALL SERVICES, AND IN THE PROVISIONS APPLICABLE TO
+MY VoIP SERVICE (VoIP PROVISIONS) IN THE DT&C AT http/Avww.centurylink.com/fegal/DTCN80. pdf.
+Op ID #: 55412005  © CenturyLink. All Rights Reserved.
+Contract Code: 490003 CONADENTIAL CGT R.v60.111317
+CENTURYLINK® TOTAL ADVANTAGE® EXPRESS — AGREEMENT — Summary Page
+Customer's Address for Notices: 1700 Union Ave, Ste B, Aitn: General Counsel, Baltimore, MD 21211;
+Op ID #: 55412005  © CenturyLink. All Rights Reserved.
+Contract Code: 490003 CONRAIDENTIAL CGT R.¥60.111317
+CENTURYLINK® TOTAL ADVANTAGE EXPRESS — AGREEMENT - Summary Page
+TERMS AND CONDITIONS
+1. Additional Terms and Conditions. Customer understands that the DT&C and other provisions identified in ths Agreement (Other Provisions)
+contain additional important terms and conditions that apply to the Services, including, among other things, confidentiality obligations, disclaimer of
+warranties, indermification, shortfall charges, minimum-service terms, early termination charges, and jury-trial and class-action waiver.
+2. Payment. Customer must pay all charges w thin 30 days of the invoice date except for CenturyLink QC charges, which Customer must pay by the due
+date on the invote. Charges not paid by their due date are subject to late payment charge of the lesser of 1.5% per month or the maximum rate allowed by
+law or required by Tarif. In addition to payment of charges for Services, Customer must abo pay CenturyLink any applicable Taxes (which & defined in the
+DT&C and may include surcharges, fees, and other similar charges) assessed in connectionw th Services. Customer's payments to CenturyLink must be in
+the form of electronic funds transfer (via wire transfer or ACH), cash payments (via previously -approved CenturyLink processes only), or paper check.
+3. Notices.
+(a) Alll notices must be in writing. Notices are deemed given if sent to the addressee specfied for a party either (i) by registered or certified U.S. mail,
+return receipt requested, postage prepaid, three days after such mailing; or (ii) by national overnight courier service, next business day; or (iii) by
+facsimile w hen delivered if duplicate notice & also sent by regular U.S. Mail.
+(b) Service Notices. All Customer notices for Service disconnect and termination must be sent via e-mail to: CenturyLirk, Attn.:
+BusinessDisconnects@centurylink.com, except that for Services purchased under the CPE Products & Services; Professional Services Section of the
+DT&C Customer notice must be provided to the customer care number specfied on Customer's invoice, and must contain the account name, account
+number, identification of the Service(s), and Service address(es). Such disconnect and termination is effective 30 days after CenturyLink's receipt of the
+notice, unless a longer period is otherwse required by Service-specfic Terms and Conditions below. Customer's notice of non-renewal for Services must
+be sent via e-mail to: CenturyLink, Attn.: CenturyLink NoRenew , e-mail: Norenew @centurylink.com. All Customer notices for other routine operational
+notices w ill be provided to its CenturyLink sales representative. Failure to provide disconnect, termination and non-renewal notices in accordance with
+the terms of this Agreement may result in continued charges, and CenturyLink will not credit charges for such noncompliance.
+(c) Legal Notice. All legal notices required to be given under the Agreement ill be in writing and provided to CenturyLink at: 931 14" Str., #900, Denver,
+CO 80202; Fax: 888-778-0054; Attn.: Legal Dept., and to Customer as provided in the Agreement or in its absence, to Customer's address reflected in
+CenturyLinks records Attn. General Counsel.
+4. Credit Approval. Provision of Services is subject to CenturyLinks credit approval of Customer. As part of the credit approval process, CenturyLink
+may require Customer to provide a deposit or other security. Additionally during the Term, if Customer's financial circumstance or payment history
+becomes reasonably unacceptable to CenturyLink, CenturyLink may require adequate assurance of future payment as a condition of continuing
+CenturyLinks provision of Services. Customer's failure to provide adequate assurances required by CenturyLink is a material breach of the Ageement
+CenturyLink may provide Customer's payment history or other billing/charge information to credit reporting agencies or industry clearinghouses.
+5, Disclaimer of Warranties. EXCEPTAS EXPRESSLY PROVIDED IN THE AGREEMENT, ALL SERVICES AND PRODUCTS ARE PROVIDEDAS'S.
+CENTURYLINK DISCLAIMS ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO ALL WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. CENTURYLINK MAKES NO WARRANTIES OR
+REPRESENTATIONS THAT ANY SERVICE WILL BE FREE FROM LOSS OR LIABILITY ARISING OUT OF HACKING OR SIMILAR MALICIOUS
+ACTIVITY, ORANY ACT OR OMISSION OF THE CUSTOMER.
+6. Limitations of Liability. The remedies and limitations of liability for any claims arising between the parties are set forth below.
+(a)Consequential Damages. NEITHER PARTY OR ITS AFFILIATES, AGENTS, OR CONTRACTORS IS LIABLE FOR ANY CONSEQUENTIAL,
+INCIDENTAL, INDIRECT, SPECIAL, OR PUNITIVE DAMAGES OR FOR ANY LOST PROFITS, LOST REVENUES, LOST DATA, LOST BUSINESS
+OPPORTUNITY, OR COSTS OF COVER. THESE LIMITATIONS APPLY REGARDLESS OF THE LEGAL THEORY UNDER WHICH SUCH LIABLITY
+IS ASSERTED AND REGARDLESS OF FORESEEABLLITY.
+(b)Claims Related to Services. For Customer's claims related to Service deficiencies or interruptions, Customer's exclusive remedies are limited to: (a)
+those remedies set forth in the SLA for the affected Service or (b) the total MRCs or usage charges paid by Customer for the affected Serve in the one
+month immediately preceding the event giving rse to the claim if an SLA does not appl.
+(c)Personal Injury; Death; Property Damages. For claims arising out of personal injury or death to a party's employee, or damage to a party's real or
+personal property, that are caused by the other party's negligence or willful misconduct in the performance of the Agreement, each party's lability is
+limited to proven direct damages.
+(d)Other Direct Damages. For all other claims arising out of the Agreement, each party's maximum liability w ill not exceed in the aggregate the total
+MRCs and usage charges paid by Customer to CenturyLink under the Agreement in the three months immediately preceding the event giving rise to the
+claim (Damage Cap"). The Damage Cap w ill not apply to a party's indermification obligations or Customer's payment obligations under the Agreement.
+7.911 Emergency Services-VoIP. You are purchasing a VoIP service (Hosted VoIP and CenturyLink IQ SIP Trunk Service, Analog VoIP Service, SIP
+Trunk Service, Managed Office Service, Managed Office Essentials, Core Connect, or HCS Service) from CenturyLink. The Federal Communications
+Commission (FCC) requires us to inform you about possible limitations to 911 access when using VoIP. VolPis provided through an Internet connection
+rather than over the traditional phone network. This presents special challenges for 911 service. It is important for you to understand those challenges
+and your responsibilities. Below are some spectfic limitations of 911-calling w ith your service. Please see additional important limitations in the VoIP
+Provsions. CENTURYLINK RECOMMENDS THAT YOU AND YOUR END USERS ALWAYS HAVE AN ALTERNATIVE MEANS OF ACCESSING 911
+(AMWARNING | POTENTIALLY HAZARDOUS SITUATION WHICH IF NOT AVOIDED COULD RESULT IN DEATH OR SERIOUS
+INJURY. PLEASE READ THIS SECTION CAREFULLY, AND INITIAL THE 914 ACKNOWLEDGEMENT.
+(a) Location Limitations. (including choice of telephone number (TN)). 911 emergency services may not be available or may be sent to an incorrect
+emergency service provider under certain circumstances, including: (i) when your service is initially installed - on average less than 24 hours, but
+possibly up to 72 hours due to the time required to update 911 databases; (ii) if you use your service at a location other than where it was originally
+installed, or if you move your handset or soft phone (Device) w ithout follow ing processes designated by CenturyLink. Note: Some, but not all,
+CenturyLink VoIP services allow temporary moves of your Device. If temporary moves are permitted, your VoIP Provisions include the process required
+to temporarily change your 911 address. The FCC makes it your responsibility to keep your location address updated in CenturyLinks 911 records; (iii) if
+you select a TN associated with a geography other than your phystal location (e.g., you chose a Colorado TNw hen you are located in Calif ornia).
+(b) Other Limitations. 911 dialing from your VoIP Service might fail for reasons other than physical location. For example, the service may fail or
+become degraded for reasons, such as (i) paver outages, CPE failure (e.g., Internet connectivity routers, your data network and equipment, Customer
+premises switches and routers, and other Devices), cable cuts, or any service or broadband outage or degradation (including failures caused by
+suspension or termination of the Service); (ii) maintenance or repairwork; or (iii) if your area does not have 911 emergency service.
+(c) VoIP Service-Specific Limitations. PBXAAD (Analog VoIP, Integrated Access. SIP Trunk) ff your VoIP Service is used w ith a PBX or IAD,
+depending on the technical capabilities of the PBX or IAD and the options you choose to deploy, the number delivered to an emergency service provider
+may be different from the number the caller believes is being delivered. For example, a general PBX number may be delivered rather than a station
+number on a particular floor. In this case, the number sent to the emergency service provider will not be sufficiently specific to locate the ste of the
+emergency on aparticular floor. Remote BLA/SCA (Hosted VoIP, Managed Office, Managed Office Essentials) The remote bridged line appearance
+Op ID #: 55412005  © CenturyLink. All Rights Reserved.
+Contract Code: 490003 CONRADENTIAL CGT R.V80.111317
+CENTURYLINK® TOTAL ADVANTAGE® EXPRESS — AGREEMENT — Summary Page
+(BLA) or shared call appearance (SCA") VoIP functionality for the VoIP Service allows Customer to program its equipment to ring in 2 separate
+locations when a single phone number is dialed (i.e., the end user's house and business). When Customer moves from one location (and ringing
+premises) to another location, Customer must provide CenturyLink w ith its accurate service address. Customer must keep its CenturyLink-Approved 911
+Location identified in the service portal up-to-date with the address of its current location. Failure to update the CenturyLink-Approved 911 Location w ith
+the new address location w ill prevent Customer's calls from routing to the correct PSAP. Customer should not use the VoIP Service at the new location
+until Customer has received a confirmation email at its address of record. Customer's address has not changed until CenturyLink has completed the 911
+Update Interval. CenturyLink does not support Remote BLAs or Remote SCAs on IP Devices used with any other CenturyLink VoIP service regardless
+whether such service includes Hosted VoIP in the package or bundle. Volos Mall Only Seats (Hosted VoIP, Century ink 1Q®° SIP Trunk) 911 dialing is
+not supported for VoIP seats not associated with a stationary Device (for example, from Vore Mail Only Seats), unless you use another Device to place
+the cail via the click to call feature in your End User portal. Use of SIP Trunk Diversion Headers on 911 Calls (SIP Trunk enty) Customer may only
+use SIP Trunk Diversion Headers when using the Call Forw arding feature w ith VoP Service. Customer shall not send SIP Trunk Diversion Headers on
+ail calls, and in particular shall never send SIP Trunk Diversion Headers on 911 calls. Sending SIP Trunk Diversion Headers on a 911 call may cause
+the call to route to the incorrect PSAP, or to the correct PSAP but w ithout the correct Customer phone number and location information.
+Allen TNs (SIP Trunk only) When a 914 call is made from an Alien TN, CanturyLink cannot identify the location of the caller to forward to the
+appropriate PSAP. CenturyLink will therefore send any Customer 911 calls originated from an Alien TN to a live operator at a third-party contracted
+national 911 center. CenturyLink is charged a fee for each such call (currently $75.00 per call), and will pass the charges on to Customer. To avoid
+incurring these charges, Customer and its End Users should not make 911 calls from Alien TNs.
+(¢) Additional Information. When you call 911, you should always state the nature of your emergency and provide your location and phone number. In
+some cases, the emergency service provider will be unable to call you back if your call does not complete or is dropped or disconnected, or f you ae
+unabie to tell the emergency provider your number and physical location. Additional limitations specific to your VolP Service are in your VolP Provisions.
+8. Entire Agreement. This Agreement, including DT&C, Other Provisions, and any CenturyLink-accepted Order Forms corsttute the entire agreement
+between the parties. This Agreement supersedes all prior oral or written agreements or understandings felating to the same service, ports, or circuits at
+the same locations as covered under this Agreement. Capitalized terms are defined in the DT&C and Other Provisions.
+9. Purchase Orders. This Agreement controb over any Customer-issued purchase order, and any terms or conditions contained in a Customer-issued
+purchase order or other Customer ordering documentw ill have no force or effect.
+10. Uniform Fesource Locators (URLS). References to URLs in this Agreement include any successor URLs designated by CenturyLink.
+Op ID #: 55412005  © CenturyLink. All Rights Reserved.
+Contract Code: 490003 CONADENTIAL CGT R.v80,.111317

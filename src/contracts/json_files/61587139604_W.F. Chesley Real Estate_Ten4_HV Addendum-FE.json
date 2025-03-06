@@ -1,0 +1,27 @@
+{
+  "Agreement Name": "Addendum to Master Services Agreement",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "W. F. Chesley Realty Estate",
+  "Party2 Role": "customer",
+  "Effective Date": "April 2020",
+  "Signature Date": "03/05/20",
+  "Term": "Not specified.",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "Not specified.",
+  "Nonrecurring Charges": "Not specified.",
+  "Services": [
+    "SIP Trunk Bundling",
+    "Hosted Fax",
+    "Additional DIDs and setup",
+    "Remote setup and configuration of Edgemare device to support SIP trunking",
+    "Hosted Phones",
+    "Access to account information via Ten4 Portal"
+  ],
+  "Locations": "Not specified.",
+  "Payment Terms": "All bills are due within thirty (30) days upon receipt of Ten4 invoice.",
+  "effective_date": "04/23/2020",
+  "signature_date": "03/05/2020"
+}

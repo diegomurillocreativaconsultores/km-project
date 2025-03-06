@@ -1,0 +1,975 @@
+MERCHANT SERVICES AGREEMENT  
+In consideration of the mutual promises and covenants contained in this Merchant Services 
+Agreement (this  Agreemen t), and the agreement of Merchant to participate in the card 
+processing services program established by Bank, the parties agree as follows:  
+1. Parties . The parties to this Agreement are FIFTH THIRD BANK, a federally chartered 
+bank whose address is 6111 N. River Road, Rosemont, IL 60018 ( Fifth Third Bank ), 
+Titanium Processing, Inc, a Texas corporation, whose address is 1754 Bagdad Rd., Bldg 
+100A, Cedar Park, TX 78613 (ISO), and the Merchant set forth on the Merchant 
+Application form to which this Agreement is attached ( Merchan t). Fifth Third Bank is a 
+principal member of Mastercard International Inc. (Mastercard) and Visa USA, Inc. 
+(Visa ). ISO participates in programs affiliated with (a) Mastercard, Visa, DFS Services, 
+LLC d/b/a Discover Network (Discover) (including any card issuer whose Cards are 
+processed  and settled  through  the Discover  Network)  and American  Express  Travel  Related 
+Services Company Inc. (Amex) and (b) certain similar entities, including without limitation 
+those appearing in the application or pricing section of this Agreement, and any other 
+network supported by ISO, including without limitation debit networ ks (Othe r Networks and 
+collectively with the entities listed in subparagraph (a) the Card Networks). Subject to the 
+foregoing, Fifth Third Bank and ISO are collectively referred to herein as the Bank and, 
+subject to the requirements of the Rules, Fifth Third Bank and ISO allocate the duties and 
+obligations allocated to Bank as they deem appropriate in their sole discretion and may 
+jointly  or individually  assert  or exercise  the rights  or remedies  provided  to Bank  hereunder.  
+2. Definitions . For the purposes of this Agreement and the Schedules referred to herein, 
+the following definitions apply unless the context otherwise  requires:  
+Address Verification  means a service that allows Merchant to verify the home address of 
+Cardholders with the relevant Issuer.  
+Applicable Law  means: (i) all applicable federal, state and local laws, rules and  
+regulations; and (ii) the Rules.  
+Authorization  means an affirmative response, by or on behalf of an Issuer to a request to 
+effect a Transaction, that a Transaction is within the relevant Cardholders available credit 
+limit and that the Cardholder has not reported the Card lost or stolen. All Transact ions 
+requiring Authorization by the Associations must be authorized.  
+Authorization Center  means the facility or facilities designated from time to time by Bank 
+to which Merchant shall submit all requests for Authorization.  
+Business Day  means any day other than: (i) a Saturday or Sunday; or (ii) a day on which 
+banking institutions in Texas are authorized by law or executive order to be closed (and on 
+which Bank is in fact closed).  
+Card(s)  means either a Visa, Mastercard or Discover credit card, debit card (or other 
+similar card that requires a PIN for identification purposes), or pre -paid, stored -value or gift 
+card.  
+Cardholder  means a person authorized to use a Card.  
+Cardholder Information  means any non -public, sensitive information about a Cardholder 
+or related to a Card, including, but not limited to, any combination of Cardholder name plus 
+the Cardholders social security number, drivers license or other identification number, or 
+credi t or debit card number, or other bank account number.  
+Card Networks(s)  means VISA U.S.A., Inc. ( Visa), Mastercard International 
+Incorporated ( MasterCard ), DFS Services LLC ( Discover ) and American Express Travel 
+Related Services Company, Inc. (American Express).  
+Chargeback  means a Transaction that Bank returns to Merchant pursuant to this       
+Agreement.  
+Forced Sale  means a sales Transaction processed without an approved electronic 
+Authorization number being obtained for the full amount of the sales Transaction at 
+the time the Transaction is processed.  
+Full Recourse Transactions  means mail orders, telephone orders, e -commerce (Internet) 
+orders, Pre -Authorized Recurring Order Transactions, and other card not present sales.  
+Issuer means a member of an Association that enters into a contractual relationship with 
+a Cardholder for the issuance of one or more Cards.  
+Merchant Statemen t means an itemized monthly statement of all charges and credits to 
+the Operating Account (as that term is defined in Section 5 of this Agreement).  
+Monthly Chargeback Violation , for any given calendar month, means that more than five 
+Chargebacks have been processed in that month and that the Transaction Chargeback 
+Ratio for that month is equal to or greater than 1%.  
+Mid-Qualified Transactions  means any Transaction categorized as such by the 
+processor designated by Bank to settle Transactions with the Associations  
+Non-Qualified Transactions  means: (i) any Transaction submitted for processing more 
+than 48 hours past the time the Authorization occurred; (ii) any Transaction missing required 
+data; and (iii) any Transaction categorized as such by the processor designated by Bank to 
+settle Trans actions with the Associations.  
+Pre-Authorized Recurring Order Transaction  means a Transaction that has been pre - 
+authorized by the Cardholder and for which the goods or services are to be delivered or 
+performed in the future by Merchant without having to obtain approval from the Cardholder 
+each time.  
+Qualified Transactions  means any Transaction categorized as such by the processor 
+designated by Bank to settle Transactions with the Associations.  
+Rules  means all rules, regulations, by -laws, standards and procedures adopted and/or 
+amended from time to time by the Card Networks (including, without limitation, the Payment 
+Card Industry Data Security Standard (PCI DSS)), Bank and each relevant Issuer.  
+Services  means the activities undertaken by Bank to authorize, process and settle Card 
+transactions undertaken by Cardholders at Merchants location(s), and all other services 
+provided by Bank under this Agreement.  Transaction  means the acceptance of a Card or information embossed on the Card for 
+payment for goods sold and/or leased or services provided to Cardholders by Merchant and 
+receipt of payment from Bank, whether the Transaction is approved, declined, or processed 
+as a Forced Sale. The term Transaction also includes credits, errors, returns and 
+adjustments.  
+Transaction Chargeback Ratio , for any given calendar month, means the number of 
+Chargebacks processed in that month divided by the total number of Transactions 
+processed in that month.  
+3. Services Provided to Merchant . Subject to the Rules, Services may be performed by 
+Bank, its affiliates, its agents or other third parties Bank may designate from time to time in 
+connection with this Agreement. Information related to Merchants Transaction activity or 
+any credit or fin ancial information of Merchant may be disclosed to any such third party 
+servicers or any referral bank  partner.  
+4. Term . This Agreement shall become effective when approved by Bank and, unless 
+sooner  terminated  as authorized  by this Agreement,  shall remain  in effect  for a term of three  
+(3) years. This Agreement shall renew automatically for successive terms of three (3) years 
+each, unless any party provides written notice of termination to the other parties at least 90 
+days prior to the end of the then -current term. All obligations, warr anties, indemnities and 
+agreements with respect to Transactions entered into before such termination shall survive 
+termination of this Agreement until finally and irrevocably paid in full, and, regardless of any 
+such termination, Merchant shall remain liab le for all obligations to Cardholders and Bank 
+that are incurred while this Agreement is in effect.  
+5. Merchant Operating Account . Prior to accepting any Cards, Merchant shall establish a 
+demand deposit account at Bank, or at a financial institution approved by Bank (the 
+Operating Accoun t), through which fees, charges and credits due in accordance with this 
+Agreement may be processed. Merchant authorizes Bank to debit all amounts Merchant 
+owes Bank hereunder from the Operating Account, whether maintained at Bank or another 
+financial inst itution, at times deemed appropriate by Bank, through the ACH Banking 
+Network or by a manual debit of the Operating Account. Mer chant waives any and all claims 
+for loss or damage  arising  out of any such  charges  or debits  to the Operating  Account.  
+6. Reserve Account . Upon, or at any time after, execution of this Agreement, Bank may 
+establish a reserve account at Bank ( Reserve Accoun t), for all future indebtedness of 
+Merchant to Bank that may arise out of or relate to the obligations of Merchant under this 
+Agreement, including, but not limited to, Chargebacks and fees, in such amount as Bank 
+from time to time may determine in its sol e discretion. Bank may fund the Reserve Account 
+by deducting amounts from payments due to Merchant, by effecting a charge  against 
+Merchants Operating Account or against any of Merchants accounts at Bank, or by 
+demanding payment from Merchant (which payment Merchant shall make within ten (10) 
+days after receipt of any such demand). The Reserve Account will be maintained for  a 
+minimum of nine months after the date on which this Agreement terminates or until such 
+time as Bank determines that the release of the funds to Merchant is prudent, in the best 
+interest of Bank, and commercially reasonable, and that Merchants account w ith Bank is 
+fully resolved. The provisions of this Agreement relating to account debits and credits 
+apply to the Reserve Account and survive this Agreements termination until Bank 
+terminates the Reserve Account. Any balance remaining after Chargeback rights 
+have  expired  and all of Banks  other  anticipated  expenses,  losses  and damages  have 
+been paid will be disbursed to  Merchant.  
+7. Fees . Merchant shall pay to Bank all fees specified on Schedule A , as amended by 
+Bank  from  time to time.  For each  Transaction,  Bank  will charge  Merchant  as follows:  
+(a) An amount ( Merchant Discount Fees ) equal to a specified percentage of the total 
+cash  price  of each  sales  and cash  withdrawal  Transaction  (Merchant  Discount  Rate ); 
+(b) A specified amount per Transaction ( Transaction Fee ); and 
+(c) A specified amount per Authorization ( Authorization  Fee). 
+The Merchant Discount Rate, Authorization Fees and Transaction Fees are set forth on 
+Schedule A . Different Merchant Discount Rates apply to Qualified, Mid -Qualified and Non - 
+Qualified Transactions, as shown on Schedule A . Merchant agrees that Bank will, and 
+authorizes Bank to, deduct Merchant Discount Fees from the Operating Account or Reserve 
+Account on a daily or monthly basis. Merchant also agrees to pay to Bank the amount of 
+any fees, charges or penalties assessed aga inst Bank by any Card Network or Iss uer for 
+Merchants violation of any Applicable Law. Merchant shall pay Bank for any other services 
+provided to Merchant by Bank and for all other fees shown on Schedule A , including, but not 
+limited to, monthly minimum fees, Chargeback fees and customer service  fees.  
+8. Billing . All amounts Merchant owes to Bank may be charged to the Operating Account 
+or Reserve Account, recouped by adjustment to any credits due to Merchant, or set off 
+against any account or property Bank holds for or on behalf of  Merchant.  
+9. Security Interest . As security for the performance by Merchant of all of its obligations 
+under this Agreement, Merchant hereby grants to Bank a security interest in: (i) the funds 
+held in the Operating Account and in the Reserve Account; and (ii) any inventory with 
+respect  to which a Transaction has occurred but has not yet been fulfilled. Merchant will 
+execute and deliver to Bank such documents, in form satisfactory to Bank, as Bank may 
+reasonably request in order to perfect Banks security interest in the  Operating Account, 
+Reserve  Account  and such  inventory,  and will pay all costs  and expenses  associated  with 
+filing the same or this Agreement in all public filing offices, where filing is deemed by Bank 
+to be necessary or desirable. Bank is authorized to file financing statements relating to the 
+Operating Account, the Reserve Account and such inventory where authorized by 
+Applicable Law. Merchant appoints Bank as its attorney -in-fact to execute such documents 
+as are necessa ry or desirable to accomplish perfection of any security interests. This 
+appointment is coupled with an interest and shall be irrevocable as long as Merchant owes 
+any amount to Bank.  
+10. Processing Transactions . 
+(a) Merchant shall obtain Authorizations and process Transactions using such equipment 
+and software as may be approved from time to time by Bank, in its sole discretion (the 
+Equipmen t). Merchant shall validate Cards and Cardholders in face -to-face transactions 
+as required by Applicable  Law.  
+(b) Merchant shall obtain Authorizations for Transactions in a manner required by 
+Applicable Law and in the manner, and following the processes and procedures, determined 
+from  time to time by Bank,  in its sole discretion,  and communicated  to Merchant  by Bank.  
+(c) Merchant shall not submit a Transaction to Bank (electronically or otherwise) until 
+Merchant has performed its obligations to the Cardholder in connection with the Transaction 
+or obtained Cardholders consent for a Pre -Authorized Recurring Order  Transaction.  
+(d) Merchant shall not transmit any Transaction to Bank that Merchant knows or should 
+have known to be illegal, fraudulent or not authorized by the  Cardholder.  
+(e) Merchant shall not process a Transaction that does not result from an act between a 
+Cardholder and  Merchant.  
+(f) Merchant shall not request or use any Card number for any purpose other than as 
+payment for its goods or  services.  
+(g) Merchant may transmit a Transaction that effects a prepayment of services or full 
+prepayment of custom -ordered merchandise, manufactured to a Cardholders specifications, 
+if Merchant advises Cardholder of the immediate billing at the time of the Transactio n and 
+within time limits established by the Card  Networks.  
+  (h) If the signature panel on a Card is blank, Merchant must review positive identification  
+ bearding the Cardholders signature to validate the Cardholders identity. For online 
+Transactions, the payment website must authenticate the Cardholders identity and use 
+appropriate site security and internet section security standards in accordance with  the 
+Rules.  
+11. Prohibited Transactions . For all Card Networks Merchant shall not do any of the  
+following:  
+(a) Establish a minimum on debit cards or greater than $10.00 on credit cards or a 
+maximum dollar Transaction  amount;  
+(b) Obtain multiple Authorizations for amounts less than the total sale  amount;  
+(c) Obtain Authorization for the purpose of setting aside the Cardholders credit line for 
+use in future  sales;  
+(d) Extend credit for or defer the time of payment of the total cash price in any 
+Transaction;  
+(e) Honor  a Card  except  in a Transaction  where  a total cash  price  is due and payable;  
+(f) Make any special charge to or extract any special agreement or security from any 
+Cardholder in connection with any  Transaction;  
+(g) Transmit or accept payment for any Transaction that was not originated directly 
+between Merchant and a Cardholder for the sale or lease of goods or the performance of 
+services of the type indicated in the Merchant Application form to which this Agreement is 
+attached;  
+(h) Honor or accept a Card as payment for any legal services or expenses arising out of 
+or related to: (i) any domestic relations matter where such services or expenses are 
+furnished to a person whose name is not embossed on a Card; or (ii) any bankruptcy, 
+insolvency,  compromise,  composition  or other  process  affecting  Cardholders  creditors;  
+(i) Use Merchants own Card, or one to which Merchant has access, to process  a 
+Transaction for the purpose of obtaining credit for Merchants own benefit;  
+(j) Re-process any Transaction that was previously charged back to Bank and 
+subsequently returned to Merchant, irrespective of Cardholder  approval;  
+(k) Initiate a Transaction credit without a preceding debit at least equal to the  credit;  
+(l) Initiate a Transaction credit without a balance in the Operating Account at least equal 
+to the  credit;  
+(m) Use the Equipment or any data received thereon for any other purpose other than for 
+determining whether or not Merchant should accept checks or Cards in connection with a 
+current sale or lease of goods or  services;  
+(n) Use the Equipment or any data received thereon for credit inquiry purposes or any 
+other purpose not authorized by this  Agreement;  
+(o) Draw or convey any inference concerning a persons creditworthiness, credit standing, 
+credit capacity, character, general reputation, personal characteristics or mode of living 
+when any Card or check is processed as  non-accepted;  
+(p) Disclose any information obtained through the Equipment to any person except for 
+necessary disclosures to affected Cardholders, Bank and/or the  Issuer;  
+(q) Disburse funds in the form of travelers cheques, if the sole purpose is to allow the 
+Cardholder to make a cash purchase of goods or services from  Merchant;  
+(r) Disburse funds in the form of  cash;  
+(s) Accept a Card to collect or refinance an existing debt (whether originally owed to 
+Merchant or otherwise) that is considered uncollectible (for example, payments to a 
+collection agency or attempts to recover funds for a dishonored check) excep t to the extent 
+specifically permitted by Applicable  Law;  (t) Issue a Transaction credit in respect of goods or services acquired in a cash 
+transaction which are  returned;  
+(u) Make any cash refund to a Cardholder who has made a purchase with a credit Card 
+(all Transaction credits shall be issued to the same credit Card account number used in the 
+sale);  
+(v) Require a Cardholder to complete a postcard or similar device that includes the 
+Cardholders account number, Card expiration date, signature or any other Card account 
+data in plain view when  mailed;;  
+(w) Accept a Card for the purchase of Scrip (as defined by applicable VISA regulations),  
+excep t to the extent specifically permitted by Applicable  Law;  
+(x) Accept any payment directly from a Cardholder for previous Card charges incurred 
+and processed by  Merchant;  
+(y) Require, through an increase in price or otherwise, any Cardholder to pay any 
+surcharge in connection with any Transaction or to pay any part of any charge imposed on 
+Merchant by Bank excep t, in either case, as expressly permitted by, and under terms and 
+conditions that comply in full with, Applicable  Law;  
+(z) Provide cash to a Visa cardholder unless  Merchant is either (i) participating in Visa 
+Cash -Back Services or  Discover Cash at Checkout program  (ii) a hotel or cruise  line; 
+(aa) Cause any Cardholder to waive its right to dispute a Transaction;  
+(bb) Request the Card Verification Value 2 data on any paper order form;  
+(cc) Request a Cardholder account number for any purpose that is not related to payment 
+for goods or services; or  
+(dd) Add any tax to Transactions, unless applicable law expressly requires that a 
+merchant be permitted to impose a tax, and only if such tax is included in the Transaction 
+amount and not collected separately..  
+12. Prohibition of Furnishing Account Information; Use of Third Parties . Merchant 
+shall not, without the Cardholders consent, sell, purchase, provide or exchange any Card 
+information in the form of Transaction documents, carbon copies of imprinted Transaction 
+documents, mailing lists, tapes, journal rolls or other media obta ined through the use of a 
+Card to any third party. Merchant may use third parties that do not have a direct agreement 
+with Bank as Merchants agent for the direct delivery of Transactions for clearing and 
+settlement  if: 
+(a) Merchant advises Bank that it will use a third -party processor in this capacity, 
+identifying the third party so selected by  Merchant;  
+(b) Merchant agrees that Bank will reimburse Merchant only for the Visa Transactions 
+delivered by that third -party processor to VisaNet;  and 
+(c) Merchant assumes responsibility for any failure by its third -party processor to comply 
+with Applicable  Law.  
+Merchant shall notify Bank of the identity of any third party performing services to Merchant 
+in connection with which such third party has access to any Card information.  
+13. Daily Reconciliation of  Transactions . 
+(a) Electronically Transmitted Transactions . Bank shall control and disburse all 
+Transaction -related settlement funds to Merchant. Transactions with respect to which Bank 
+receives payment from or through the Card Networks will be settled on a daily basis, and 
+Bank shall deliver payment to Merchant in connection with such Transactions by effecting a 
+credit to the Operating Account equal to the reconciled and paid summary Transaction total 
+of all of Merchants total paid summary Transactions since the previous cr edit. 
+Notwithstanding the foregoing, Bank may, in its sole discretion, effect a credit to the 
+Operating Account in connection with any Transaction prior to the point in time Bank 
+receives payment in connection therewith from or through the Card Networks. I n either 
+case, Bank may, if necessary or appropriate, reduce any credit made to the Operating 
+Account by, and/or Bank may require that Merchant pay to Bank an amount equal to: (i) the 
+sum of all Cardholder charges denied, refused or charged back; (ii) all refunds processed on 
+account of Cardholders during said time period; (iii) the amounts, fees and charges, 
+including (but not limited to) Chargebacks, Merchant owes Bank hereunder; (iv) all taxes, 
+penalties, charges, fees and other items incurred by Bank th at are reimbursable pursuant to 
+this Agreement; (v) all applicable rates, fees and charges described on Schedule A ; (vi) any 
+amount Bank previously credited to the Operating Account that Bank determines, in good 
+faith, was incorrectly so credited; and (vii ) any amount Bank determines, in its sole 
+discretion, represents unacceptable risk to the relevant Cardholder or Bank. Any application 
+of funds associated with the settlement of Transactions that differs from the foregoing must 
+be agreed to, in writing, by  Bank and Merchant and may not, in any respect, violate 
+Applicable  Law.  
+(b) Reconciliation of Transactions . Merchant shall reconcile each settled Transaction 
+within fifteen (15) days after the date on which such Transaction is submitted to Bank for 
+payment,  and shall notify  Bank  immediately  of any discrepancies  or errors  Merchant  notes 
+as a result of such reconciliation. Bank shall not have any responsibility or liability for 
+Transaction -related  errors  or omissions  that are brought  to their attention  more  than thirty  
+(30) days after the date on which the Transaction to which such error or omission relates is 
+first presented to Bank for settlement.  
+(c) Provisional Credi t. Any credits to the Operating Account are provisional only and 
+subject to revocation by Bank until such time that the Transaction is final and no longer 
+subject to Chargeback by the Issuer, Cardholder or Card Networks. Bank may withhold 
+payment for a Tra nsaction to Merchant, for any reason, until such time as the Transaction 
+has been verified as legitimate by the relevant Issuer, or Bank receives adequate supporting 
+documentation  from Merchant  to authenticate  the Transaction  and mitigate  Chargeback  risk. 
+14. Adjustments and Returns . Merchant will maintain a fair exchange and return policy 
+and make adjustments with respect to goods and services sold and/or leased to its 
+customers whenever appropriate.  If Merchant limits its acceptance of returned 
+merchandise, or if Merchant is an Electronic Commerce Merchant, Merchant will ensure that 
+its return policy are clearly s et forth on the Transaction receipt or on Merchants website, as 
+required by Applicable Law. If goods are returned, or services are terminated or canceled, 
+or any price is adjusted, Merchant will prepare and transmit a credit or return Transaction, 
+either electronically or by paper, for the amount of the adjustment as a deduction from the 
+total amount of Transactions transmitted that day. If the amount of credit or return 
+Transactions exceeds the amount of sales Transactions, Merchant shall pay the excess t o 
+Bank. Merchant shall make no cash refunds on credit Transactions and shall handle all 
+credit adjustments as provided in this Section 14. If no refund or return will be given, 
+Merchant must advise Cardholder in writing, at the time of the Transaction, tha t the sale is a 
+final sale and no returns are permitted. Merchant must advise Cardholder in writing of 
+any policy of Merchant that provides for no -cash refunds and in -store credit only. Merchant 
+shall follow Card Network reservation/no -show policies, a nd shall notify Cardholders in 
+writing of this policy on all advance reservations. Merchant also shall notify Cardholders at 
+the time of the reservation of the exact number of days required for reservation deposit 
+refunds.  
+15. Chargebacks . The acceptance by Bank of any Transaction processed in accordance 
+with the terms  of this Agreement  shall  be without  recourse  to Merchant,  except  for: 
+(i) Full Recourse Transactions; (ii) as otherwise indicated in this Agreement; and (iii) under 
+any of the following  circumstances:  
+(a) No specific prior Authorization for the Transaction was obtained from the Authorization 
+Center, the approval number does not appear in the electronic transmittal that is maintained 
+by Bank, or the Transaction was submitted to the Bank thirty (30) days or m ore after the 
+date on which the goods and/or services to which the Transaction relates were purchased 
+or leased by the relevant  Cardholder;  
+(b) The Transaction was based on a pre -authorization form, the Card on which the 
+Authorization was based was canceled and Merchant was so notified prior to the 
+Transaction;  
+(c) The Card giving rise to the Transaction was canceled and prior to, or at the time of, 
+the Transaction, and Merchant received notice of the cancellation through the electronic 
+terminal, in writing or  otherwise;  
+(d) The Card expired prior to the date of the Transaction or the date of the Transaction 
+was prior to the validation date, if any, indicated on the  Card;  
+(e) The Transaction information required by this Agreement was not submitted to Bank, or 
+the procedures required by this Agreement to be followed in connection with processing a 
+Transaction were not  followed;  
+(f) Bank or Issuer receives a complaint from or on behalf of a Cardholder stating that 
+there is an unresolved dispute or defense to a charge (whether or not valid) between 
+Merchant and  Cardholder;  
+(g) The Cardholder makes a written complaint to Bank or Issuer that the Cardholder did 
+not make or authorize the  Transaction;  
+(h) A setoff or counterclaim of any kind exists in favor of any Cardholder against Merchant 
+that may be asserted in defense of an action to enforce payment against the Cardholder in 
+the Transaction;  
+(i) The Transaction was made at or by a merchant other than  Merchant;  
+(j) The Transaction  otherwise  violates  the terms  of this Agreement  or any Applicable  Law;  
+(k) A Transaction is charged back by an Issuer;  or 
+(l) Any representation or warranty made by Merchant in connection with the Transaction 
+is false or inaccurate in any  respect.  
+In any such case, Bank shall not be obligated to accept a Transaction for credit to the 
+Operating Account. If Bank has credited the Operating Account or Reserve Account for such 
+a Transaction, Bank may return the Transaction to the Merchant, and Merchant s hall pay 
+Bank the amount of the Transaction. Merchant agrees that it is solely responsible for all 
+Chargebacks, and that Bank, without prior notice to Merchant, may: (i) charge the amount of 
+the Transaction to the Operating Account or Reserve Account; (ii)  recoup the amount of the 
+Transaction by adjustment of the credits due to Merchant; and/or (iii) set off the amount of 
+the Transaction against any account or property Bank holds for or on behalf of Merchant. If 
+Merchant disagrees with Banks decision to ch arge back a Transaction, Merchant must so 
+notify Bank in writing within 10 days of the Chargeback, and provide documentation that the 
+dispute has been resolved to Cardholders satisfaction or proof that a credit has been 
+issued.  Without limiting the gener ality of any other provision of this Agreement, if Bank 
+takes legal action against Merchant for any Chargebacks or any amounts due Bank, 
+Merchant shall pay the costs and attorneys fees incurred by Bank, whether suit is 
+commenced or  not.  
+16. Merchant Statement . At least once each month, Bank shall provide a statement (the 
+Merchant Statemen t) to Merchant. All information appearing on the Merchant Statement 
+shall be deemed accurate and affirmed by Merchant unless Merchant objects by written 
+notice specifying the particular item in dispute within 30 days of the date of the Merchant 
+Statement.  
+17. Retention of Information . Merchant shall retain the information required to be 
+submitted in connection with a Transaction or to be maintained in connection with a 
+complaint for seven years from the date of the Transaction or the complaint. At the request 
+of Bank, Merchant shall p rovide such information to Bank within five (5) days of receipt of a 
+request from Bank. Failure to meet such time frame or non -delivery of any item or delivery 
+of an illegible copy of an item requested by an Issuer shall, among othe r things, constitute a 
+waiver by Merchant of any claims and may result in an irrevocable Chargeback for the full 
+amount of the  Transaction.  
+18. Recovery of Cards . Merchant will use its best efforts to reasonably and peaceably 
+recover and retain any Card with respect to which Merchant receives notification of 
+cancellation, restrictions, theft or counterfeiting. This notice may be given: (i) electronically 
+through t he Equipment; (ii) by the Authorization Center through any means; or (iii) by listing 
+on any canceled Card or restricted Card list. Merchant shall also take reasonable steps to 
+recover  a Card  that it has reasonable  grounds  to believe  is counterfeit,  fraudulent  or stolen.  
+19. Customer Complaints . Merchant shall respond promptly to inquiries from Cardholders 
+and shall attempt to resolve any disputes amicably. If unresolved disputes occur with a 
+frequency unacceptable to Bank, Bank may terminate this Agreement. Bank reserves the 
+right to charge Mer chant reasonable fees and reimbursement on account of excessive 
+Cardholder inquiries, refunds or Chargebacks. Merchant agrees to maintain the following 
+information in writing with respect to each claim or defense asserted by a Cardholder  for 
+which Merchant has received  notice:  
+(a) The Cardholders  name;  
+(b) The Card account  number;  
+(c) The date and time the Cardholder asserted the claim or  defense;  
+(d) The nature of the claim or defense;  and 
+(e) The action that Merchant took in an attempt to resolve the  dispute.  
+Upon request, Merchant shall furnish Bank with this information in writing within 10 days.  
+20. Confidentiality . Merchant shall treat all information that it obtains knowledge of or 
+access to in connection with this Agreement as confidential information of Bank (collectively, 
+Bank Confidential Information). Merchant shall protect all Bank Confidential Information  
+from unauthorized disclosure, publication, or dissemination with the same standard of care 
+and discretion Merchant uses to protect similar confidential information of Merchants own, 
+but in no event less than reasonable care. Furthermore, M erchant shall not use, reproduce, 
+distribute, disclose, or otherwise disseminate Bank Confidential Information, except in 
+connection with the performance of Merchants obligations under this Agreement. The 
+obligations of non -disclosure provided hereunder s hall continue during the term of this 
+Agreement and for a period of five years  thereafter.  
+21. Compliance with Applicable  Law. 
+a. Genera l. Merchant represents and warrants that it has obtained all necessary 
+regulatory approvals, certificates and licenses, and that it is in compliance with all Applicable 
+Law, in connection with the operation of its business.  Merchant represents and warrant s 
+that it understands the importance of complying with Applicable Law in connection with any 
+and all actions it takes in connection with Transactions (including, without limitation, 
+complying with requirements relating to Transaction information, sto rage and disclosure), 
+and covenants at all times to comply in full with all Applicable Law. Merchant further 
+acknowledges and agrees that it is responsible for the actions of all of its employees while in 
+Merchants  employ.  
+b. Data Security Rules . Without limiting the generality of the foregoing or any 
+other provision of this Agreement, Merchant understands that it and all of its employees, 
+agents, representatives and service providers must comply with the Rules, including without 
+limitation, those relating to Cardholder Information security issues, non -disclo sure of 
+Cardholder Information and Transaction documents, retention and storage of Cardholder 
+Information and Transaction information and other security procedures adopted by the Card 
+Networks. Merchant hereby confirms its agreement to abide by and fully c omply with such 
+Rules, including, without limitation, the Rules and procedures described  below:  
+i. Visa Cardholder Information Security Program, Mastercard Site 
+Data Protection Program and Discover Information Security Compliance . Visa and 
+Mastercard have implemented programs to protect Cardholder data. The Visa Cardholder 
+Information Security Program ( CISP ), Mastercard Site Data Protection Program ( SDP ) 
+and Discover Information Security Compliance (DISC) apply to Merchant if Merchant 
+processes or stores Cardholder data as a result of Internet or mail/telephone acceptance of 
+Visa, Mastercard or Dis cover Card account information. A copy of the complete Visa 
+Cardholder Information Security Standards manual and a Self -Assessment Worksheet can 
+be obtained online at www.visa.com/cisp or from Bank, and a copy of the SDP provisions 
+can be obtained from Bank. Visa and Mastercard may impose restrictions, fines, or prohibit 
+Merchant from participating in Visa or Mastercard programs if it is determined that Merchant 
+is non -compliant. Merchan t may be required to comply with an audit to verify compliance 
+with security procedures. The following list describes some of the current CISP and SDP 
+program requirements, with all of which Merchant may be required to comply, if applicable 
+to Merchant. (A ) install and maintain a working network firewall to protect data accessible 
+via the Internet; (B) keep security patches up -to-date; (C) encrypt stored data; (D) encrypt 
+data sent across networks; (E) use and regularly update anti -virus software; (F) restr ict 
+access to data by business need to know; (G) assign a unique ID to each person with 
+computer access to data; (H) dont use vendor -supplied defaults for system passwords and 
+other security parameters; (I) track access to data by unique ID; (J) maintai n a policy that 
+addresses information security for employees and contractors; and (K) restrict physical 
+access to Cardholder information. Merchant must also comply with the requirements of 
+Section 10.3 of the Visa Rules in connection with suspected or conf irmed losses, thefts, 
+compromises of information, and fraud or laundering associated with information. Please 
+also note  that this is not intended to be a complete list, and Merchant remains solely 
+responsible for understanding and complying in full with all of the applicable CISP, SDP and 
+DISC  requirements.  
+ii. Transaction Information . Merchant acknowledges that the sale or 
+disclosure of databases containing Cardholder account numbers, personal information, or 
+other Transaction information to third parties is strictly prohibited by the Rules. Unless 
+Merchant obtains consents from Bank,  and each applicable Card Network, issuing bank and 
+Cardholder, Merchant must not use, disclose, sell or disseminate any Cardholder 
+information obtained in connection with a Transaction (including without limitation, the 
+names, addre sses and Card account numbers of Cardholders, copies of imprinted sales 
+drafts and/or credit records, mailing lists, tapes or other media obtained in connection with a 
+sales draft and/or credit record) except for purposes of authorizing, completing and set tling 
+Transactions and resolving any Chargebacks, retrieval requests or similar issues involving 
+Transactions, other than pursuant to a court or governmental agency request, subpoena or 
+order.  Merchant shall use proper controls for, limit access to, and r ender unreadable prior 
+to discarding all records containing Cardholder account numbers and Card  imprints.  
+Merchant may not retain or store magnetic stripe data after a 
+Transaction has been authorized. If Merchant stores any electronically captured signature of 
+a Cardholder, Merchant may not reproduce such signature except upon the specific request 
+of Bank. Mer chant shall store all media containing Cardholder names, Cardholder account 
+information, and other personal information, as well as Card imprints (such as sales drafts 
+and credit records, auto rental agreements, and carbons) in an area limited to selected 
+personnel and, prior to discarding any such information, destroy it in a manner that renders 
+the data unreadable. Merchant further warrants and agrees that in the event of its failure, 
+including bankruptcy, insolvency, or other suspension of business opera tions, it will not sell, 
+transfer or disclose any materials that contain Cardholder account numbers, personal 
+information, or Transaction information to third parties, and shall return the information to 
+Bank and provide acceptable proof of destruction to Bank.  
+c. Safeguards . Merchant will maintain appropriate administrative, technical and 
+physical safeguards for all Cardholder Information. These safeguards will (i) ensure the 
+confidentiality of Cardholder Information; (ii) protect against any anticipated threats or 
+hazards t o the security or integrity of Cardholder Information; (iii) protect against 
+unauthorized access to or use of Cardholder Information that could result in substantial 
+harm or inconvenience to any Cardholder; and (iv) properly dispose of all Cardho lder 
+Information to ensure no unauthorized access to Cardholder Information. Merchant will 
+maintain  all such  safeguards  applicable  to Merchant  in accordance  with Applicable  Law.  
+d. Annual Certification . Merchant will provide an annual certification to Bank if 
+requested by Bank (in a form acceptable to Bank) certifying compliance with the data 
+security provisions of this Agreement, including compliance with applicable Card Network 
+requirements such as PCI DSS, SDP, and CISP. Merchant will provide annual certifications 
+for Merchants service providers, subcontractors and  agents.  
+e. Response to Unauthorized Access . Merchant will notify Bank within twenty  four 
+(24) hours after it becomes aware of any actual or potential breach in security resulting in an 
+unauthorized access to Cardholder Information. Merchant will provide any assistance that 
+Bank, Issuer, regulators, governmental authority or any Card Network de ems necessary to 
+contain and control the incident to prevent further unauthorized access to or use of 
+Cardholder Information. Such assistance may include, but not be limited to, preserving 
+records and other evidence and compiling information to enable Bank  and the Issuer(s) or 
+the Card Network to investigate the incident and provide assistance and cooperation to: (a) 
+file suspicious activity reports (as applicable); (b) notify their regulators (as applicable); and  (c) notify the affected Cardholder (as required). Unless the unauthorized access was due to  
+Banks acts or omissions, Merchant will bear the cost of notifying the affected Cardholder.  
+22. Merchants Business . Merchant will notify Bank immediately if it intends to (a) transfer 
+or sell any substantial part of its total assets, or liquidate; (b) change the basic nature of its 
+business, including selling any products or services not related to its current business; (c) 
+change ow nership or transfer control of its business; (d) enter into any joint venture, 
+partnership or similar business arrangement whereby any person or entity not a party to this 
+Agreement assumes any interest in Merchant or Merchants business; (e) alter in any way 
+Merchants approved monthly volume, average, or maximum ticket; (f) changes its return 
+policies or to another fulfillment house different from those identified in Merchant 
+Application; or (g) changes to its Operating Account. Merchant will notify Bank promptly in 
+writing if it becomes subject to any voluntary or involuntary bankruptcy or insolvency petition 
+or proceeding. Merchants failure to provide notice as required above may be deemed a 
+material breach and will be sufficient grounds for termination  of the Agreement and for 
+Banks exercise of all its rights and remedies provided by this Agreement. If any change 
+listed above occurs, Bank may immediately terminate this  Agreement.  
+23. Merchants Representations and Warranties . Merchant represents and warrants 
+that: (a) all information contained in the Merchant Application or any other documents 
+delivered to Bank in connection therewith is true and complete and properly reflects 
+Merchants business, financial condition and prin cipals, partners, owners or officers (as 
+applicable); (b) Merchant has power to execute, deliver and perform this Agreement, and 
+this Agreement is duly authorized, and will not violate any provisions of Applicable L aw, or 
+conflict with any other agreement to which Merchant is subject; (c) Merchant holds all 
+licenses, if any, required to conduct its business and is qualified to do business in every 
+jurisdiction where it is required to do so; and (d) there is no action , suit or proceeding at law 
+or in equity now pending or, to Merchants knowledge, threatened by or against or affecting 
+Merchant which would substantially impair its right to carry on its business as now 
+conducted or adversely affect its financial conditio n or operations.  
+24. Merchants Covenants . Merchants covenants that: (a) each Transaction presented to 
+Bank for collection is genuine and is not the result of any fraudulent activity, or a 
+Transaction prohibited by a Card Network, or is not being deposited on behalf of any 
+business other than Merchant as authorized by this Agre ement; (b) each Transaction is the 
+result of a bona fide purchase of goods or services from Merchant by the Cardholder in the 
+total amount stated on the Transaction record; (c) Merchant will perform all of its obligations 
+to the Cardholder in connection wi th the Transaction evidenced thereby; (d) Merchant will 
+comply with Banks procedures for accepting Cards, and the Transaction itself will not 
+involve any element of credit for any other purposes other than as set forth in this 
+Agreement, and will not be s ubject to any defense, dispute, offset or counterclaim which 
+may be raised by any Cardholder under the Rules, the Consumer Credit Protection Act (15 
+USC §1601) or other Applicable  Law.  
+25. Third Parties . Merchant may desire to use a third -party service provider to assist 
+Merchant with its Transactions. Merchant shall not utilize any such third parties unless 
+Merchant  has disclosed  such  use to Bank  previously  in writing,  and unless  such  third party 
+is fully compliant with all Applicable Laws. Any third party used by Merchant must be 
+registered with the Card Network prior to the performance of any contracted services on 
+behalf of Merchant. Further, as between the parties to the Agreement, Merch ant will be 
+bound by the acts and omissions of any third -party service provider and Merchant will be 
+responsible for compliance by such third -party service provider with all Applicable Laws. 
+Merchant will indemnify and hold harmless Bank from and against a ny loss, cost, or 
+expense incurred in connection with or by reason of Merchants use of any third parties, 
+including third -party service providers. Bank is not responsible for any third -party service 
+provider used by Merchant, nor is Bank required to proce ss any Transaction which Bank 
+receives from Merchant or its service providers in any format not approved by Bank. Bank 
+has no responsibility for, and shall have no liability to Merchant in connection with, any 
+hardware, software or services Merchant receiv es subject to a direct agreement (including 
+any sale,  warranty  or end-user license  agreement)  between  Merchant  and a third party.  
+26. Taxes . Each party hereto shall report its income and pay its own taxes to any 
+applicable  jurisdiction.  If Bank  is required  to pay any taxes,  interests,  fines  or penalties  owed 
+by Merchant, said amount shall become immediately due and payable by Merchant to Bank. 
+All other federal, state or local taxes of any description related to this Agreement, including, 
+but not limited to  excise, sale or use taxes that are imposed on Transactions, are 
+Merchant s sole responsibility and Merchant hereby agrees to be respo nsible for the 
+collection and payment thereof. Merchant shall not add any tax to any Transaction unless 
+Applicable Law expressly provides that Merchant is permitted to impose a tax, and any such 
+tax amount, if so allowed, shall be included in the Transaction amount and not collected 
+separately. Bank shall be entitled to recover from Merchant any of said taxes paid by it on 
+behalf of Merchant immediately after  payment.  
+27. Limitation of Liability . In addition to all other limitations on the liability of Bank 
+contained  in this Agreement,  Bank  shall  not be liable  to Merchant  or Merchants  customers 
+or any other person for any of the  following:  
+(a) Any loss or liability  resulting  from  the denial  of credit  to any person  or Merchants  
+retention of any Card or any attempt to do so;  
+(b) Any loss caused by a Transaction downgrade resulting from defective or faulty 
+Equipment, even if such Equipment is owned by  Bank;  
+(c) The unavailability of Services caused by the termination of contracts with computer 
+hardware vendors, processors or installers, whether terminated by Bank or any other person 
+for any reason;  or 
+(d) Interruption or termination of any Services caused by any  reason.  
+IN NO EVENT WILL BANK OR ITS AGENTS, OFFICERS, DIRECTORS OR EMPLOYEES 
+BE LIABLE FOR ANY LOST PROFITS, PUNITIVE, INDIRECT, SPECIAL OR 
+CONSEQUENTIAL DAMAGES TO MERCHANT OR TO ANY THIRD PARTY IN 
+CONNECTION WITH OR ARISING OUT OF THIS AGREEMENT OR ANY OF THE 
+SERVICES TO BE PERFORMED BY BANK PURSUANT TO THIS AGREEMENT. IF 
+THERE ARE ERRORS, OMISSIONS, INTERRUPTIONS OR DELAYS RESULTING FROM 
+BANKS PERFORMANCE OR ANY FAILURE TO PERFORM, BANKS LIABILITY SHALL 
+BE LIMITED TO CORRECTING SUCH ERRORS, IF COMMERCIALLY RE ASONABLE.  
+28. Limitation on Damages . Any liability of Bank under this Agreement, whether to 
+Merchant or any other party, whatever the basis of the liability, will not exceed, in the 
+aggregate,  an amount  equal  to the fees retained  by Bank  pursuant  to this Agreement  during 
+the six month  period  immediately  prior to the event  giving  rise to the claim  for damages.  
+29. Indemnification . Merchant agrees to defend, indemnify and hold Bank and its officers, 
+directors, members, shareholders, partners, employees, agents, subcontractors and 
+representatives harmless from and against any and all fines, penalties, losses, claims, 
+damages, liabilities, fees or expenses of any nature whatsoever, including attorneys fees 
+and costs (whether or not an attorney is an employ ee of Bank or Banks affiliates) asserted 
+against or incurred by Bank arising out, relating to or resulting from, either directly or 
+indirectly, of any of the  following:  
+(a) a breach of any representation, warranty or term of this Agreement, including, but not 
+limited to, the data security provisions by Merchant, or any service provider, subcontractor 
+or agent of  Merchant;  
+(b) Any act or omission of Merchant, including  negligence;  
+(c) Merchants failure to comply with any Equipments users  guide;  
+(d) Merchants failure to comply with any Applicable  Law;  
+(e) Any dispute concerning the quality, condition or delivery of any merchandise or the 
+quality of performance of any  service;  
+(f) The fraud or dishonesty of Merchant or Merchants employees, licensees, successors, 
+agents and/or  assigns;  
+(g) Merchants selection of an Internet service provider or other  telecommunication  
+services provider;  
+(h) The theft of or damage or destruction to any  Equipment;  
+(i) Full Recourse Transactions, unauthorized Transactions and prohibited Transactions; 
+or 
+(j) a breach of the security of the system safeguarding Cardholder Information resulting in 
+unauthorized access to Cardholder  Information.  
+Merchant will promptly reimburse Bank for any assessments, fines, fees or penalties 
+imposed by any Card Network in connection with this Agreement, including the data security 
+provisions, and authorizes Bank to deduct any such sums from the Operating Account, the 
+Reserve Account or amount to otherwise be cleared and settled with Merchant.  
+30. Credit Investigation and Bank Auditing . Bank may audit, from time to time, 
+Merchants compliance with the terms of this Agreement. Merchant shall provide all 
+information requested by Bank to complete Banks audit. Merchant authorizes parties 
+contacted by Bank to release the credit information requested by Bank, and Merchant 
+agrees to provide a separate authorization for release of credit information, if requested by 
+Bank. Merchant shall deliver to Bank such information as Bank may reasonably request 
+from ti me to time, including without limitation, financial statements and information 
+pertaining to Merchants financial condition. Such information shall be true, complete and 
+accurate. Without limiting the generality of the foregoing, Merchant shall provide to Bank its 
+balance  sheet  and income  statements  not less frequently  than every  three  calendar  months 
+during the term of this  Agreement.  
+31. Termination of Agreement by Bank . Bank may terminate this Agreement, without 
+cause, upon at least 30 days prior written notice to Merchant. In addition, Bank may 
+terminate this Agreement immediately upon written or verbal notice to Merchant, or by 
+closing Merchants Equipment, upon the occurrence of any of the following (each, an  Event 
+of Defaul t): 
+(a) Any information  concerning  Merchant  obtained  by Bank  is unsatisfactory  to Bank,  in 
+Banks sole discretion.  
+(b) Any act of fraud or dishonesty is committed by Merchant, its employees or agents, or 
+Bank believes in good faith that Merchant, its employees or agents have committed, are 
+committing or are planning to commit any acts of fraud or  misrepresentation.  
+(c) Chargebacks are excessive, in the opinion of  Bank.  
+(d) There is a breach of any representation or warranty made by Merchant to Bank, or 
+Merchant  defaults  in the performance  of any of its obligations  under  this Agreement.  
+(e) A petition  under  any bankruptcy  or insolvency  law is  filed against  or by the Merchant.  
+(f) Bank determines that the continuation of this Agreement may create harm or the loss 
+of goodwill to Bank or any Card  Network.  
+(g) Merchant fails to maintain sufficient funds in the Operating Account to cover the 
+amounts due to Bank  hereunder.  (h) Merchants percentage of error Transactions or retrieval requests is excessive in the 
+opinion of  Bank.  
+(i) Any insurance policy obtained by Bank or Merchant relating to Transactions and/or 
+Chargebacks is cancelled or terminated for any  reason.  
+(j) Merchant fails to provide financial statements suitable to Bank on request or there is a 
+material adverse change in Merchants financial  condition.  
+(k) Bank is unable to perform its duties under this Agreement and Bank determines that it 
+is not feasible to provide the Services contemplated by this Agreement to  Merchant.  
+(l) Any Card Network requests or demands that this Agreement be  terminated.  
+(m) any information which Merchant provided to Bank, including in the Merchant 
+Application, was false, incomplete or misleading when  received.  
+(n) an overdraft in the Operating Account exists for more than 3  days.  
+(o) Merchant  or any of Merchants  officers  or employees  has been  involved  in processing  
+Transactions arising from fraudulent or otherwise unauthorized Transactions.  
+(p) Merchant is or will be unable or unwilling to perform its obligations under this 
+Agreement or applicable  Law.  
+(q) Merchant has failed to timely pay Bank any amount  due. 
+(r) Merchant has failed to promptly perform or discharge any obligation under its 
+Operating Account or the Reserve  Account.  
+(s) any of Merchants representations or warranties made in connection with  this 
+Agreement was not true or accurate when given.  
+(t) Merchant has defaulted on any agreement it has with  Bank.  
+(u) Bank is served with legal process seeking to attach or garnish any of Merchants 
+funds  or property  in Banks  possession,  and Merchant  does  not satisfy  or appeal  the legal 
+process within 15 days of such  service.  
+(v) any Rules are amended in any way so that the continued existence of this Agreement 
+would cause Bank to be in breach of those  rules.  
+(w) any guaranty  supporting  Merchants  obligations  is revoked,  withdrawn,  terminated  or 
+altered in any way.  
+(x) termination is necessary to prevent loss to Bank or  Issuers.  
+(y) Merchants  type of business  indicated  on the merchant  application  or as conducted  by 
+Merchant could endanger Banks safety or soundness.  
+(z) Merchant appears on any Card Networks security  reporting.  
+Bank may selectively terminate one or more of Merchants approved locations without 
+terminating this entire Agreement.  
+In the event of termination, all obligations of Merchant incurred or existing under this 
+Agreement prior to termination shall survive the termination. Merchants obligations with 
+respect to any Transaction shall be deemed incurred and existing on the date of such 
+Transaction.  
+In the event Bank terminates this Agreement following any Event of Default, Merchant: (i) 
+agrees that Bank may place Merchant on each Card Networks Terminated Merchant File 
+(or any other list or file serving a similar purpose); and (ii) agrees to indemn ify and hold 
+Bank  harmless  from and against  any and all costs,  expenses  and liabilities  incurred  by Bank 
+in connection with or arising out of such Event of  Default.  
+In the event of a bankruptcy filing against or by Merchant, Bank reserves the right to 
+suspend or discontinue Services. Upon filing voluntary or involuntary bankruptcy 
+proceedings by or against Merchant, Merchant must notify Bank in writing within five (5)  
+days. Notification must be sent by certified mail to Bank at the address set forth herein. 
+Credits to merchants designated account and other payments to merchant are provisional. 
+The Parties acknowledge the Agreement in an agreement whereby Bank is exten ding 
+financial accommodations  to the Merchant within the meaning of 11U.S.C.365 (c) (2) of the 
+Bankruptcy Code as amended from time to time. The right of merchant to receive any 
+amounts due or to become due from the Bank is expressly subject and subordinate to the 
+Chargebacks , recoup ment, setoff, lien, and/or security interest rights that are being applied 
+to claims that are liquidated, unliquidated, fixed contingent, matured or unmatured.  
+32. Termination of Agreement by Merchant . Merchant may terminate this Agreement by 
+providing written notice to Bank if Bank amends Schedule A pursuant to Section 31 to 
+increase the rates, fees or charges Merchant pays hereunder, except for fees or rates that 
+result from a pass through from a Card Network, prior to the effective date of such 
+amendment. However, continued use of the Services after  the effective date of any such 
+rate or fee change shall be deemed Merchants acceptance of such rate or fee changes f or 
+the Services, throughout the term of this  Agreement.  
+33. Setoff . In addition  to any other  legal or equitable  remedy  available  to it in accordance 
+with this Agreement or by Law, Bank may set off any amounts due to it under this 
+Agreement  against  any property  of Merchant  in its possession  or under  its control.  
+34. Exclusivity and Early Termination Fee . Merchant shall submit all Transactions made 
+during the term hereof solely to Bank for processing. If Merchant fails to comply with this 
+provision, or it this Agreement is terminated for any reason, Merchant agrees to pay Bank, 
+within 10 days of the date of non -compliance or termination, a liquidated damages sum 
+equal to the greater of (i) $250 per Merchant location, or (ii) an amount to be determined by 
+multiplying $25 by the number of months remaining in the term here of, and multiplying that 
+number  by the number  of Merchant  locations.  Merchant  and Bank  agree  that the damages  
+suffered by Bank as a result of such non -compliance or termination would be extremely 
+difficult to calculate with precision. For that reason, the parties hereto agree that the 
+liquidated damages should be computed as set forth above. Any exceptions to this  
+exclusive arrangement must be approved by Bank in advance in writing.  
+35. Amendments to this Agreement . From time to time Bank may amend this Agreement 
+as follows:  
+(a) Bank may amend or delete Cards or Services listed in Schedule A by notifying 
+Merchant  in writing  of any such amendment.  All provisions  of this Agreement  shall apply  to 
+Cards or Services added to this Agreement. Bank shall notify Merchant of the fees to be 
+charged for processing the additional Cards and Services. Acceptance by Merchant of a 
+new approved Card as payment for a Transaction or use of a new Service after Ba nk has 
+sent Merchant notice of an amendment shall constitute Merchants agreement to the 
+amendment and the fees or charges related to these  additions.  
+(b) From time to time, Bank may introduce new fees or change the rates, fees and 
+charges set forth on Schedule A . Bank will provide written notice to Merchant of all such 
+amendments. Bank may change the rates, fees and charges without prior written notice if 
+Merchants sales volume or average Transaction amount does not meet Merchants 
+projections contained in the M erchant Application form to which this Agreement is attached 
+or if the risk factors associated with processing Transactions increase. If notice is r equired, 
+Bank  will give written  notice  on the Merchant  Statement.  All new rates,  fees and charges  will 
+become effective for the month immediately following the month in which the notice 
+appeared on the Merchant Statement unless Merchant terminates this Agreement in 
+accordance with Section  28. 
+(c) Bank may amend this Agreement in any manner other than as described in Section 
+31(a) or 31(b) above simply by providing written notice of such amendment to Merchant, 
+and such amendment shall become effective on the latter of: (i) the date on which such 
+written notice  is received  by Merchant;  or (ii) a date specified  by Bank  in such  written  notice.  
+36. Assignment . This Agreement may not be assigned, directly or by operation of law, by 
+Merchant without the prior written consent of Bank . Bank may assign this Agreement 
+without limitation. Assignment of this Agreement by Bank shall relieve Bank of any further 
+obligations under this Agreement. This Agreement will be binding upon and inure to the 
+benefit  of the parties  respective  heirs,  personal  representatives,  successors  and assigns.  
+37. Financial Accommodations . Bank and Merchant intend this Agreement to be 
+construed  as a contract  to extend  financial  accommodations  for the benefit  of Merchant.  
+38. Waiver . To the extent that Merchant becomes a debtor under any chapter of title 11 of 
+the United States Code and such event does not result in the termination of this Agreement, 
+Merchant hereby unconditionally and absolutely waives any right or ability that Merchant 
+may otherwise have had to oppose, defend against or otherwise challenge any motion filed 
+by Bank f or relief from the automatic stay of 11 U.S.C. § 362(a) to enforce any of Banks 
+rights or claims under this  Agreement.  
+39. Cooperation . In their dealings with one another, each party agrees to act reasonably 
+and in good faith and to fully cooperate with each other in order to facilitate and accomplish 
+the transactions contemplated  hereby.  
+40. Entire Agreement . This Agreement, together with the Schedules attached hereto, 
+supersedes any other agreement, whether written or oral, that may have been made or 
+entered into by any party (or by any officer or officers of any party) relating to the matters 
+covered herein  and constitutes the entire agreement of the parties  hereto.  
+41. Severability; Conflict with Rules . If any provisions of this Agreement shall be held, or 
+deemed to be, or shall in fact be, inoperative or unenforceable as applied in any particular 
+situation, such circumstance shall not have the effect of rendering any other provision or 
+provisions herei n contained invalid, inoperative or unenforceable to any extent whatsoever. 
+The invalidity of any one or more phrases, sentences, clauses or sections herein contained 
+shall not affect the remaining portions of this Agreemen t or any part hereof. In the event of 
+a conflict  between  this Agreement  and the Rules,  the Rules  shall  govern  and control.  
+42. Notices . Except  for notices  provided  by Bank  to Merchant  on the Merchant  Statement, 
+all notices, requests, demands or other instruments which may or are required to be given 
+by any party hereunder shall be in writing and each shall be deemed to have been properly 
+given when: (i) served personally on an officer of the party to whom such notice is to be 
+given, (ii) upon expiration of a period of three (3) business days from and after the date of 
+mailing thereof when mailed p ostage prepaid by registered or certified mail, requesting 
+return receipt, or (iii) upon delivery by a nationally recognized overnight delivery service, 
+addressed as  follows:  
+If to Fifth Third Bank: 6111 N. River Road, Rosemont, IL 60018 
+If to ISO: 1754 Bagdad Rd., Bldg 100A, Cedar Park, TX 78613 
+If to MERCHANT:  
+Address listed on the application to which this Agreement is  
+attached.  Any party may change the address to which subsequent notices are to be sent by notice to 
+the others given as aforesaid.  
+43. Governing Law and Venue .  This Agreement shall be governed and construed in 
+accordance with the laws of the state of Illinois, without regard to internal principles of conflict 
+of laws, and federal law. Bank and Merchant agree that, in the event of any dispute regarding, 
+arising  out of or relating to this Agreement or any personal guarantee related hereto, the 
+courts of the state of Illinois shall have and be vested with personal jurisdiction over the 
+parties. Such parties further agree that any and all act ions, claims, suits or proceedings 
+arising out of or relating (directly or indirectly) to this Agreement or any personal 
+guarantee related hereto herein shall be filed and litigated only in courts located in 
+Williamson County, Texas and such courts shall h ave exclusive jurisdiction over any 
+action, claims, suit or proceeding arising out of or relating (directly or indirectly) to this 
+Agreement or any personal guarantee related hereto.  TO THE EXTENT PERMITTED BY 
+APPLICABLE LAW, MERCHANT AND BANK WAIVE ANY R IGHT TO TRIAL BY JURY IN 
+ANY ACTION OR PROCEEDINGS REGARDING ANY LITIGATION RELATED TO THIS 
+AGREEMENT AND EACH AGREE THAT ANY SUCH ACTIONS OR PROCEEDINGS WILL 
+BE TRIED A JUDGE WITHOUT A JURY.  
+44. Third -Party Beneficiary . Banks respective affiliates and any third party Bank uses in 
+providing  the Services  are third party  beneficiaries  of this Agreement  and each  of them  may 
+enforce its provisions as it was a party hereto. Except as expressly provided in this 
+Agreement, nothing in this Agreement is intended to confer upon any person or entity any 
+rights or remedies, and the parties do not intend for any person or entity to  be third -party 
+beneficiaries of this  Agreement.  
+45. Warranty Disclaimer . BANK MAKES NO WARRANTIES REGARDING THE USE, 
+OPERATION OR PERFORMANCE OR NON -PERFORMANCE OF SOFTWARE AND 
+SYSTEMS  UTILIZED  FOR  THIS  AGREEMENT,  WHETHER  EXPRESS  OR IMPLIED,  AND 
+BANK EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY 
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR  PURPOSE.  
+46. Captions . Captions in this Agreement are for convenience of reference only and are 
+not to be considered  as defining  or limiting  in any way the scope  or intent  of the provisions 
+of this  Agreement.  
+47. No Waiver . Any delay, waiver or omission by Bank to exercise any right or power 
+arising from any breach or default of the other party in any of the terms, provisions or 
+covenants of this Agreement shall not be construed to be a waiver of any subsequent 
+breach or default of the same or any other terms, provi sions or covenants on the part of the 
+other party. All remedies afforded by this Agreement for a breach hereof shall be 
+cumulative.  
+48. Force Majeure . The parties shall be excused from performing any of their respective 
+obligations under this Agreement which are prevented or delayed by any occurrence not 
+within their respective control including but not limited to strikes or other labor matters, 
+destru ction of or damage to any building, natural disasters, accidents, riots or any 
+regulation,  rule, law, ordinance  or order  of any federal,  state  or local government  authority.  
+49. Cooperation . Merchant covenants and agrees that, if it is undergoing forensic 
+investigation at the time this Agreement is signed, Merchant will fully cooperate with the 
+investigation until it is  completed.  
+50. IRS Reporting Information .  Pursuant to Section 6050W of the Internal Revenue 
+Code, merchant acquiring entities such as Bank and third -party settlement organizations are 
+required to file an information return reflecting all payment card transactions and third -party 
+network transac tions occurring in a calendar year. This requirement applies to returns for all 
+calendar years after December 31, 2010 and Merchant will receive a form 1099 -K reporting 
+Merchants gross transaction amounts for each calendar year. I n addition, amounts payable 
+under Section 6050W are subject to backup withholding requirements. Merchant acquirers 
+such as Bank, either itself or through third parties, are required to perform backup 
+withholding by deducting and withholding income tax from  reportable transactions if (a) the 
+payee fails to provide the payees taxpayer identification number (TIN) to the merchant 
+acquirer; or (b) if the IRS notifies the merchant acquirer that the TIN (when matched with the 
+name) provided by the payee is incorr ect. Accordingly, to avoid backup withholding, it is 
+very important that Merchant provides Bank with the correct name and TIN that Merchant 
+uses when filing its income tax return that includes the transactions for Merchants business. 
+In addition to the fe es set forth on the Merchant Application, if Merchant fails to comply with 
+the obligations set forth in this section, Bank may charge Merchant additional amounts 
+determined by Bank and may pass through any additional fines, costs or expenses incurred 
+by Bank. 
+51. E-Sign Consent Agreement . By accessing and using the Services, Merchant hereby 
+consents and agrees  that:  
+(a) Bank  can provide  disclosures  required  by Law and other  information  about  Merchants  
+legal rights and duties to Merchant electronically.  
+(b) Where required or requested, Merchants electronic signature (via click¬through or 
+other  method)  on agreements  and documents  relating  to use of the Services  has the same 
+effect as if Merchant signed them in  ink. 
+(c) Bank can send all communications, billing statements, amendments to the Services or 
+this Agreement, notices, and other disclosures or information regarding the Services or 
+Merchants access to and use of the Services (collectively, Disclosures) to Mercha nt 
+electronically (1) via e -mail, (2) by access to a web site that Bank designates in an e -mail 
+notice Bank sends to Merchant at the time the information is available, or (3) to the extent 
+permissible by Applicable Law, by access to a website that Bank wil l generally designate in 
+advance for such  purpose.  
+(d) If Merchant  wants  a paper  copy,  Merchant  can print a copy  of the Disclosure  or 
+download the information for Merchants records.  
+(e) This consent applies to all future Disclosures sent to Merchant in connection with the 
+Services or this  Agreement.  
+52. Legal Effect . By consent, Merchant agrees that electronic Disclosures have the same 
+meaning and effect as if Bank provided paper Disclosures to Merchant. When Bank sends 
+Merchant an email or other electronic notification alerting Merchant that the Disclosure is 
+availa ble electronically and makes it available online, that shall have the same meaning and 
+effect  as if Bank  provided  a paper  Disclosure  to Merchant,  whether  or not Merchant  chooses 
+to view or print or download the  Disclosure.  
+53. Limited Acceptance . Merchant has the option to elect to be a Limited Acceptance 
+Provider and only accept only certain Visa, Mastercard , Discover or American 
+Express (Limited Acceptance). Bank and its designated vendors have no obligations with 
+regard to Limited Acceptance except those expressly stated in the Rules or the Laws. Bank 
+and its designated vendors have no obligation to police card types accepted by Merchant at 
+the point of sale. If Merch ant elects to be a Limited Acceptance Provider, Merchant is solely 
+responsible for implementing its Limited Acceptance and for paying all costs related thereto. 
+Should Merchant submit a transaction involving a Card type that it has indicated it does not 
+wish to accept, Bank and/or its designated vendors may process that transaction and 
+Merchant will be responsible for all fees, charges and assessments related to that 
+transaction. If indicated on the Merchant Application, Merchant agrees to elect to be a 
+Limited Acceptance Provider and will accept only the Visa and/or Mastercard  and/or 
+Discover and/or American Express  types indicated on the Merchant  Application.  
+54. Participation in the American Express OptBlue®  Program  
+If Merchant  elects  to participate  in the AMERICAN  EXPRESS  OptBlue  Program  
+(American  Express  Card  Acceptance),  the following  terms  and conditions  apply:  
+(a) The definition of Card Network(s) is to read as  follows:  
+Card Networks(s)  means VISA U.S.A., Inc. ( Visa), Mastercard International 
+Incorporated ( MasterCard ), DFS Services LLC ( Discover ) and American Express Travel 
+Related Services Company, Inc. (American Express).  
+(b) The definition of Card(s) is changed to read as  follows:  
+Card(s) means either a Visa, MasterCard, Discover or American Express credit card, 
+debit card (or other similar card that requires a PIN for identification purposes), or pre -paid, 
+stored -value or gift card.  
+(c) The definition of Issuer is changed to read as  follows:  
+Issuer means American Express or a member of a Card Network that enters into a 
+contractual relationship with a Cardholder for the issuance of one or more Cards  
+(d) Merchant authorizes Bank and/or its affiliates to submit American Express 
+Transactions to, and receive settlement on such Transactions from, American Express on 
+behalf of  Merchant.  
+(e) Merchant agrees that Bank may disclose to American Express information regarding 
+Merchant  and Transactions  to American  Express,  and that American  Express  may use such 
+information: (i) to perform its responsibilities in connection with American Express Card 
+Acceptance; (ii) to promote American Express; (iii) to perform analytics and create reports; 
+and (iv) for any other lawful business purposes, including commercia l marketing 
+communications purposes within the parameters of American Express Card Acceptance,  
+and important transactional or relationship communications from American Express. 
+American Express may use the information about Merchant obtained in this Agreement at 
+the time of setup to screen and/or monitor Merchant in connection with American Express  
+marketing and administrative purposes. Merchant agrees it may receive messages from 
+American Express, including important information about American Express products, 
+services, and resources available to its business. These messages may be sent to the 
+mailing address, phone numbers, email addresses or fax numbers of Merchant. Merchant 
+may be contacted at its wireless telephone number and the communications sent may 
+include autodialed short message service (SMS or "text") messages or automated or 
+prerecorde d calls. Merchant agrees that it may be sent fax  communications.  
+(f) Merchant may opt -out of receiving future commercial marketing communications 
+from American Express by contacting ISO; however, Merchant may continue to 
+receive marketing communications while American Express updates its records to 
+reflect this choice. Opti ng out of commercial marketing communications will not 
+preclude Merchant from receiving important transactional or relationship messages 
+from American  Express.   
+(g) Merchant acknowledges that it may be converted from American Express Card 
+Acceptance to a direct relationship with American Express if and when its American 
+Express -related Transaction volumes exceed the eligibility thresholds for American Express 
+Card Acceptance. If this occurs, upon such conversion: (i) Merchant will be bound by 
+American Expresss then -current Card Acceptance Agreement; and (ii) American Express 
+will set pricing and other fees payable by  Merchant.  
+(h) Merchant will not assign to any third party any payments due to it under American 
+Express Card Acceptance, and all indebtedness arising from Transactions will be for bona 
+fide sales of goods and services (or both) at its business locations and free of lien s, claims, 
+and encumbrances other than ordinary sales taxes; provided, however, that Merchant may 
+sell and assign future American Express -related Transaction receivables to Bank, its 
+affiliated entities and/or any other cash advance funding source that par tners with Bank or 
+its affiliated entities, without consent of American Express. Notwithstanding the foregoing, 
+Bank prohibits Merchant from selling or assigning future American Express -related 
+Transaction receivables to any third  party.  
+(i) Notwithstanding anything in this Agreement to the contrary, American Express shall 
+have third -party beneficiary rights, but not obligations, to the terms of this Agreement 
+applicable  to American  Express  Card  Acceptance  to enforce  such  terms  against  Merchant.  
+(j) Merchant may opt out of accepting American Express at any time without directly or 
+indirectly affecting its rights to accept other  Cards.  
+(k) Bank and ISO have the right to terminate Merchants participation in American Express 
+Card Acceptance immediately upon written notice to Merchant: (i) if Merchant breaches any 
+of the provisions of this Section 46 or any other terms of this Agreement applic able to 
+American Express Card Acceptance; or (ii) for cause or fraudulent or other activity, or upon 
+American Expresss request. In the event Merchants participation in American Express 
+Card Acceptance is terminated for any reason, Merchant must immediate ly remove all 
+American Express branding and marks from Merchants website and wherever else they are 
+displayed.  
+(l) Merchants refund policies for American Express -related Transactions must be at least 
+as favorable as its refund policy for purchase with any other Card, and the refund policy 
+must be disclosed to Cardholders at the time of purchase and in compliance with Applicable 
+Law. Merchant may not bill or attempt to collect from any cardholder for any American 
+Express -related Transaction unless a Chargeback has been exercised, Merchant has fully 
+paid for such Chargeback, and it otherwise has the right to do  so. 
+(m) Merchant must accept American Express as payment for goods and services (other 
+than those goods and services prohibited by this Agreement or Applicable Law) sold, or (if 
+applicable) for charitable contributions made at all of its business locations and web sites, 
+except as expressly permitted by state statute. Merchant is jointly and severally liable for the 
+obligations of Merchants business locations and websites under this  Agreement.  
+(n) Merchant or American Express may elect to resolve any claim against each other, or 
+against Bank or ISO with respect to American Express -related Transactions, by individual, 
+binding arbitration, decided by a neutral  arbitrator.  
+(o) Merchant  will comply  in full with American  Expresss  Merchant  Operating  Guide  (as the 
+same may be amended from time to time).  
+(p) American Express has the right to modify the terms of this Section 46 and to terminate 
+Merchants acceptance of American Express -related Transactions and to require an 
+investigation  of Merchants  activities  with respect  to American  Express -related  transactions.  
+(q) Merchant will fully comply with American Expresss Data Security Operating Policy 
+(DSOP), Merchant Data Security Requirements, and Information Protection Contract 
+Requirements  (IPCR)  as each  may be updated  by American  Express  from time to time.

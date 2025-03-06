@@ -1,0 +1,597 @@
+NOTE REGARDING USE OF THIS DOCUMENT : These Global Terms 
+and Conditions (including any Exhibits) ( GTCs ) are intended to be 
+incorporated into country -specific master country agreements ( MCAs ), 
+and neither Licensed Space nor Services may be ordered in a country 
+until the applicable MCA which incorporates these GTCs is fully executed.   
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+ Agreement Number:  00238344.0  
+ATTACHMENT TO MASTER COUNTRY AGREEMENT  
+GLOBAL TERMS AND CONDITIONS  
+1. ORDERING AND PROVISION OF LICENSED SPACE AND SERVICES  
+a. Customer may request Licensed Space and Services from Equinix by placing an Order. Customer will use the Customer 
+Portal to designate those Authorized Persons who are permitted to place Orders. Once an Order is accepted, Equinix will provi de 
+such ordered L icensed Space and Services to Customer in a professional and workmanlike manner in accordance with the 
+Agreement, including the Equinix Colocation Service Description and Service Level Agreement attached hereto in Exhibit A. 
+Customer shall be jointly and s everally liable for the performance under the Agreement (including Orders) of and for the acts 
+and for the omissions of its Affiliates.  Where a Customer Affiliate is the signatory to an Order that takes effect pursuant to the 
+Agreement, the Affiliate shal l be considered the Customer for the purposes of such Order.  The Customer shall give prompt 
+written notice to Equinix when a Customer Affiliate which is a party to an Order is divested, such that it is no longer an Af filiate 
+of the Customer ( Divested Ent ity).  In the case of the Divested Entity, the Order(s) with the Divested Entity will form a separate 
+contract between the signatories of that Order incorporating the terms of the Agreement that are in force on the date on whic h 
+the Divested Entity ceased to be  an Affiliate of the Customer.  The Divested Entity must agree in writing to be bound by the 
+terms of the Agreement that are in force on the date on which the Divested Entity ceased to be an Affiliate of the Customer. For 
+any Order for Services not c overed by Exhibit A, additional Product Policies shall apply.  
+b. The Parties will comply with the Policies. Equinix may modify the Policies from time to time effective upon notice. If 
+Equinix modifies a Policy in a way that materially impacts Customers use of the Licensed Space or the Services, Customer may 
+terminate the affected Licensed Space or Services within ten (10) days from the date of Equinixs notice.  
+2. PAYMENT AND TAXES  
+a. Fees will be listed on Orders or, if not so listed such as in Phone Orders, will be subject to Equinixs then -current list 
+price. Fees  will accrue from the Effective Date of the Order. Once accepted, the Order cannot be cancelled except in accordance 
+with the Agreement  and Customer is obligated to pay the Fees for the full term of the Order  unless such termination is due to 
+non-performance or breach by Equinix.  Equinix will invoice monthly in advance for all recurring Fees and in arrears for usage -
+based or non-recurring Fees.  
+b. In addition to the Fees , Customer will pay: (i) Taxes related to its activities and the ownership and operation of 
+Customers Equipment; and (ii) Taxes imposed, levied or assessed by any governmental or other authorities. If Customer is 
+required to make any deduction, withholding or payment for Taxes in any jurisdiction on amounts payable to Equinix, such 
+amounts will be increased such that after making such deduction, Equinix receives an amount equal to what it would have 
+received if such deduction, withholding or payment had not been made.  
+c. If Customer requires a purchase order (" CPO ") in order to process payment of an invoice, Equinix will reasonably 
+cooperate with Customer to support its CPO requirement. Before placing an Order, Customer will: (i) inform Equinix of its CPO  
+requirements and provide an accurate and complete CPO; and ( ii) maintain sufficient funds in a CPO to pay the Fees for current 
+and future Orders. Customer acknowledges and agrees that the Customers CPO requirements will not serve as a basis for any 
+delay in paying invoice s when due, nor will the terms of any CPO modify the terms of the Agreement or any Order.  
+d. Customer will pay  in full  all invoices  (excluding Disputed Amounts)  from Equinix in the currency stipulated in the Order 
+thirty (30) days from the receipt of the date  of invoice. Customer may, in good faith, dispute an invoice or any part thereof (a 
+Disputed Amount ) by submitting a written notice of such dispute along with reasonable supporting documentation within 
+ninety (90) days of the date of the initial invoice on which the Disputed Amount appears, failing which Customer waives all r ights 
+to dispute such Dispu ted Amount and to file any claim. The Parties will work together in good faith to resolve the Disputed 
+Amount within thirty (30) days after receipt of Customers notice.  
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+3. IBX CENTER ACCESS AND USE   
+a. Subject to the terms of the Agreement, Customer will have access to the Licensed Space twenty -four (24) hours per 
+day, every day of the year. Customer will ensure that it and all Authorized Persons and Associated Entities that have access to 
+an IBX Center will comply with the IBX Policies. Customer will maintain the legal right and authority (including applicable 
+regulatory approvals or third -party consents) to install, operate, maintain and repair Customers Equipment.  
+b. Customer may sublicense its Licensed Space to a Sublicensee provided that: (i) the terms of such sublicense will be 
+no less restrictive than the Agreement; (ii) Customer will not act or purport to act on behalf of Equinix or any landlord of Equinix; 
+(iii) Customer will require the Sublicensee to abide by the Agreement and the applicable Policies; and (iv) Equinix shall not be 
+deemed to have any obligations to any Sublicensee. No Sublicensee shall further sublicense any Licensed Space. 
+Notwithstanding any su blicensing, Customer remains responsible to Equinix for the performance of all obligations under the 
+Agreement including the payment of all amounts owed under the Agreement.  
+c. Customer will designate those Authorized Persons who are permitted to access the Licensed Space on Customers 
+behalf, as set forth in the Customer Portal. Customer will at all times maintain an accurate and current list of its Authoriz ed 
+Persons as set for th in the Customer Portal. Customer will be responsible and liable for all acts or omissions of Customers 
+Authorized Persons, Associated Entities and for any equipment or services not provided by Equinix. Customer will indemnify, 
+defend and hold harmless Equinix and its Affiliates, owners, officers, directors, employees, and agents of Equinix from and 
+against any and all liability, loss, damages, costs and expenses (including reasonable attorneys fees and expenses) for thir d-
+party claims brought by, arisi ng from or related to Customers Authorized Persons or Associated Entities.  
+d. The Agreement is subject and subordinate to any applicable IBX Center leases. The Agreement is not a lease of any 
+real or personal property or a grant of any other real property interest. Customer agrees that for Licensed Space and Service s 
+provided in: (i ) a common law jurisdiction, Customer is granted a license to use the Licensed Space in accordance with the 
+Agreement ; and (ii) a civil law jurisdiction, the Licensed Space is made available and Customer is granted permission to access 
+and use the Licensed  Space in accordance with the Agreement. Customers Equipment are not fixtures or fittings and Customer 
+retains title to Customers Equipment. Equinix retains title to all parts and materials used or provided by Equinix in provid ing the 
+Licensed Space and the performance of the Services.  
+e. Customer (including its Authorized Persons) shall not cause or create a situation which causes a threat to safety 
+(including any risk of fire or other hazard) and shall ensure that Customers Equipment does not mechanically or electrically  
+interfere with E quinixs operation or maintenance of the IBX Center or with any other customers use thereof (each an 
+Interference ). Equinix will promptly contact Customer upon the discovery of an Interference and Customer must promptly (not 
+to exceed one (1) hour): (a)  either cease such Interference or provide a plan reasonably acceptable to Equinix to cease such 
+Interference; or (b) authorize Equinix to take action to cease such Interference (billed at Smart Hands rates). If Customer f ails 
+to promptly take one of the f oregoing actions, then Equinix may take all reasonable steps to remedy the Interference, which may 
+include the suspension of Services. Equinix will promptly reverse any suspension after it is reasonably satisfied that the 
+Interference has been remedied and  may charge a reinstatement fee. Notwithstanding anything to the contrary in the Agreement, 
+Equinix may terminate the Agreement immediately upon written notice if: (i) Customer fails to respond and take action within 
+five (5) days; or (ii) an Interference occurs more than three (3) times in any twelve (12) month period.  
+4. WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY  
+a. Equinix does not make and hereby disclaims all warranties, including but not limited to, any implied or statutory 
+warranties, including the implied warranties of merchantability or satisfactory quality, fitness for a particular purpose and  
+noninfringement of any third partys intellectual property rights. Further Equinix makes no guarantees, representations or 
+warranties that the Licensed Space and Services will be uninterrupted, error free or completely secure. All Licensed Space an d 
+Services are provided or performed on an as is, as available  basis, and Customers use of the Licensed Space and Services 
+is solely at its own risk.  
+b. Subject to Section 4.d., neither Party will be liable to the other Party for: (i) any indirect, incidental, special, reliance , 
+punitive or consequential damages, if applicable, even if advised of the possibility of such damages; (ii) loss of profits; ( iii) loss 
+of business; (iv) loss of revenues (except that Customer shall be liable for any Fees or other amounts owed to Equinix under the  
+Agreement) ; and (v) any losses arising from or caused by the loss, interruption or corruption of Customer D ata.  
+c. Subject to Sections 4.b. and 4.d., Equinixs total liability to Customer in the aggregate for the entire Term of the 
+Agreement (regardless of whether the claims are brought during or after the Term) with respect to all claims arising from or 
+related to the subject matter of the Agreement (including attorneys fees) will not exceed the total amounts paid or payable by 
+Customer during the twelve (12) month period preceding the date on which the first claim arises . As a further limitation, Equinixs 
+maximum liability for any claims relating to the Licensed Space and the Services offered or provided by Equinix: (i) for a no n-
+recurring charge only; or (ii) as Smart Hands Services, shall not exceed the amount of the Fee for such Services provided on 
+the occasion giving rise to the claim.  
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+d. Nothing in the Agreement excludes or limits a Partys liability for matters for which liability cannot be limited or excluded  
+by applicable law.  
+e. The limitations set forth in this Agreement will apply to all claims and causes of action, regardless of whether in contract,  
+tort, strict liability or other theory. Each Party waives the right to bring a claim against the other arising out of or in a ny wa y 
+relating to the Agreement after the period for commencing legal proceedings under applicable law has expired, or, if such per iod 
+does not exist, more than one (1) year after the date of the event giving rise to such claim. Each Party recognizes and agree s 
+that the warranty disclaimers, limitations of liability and remedy limitations in the Agreement are materially bargained for by the 
+Parties.  
+5. INSURANCE  
+a. Each Party agrees to purchase and maintain, or cause to be purchased and maintained, the following insurance during 
+the Term, at its expense and with insurers having a minimum AM Best rating of A - VII or S&P rating of A: (i) Commercial General 
+Liability or  Public Liability Insurance with limits of USD2,000,000 per occurrence and USD4,000,000 in the aggregate (or the 
+local currency equivalent), provided these limits may be achieved through a combination of primary and excess policies and 
+such insurance will include coverage for bodily injury and property damage; (ii) Workers Compensation and/or Employers 
+Liability insurance where required by applicable law; and (iii) Special Perils or All Risk Property Insurance on a replacemen t cost 
+basis covering each Par tys respective property and equipment. In addition, Equinix agrees to maintain Errors & Omissions 
+(Professional Liability) and Cyber Liability insurance on a claims made basis with a limit of USD5,000,000 (or the local cu rrency 
+equivalent) per claim and  in the aggregate, which Equinix will maintain throughout the Term and, provided that the coverage 
+continues to be available on commercially reasonable terms, for two (2) years thereafter.  
+b. Each Party: (a) will provide their certificate(s) of insurance upon request which demonstrates the insurance 
+requirements above; (b) hereby waives its and its insurers rights of subrogation on all insurance referenced above; and (c) will 
+endeavor to provi de prior written notice to the other Party of any non -renewal or cancellation of the policies referenced above if 
+replacement coverage is not procured . Failure to maintain, or cause to be maintained, the insurance listed above does not limit 
+nor change the  responsibilities of the Parties. These insurance requirements do not serve to, and should not be construed to, 
+limit the Parties respective liabilities or obligations hereunder.  
+6. TERM, TERMINATION AND SUSPENSION  
+a. Term . The term of the Agreement commences on the MCA Effective Date and terminates on the date the last Order 
+then in effect expires or is terminated ( Term ). Each Order shall remain in effect for the term set forth in the Order, unless earlier 
+terminated as allowed in the Agreement or the applicable Order.  
+b. Termination by Either Party . Either Party may terminate the Agreement by giving written notice to the defaulting Party 
+if the defaulting Party:  
+i. breaches any material term of the Agreement and fails to cure such breach within thirty (30) days after receipt of 
+such notice.  
+ii. becomes, as applicable under local law, unable to pay its debts as they become due, ceases to do business, enters 
+into a deed of arrangement, undergoes judicial management, commences the process of liquidation, has a receiver 
+appointed or begins winding up  or similar arrangements.  
+iii. is not in compliance with Sanctions Laws or is causing the other Party to be exposed to violations under Sanction 
+Laws.  
+c. Termination by Equinix . Notwithstanding Section 6.b., Equinix may terminate the Agreement upon ten (10) days written 
+notice to Customer if Customer fails to pay Fees when due. If Customer fails to cure a payment breach, Customer will be 
+responsible for all collections costs including reasonable attorneys fee s.  
+d. Suspension for Non -Payment . Without limiting Equinixs rights under Sections 6.b. or 6.c., if Customer fails to cure any 
+payment breach of the Agreement within ten (10) days after notice of the same (or upon written notice if Customers account i s 
+past due on two (2) or more occasi ons during a six (6) month period), Equinix may suspend the provision of the Licensed Space 
+and the Services and deny access to and the removal of Customers Equipment from the IBX Center.  
+e. Effect of Termination . A termination of the Agreement will terminate all Orders. Customer will remove all of Customers 
+Equipment from the IBX Center on or before the expiry or termination of the applicable Order. If Customer fails to remove 
+Customers Equipment from the IBX C enter within ten (10) days from the termination or expiration of the Order (or within thirty 
+(30) days if the Order is terminated due to Equinixs breach), Equinix may immediately remove and return Customers Equipment  
+to Customer at C ustomers risk and expense. Equinix may consider Customers Equipment to be abandoned if: (i) Equinix is 
+unable to make arrangements to return Customers Equipment after attempts to contact Customer or (ii) Customer fails to pay 
+for the shipping costs. Wit hout limiting any available legal remedies, Equinix may, at Customers risk and expense: (i) 
+immediately remove Customers Equipment and store it at an on -site or off -site location; or (ii) upon thirty (30) days prior written 
+notice to Customer, dispose o f such Customers Equipment.  
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+f. Holdover . Subject to Section 6.e., while Customer has no right to use the Licensed Space or Services after an Order 
+expires or terminates, if Equinix, in its sole discretion, permits Customer to do so, Customer shall remain bound by the term s of 
+the Agreement, inc luding, without limitation, all payment obligations, and such continued use may be terminated by Equinix 
+immediately upon written notice.  
+7. CONFIDENTIALITY  
+a. Neither Party will use or disclose Confidential Information of the disclosing Party without its prior written consent. Each 
+Party will take all reasonable precautions to protect the other partys Confidential Information, using at least the same standard 
+of care as it uses to maintain the confidentiality of its own Confidential Information.  
+b. Information is not deemed Confidential Information if it: (i) is known to the receiving Party prior to receipt from the 
+disclosing Party directly or indirectly from a source other than one having an obligation of confidentiality to the disclosin g Party; 
+(ii) becomes known (independently of disclosure by the disclosing Party) to the receiving Party directly or indirectly from a s ource 
+other than one having an obligation of confidentiality to the disclosing Party; (iii) becomes publicly known or otherwise cea ses 
+to be confidential, except through a breach of the Agreement by the receiving Party; or (iv) is independently developed by th e 
+receiving Party. For the avoidance of doubt, the mere placement of materials or equipment containing information at an Equini x 
+location does not constitute disclosure of such information to Equinix.  
+c. Notwithstanding the foregoing, the receiving Party may use or disclose Confidential Information where: (i) the disclosure 
+is required by applicable law or regulation (including securities laws regarding public disclosure of business information) o r by 
+an o rder of a court or other governmental body having jurisdiction after taking steps to maintain its confidentiality where 
+practicable; (ii) it is reasonably necessary to be disclosed to that Partys, or its Affiliates, employees, officers, direct ors, attorn eys, 
+accountants and other advisors; or (iii) it is necessary for a Party to exercise its rights and perform its obligations under  the 
+Agreement. In any case, the disclosing Party shall ensure that disclosure shall not be broader than necessary,  and that the 
+recipient agrees prior to receipt to keep the information confidential to the same extent as under the Agreement (except that  
+such agreement need not be obtained for disclosures to a court, regulator or arbitrator).  
+8. COMPLIANCE  
+a. Applicable Law.  Each Party will comply with all applicable laws and regulations in connection with the Agreement.  
+b. International Security Concerns.  Each Party will comply with applicable Sanctions Laws . In addition, Customer will not 
+be listed on, nor owned or controlled by an entity or person which is subject to, nor located in or organized under the laws of a 
+country subject to, U.S. or E.U. embargo.  
+c. Anti-Money Laundering.  Each Party will comply with all applicable anti -money laundering laws. If the bank to which 
+Customer remits payment ( Equinix Bank ) refuses to process a Customer payment for any reason including, but not limited to, 
+a reasonable belief that Customers payment may be connected to money laundering (a  Suspicious Payment ), Customer will 
+reasonably cooperate with all requests from Equinix or the Equinix Bank (e.g., requests for additional information in order t o 
+process the Suspicious Payment) or remit payme nt of any outstanding balance using an alternative payment method within five 
+(5) days.  
+d. Operational Audit.  Customer will have the right, no more frequently than once in any consecutive twelve (12) month 
+period and at Customers sole expense (including Smart Hands charges for Equinixs time), to conduct a confidential audit of 
+Customers Licensed Space and the common areas of the IBX Center. Such audit will take place during normal business hours 
+and on an agreed date and time, subject to reasonable postponement by Equinix. Unless otherwise agreed, the scope of the 
+audit will only consist of it s Auditor visiting the IBX Center and the Auditors review of Equinixs regularly prepared records 
+regarding the operation of the IBX Centers, in each case in order to verify that an IBX Center is operated in compliance with  the 
+Agreement. Customer agrees that: (i) such audits shall not adversely affect other customers of Equinix or Equinix's operation of 
+the IBX Center; (ii) the Auditor shall comply with Equinix's Policies during such audit; and (iii) Customer shall ensure that  its 
+Auditor treats all of Eq uinixs Confidential Information which is disclosed in connection with the audit in the same manner 
+Customer is required to treat such Confidential Information or signs a non -disclosure agreement with Equinix.   
+e. Independent Standards.  Equinix will, throughout the term of the Agreement, conduct annual audits and certifications 
+(e.g., SSAE 16/18, ISAE 3402, ISO 27001) (collectively  Certifications ) which Equinix deems appropriate, in its sole discretion 
+for each of the IBX Center(s) within which Customer has Licensed Space. Certifications shall be performed by a qualified and 
+licensed independent auditor selected by Equinix. The current Certificat ions are set forth on: 
+https://www.equinix.com/services/data -centers -colocation/standards -compliance/ . Equinix will, upon Customers request and at 
+no additional charge, provide Customer with a copy of the current Certification attestation report or certificate, as the cas e may 
+be, applicable to those IBX Center(s) within which Customer has Licensed Space . Such report shall be deemed Equinixs 
+Confidential Information and provided for the sole use of Customer.  
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+f. Business Contact Information.   
+Customer acknowledges that Equinix and Equinix Affiliates will, by virtue of the performance of the Agreement, come into 
+possession of BCI as a Data Controller (as defined under European laws and regulations or its equivalent under any local data  
+protectio n and privacy laws). Customer acknowledges and agrees that Equinix and Equinix Affiliates may use, process and/or 
+transfer BCI: (i) in connection with the provision of Licensed Space and Services; (ii) to incorporate BCI into databases con trolled 
+by Equini x and Equinix Affiliates for the purpose of account administration, billing and reconciliation; operational maintenance 
+and support activities; security, fraud detection and prevention; and, subject to BCI being previously anonymized, customer a nd 
+market a nalysis and reporting; and (iii) to communicate to Customer by voice, letter, fax or email regarding products and services 
+of Equinix or Equinix Affiliates. Customer may withdraw consent for the use, processing, or transfer of BCI as set out in (ii i) 
+above  upon written notice to Equinix. Customer acknowledges that it has the right to access BCI upon written notice and have 
+any agreed errors in such BCI rectified or deleted, or to request additional information on the use, processing, and/or trans fer of 
+its BCI. 
+Where BCI is to be transferred by Equinix and Equinix Affiliates from one country to another (including intra -group transfers 
+to the United States or to any countries located within or outside the European Economic Area (EEA)) for the purposes set out  
+abov e under this clause, Equinix shall ensure that all appropriate legitimization measures as required under applicable data 
+protection and privacy laws such as: (i) the entry into appropriate inter -company data transfer agreements based on the 
+European Standa rd Contractual Clauses; (ii) the implementation of Binding Corporate Rules as defined under European 
+regulations; and/or (iii) equivalent means of compliance, are in place to afford such transfer of BCI an adequate level of 
+protection.  
+For the avoidance of doubt, Customer acknowledges that: (i) the provision by Equinix of Licensed Space and Services in 
+accordance with the Agreement does not involve any access by Equinix, or use, processing, monitoring, or performance of any 
+operation of,  or on, any Customer Data; and that (ii) as a result, Equinix does not act as Data Processor or Data Controller (as 
+defined under European laws and regulations or its equivalent under any local data protection and privacy laws), with respect  to 
+such Custom er Data, unless otherwise agreed to in writing by the Parties.  
+Customer undertakes to inform its agents, employees or any Authorized Person of the Licensed Space and Services such 
+as its consultants, contractors or partners: (i) that their BCI may be collected, used, processed and transferred by virtue o f the 
+performa nce of, and in accordance with, the Agreement; and (ii) of their rights regarding the processing of their BCI in accordance 
+with this clause, and where applicable.  
+9. MISCELLANEOUS  
+a. Notice.  Legal notices may be sent by overnight courier, email or certified or registered mail. Notices will be sent to the 
+Parties at the respective addresses in the Agreement or as otherwise designated by the Parties.  
+Legal:  
+Select Medical Corporation  
+Attn: General Counsel  
+4714 Gettysburg Rd.  
+Mechanicsburg, PA 17055  
+IS: 
+Select Medical Corporation  
+Attn: C IO & EVP  
+4714 Gettysburg Rd.  
+Mechanicsburg, PA 17055  
+b. Publicity.  Neither Party grants the other Party the right to use its trademarks, service marks, trade names, copyrights, 
+other intellectual property rights or other designations in any promotion, publication or press release without the prior wri tten 
+consent of the other Party s General Counsel or equivalent  in each case.  
+c. Entire Agreement.  The Agreement constitutes the entire agreement between the Parties with respect to the subject 
+matter of the Agreement, and supersedes and replaces all prior or contemporaneous discussions, negotiations, proposals, 
+understandings and agreements, written o r oral, but nothing in this Section shall limit or exclude a Partys liability for fraud or 
+fraudulent misrepresentation.  
+d. No Reliance. Each Party acknowledges that, in entering into the Agreement, it has not relied on, and shall have no right 
+or remedy in respect of, any statement, representation, assurance or warranty other than as expressly set out in the Agreemen t.  
+e. Execution and Amendments.  The Agreement may be executed in two or more counterparts (and the signature pages 
+may be delivered with ink or electronic signature or by facsimile or e -mail), each will be deemed an original, but all together will 
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+constitute one and the same instrument. Except where otherwise expressly stated herein, the Agreement may be amended only 
+by the written agreement of both Parties.  
+f. Construction.  Each Party agrees that it has reviewed the Agreement and the Agreement shall not be interpreted more 
+strictly against the drafting Party. The Section headings and captions are for convenience only and will not be used to const rue 
+the Agreement. If any pro vision of the Agreement is determined by a court to be invalid, illegal or unenforceable, it will not affect 
+the validity, legality, or enforceability of the other part(s) of the same provision or of the other provisions in the Agreem ent. 
+g. Survival.  All provisions of the Agreement which can only be given proper effect upon expiration or termination of the 
+Agreement, including those provisions needed to interpret the same by surviving the termination of the Agreement, shall survi ve 
+the termination of the Agreement; provided, however Section 7 (Confidentiality) will survive for three (3) years after termination 
+of the Agreement.  
+h. Subcontracting.  Equinix may permit an Affiliate, independent contractor or other third party, to perform any of Equinixs 
+obligations hereunder, provided that Equinix remains primarily liable for the performance of its obligations. Notwithstanding  the 
+foregoing, the Part ies acknowledge and agree that a third party providing Equinix or its Affiliates with services such as or similar 
+to the following examples are not considered to be "subcontracting of the Services in the context of this Agreement: IBX Cen ter 
+security personnel; IBX Center cleaning; maintenance; utilities; internet access; custom power installations pre -cage build; 
+telecommunication services between data centers; and data center fit -out works such as cage installation and structured cabling 
+installation.  
+i. Assignment.  Either Party may transfer the Agreement or any of its rights and obligations hereunder to an Affiliate or to 
+an entity which is acquiring all or substantially all of its business or assets, with prior written notice to the other Party . Any 
+assignee must a gree in writing to be bound by all of the terms of the Agreement. The Agreement will be binding upon and inure 
+to the benefit of all successors and permitted transferees of the Parties, who will be bound by all of the obligations of the ir 
+predec essors or transferors.  
+j. Force Majeure.  Except for: (i) Customers obligation to pay amounts owed under the Agreement, including Fees, and 
+(ii) Equinixs obligation to invoke its business continuity and disaster recovery plan if it is affected by a Force Majeure E vent, 
+neither Party will be res ponsible or in any way liable to the other Party, and neither Party will have any termination or other rights, 
+arising out of or relating to a Force Majeure Event.  
+k. Conflicts.  All Orders are subject to the terms of the Agreement. In the event of ambiguity, conflict or inconsistency 
+among the documents comprising the Agreement, the documents shall be given a descending order of precedence as follows: 
+(i) the Order; (ii) the MCA,  including any attachments and exhibits thereto, other than these GTCs; (iii) the GTCs; and (iv) the 
+Policies.  
+l. General.  Except where otherwise expressly stated herein, and subject to the limitations set forth in Section 4, the rights 
+and remedies provided for herein are cumulative and not exclusive of any rights or remedies that a Party would otherwise have . 
+m. Relationship.  The Parties are independent contractors, and the Agreement does not establish any relationship of 
+partnership, joint venture, employment, franchise or agency between them. Neither Party may bind the other or incur obligatio ns 
+on the others behalf without  the others prior written consent.  
+n. Third Parties.  There are no third -party beneficiaries to the Agreement.  
+o. No Waiver.  No waiver of any breach of any provision of the Agreement will constitute a waiver of any prior, concurrent 
+or subsequent breach of the same or any other provisions hereof, and no waiver will be effective unless made in writing and 
+signed by an authorized  representative of the waiving Party.  
+p. MCA Construction.  Each MCA: (i) is only binding upon the MCA Signatories and not upon any other Equinix Affiliate or 
+Customer Affiliate; and (ii) only governs Orders placed under that MCA. For avoidance of doubt, no other Equinix Affiliate or  
+Customer Affiliate is required  to agree to any of the terms set forth in that MCA. The Equinix entity that enters into an Order with 
+Customer is responsible for the provision of Licensed Space and performance of the Services therein, and no other Equinix 
+Affiliate shall be jointly or s everally liable with such Equinix entity.  
+q. Portability.  In certain instances, Equinix can offer Customer the ability to relocate its Licensed Space from one IBX 
+Center to another IBX Center before the expiration of the term specified in the Order ( Global Portability ). Customer should 
+contact Equinix if it would like more information on its Global Portability promotion, as it varies by site and is subject to  local 
+availability.  
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+10. DEFINITIONS  
+Capitalized terms used herein but not otherwise defined will have the meaning ascribed to them in this Section or the 
+applicable MCA.  
+Affiliate:  Any entity controlling, controlled by, or under common control with a Party, where the term control and its correlative 
+meanings, controlling, controlled by, and under common control with, means the legal, beneficial or equitable ownership , 
+direct ly or indirectly, of more than fifty percent (50%) of the aggregate of all voting equity interests in an entity.  
+Agreement:  Has the meaning given to such term in the MCA into which these GTCs are incorporated.  
+Associated Entity:  Means: (i) each individual, company, partnership or other entity of any type which employs, contracts with, 
+or is otherwise associated or affiliated with Customer or its Authorized Persons; (ii) any of Customers end users; and (iii) 
+Sublicensees.  
+Auditor:  Any of Customer, Customers third -party auditors or any regulatory examining authority having jurisdiction over 
+Customer that participates in an audit described in this Agreement.  
+Authorized Person:  Each person that either: (i) is included on the most recent list of persons designated by Customer to act 
+on its behalf (e.g., access the IBX Center, place Orders) in accordance with Equinixs then -current form and procedures; or (ii) 
+accompanies an Autho rized Person as described in (i) above while at an IBX Center, other than an Equinix employee.  
+Business Contact Information  (or BCI): Business contact data (including, but not limited to, data processed in CRM 
+databases and data that is set out on access lists at any IBX Center from time to time) containing personal and/or private 
+information relating to business contact information (mainly first name, last name, business phone numbers, business email and 
+business address) of Customer, its agents, employees or any Authorized Person of the Licensed Space and Services (including 
+third-party consultan ts, contractors or partners, and Sublicensees with whom Customer has a contractual relationship) and 
+whose use, processing or transfer is regulated by law or regulation as personal data.  
+Confidential Information:  Non-public information disclosed between the Parties, including: (a) information identified by the 
+disclosing Party, in writing or orally, as confidential at the time of disclosure; and (b) information containing the disclos ing Partys 
+customer lists, cus tomer information, technical information, pricing information, financial position, trade secrets, customer 
+communications or proposals, benchmarking information, satisfaction surveys, or information relating to its business plannin g 
+or business operations. The terms of the Agreement are also deemed the Confidential Information of Equinix. Information about  
+the operation and design of the IBX Centers (e.g., the configuration of cables, networks and services at the IBX Centers, 
+equipm ent used at the IBX Centers) are the Confidential Information of Equinix.  
+Cross Connect:  A physical or wireless interconnection within an IBX Center that: (i) exits Customers Licensed Space or (ii) 
+connects Customer to another Equinix customer.  
+Customer Data: Any data, information and other content that is loaded, stored, received, retrieved, transmitted through or 
+otherwise processed by Customer as part of its use of the Licensed Space and Services . 
+Customers Equipment:  All network, computer and other equipment or property provided, owned or controlled by Customer, 
+Customers Affiliates, Customers Authorized Persons or Associated Entities (including wiring and connections between such 
+equipment and Customers demarcatio n equipment), excluding Cross Connects or Equinixs demarcation equipment.  
+Customer Portal:  A web portal which allows customers to order certain Services, monitor requests, and manage user 
+permissions. The Customer Portal allows Customer to place Orders for Services (e.g., Smart Hands or additional Cross 
+Connects or Power); open work visit ticke ts and schedule shipments; access standard self -service reports (e.g., user 
+authorizations, install base, finance overview and pending orders), maintenance and incident notifications, and trouble ticke t 
+submissions; and manage physical acce ss to the IBX Center and the Licensed Space.  
+Effective Date:  For Licensed Space or a Service ordered in an Order (other than Online Orders or Phone Orders), the date 
+designated in the Order as the Effective Date or if there is no date designated in the Order, then the date on which the Lice nsed 
+Space is provided or  the Service is delivered. For Licensed Space or a Service ordered in an Online Order or Phone Order, the 
+date Equinix begins providing the Licensed Space or Service to Customer, unless otherwise agreed to by the Parties in the 
+Order.  
+Fees:  The fees and charges under the Agreement including the monthly recurring charges ( MRCs ) and non -recurring charges 
+(NRCs ) for Licensed Space and Services charged to Customer by Equinix, exclusive of Taxes.  
+Force Majeure Event: An event or circumstance beyond a Partys reasonable control, including, but not limited to, war, labor 
+strike, terrorist act, riot or civil unrest, fire, flood, earthquake, landslide, earth movement, hurricane, typhoon, tsunami,  volcanic 
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+eruption or other natural disaster, health epidemic, pandemic or any law, order, regulation or other action of any governing 
+authority or agency.  
+IBX Center:  An International Business Exchange ™ data center within which Customer receives Licensed Space and Services 
+from Equinix.  
+IBX Policies:  Equinixs procedures, rules, security practices, and policies applicable to the IBX Centers including Equinixs 
+Global IBX Policies, which are located online and are hereby incorporated by reference: 
+https://www.equinix.com/resources/product -documents/ibx -policies/  and Equinixs additional IBX Center -specific rules and 
+procedures applicable to a specific IBX Center, which are either posted within the IBX Center or can be provided upon request . 
+Licensed Space:  For space in an IBX Center in a common law jurisdiction, areas licensed by Customer, or, for space in an IBX 
+Center in a civil law jurisdiction, areas made available to Customer with permission to access and use. In either case, the s pace 
+is licensed or m ade available pursuant to the Agreement and identified in the Orders as to the amount of space. Equinix will 
+determine at all times the exact location within the IBX Center where the Licensed Space will be located and Equinix will not ify 
+Customer according ly. 
+MCA Effective Date : The effective date of the applicable MCA.  
+MCA Signatories:  The Equinix entity and Customer entity that are the signatories to the MCA.  
+Online Order:  An Order placed via the Customer Portal or e -mail, to be effective only after Equinix accepts it in accordance with 
+Equinixs applicable procedures or Equinix begins providing the Licensed Space or the Services ordered.  
+Order:  An order for Licensed Space or Services prepared by Equinix, or an amendment thereto, that is incorporated into the 
+Agreement by reference which describes the Licensed Space or Services. Orders are not valid until signed by both Parties, 
+except for Online  and Phone Orders. Equinix is under no obligation to accept an Order. Unless otherwise specified, reference 
+to Order(s) shall also include Online Orders and/or Phone Orders.  
+Phone Order:  An Order placed over the phone, where available, to be effective only after Equinix accepts it in accordance with 
+Equinixs applicable procedures or when Equinix begins providing the Licensed Space or the Services ordered.  
+Policies:  The IBX Policies and any applicable Product Policies.  
+Product Policies:  The product exhibits and policies which are located online at: http://www.equinix.com/resources/product -
+documents/ , which are incorporated by reference into,  or as otherwise agreed to in writing by Customer in, an Order.  
+Sanctions Laws:  Export/re -export, sanctions, import and customs laws and regulations, including U.S. sanctions and export 
+regulations.  
+Services:  All services, goods and other offerings provided by Equinix under an Order pursuant to the Agreement.  
+Smart Hands:  Equinixs onsite technical assistance which may include following Customers express instructions relating to 
+remote management, installation or troubleshooting of Customers Equipment or any other assistance agreed to by Equinix in 
+an Order.  
+Sublicensee:  Any third party who: (i) sublicenses all or part of the Licensed Space from Customer, if such Licensed Space is 
+located in a common law jurisdiction, or (ii) is able to access and use all or part of the Licensed Space as made available b y 
+Customer, if suc h Licensed Space is located in a civil law jurisdiction.  
+Taxes:  Sales, use, transfer, privilege, excise, consumption tax, Value Added Tax ( VAT) or Goods and Services Tax ( GST) 
+as applicable, and other similar taxes and duties, whether foreign, national, state or local, however designated, levied or imposed 
+(whether as a deduction, withholding or payment) now in force or enacted in the future, which apply to the Licensed Space 
+provided or the Services performed by Equinix for Customer or to Customer for its operations and use of the Licensed Space or  
+Services, but excluding taxes on Equinixs net income.  
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+CUSTOMER TO COMPLETE:  
+Acknowledged and agreed.  EQUINIX TO COMPLETE:  
+Acknowledged and agreed.  
+Customer Company Name:  
+Select Medical Corporation  
+(Complete Legal Name)   
+Authorized Signature: {{_es_:signer1:signature                                }}   
+Authorized Signature: {{_es_:signer2:signature                                }}  
+Printed Name: {{_es_:signer1:fullname                                            }}   
+Printed Name: {{_es_:signer2:fullname                                            }}  
+Title: {{_es_:signer1:title                                                                   }}  
+Title: {{_es_:signer2:title                                                                   }} 
+MM
+VP Acknowledgement/Nonassent:
+Brian Rusignuolo (Sep 27, 2024 10:53 EDT)
+Brian Rusignuolo
+EVP & CIO
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+EXHIBIT A TO GLOBAL TERMS AND CONDITIONS  
+EQUINIX COLOCATION SERVICE DESCRIPTION AND SERVICE LEVEL AGREEMENT  
+This Exhibit sets forth the description of the colocation Services provided by Equinix pursuant to the Agreement and the 
+applicable service level agreement ( SLA). Capitalized terms which are used but not defined in this Exhibit will have the meaning 
+defined in the Agreement.  
+1. Service Description – The Services are comprised of the Licensed Space, power, Cross Connects and related 
+Services at an IBX Center. Equinix also provides to Customer cooling, fire protection, and physical security (in accordance w ith 
+Equinixs certifications and standards). Licensed Space is located within the IBX Center listed on the Order.  
+a. Security/Access Controls . Equinix has established and will maintain appropriate physical, technical and 
+organizational safeguards, and controls which, in Equinixs sole discretion, are designed to protect the security of: (i) the  IBX 
+Center; (ii) the Licensed Space which contains Customers Equipment; and (iii) the Services (collectively,  Safeguards ). 
+Safeguards will include the following:  
+Building Perimeter 
+Security  Equinix continually monitors all entrances and exits to each IBX Center. Specific architectural 
+features and physical construction of individual IBX Centers provide additional security and 
+differ by location.  
+Colocation Area 
+Security  Within each IBX Center, the colocation area is protected by additional security measures to 
+form multiple layers of security. Equinix employs appropriate facility access controls to limit 
+physical access to the Licensed Space, and examples of such access c ontrols include visitor 
+access authorization and validation via customer administrators and security officers, security 
+mantraps, biometric readers and access card readers, locking cabinets, and extensive 
+monitoring by video and/or IBX Center site staff.  
+Private Cage  Customer may select a private cage with access to the private cage restricted only to 
+authorized personnel by means of an additional card reader or biometric scanner on the cage 
+door.  
+Secure Cabinet  Customer may select a secure cabinet with access to the secure cabinet restricted only to 
+authorized personnel by means of an additional locking mechanism on the cabinet door.  
+Security Systems  Equinix will use business systems designed to optimize security and such other security 
+measures that Equinix deems appropriate.  
+b. Electrical Power.  Equinix has designed electrical power delivery systems to provide an uninterrupted supply of 
+electrical power through various primary and secondary supply mechanisms. For electrical power delivery to the Licensed Space , 
+Customer may choose between the fol lowing configurations:  
+Non-Redundant Power  Electricity delivered via one (1) power circuit.  
+Redundant Power  Electricity delivered via two (2) power circuits from two different power busses  
+c. Climate Control.  Equinix has designed climate control systems in the colocation area which are designed to provide 
+a predictable and consistent environment as follows:  
+Temperature  Temperature is maintained between 15°C (59°F) and 32°C (89.6°F)  
+Relative Humidity  Relative Humidity is maintained between 8% and 80%  
+d. Cross Connects.  Cross Connects permit Customer to connect Customers Equipment to other Equinix customer 
+equipment or Equinix interconnection exchanges located within an IBX Center or between IBX Centers on a single Equinix 
+campus. Cross Connects are available in various  media types.  
+e. Smart Hands.  At Customers request, Equinix will provide Smart Hands, which provide remote support of Customers 
+Equipment within an IBX Center. Smart Hands only consists of visual and physical support of hardware (i.e., no application 
+support or access to Customer Da ta). Smart Hands examples include assisting Customer with moving Customers Equipment 
+and uncrating from boxes; labeling equipment and cable connections; inventorying Customers Equipment; and installing cabling  
+between or from Customers Equip ment to Customers demarcation equipment. Smart Hands requests may be expedited at the 
+request of Customer and as agreed by Equinix.  
+f. Maintenance.  Equinix maintains its IBX Center via a comprehensive, coordinated program of preventive maintenance. 
+Maintenance activities are fully scripted, scheduled, reviewed, and approved by Equinix operations and engineering 
+management prior to execution of the wo rk. Equinix will inform customers of any maintenance via email or the Customer Portal. 
+Equinix will use reasonable efforts to provide Customer with maintenance notifications in accordance with the following 
+timeframes, but failure to do so will  not entitle Customer to credits. Equinix will use commercially reasonable efforts to minimize 
+disruption to the Services when performing maintenance.  
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+Maintenance Type  Notification Objective  
+Scheduled Maintenance  at least 30 days in advance  
+Remedial Maintenance  at least 3 days in advance  
+Urgent or Emergency Maintenance  0 and up to 3 days in advance  
+g. Security Breach Notifications.  Equinix will contact Customer via phone or email of any actual or attempted 
+unauthorized access of Customers Licensed Space (i.e., private cage or cabinet) ( Security Breach ) within twenty -four (24) 
+hours of discovery, or as soon as is practical given the circumstances. In the provision of Licensed Space and Services, Equi nix 
+does not manage nor monitor Customers Equipment and does not monitor any Cross Connects. Customer i s solely responsible 
+for monitoring Customers Equipment and its network traffic.  
+h. Incident Management.  Equinix will maintain sufficient capability, systems, and processes to promptly respond to and 
+address incidents within the IBX Center that affect, or have the potential to affect, the Licensed Space and Services or the 
+operation of the IBX Center.  Equinix monitors the critical equipment providing the Services and alerts staff to investigate and 
+take appropriate and timely corrective action for  power, environmental, security, fire suppression, and life safety incidents . If 
+Equinix becom es aware of an incident that affects the Licensed Space and Services (other than a Security Breach which is 
+governed by Section 1(g) of this Exhibit), Equinix will inform Customer and advise Customer of the nature of the incident within 
+thirty (30) minutes of discovery, or as soon as is practicable given the circumstances. Equinix will provide Customer with re gular 
+updates (at least every two (2) hours) with the status of the incident and the actions taken. Customer may monitor the progress 
+of the incident via the Customer Portal.  
+2. Service Level Agreement  
+a. Electrical Power  
+Service Level 
+Name  Redundant Power Service Level  Non-Redundant Power Service Level  
+Availability  99.999%+  99.99%+  
+Service Level 
+Threshold  This service level is met by achieving less than 
+twenty -six (26) seconds of Unavailability over a 
+calendar month per cabinet.  This service level is met by achieving less than four (4) 
+minutes of Unavailability over a calendar month per 
+cabinet.  
+Unavailability  A redundant power service is considered 
+Unavailable when a functioning cabinet that 
+includes Customer provided automatic failover 
+capability is powered by two (2) power circuits 
+from different power busses, and both power 
+circuits experience a simultaneous  interruption 
+in electrical power such that the cabinet 
+experiences an interruption in electrical power.  A non -redundant power service is considered 
+Unavailable when a functioning cabinet is powered by 
+one (1) power circuit, and the power circuit experiences 
+an interruption in electrical power such that the cabinet 
+experiences an interruption in electrical po wer. 
+Credits  Subject to Section 3, if Unavailability exceeds the applicable Service Level Threshold, Customer will be 
+entitled to a credit equal to 1/30th of the number of affected cabinets multiplied by the average power 
+MRC per cabinet (i.e., total power MRC divided by the total number of cabinets) in the Licensed Space 
+within which the Unavailability occurred ( Loaded Cabinet MRC ).Further, Customer will be entitled to an 
+additional credit equal to 1/30th of Loaded Cabinet MRC for the affected cabinet(s) for every full hour of 
+Unavailability beyond the applicable Service Level Threshold.  
+b. Climate Control  
+Service Level 
+Name  Temperature Service Level  Humidity Service Level  
+Availability  99.99%+  99.99%+  
+Service Level 
+Threshold  This service level is met by achieving less than 
+four (4) minutes of Unavailability over a 
+calendar month per cabinet.  This service level is met by achieving less than four (4) 
+minutes of Unavailability over a calendar month per 
+cabinet.  
+Unavailability  Temperature is considered Unavailable when 
+the temperature drops below 15°C (59°F) or 
+exceeds 32°C (89.6°F). Equinix measures Humidity is considered Unavailable when the humidity 
+drops below 8% or exceeds 80%. Equinix measures 
+humidity between three (3) and five (5) feet from the floor 
+GTC_ 20Jan2023  Equinix Proprietary and Confidential   
+temperature between three (3) and five (5) feet 
+from the floor and no closer than twelve (12) 
+inches from the cool air intake side of a cabinet.  and no closer than twelve (12) inches from the cool air 
+intake side of a cabinet.  
+Credits  Subject to Section 3, if Unavailability exceeds the applicable Service Level Threshold, Customer will be 
+entitled to a credit equal to 1/30th of the Loaded Cabinet MRC. Further, Customer will be entitled to an 
+additional Service credit equal to 1/30th of L oaded Cabinet MRC for the affected cabinet(s) for every full 
+hour of Unavailability beyond the applicable Service Level Threshold.  
+c. Cross Connects  
+Service Level 
+Name  Cross Connect Availability Service Level  Cross Connect Provisioning Service Level  
+Availability  99.99%+  Not applicable  
+Service Level 
+Threshold  This service level is met by achieving less than 
+four (4) minutes of Unavailability over a calendar 
+month per Cross Connect.  Upon Equinix acceptance of an Order, Equinix will 
+install into Customers existing Licensed Space up to 
+three (3) Cross Connects per day, per IBX Center as 
+follows:  
+Cross Connect Interval 
+Type:  Provisioning Interval:  
+Premium  Twenty -four (24) hours  
+Plus Three (3) business days  
+Unavailability  A Cross Connect is considered Unavailable 
+when the passive physical media that Equinix 
+uses for the Cross Connect fails and the 
+endpoints are unable to maintain a 
+communication connection due to the failure of 
+the physical media.  Not applicable  
+Credits  Subject to Section 3, if Unavailability exceeds the 
+Service Level Threshold, Customer will be 
+entitled to a credit equal to the MRC for the 
+affected Cross Connect.  Subject to Section 3, if Equinix does not provision Cross 
+Connect(s) in accordance with the Service Level 
+Threshold, Customer will be entitled to a credit equal to 
+100% of the NRC of the affected Cross Connect.  
+Note:  The Cross Connect Provisioning Service Level 
+only applies to IBX Centers listed here: 
+http://www.equinix.com/resources/product -
+documents/equinix -ibx-classification/ . 
+3. General  
+a. Credits . The credits set forth in this Exhibit are Customers sole and exclusive remedy if Equinix fails to meet the 
+service level thresholds stated herein. In any calendar month the maximum credit(s) to which Customer shall be entitled will not 
+exceed the MRC for such Licensed Space or Service.  
+b. Reporting Unavailability and Requesting Credit . All periods of Unavailability must be verified by Equinix, and 
+approved credits will be applied by Equinix to the invoice for the month following the month in which the credit was approved . 
+The period of Unavailability will be measured from the earlier of:  (i) the time Equinix becomes aware of the incident as evidenced 
+by Equinixs system logs or data, monitoring systems or applicable incident report; or (ii) Customers notification to Equini x of 
+the incident (i.e., Cus tomer opens a trouble ticket) provided that Equinix can confirm the incident began when Customer claims 
+it did; and ends when the Unavailability has been remedied, as confirmed by Equinix (i.e., closing of the trouble ticket). In order 
+to be eligible for a credit, Customer must report the Unavailability to Equinix within seven (7) days of the incident. In ord er to 
+receive a credit from Equinix, Customer must request the credit by notifying the applicable Equinix country contact in writing 
+within fifteen (15 ) days of the last day of the month in which the Unavailability is remedied (i.e., the trouble ticket is closed).  
+c. Exceptions . Customer will not be entitled to a credit if the event or condition that would have otherwise given rise to 
+the credit was caused by any of the following: (i) Force Majeure Events; (ii) scheduled maintenance; (iii) Customers Equipme nt; 
+or (iv) actions or inactions of Customer or its representatives.

@@ -1,0 +1,1278 @@
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA v1.030117This CenturyLink Total Advantage Agreement (Agreement) is between CenturyLink Sales Solutions, Inc. as contracting agent on 
+behalf of the applicable CenturyLink Affiliate providing the Services under this Agreement (CenturyLink) and Concentra Health 
+Services, Inc. (Customer) and is effective on the date the last party signs it (Effective Date). The name of the CenturyLink Affiliate 
+providing Services to Customer is listed in a Service Attachment, each providing Affiliate separately and individually responsible for all 
+of its own obligations. CenturyLink may withdraw any applicable offer under this Agreement if Customer does not execute and deliver 
+the Agreement to CenturyLink on or before November 30, 2017 (Cutoff Date). Further, any individual Service or Service Attachment 
+may have its own expiration or cutoff date. Using CenturyLinks electronic signature process for the Agreement is acceptable. 
+CONCENTRA HEALTH SERVICES, INC. CENTURYLINK SALES SOLUTIONS, INC. \l1
+\s1\ \s2\
+Authorized Signature Authorized Signature
+\n1\      \n2\      
+Name Typed or Printed Name Typed or Printed
+\t1\      \t2\      
+Title Title
+\d1\      \d2\      
+Date Date
+Customers address for notices:      
+Customers facsimile number (if applicable):      
+Person designated for notices:      
+1. Term. The Initial Term of this Agreement is 3 year(s) starting on the Effective Date. At the end of the Initial Term, the 
+Agreement will automatically renew on a month-to-month basis (a Renewal Term) if not terminated earlier in accordance with the 
+Agreement. The Initial Term and each Renewal Term are referred to as the Term. The Order Term or Service Term for a particular 
+Service is defined in the applicable Service Attachment, CenturyLink will not accept orders after expiration of the Term, but the 
+Agreement will continue to apply to any unexpired orders or SOWs properly placed during the Term. 
+1. Term; Commitment; Contributory Charges. The following Addendum is attached and incorporated into the Agreement:
+REVENUE COMMITMENT ADDENDUM
+2. Services. CenturyLink will provide the Services in accordance with the Agreement, including all Service Attachments. Service 
+Attachments mean individually or collectively all applicable Service Appendices, Service Exhibits, Service Guides, Statements of Work 
+(SOWs), Service Level Agreements (SLAs), Order Form(s), Service Order(s), pricing attachments, and any other documents that are 
+attached or expressly incorporated into the Agreement. CenturyLink will not be bound by any order or SOW until it is accepted by 
+CenturyLink. The Agreement applies only to Customer and the CenturyLink Affiliate identified in the Service Attachments applicable to 
+the particular Service ordered. The following Service Attachments are attached and incorporated into the Agreement:
+CENTURYLINK COMMUNICATIONS, LLC SERVICE APPENDIX
+3. Rates. Services will receive the applicable rates specified in a Service Attachment. The rates set forth in the Service 
+Attachment are in lieu of all other rates, discounts, or promotions.
+4. Payment. 
+4.1 Invoices. Customer must pay all charges set forth in a Service Attachment. Invoiced amounts are due in full within 30 days 
+after the date of the invoice if the due date is not included on the invoice ("Due Date"). In addition to the Service charges, Customer will 
+pay all applicable Taxes and Government-permitted Charges. Any amount that is not disputed under the Billing Disputes section and 
+not received by the Due Date will be subject to interest at the lesser of 1.5% per month or the highest rate permitted by applicable law 
+and reasonable attorneys' fees and any third party collection costs incurred by CenturyLink in collecting such amounts. Customers 
+payments to CenturyLink must be in the form of wire transfer, ACH, or, if available, via any CenturyLink approved payment portal (e.g., 
+CenturyLink Control Center). CenturyLinks acceptance of late or partial payments (even those marked, Paid in Full) and late payment 
+charges is not a waiver of its right to collect the full amount due. CenturyLink reserves the right to charge administrative fees when 
+Customers payment and invoice preferences deviate from CenturyLinks standard practices. 
+4.2. Billing Disputes. To dispute a charge on an invoice, Customer must identify the specific charge in dispute and provide a 
+written explanation of the basis of the dispute, with additional detail as may be required by any Service Attachment, before the Due 
+Date. Customer may withhold payment of the disputed amount if Customer makes timely payment of all undisputed charges by the Due 
+Date. The parties will work in good faith to resolve the dispute. If CenturyLink determines that a disputed charge is in error, CenturyLink 
+will issue a credit or reverse the amount incorrectly billed. If CenturyLink determines in good faith that a disputed charge was billed 
+10/17/17
+SVP & CIO
+James Talalai
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA v1.030117correctly, Customer's payment will be due no later than 10 days after CenturyLink provides notice of such determination. Customer may 
+not offset disputed amounts from one invoice against payments due on the same or another account. 
+4.3 Credit Approval; Deposit. Provision of Services is subject to CenturyLinks credit approval of Customer. Additionally, 
+CenturyLink may require a deposit or other security if Customer has failed to pay its invoices by the Due Date three times in any 12-
+month period or if there has been a material, adverse change in its financial condition. CenturyLink may provide Customers payment 
+history or other billing/charge information to credit reporting agencies or industry clearinghouses. 
+5. Compliance and Security. CenturyLink will comply with all laws and regulations applicable to CenturyLinks provision of the 
+Service, and Customer will comply with all laws and regulations applicable to Customers use of the Service. CenturyLink has adopted 
+and implemented, and will maintain, a corporate information security program designed to protect Customer Data from loss, misuse and 
+unauthorized access or disclosure. Such program includes formal information security policies and procedures. The CenturyLink 
+information security program is subject to reasonable changes by CenturyLink from time to time. Customer will ensure that all Customer 
+Data stored, transmitted or processed via the Service complies with applicable law and reasonable information security practices, 
+including those involving encryption. 
+6. Use of Service. Customer will not use Services: (a) for fraudulent, abusive, or unlawful purposes or in any other unauthorized 
+or attempted unauthorized manner, including unauthorized or attempted unauthorized access to, or alteration, or abuse of, information; 
+or (b) in any manner that causes interference with CenturyLinks or anothers use of the CenturyLink-provided network or infrastructure. 
+Customer will cooperate promptly with CenturyLink to prevent third parties from gaining unauthorized access to the Services, including 
+via Customers facilities, if applicable. Customer and its End Users will not use or access the Services or any CenturyLink data center in 
+a manner that: (a) materially interferes with or harms the CenturyLink infrastructure or any third parties; or (b) is tortious or violates any 
+third party right. If expressly required by a Service Attachment, Customer must conform to an applicable Acceptable Use Policy (AUP) 
+for Services purchased under this Agreement. CenturyLink may terminate for Cause or suspend the affected Service if Customer 
+violates this Section. CenturyLink will attempt to notify Customer in writing prior to termination for Cause or suspending Service. 
+However, CenturyLink may terminate for Cause or suspend Service without notice if CenturyLink becomes aware of a violation of any 
+applicable law or regulation or of activity that exposes CenturyLink to criminal or civil liability or that exposes the CenturyLink network, 
+CenturyLink property or CenturyLink customers' network or property to harm as identified in the applicable AUP.
+7. Confidentiality. 
+7.1Neither party will, without the prior written consent of the other party: (a) disclose any of the terms of the Agreement; or (b) 
+disclose or use (except as expressly permitted by, or required to achieve the purposes of, the Agreement) the Confidential Information 
+received from the other party. CenturyLinks consent may only be given by its Legal Department. Confidential Information will not 
+include information that is in the public domain through no breach of the Agreement by the receiving party, information that is already 
+known or is independently developed by the receiving party, or Customer Data, the obligations for which are governed by the provisions 
+identified in Section 5 above. 
+7.2Each party will use reasonable efforts to protect the other partys Confidential Information and will use at least the same efforts 
+to protect such Confidential Information as the party would use to protect its own Confidential Information. A party may disclose 
+Confidential Information if required to do so by a governmental agency, by operation of law, or if necessary in any proceeding to 
+establish rights or obligations under the Agreement. Each party agrees to limit disclosure and access to Confidential Information to 
+those of its employees, contractors, attorneys or other representatives who reasonably require such access in order to accomplish the 
+purposes of this Agreement and who are subject to confidentiality obligations at least as restrictive as those contained herein. 
+8. Disclaimer of Warranties. THE SERVICES PROVIDED BY CENTURYLINK UNDER THE AGREEMENT ARE PROVIDED 
+WITHOUT ANY WARRANTIES OF ANY KIND, WHETHER STATUTORY, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO, WARRANTIES OF TITLE, NONINFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, 
+COMPLETENESS, COMPATIBILITY OF SOFTWARE OR EQUIPMENT, OR ANY RESULTS TO BE ACHIEVED THEREFROM. 
+CENTURYLINK MAKES NO WARRANTIES OR REPRESENTATIONS THAT ANY SERVICE WILL BE FREE FROM LOSS OR 
+LIABILITY ARISING OUT OF HACKING OR SIMILAR MALICIOUS ACTIVITY, OR ANY ACT OR OMISSION OF CUSTOMER. THE 
+PREVIOUS DISCLAIMERS WILL NOT LIMIT CUSTOMER'S ABILITY TO SEEK ANY APPLICABLE SLA REMEDIES. 
+9. Limitations of Liability. The remedies and limitations of liability for any claims arising between the parties are set forth below.
+9.1 Consequential Damages. NEITHER PARTY, NOR ITS AFFILIATES, CONTRACTORS, SUPPLIERS OR AGENTS, WILL BE 
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, RELIANCE, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR ANY LOST 
+OR IMPUTED PROFITS OR REVENUES, REGARDLESS OF THE LEGAL THEORY UNDER WHICH SUCH LIABILITY IS 
+ASSERTED, AND REGARDLESS OF WHETHER A PARTY HAD BEEN ADVISED OF THE POSSIBILITY OF SUCH LIABILITY. 
+9.2 Claims Related to Services. For Customers claims related to Service deficiencies, interruptions or failures, Customers 
+exclusive remedies are limited to those remedies set forth in the SLA, if any, or applicable Service Appendix or Service Exhibit for the 
+affected Service. The exclusive SLA remedies will not apply to breaches of unrelated obligations under the Agreement such as 
+infringement, confidentiality, etc.
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA v1.0301179.3 Personal Injury; Death; Property Damages. For claims arising out of personal injury or death to a partys employee, or 
+damage to a partys real or tangible personal property, that are caused by the other partys negligence or willful misconduct in the 
+performance of the Agreement, each partys liability is limited to proven direct damages. Proven direct damages for tangible personal 
+property will not exceed the fair market replacement value of the affected property (excluding data, software and firmware).
+9.4 Other Direct Damages. Except for (a) Customers payment and (b) each partys indemnification obligations set forth in 
+Section 10 below, the total aggregate liability of each party arising from or related to the claim will not exceed in the aggregate the total 
+charges paid or payable to CenturyLink under the Agreement in the six months immediately preceding the first event giving rise to the 
+cause of action (Damage Cap). 
+10. Indemnification. Each party will defend and indemnify the other party, its Affiliates, agents, and contractors against all third 
+party claims for damages, liabilities, or expenses, including reasonable attorneys fees, arising directly from performance of the 
+Agreement and related to personal injury or death that is alleged to have been caused by the negligence or willful misconduct of the 
+indemnifying party. Customer will also defend and indemnify CenturyLink, its Affiliates, agents, and contractors against all third party 
+claims for damages, liabilities, or expenses, including reasonable attorneys' fees, related to the modification or resale of the Services by 
+Customer or End Users, or violation of any AUP or Use of Service provision. The indemnification obligations described in this section 
+are not subject to the Damage Cap.
+11. Intellectual Property. 
+11.1 Ownership. Nothing in the Agreement or the performance thereof will convey, license, or otherwise transfer any right, title, or 
+interest in any intellectual property or other proprietary rights held by either party or its licensors. CenturyLink's intellectual property and 
+proprietary rights include any skills, know-how, modifications or other enhancements developed or acquired in the course of 
+configuring, providing, or managing the Service. Each party agrees that it will not, directly or indirectly, reverse engineer, decompile, 
+reproduce or otherwise attempt to derive source code, trade secrets, or other intellectual property from any information, material, or 
+technology of the other party or its licensors.
+11.2 Infringement. CenturyLink will, at its own expense, defend Customer against any claim, demand or suit made or brought 
+against Customer by a third party alleging that any use of a CenturyLink Service as allowed under this Agreement infringes or 
+misappropriates the valid patent rights of a third party issued or in effect on the Effective Date in the country in which CenturyLink 
+provides the relevant Service, and CenturyLink will pay any costs of settlement or any damages finally awarded against Customer. 
+CenturyLink will not have any obligation under this Section if a claim arises from: (a) the combination, use or operation of any Services 
+with any third party service or product, (b) any modification of the Services made by any party other than CenturyLink, (c) use by 
+Customer other than the then current unaltered release of any software used in the Services, (d) use or operation by Customer or its 
+agents or contractors of the Service other than in accordance with this Agreement and all instructions and documentation provided by 
+CenturyLink, (e) services for which Customer controlled the design of such services or (f) Customer-supplied content, data, or other 
+information. CenturyLinks obligations are expressly conditioned upon the following: (g) that Customer will promptly notify CenturyLink 
+in writing of any allegation or notice of alleged infringement; (h) that CenturyLink will have sole control of the defense or settlement; (i) 
+that Customer will cooperate with CenturyLink in a reasonable way to facilitate the settlement or defense. If any CenturyLink Service 
+becomes, or in CenturyLinks opinion is likely to become, the subject of a claim of infringement, CenturyLink will, at its option: (j) 
+procure for Customer the right to continue using the applicable Service; (k) replace or modify the Service to provide Customer with a 
+non-infringing Service that is functionally equivalent in all material respects; or (l) if (j) or (k) are not reasonably achievable by 
+CenturyLink, terminate provision of the affected Service. Any third party system, equipment or software provided under this Agreement 
+are provided without any obligation of CenturyLink to defend for any infringement or misappropriation. This Section provides the sole and 
+exclusive obligations and remedies of the parties in connection with any third party claim, suit or other demand of infringement or 
+misappropriation of third party proprietary rights in connection with any Services provided under this Agreement. 
+12. Equipment. If the Service includes access to or the use of CenturyLink-provided equipment ("CenturyLink Equipment"), 
+Customer: (a) will not assert any ownership interest whatsoever in the CenturyLink Equipment; (b) will keep the CenturyLink Equipment 
+free and clear from all liens, claims and encumbrances; (c) will protect and use all CenturyLink Equipment in accordance with the 
+Agreement; and (d) will cooperate with CenturyLink to allow installation, maintenance and, upon termination, removal of the 
+CenturyLink Equipment.
+13. Maintenance. Customer acknowledges that the Services may be subject to routine maintenance or repair and agrees to 
+cooperate in a timely manner and provide reasonable access and assistance as necessary to allow such maintenance or repair.
+14. Termination. 
+14.1 Service. Either party may terminate an individual Service Attachment: (a) in accordance with the individual Service 
+Attachments term requirements with 60 days prior written notice to the other party, or (b) for Cause. If Service or a Service Attachment 
+is terminated by Customer for any reason other than for Cause or by CenturyLink for Cause prior to conclusion of its Term, then 
+Customer will pay the termination charges in accordance with each Service Attachment, in addition to any and all charges that are 
+accrued but unpaid as of the termination date. 
+14.2 Agreement. Either party may terminate the Agreement and all Service Attachments by: (a) providing written notice to the other 
+party of its intention not to renew the Agreement at least 60 days prior to the expiration of the Initial Term, or at least 30 days prior to 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA v1.030117the expiration of any Renewal Term, or (b) for Cause. If the Agreement is terminated by Customer for any reason other than for Cause, 
+or by CenturyLink for Cause prior to the conclusion of the Term, Customer will pay the termination charges in accordance with each 
+Service Attachment, in addition to any and all charges that are accrued but unpaid as of the termination date. 
+15. Miscellaneous.
+15.1 General. All provisions in the Agreement that by their nature are intended to survive expiration or termination will so survive. If 
+any term of the Agreement is held unenforceable, the unenforceable term will be construed as nearly as possible to reflect the original 
+intent of the parties, and the remaining terms will remain in effect. The Agreement is intended solely for CenturyLink and Customer and 
+does not provide any third party with any right or benefit. 
+15.2 Use of Name and Marks. Neither party will use the name or marks of the other party of any of its Affiliates for any purpose 
+without the other partys prior written consent. CenturyLinks consent may only be given by its Legal Department.
+15.3 Waiver. Except as otherwise expressly set forth in the Agreement, neither party's failure to insist upon strict performance of 
+any provision of the Agreement will be construed as a waiver of any of its rights. Neither the course of conduct between parties nor 
+trade practice will act to modify any provision of the Agreement.
+15.4 Independent Contractor. CenturyLink provides the Services as an independent contractor. The Agreement will not create an 
+employer-employee relationship, association, joint venture, partnership, or other form of legal entity or business enterprise between the 
+parties, their agents, employees or affiliates.
+15.5 Governing Law; Dispute Resolution.
+(a) Governing Law; Forum. This Agreement will be governed by and construed in accordance with the laws of the State of 
+Delaware, without regard to its principles for resolving conflicts of law. Any legal proceeding relating to the Agreement must be brought 
+exclusively in a U.S. District Court or in a state court of competent jurisdiction, in Denver, Colorado.
+(b) Waiver of Jury Trial and Class Action. Each party, to the extent permitted by law, knowingly, voluntarily, and intentionally 
+waives its right to a jury trial and any right to pursue any claim or action relating to the Agreement on a class or consolidated basis or in 
+a representative capacity. If for any reason the jury trial waiver is held to be unenforceable, the parties agree to binding arbitration for 
+any dispute relating to the Agreement under the Federal Arbitration Act, 9 U.S.C. § 1, et. seq. The arbitration will be conducted in 
+accordance with the JAMS Comprehensive Arbitration Rules. Judgment upon the arbitration award may be entered in any court having 
+jurisdiction. 
+(c) Limitations Period. Any claim relating to the Agreement must be brought within two years after the claim arises other than a 
+claim associated with an invoice, which must be done within 90 days after the applicable invoice date. 
+15.6 Force Majeure. Neither party will be liable for any failure or delay in its performance under the Agreement (other than a failure 
+to comply with payment obligations) due to an event beyond a party's reasonable control ("Force Majeure Event"). If a Force Majeure 
+Event prevents the provision of Service for a period of 30 days, either party may terminate the affected Service by providing 30 days 
+written notice to the other party.
+15.7 Assignment. Neither party may assign the Agreement or any portion hereof without the other party's prior written consent, 
+which consent will not be unreasonably withheld. Notwithstanding the foregoing, either party may assign the Agreement or a portion 
+thereof: (a) in the event of a merger in which the party is not the surviving entity; (b) in the event of a sale of all or substantially all of its 
+assets; or (c) to any Affiliate of such party; except that Customer may not assign this Agreement or any Service to a reseller or a 
+telecommunications carrier under any circumstances. Subject to the foregoing, the Agreement will be binding upon and inure to the 
+benefit of the parties hereto and their respective permitted successors and assigns. Any assignee of Customer must have a financial 
+standing and creditworthiness equal to or better than Customer's, as reasonably determined by CenturyLink, through a generally 
+accepted, third party credit rating index (i.e. D&B, S&P, etc.).
+15.8 Amendments. Except as otherwise set forth the Agreement, all amendments to the Agreement will be in writing and signed by 
+the parties' authorized representatives. Other oral or written communications between the parties, including emails, purporting to amend 
+the Agreement will not be considered an amendment to the Agreement and are null and void. 
+15.9 Websites. References to websites in the Agreement include any successor websites designated by CenturyLink.
+15.10 Conflicts. If a conflict exists between the general terms of the Agreement and the applicable CenturyLink Service Appendix, 
+the CenturyLink Service Appendix will control. For purposes of this Section only, the CenturyLink TS Service Exhibit will be treated as a 
+Service Appendix.
+15.11 Notices. All notices must be in writing. Notices are deemed given if sent to the addressee specified for a party either (a) by 
+registered or certified U.S. mail, return receipt requested, postage prepaid, three days after such mailing; or (b) by national overnight 
+courier service, next business day; or (c) by facsimile when delivered if duplicate notice is also sent by regular U.S. Mail. 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA v1.030117(a) Service Notices. Unless otherwise provided for in a Service Appendix or Service Exhibit, all Customer notices for Service 
+disconnect and termination must be sent via e-mail to: CenturyLink, Attn.: BusinessDisconnects@centurylink.com and must contain the 
+account name, account number, identification of the Service(s), and Service address(es). Such disconnect and termination is effective 
+30 days after CenturyLinks receipt of the notice, unless a longer period is otherwise required by a Service Attachment. All Customer 
+notices for Service non-renewal and other routine operational notices will be provided to its CenturyLink sales representative unless 
+otherwise provided for in a Service Appendix or Service Exhibit. Failure to provide disconnect, termination and non-renewal notices in 
+accordance with the terms of this Agreement may result in continued charges, and CenturyLink will not credit charges for such 
+noncompliance. 
+(b) Legal Notice. All legal notices required to be given under the Agreement will be in writing and provided to CenturyLink at: 931 
+14th Str., #900, Denver, CO 80202; Fax: 888-778-0054; Attn.: Legal Dept., and to Customer as provided in the Agreement or in its 
+absence, to Customers address reflected in CenturyLink's records Attn. General Counsel.
+15.12 Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior oral or 
+written agreements or understandings relating to the same Services at the same locations as covered under the Agreement. Any terms 
+and conditions in a Customer produced ordering document other than quantity and description of Services ordered will have no force or 
+effect. All handwritten or typed modifications to the Agreement that are not mutually agreed to in writing are null and void.
+16. Definitions. Capitalized terms not defined herein are defined in a Service Appendix or Service Exhibit.
+Affiliate means any entity controlled by, controlling, or under common control with a party.
+Cause means the failure of a party to perform a material obligation under the Agreement, which failure is not remedied: (a) for 
+payment defaults by Customer, within five days of separate written notice from CenturyLink of such default; or (b) for any other material 
+breach, within 30 days after written notice (unless a shorter notice period is identified in a Service Attachment).
+Confidential Information means any non-public business plans, analyses, forecasts, predictions or projections, technical information, 
+business models, pricing strategies, marketing ideas, sales projections, financing plans, valuations, capitalization, budgets and other 
+financial information of either party, that is disclosed by one party to the other party either in the formation or implementation of the 
+Agreement. Confidential Information includes the terms and pricing of the Agreement. 
+Customer Data means any Customer provided information, data or materials that Customer transmits, receives, stores or processes 
+through its use of CenturyLink Services. If information is both Confidential Information and Customer Data, it will be treated as 
+Customer Data for purposes of this Agreement.
+End User means Customers members, end users or any other third parties who use or access the Services or access CenturyLinks 
+network or data centers via the Services. 
+Government-permitted Charges means any additional fees, charges or surcharges assessed by CenturyLink to recover amounts that 
+CenturyLink is required or permitted by governmental or quasi-governmental authorities to collect, or pay to others in support of, or to 
+comply with, statutory or regulatory programs. These charges may include federal and state charges for universal service support, 
+telephone relay service, occupational levies and environmental assessments, energy or power consumption levies or charges, 
+regulatory administration and similar pass-through fees, and other similar surcharges and levies or any other regulatory fees and 
+charges. 
+MRC means monthly recurring charge.
+NRC means non-recurring charge. 
+"Service" means the service provided by the applicable CenturyLink Affiliate.
+"Service Appendix" means those additional terms pursuant to which a specific CenturyLink Affiliate may provide and Customer may 
+purchase the Services described therein. 
+"Service Exhibit" means those service descriptions providing additional terms pursuant to which CenturyLink may provide and 
+Customer may purchase the Services described therein.
+SLA or "SLA Attachment" means the service level agreement applicable to each individual Service, if any, which provides Customer's 
+exclusive remedies for any Service deficiencies, interruptions or failures. 
+"Taxes" means any foreign, federal, state, and local excise, gross receipts, sales, use, value added, privilege, franchise tax or other 
+governmental charge (other than on net income), whether imposed directly upon CenturyLink or Customer, now or in the future, 
+attributable to or measured by the sale price, transaction amount and/or services purchased, whether invoiced as a direct charge or as 
+a surcharge. 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT 
+Monthly Revenue Commitment Addendum
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA 0301171. General. This Addendum modifies the CenturyLink Total Advantage Agreement to add a Revenue Commitment. 
+2.Section 1 of the Agreement is modified to add the following: 
+1.1 Term; Commitment. The Revenue Commitment and Initial Term of the Agreement are $2,000/month; 3 years. 
+The Initial Term begins on the Effective Date. At the end of the Initial Term, the Agreement will automatically renew on a 
+month-to-month basis (a Renewal Term) unless one party provides written notice to the other party of its intention not to 
+renew the Agreement at least 60 days prior to the expiration of the Initial Term, or at least 30 days prior to the expiration of any 
+Renewal Term. The Initial Term and each Renewal Term are referred to as the Term. The Order Term or Service Term for a 
+particular Service is defined in the applicable Service Attachment. CenturyLink will not accept new orders after expiration or 
+termination of the Agreement, but the Agreement will continue to apply to any unexpired orders or SOWs properly placed 
+during the Term.
+1.2. Contributory Charges. Customer is not obligated to order any particular Service; however, starting three months 
+after the Effective Date, Customers aggregate Contributory Charges must equal or exceed the Revenue Commitment during 
+each Measurement Period. Customer authorizes CenturyLink, its Affiliates, or its agents to use billing information to measure 
+Customers Revenue Commitment. If Customer fails to meet its Revenue Commitment, Customer must pay CenturyLink a 
+Shortfall charge.
+3.Section 3 of the Agreement is deleted and replaced with the following: 
+3. Rates. Services will receive the applicable rates specified in a Service Attachment for the duration of the Initial Term. 
+Following expiration of the Initial Term, Customer will continue to receive the same rates for 90 days and then CenturyLink 
+may change rates for Services to its then-current month-to-month or standard rates at any time after the initial 90 days 
+following the expiration of the Initial Term. The Revenue Commitment does not apply during a Renewal Term. The rates set 
+forth in the Service Attachment are in lieu of all other rates, discounts, or promotions.
+4.Section 9.2 of the CenturyLink Communications, LLC Service Appendix is deleted and replaced with the following: 
+9.2 Service Appendix. If this Service Appendix and all of the Services provided under it are terminated by Customer for 
+any reason other than for Cause or by CenturyLink for Cause prior to the conclusion of the Initial Term, then Customer will pay 
+the higher of: (a) the Early Termination Charge or (b) the total Cancellation Charges that apply for terminating all Services at 
+the time all of the Services are terminated. Cause to terminate an individual Service Exhibit will not constitute Cause to 
+terminate this Service Appendix. Rather, Cause to terminate the entire Service Appendix for Service-related claims will exist 
+only if Customer has Cause to terminate all or substantially all of the Services under the applicable SLA, Service Exhibit, RSS 
+or Tariff. Standard Cancellation Charges for individual Services will still apply if the Agreement is terminated during a Renewal 
+Term.
+5.Section 18 of the CCLLC Service Appendix is revised to add the following definitions:
+CenturyLink QC Contributory Services means the following Qwest Corporation d/b/a CenturyLink QC services: Analog 
+Private Line, Analog Trunks, ATM (IntraLATA), Business local exchange lines (e.g., CenturyLink Choice™ Business 
+packages); Centrex and Centron®, CenturyLink High-Speed Internet, Digital Switched Service, directory services, DS1, DS3, 
+Frame Relay (IntraLATA), GeoMax®, ISDN Services, Metro Ethernet, Optical Wavelength Service, SHARP, SHNS, SST, and 
+Uniform Access Solution.
+Contributory Charges means: (a) all MRCs and usage charges for Services (other than Local Access Service) ordered under 
+the Agreement after the Appendix Effective Date and incurred during the Term and (b) all MRCs and usage charges for 
+CenturyLink QC Contributory Services ordered before or after the Appendix Effective Date under separate agreements and 
+incurred during the Term. Contributory Charges do not include NRCs, CPE, any charges under the Local Access Service 
+Exhibit, pass-through charges, Taxes, worldcard® payphone surcharges, other surcharges, issued credits, or other charges 
+not specified as Contributory Charges under the Agreement. 
+Early Termination Charge equals: (a) 100% of the Revenue Commitment times the number of months remaining in the then 
+current Annual Period in which the Agreement is terminated during the Initial Term; plus (b) 35% of the total Revenue 
+Commitment for any other Annual Period(s) remaining in the Initial Term.
+Measurement Period means each monthly billing cycle following the Appendix Effective Date during the Initial Term.
+ Shortfall means the difference between the Revenue Commitment and Customers Contributory Charges paid during a 
+Measurement Period.
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT 
+CenturyLink Communications, LLC Service Appendix
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA v1.0301171. General. This Service Appendix sets forth the terms generally applicable to the Services provided by CenturyLink 
+Communications, LLC, formerly Qwest Communications Company LLC (CenturyLink or CenturyLink QCC) under the Agreement 
+("Services"). Capitalized terms not defined herein are defined in the Agreement or in the Service Exhibits. CenturyLink will provide 
+Services under the terms of the Agreement, this Service Appendix, and applicable Service Exhibits. Any references to a Revenue 
+Commitment or Contributory Charges in a Service Attachment will not apply to this Agreement. This Service Appendix is effective on 
+the date that it becomes part of the Agreement (Appendix Effective Date.)
+2. Service Attachments. Customer may purchase Services in the following Service Exhibits attached to this Service Appendix. 
+DOMESTIC CENTURYLINK IQ NETWORKING SERVICE EXHIBIT
+LOCAL ACCESS SERVICE EXHIBIT OFFER ATTACHMENT FOR
+RENTAL CPE SERVICE EXHIBIT
+3. Commencement of Invoicing. CenturyLink will begin invoicing for specific Services as specified in the applicable Service 
+Exhibit. 
+4. Rates. CenturyLink reserves the right to modify rates and charges due to Regulatory Activity and will provide as much prior 
+written notice as practicable but not less than 14 calendar days notice. The parties agree that the rates set forth in the Service Exhibit 
+are in lieu of all other rates, discounts, or promotions. 
+5. Access Arbitrage. If CenturyLink determines the number of calls routed to CenturyLink using Access Arbitrage exceeds 
+11.4% of Customers total call volume, CenturyLink will apply a per minute Access Arbitrage Fee to 95% of their high cost minutes, In 
+addition, CenturyLink may immediately restrict, suspend, or discontinue Service used in connection with Access Arbitrage upon notice 
+of such violation to Customer. Inbound and outbound per minute Access Arbitrage Fees are $0.10 per minute for switched Services 
+and $0.05 per minute for dedicated Services. For more detailed information about Access Arbitrage, please refer to the RSS.
+6. CPNI. CenturyLink is required by law to treat CPNI confidentially. Customer agrees that CenturyLink may share CPNI within its 
+business operations (e.g., wireless, local, long distance, and broadband services divisions), and with businesses acting on 
+CenturyLinks behalf, to determine if Customer could benefit from the wide variety of CenturyLink products and services, and in its 
+marketing and sales activities. Customer may withdraw its authorization at any time by informing CenturyLink in writing. Customer's 
+decision regarding CenturyLink's use of CPNI will not affect the quality of service CenturyLink provides Customer.
+7. No Resale. Customer represents that it is not a reseller of any Services provided under this Agreement and acknowledges it is 
+not entitled to any reseller discounts under any laws. 
+8. Use of Service. In addition to a violation of Customers other Use of Service obligations in the Agreement, CenturyLink may 
+also terminate Service for Cause under this Section where Customers use of the Service: (a) is contrary to the Acceptable Use Policy 
+incorporated by this reference and posted at http://www.centurylink.com/legal/, (b) constitutes an impermissible traffic aggregation or 
+Access Arbitrage, (c) avoids Customer's obligation to pay for communication services, (d) violates the Use of Service terms contained 
+in the Agreement, (e) violates the Compliance terms contained in a Service Exhibit, if applicable, and (f) fails to comply with all 
+applicable call recording laws. Customer may have obligations under 47 CFR 9.5 relating to 911 if Customer combines the Service with 
+other products creating a VoIP or VoIP-like service that facilitates the transmission of voice services. 
+9. Termination.
+9.1 Service. If a Service or a Service Exhibit is terminated by Customer for any reason other than for Cause or by CenturyLink for 
+Cause during the Initial Term or any Renewal Term, then Customer will pay Cancellation Charges. 
+9.2 Service Appendix. If this Service Appendix and all of the Services provided under it are terminated by Customer for any 
+reason other than for Cause or by CenturyLink for Cause prior to the conclusion of the Initial Term, then Customer will pay the total 
+Cancellation Charges that apply for terminating all Services at the time all of the Services are terminated. Cause to terminate an 
+individual Service Exhibit will not constitute Cause to terminate this Service Appendix. Rather, Cause to terminate the entire Service 
+Appendix for Service-related claims will exist only if Customer has Cause to terminate all or substantially all of the Services under the 
+applicable SLA, Service Exhibit, RSS or Tariff.
+10. Service Level Agreements.
+10.1 SLAs. SLAs are the service level agreements found at http://www.centurylink.com/legal/, the applicable Service Exhibit, or the 
+applicable out-of-service credit for service interruption in a Tariff applicable to each individual Service. CenturyLink may modify SLAs 
+during a renewal term upon 60 days notice.
+10.2 Out-of-Service Credit. For Services without an SLA, this Out-of-Service Credit is an SLA provision for purposes of the 
+Agreement. Customer must request the Out-of-Service Credit and open a trouble ticket to report to CenturyLink the interruption of 
+Service to CenturyLink. If CenturyLink causes Downtime, CenturyLink will give Customer a credit; such credit will be paid as a 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT 
+CenturyLink Communications, LLC Service Appendix
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA v1.030117percentage of the Customers MRC based on the ratio of the number of minutes of Downtime relative to the total number of minutes in 
+the month when the Downtime occurred. No credits will be given where the Downtime is caused by: (a) the acts or omissions of 
+Customer, its employees, contractors or agents or its End Users; (b) the failure or malfunction of equipment, applications or systems 
+not owned or controlled by CenturyLink or its international service providers; (c) Force Majeure Events; (d) scheduled service 
+maintenance, alteration or implementation; (e) the unavailability of required Customer personnel, including as a result of failure to 
+provide CenturyLink with accurate, current contact information; (f) CenturyLinks lack of access to the Customer premises where 
+reasonably required to restore the Service; (g) Customer's failure to release the Service for testing or repair and continuing to use the 
+Service on an impaired basis; (h) CenturyLink's termination of Service for Cause or Customer's violation of the Use of Service 
+provisions in this Appendix or in the Agreement; or (i) improper or inaccurate network specifications provided by Customer. 
+11. Installation, Maintenance and Repair. 
+11.1Provision of Services is subject to availability of adequate capacity and CenturyLinks acceptance of a complete Order Form. 
+11.2Customer will reasonably cooperate with CenturyLink or its agents to install, maintain, and repair Services. Customer will 
+provide or secure at Customer's expense appropriate space and power; and rights or licenses if CenturyLink must access the building 
+of Customers premises to install, operate, or maintain Service or associated CenturyLink equipment. CenturyLink may refuse to install, 
+maintain, or repair Services if any condition on Customers premises is unsafe or likely to Cause injury.
+11.3Customer is responsible for any facility or equipment repairs on Customers side of the demarcation point. Customer may 
+request a technician dispatch for Service problems. Before dispatching a technician, CenturyLink will notify Customer of the dispatch 
+fee. CenturyLink will assess a dispatch fee if it determines the problem is on Customer's side of the demarcation point or was 
+not caused by CenturyLinks facilities or equipment on CenturyLinks side of the demarcation point. 
+12. Tariff, RSS, ISS, AUP. A Service may be subject to a Tariff, RSS, ISS or AUP as specified in its Service Exhibit. If a modification 
+to a Tariff, RSS, ISS or AUP (a) materially and adversely affects Customers legitimate use of a Service; and (b) is not required by 
+government or judicial action, then Customer may terminate the affected Service upon 30 days prior written notice without liability for 
+Cancellation Charges for the affected Service if Customer provides written notice of its intent to terminate the Service under this Section 
+within 30 days after the modification occurs and provides CenturyLink the opportunity to cure the modification within the 30 days after 
+Customers notice.
+13. Force Majeure. For Services, the definition of Force Majeure will also specifically include cable cuts and labor disputes. 
+14. Conflicts. If a conflict exists among the provisions of the Service Attachments for Services, the order of priority will be as 
+follows: the applicable Service Exhibit, this Service Appendix; the RSS or ISS, the general terms of the Agreement, SLA, SOW (if any) 
+and Order Form, as applicable, and then any other documents attached or expressly incorporated into the Agreement. 
+15. Service Notices. Customers notice of non-renewal for Services must be sent via e-mail to: CenturyLink, Attn.: CenturyLink 
+NoRenew, e-mail: Norenew@centurylink.com. For Services under the Select Advantage Service Exhibit, Customer must call 
+the customer care number specified on Customers invoice to provide notice of disconnect and termination. 
+16. HIPAA. CenturyLink does not require or intend to access Customer data in its performance hereunder, including but not 
+limited to any confidential health related information of Customers clients, which may include group health plans, that constitutes 
+Protected Health Information (PHI), as defined in 45 C.F. R. §160.103 under the Health Insurance Portability and Accountability Act of 
+1996 (HIPAA Rules). To the extent that any exposure to PHI is incidental to CenturyLinks provision of Service and not meant for the 
+purpose of accessing, managing the PHI or creating or manipulating the PHI, such exposure is allowable under 45 CFR 
+164.502(a)(1)(iii).
+17. Alternative Funding. Customer will not pay for the Services with funds obtained from governmental agencies or through 
+stimulus grants or loans or other programs, including the American Recovery and Reinvestment Act, that would obligate CenturyLink to 
+provide certain information or perform certain functions unless each of those obligations are explicitly identified and agreed to by the 
+parties in the Agreement or in an amendment to the Agreement. 
+18. Definitions. 
+Access Arbitrage is the use of a scheme, device or any other means to exploit or benefit from the difference between the rates for 
+Voice Services provided by CenturyLink and the originating or terminating charges imposed by the Local Exchange Carrier (Access 
+Arbitrage). Examples of Access Arbitrage include: (i) using switching equipment or a call processing system (such as a prepaid card, 
+calling card, or teleconferencing platform) to segregate calls and systematically route to CenturyLink calls that are characterized by a 
+greater discrepancy between the access costs and the price charged by CenturyLink;(ii) routing calls through a call processing system 
+such that the percentage of high cost minutes routed to CenturyLink using the Service is more than 11.4%; (iii) segregating calls within 
+another carriers network or a call processing system to systematically route calls to CenturyLink where the access costs exceed the 
+price of long distance service provided by CenturyLink; (iv) transporting intrastate traffic into a different state in order to cause the traffic 
+to be rated by CenturyLink at a lower Interstate rate than would otherwise apply; or (v) any other means to exploit or benefit from the 
+difference between the rates for Services and the originating or terminating access charges imposed by the local exchange carrier. 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT 
+CenturyLink Communications, LLC Service Appendix
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink. All Rights Reserved.
+U-CTA v1.030117Cancellation Charge means the cancellation charge described in the applicable Service Exhibit and charges incurred by CenturyLink 
+from a third party provider as a result of an early termination.
+CenturyLink QCC means the former Qwest Communications Company, LLC d/b/a CenturyLink QCC. On April 1, 2014, CenturyLink 
+completed an internal reorganization resulting in the merger of multiple CenturyLink owned companies into Qwest Communications 
+Company, LLC. Simultaneously with the merger, Qwest Communications Company, LLC changed its name to CenturyLink 
+Communications, LLC. The term CenturyLink QCC refers to the former d/b/a CenturyLink QCC company and not to any other 
+CenturyLink owned companies now a part of CenturyLink Communications, LLC.
+CPE means any customer equipment, software, and/or other materials of Customer used in connection with the Service. 
+"CPNI" means Customer Proprietary Network Information, which includes confidential account, usage, and billing-related information 
+about the quantity, technical configuration, type, destination, location, and amount of use of a customers telecommunications services. 
+CPNI reflects the telecommunications products, services, and features that a customer subscribes to and the usage of such services, 
+including call detail information appearing in a bill. CPNI does not include a customer's name, address, or telephone number.
+Downtime is an interruption of Service confirmed by CenturyLink that is measured from the time Customer opens a trouble ticket with 
+CenturyLink to the time Service has been restored.
+ISS means CenturyLinks Information Services Schedule incorporated by this reference and posted at: 
+http://www.centurylink.com/tariffs/clc_info_services.pdf .
+Order Form includes both order request forms and quotes issued by CenturyLink. If a CenturyLink service requires a quote to validate 
+the Order Form pricing, the quote will take precedence over the order request form, but not over the Service Exhibit.
+"Regulatory Activity" is a regulation or ruling by any regulatory agency, legislative body or court of competent jurisdiction.
+RSS means as applicable: CenturyLinks Rates and Services Schedules incorporated by this reference and posted at 
+http://www.centurylink.com/tariffs/fcc_clc_ixc_rss_no_2.pdf for CenturyLink's International RSS and at 
+http://www.centurylink.com/tariffs/fcc_clc_ixc_rss_no_3.pdf for CenturyLinks Interstate RSS. 
+Tariff includes as applicable: CenturyLink state tariffs, price lists, price schedules, administrative guidelines, catalogs, and rate and 
+term schedules incorporated by this reference and posted at http://www.centurylink.com/tariffs. 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 10 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.121216CenturyLink IQ Networking is subject to the Local Access Service Exhibit, and the CenturyLink® Total Advantage® or CenturyLink® 
+Loyal Advantage® Agreement between Customer and CenturyLink QCC. Port types that require Rental CPE are also subject to the 
+Rental CPE Service Exhibit.  All capitalized terms that are used but not defined in this Attachment are defined in the Agreement or 
+Service Exhibit. 
+1. General.  Domestic and International CenturyLink IQ® Networking Service (Service) is provided domestically by CenturyLink 
+QCC and internationally as described in the International Terms and Conditions section under the terms of the Agreement, this Service 
+Exhibit, and any signed quotes between the applicable CenturyLink entity and Customer. 
+2. Service.
+2.1 Description. Service is a data, IP, and a network management solution that is designed for connectivity between Customers 
+sites or public Internet connectivity.
+2.2 Ports.  CenturyLink offers Service in the following port (Port) types:
+(a) Internet Port.  Internet Ports provide public Internet connectivity.  
+(b) Private Port.  Private Ports provide WAN connectivity between Customer sites. Customer may allocate Private Port traffic up 
+to 10 different closed user groups. Customer may request more than 10 point-to-point closed user groups for an additional charge. 
+Quality of service (QoS) traffic prioritization can be used with Private Ports. Ethernet Private Ports with real-time traffic that require 
+QoS are subject to local access limitations. 
+(c) CenturyLink IQ®+ Port. A CenturyLink IQ+ Port is a bundled solution that includes the following: (i) the functionality of a 
+Private Port, (ii) Local Access, (iii) Monitor and Notification for a CenturyLink provided or approved router, (iv) End-to-End Performance 
+Reporting, and (v) optional CenturyLink provided router as Rental CPE and Priority Queuing.  The Local Access and CenturyLink 
+provided router for domestic Service are subject to the Local Access Service Exhibit and CenturyLink Rental CPE Service Exhibit 
+(including the applicable Detailed Description), respectively.  Customer may provide a router approved by CenturyLink.  Domestic 
+Service with a CenturyLink provided router includes 8x5 NBD maintenance using ProMET® Remote Standard Service or 24x7 on-site 
+maintenance using ProMET® On-Site Premium Service at Customer qualified sites.  CenturyLink may use repackaged Rental CPE or 
+substitute the Rental CPE with other CPE.  The network service functionalities provided over routers and local access for international 
+Service is provided by third party providers designated by CenturyLink and subject to maintenance terms included in the valid signed 
+quote issued by CenturyLink.  Customer is responsible for any trouble shooting and repair of equipment on Customers side of the 
+router.  Domestically, a CenturyLink IQ+ Port is only available in a CenturyLink determined data center.
+(e) CenturyLink IQ®+ Cloud Port. A CenturyLink IQ+ Cloud Port is a bundled solution that provides: (i) private connectivity 
+between Customers Private Port sites and Customer resources in CenturyLink determined data centers and/or cloud service provider 
+environments, (ii) Local Access (Data Center Access) and (iii) End-to-End Performance Reporting. Customer can use all Private Port 
+features defined in the Private Port section above.  Access within data centers and cloud service provider environments may include 
+shared or virtualized services where available. Customer understands that cloud-related services are contracted separately.
+2.3 Network Management Service.  CenturyLink Network Management Service (NMS) is a feature available for all Ports except 
+for a CenturyLink IQ+ Cloud Port.  Select Management or Comprehensive Management is available with domestic Ports. International 
+Ports with NMS are limited to Comprehensive Management. The feature provides performance reporting, change management, 
+configuration management, fault monitoring, management and notification of CPE and network related issues.  Customer may also 
+request NMS management features for devices not associated with a CenturyLink IQ Networking Port in domestic locations with 
+CenturyLinks prior approval. The NMS management types are set forth in more detail below.
+(a) Monitor and Notification.  Monitor and Notification can be included with CenturyLink IQ+ Ports and is an optional NMS 
+feature for the other Port types. CenturyLink will monitor the Customer devices 24x7x365 for up/down status using ICMP ping.  
+CenturyLink will notify Customer if no response is received for a designated period. NMS will not provide any troubleshooting and 
+incident resolution for device or network faults. Monitor & Notification is the only NMS option available for devices that do not support 
+SNMP and/or are not certified for NMS. 
+(b) Select Management. Select Management can be included with any eligible domestic Port.  CenturyLink will monitor Customer 
+devices 24x7x365 for up/down status as well as provide 24x7x365 remote performance monitoring, reporting, and ticketing via an NMS 
+online portal for devices supported by CenturyLink, fault monitoring, management, and notification (detection, isolation, diagnosis, 
+escalation and remote repair when possible), change management supported by CenturyLink (up to 12 changes per year), asset 
+management (device inventory), and configuration management (inventory of customer physical and logical configuration). Customer 
+must make change management requests via Control Center at https://controlcenter.centurylink.com.  Select Management only 
+supports basic routing functions.  NMS does not include new CPE initial configuration, lab testing, lab modeling, or on-site work of CPE.  
+The NMS supported device list and a standard change management list are available on request and are subject to change without 
+notice. 
+(c) Comprehensive Management.  Comprehensive Management can be included on any eligible domestic or international Port.  
+Comprehensive Management includes all of the Select Management features as well as total customer agency and change 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 11 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.121216management (up to 24 configuration changes per year) of complex routing functions within routers, switches, and firewall modules. This 
+includes configuration and management of complex routing, switching, device NIC cards, firewall module configurations, and basic 
+router internal firewall functions. CenturyLink acts as the Customers single point of contact in managing the resolution of all service, 
+device, and transport faults covered by Comprehensive Management and will work with any third party hardware and/or transport 
+providers the Customer has under contract until all network issues are successfully resolved. With Internet security protocol (IPSec), 
+CenturyLink can configure full mesh, partial mesh, or hub-and-spoke topologies with secure tunnels for remote communication between 
+Customer locations. IPSec is only available on approved Cisco and Adtran devices. IPSec opportunities greater than 25 devices or with 
+other manufacturers devices require CenturyLink approval before submitting an order.  
+(d) CenturyLink Responsibilities.  For NMS, CenturyLink will provide Customer with a nonexclusive service engineer team, 
+which will maintain a Customer profile for the portion of the Customers network where the devices covered by NMS reside.  
+CenturyLink will work with Customer to facilitate resolution of service affecting issues with Select Management or Comprehensive 
+Management.
+(e) Customer Responsibilities.
+(i)Customer must provide all information and perform all actions reasonably requested by CenturyLink in order to facilitate 
+installation of NMS.  If Customer limits or restricts CenturyLinks read/write access to a device, CenturyLink cannot support 
+configuration backups.  Customer is responsible for supporting CenturyLink in access, troubleshooting, and configuration requests 
+made in accordance with normal troubleshooting and repair support activities. For Out-of-Band management related to fault 
+isolation/resolution, Customer will provide and maintain a POTS line for each managed device.  Out-of-Band means a connection 
+between two devices that relies on a non-standard network connection, such as an analog dial modem, which must be a CenturyLink 
+certified 56k external modem.  Additionally, Customer will provide a dedicated modem for each managed device.  It is not mandatory 
+that Customer have a POTS line but Customer must understand that CenturyLink will not be able to troubleshoot issues if the device 
+covered by NMS cannot be reached.  Service related outages requiring access to the device for troubleshooting and repair purposes 
+will impact the eligibility of any associated SLA credits.
+(ii)For Comprehensive Management, Customer must execute the attached Letter of Agency (Attachment 1) to authorize 
+CenturyLink to act as Customers agent solely for the purpose of accessing Customers transport services.
+(iii)Depending on transport type, Customers managed devices must comply with the following set of access requirements: (A) for 
+NMS delivered via IP connectivity with an Internet Port or other public Internet service, devices must contain an appropriate version of 
+OS capable of establishing IPsec VPNs; and (B) for NMS delivered with a Private Port, CenturyLink will configure a virtual circuit to 
+access Customers device at no additional charge.  CenturyLink will add the NMS network operations center to the Customer closed 
+user group to manage the devices within Customers network.
+(iv)Customer must provide a routable valid IP address to establish the NMS connection.  Customers primary technical interface 
+person must be available during the remote installation process to facilitate installation of NMS.  All Customer devices managed under 
+NMS must be maintained under a contract from a CenturyLink approved onsite CPE maintenance provider.  The response times for 
+which Customer contracts with its CPE maintenance provider will affect CenturyLinks timing for resolution of problems involving 
+Customer provided devices.  The performance of the CPE maintenance provider is Customers responsibility.
+(v)Customer may not reverse engineer, decompile, disassemble or apply any other process or procedure to alter any CPE, 
+software, or other component of this Service for any purpose. 
+2.4 End-to-End Performance Reporting.  End-to-End Performance Reporting is a feature included with all Ports, except for 
+Ports with VPLS. Customer must include CenturyLink as a member of each closed user group.  The feature includes a report based on 
+data collected from Customers traffic within its closed user groups and measures availability, jitter, latency, and packet delivery 
+between Customers edge routers, between CenturyLinks routers, and between Customers edge routers and CenturyLinks routers. 
+The data contained in the report is measured differently than the goals contained in the SLA applicable to the Service and is for 
+informational purposes only.  Customer is not entitled to SLA credits based on the data in the report.  Customer may access the report 
+in the Control Center portal. Some quote forms or other associated documents may use End-to-End Performance Monitoring to mean 
+End-to-End Performance Reporting.
+2.5 Multicast.  Multicast is an optional feature for Private Ports.  The feature enables IP multicast on the CenturyLink IP network.  
+Customer must configure its edge devices with CenturyLink designated multicast protocol specifications and use the CenturyLink 
+designated IP address range for Customers multicast applications.  The standard feature allows up to ten sources of multicast traffic 
+per Customer, but CenturyLink may permit a limited number of additional sources.
+2.6 VPLS.  Layer 2 virtual private LAN service (VPLS) is optional feature for Private Ports only.  VPLS is not available for 
+CenturyLink IQ+ Ports or CenturyLink IQ+ Cloud Ports.  Private Ports with VPLS are supported on CenturyLink-certified Cisco 
+equipment and are limited to the following connection and encapsulation methods: Ethernet 10 Mbps, 100 Mbps, 1000 Mbps with 
+Ethernet encapsulation; DS1 and DS3 with Frame Relay encapsulation, and OC3 with ATM encapsulation.  The following features are 
+not available with Private Ports with VPLS: (a) usage reports; (b) the Precise Burstable or Data Transfer pricing methodologies; (c) the 
+SLAs Reporting Goal; (d) VPN Extensions and (e) End-to-End Performance Reporting.
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 12 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.1212162.7 VPN Extensions. A VPN Extension is an optional feature for layer 3 multi protocol label switching (MPLS) Private Ports.  
+The feature allows Customer to extend its Layer 3 MPLS closed user groups to Customer locations that are not served by 
+CenturyLinks MPLS network (Remote Location).  Customer can establish a tunnel through the Internet between the Customers CPE 
+at the Remote Location (separately purchased and managed by Customer) and the CenturyLink network device. The Customer 
+provided CPE must support the CenturyLink service configurations and be installed as designated by CenturyLink or as otherwise 
+agreed upon by the parties.  Customer is responsible for the installation, operation, maintenance, use and compatibility of the Remote 
+Location CPE. Customer will cooperate with CenturyLink in setting the initial configuration for the Remote Location CPE interface with 
+the VPN Extension Service.  Customer must use IP connectivity at the Remote Location that includes a static public IP address. 
+(a) Exclusions.  CenturyLink will not debug problems on, or configure any internal or external hosts or networks (e.g., routers, 
+DNS servers, mail servers, www servers, and FTP servers).  All communication regarding the VPN Extension must be between 
+CenturyLink and a Customer approved site contact that has relevant experience and expertise in Customers network operations.  The 
+following features are not available with VPN Extensions: (i) End-to-End Performance Reporting; (ii) QoS; (iii) VPLS; and (iv) Multicast. 
+VPN Extensions are not subject to the SLA.  
+2.8 Backbone Prioritization/Priority Queuing.  Backbone Prioritization and Priority Queuing is an optional feature available with 
+individual domestic Private Ports, CenturyLink IQ+ Ports, and CenturyLink IQ+ Cloud Ports.  When this feature is configured on such 
+Port, traffic originating from that Port will be designated at a higher class of service to the CenturyLink IP network than traffic originating 
+from such Ports without the feature or Internet Ports.  If Customer desires the feature for traffic between two or more such Ports, the 
+feature must be ordered for each such Port.  The benefit from this feature is realized during periods of high network congestion. The 
+feature may not be available at all locations or with Multicast in certain circumstances.
+3. Ordering.  For purposes of this Service Exhibit, Order Form means an electronic order confirmation process using an 
+architecture confirmation document (ACD) or other document that Customer and CenturyLink mutually agree to prior to submitting a 
+Service order request.  CenturyLink must approve each Order Form and Customer must send it via e-mail, fax, or other CenturyLink-
+approved electronic process to CenturyLink. Subject to availability, CenturyLink will assign /29 Internet address space for Customer 
+during the use of a Port.  Neither Customer nor any End Users will own or route these addresses.  Upon termination of Service, 
+Customers access to the IP addresses will cease. If Customer requests special sequencing for Port installation, Customer must 
+designate a Key Port.  A Key Port is a Port that must be available on the network before adding additional domestic Port locations. 
+The installation of the Key Port will determine the timelines for the installation of other domestic Ports. Customer may designate one 
+Key Port within its CenturyLink IQ Networking network topology by notifying CenturyLink in writing of that request.  Unless the parties 
+otherwise agree in writing, Customer has sole responsibility for ordering, securing installation and ensuring proper operation of any and 
+all equipment required to enable Customer to receive the Service.
+4. Charges.  Customer must pay all applicable MRCs and NRCs set forth in an attached pricing attachment, offer attachment, or 
+a valid signed CenturyLink issued quote.  Charges will commence within five days after the date CenturyLink notifies Customer that 
+Service is provisioned and ready for use (Start of Service Date). Customer may order multiple Ports with multiple pricing 
+methodologies in accordance with the pricing methodologies set forth below.  Customer may change the pricing methodology (e.g., 
+from Flat Rate to Precise Burstable) of a Port if: (a) the Ports new MRC remains the same or greater than the old MRC, and (b) the 
+Port starts a new Service Term that is equal to or greater than the remaining number of months in the old Service Term, subject to a 12 
+month minimum.  CenturyLink may change rates after the completion of a Ports Service Term with 60 days notice. The net rate MRCs 
+set forth in the pricing attachment, offer attachment or valid signed CenturyLink issued quote will be used to calculate Contributory 
+Charges.  Net rate MRCs are lieu of all other rates, discounts, and promotions. The End to End Performance Reporting, VPN 
+Extension, SIG and Multicast features are provided on a month-to-month basis and either party may cancel a feature with 30 days prior 
+written notice to the other party. CenturyLink may upon 30 days prior written notice to Customer modify those features, including 
+without limitation, their rates. If a CenturyLink IQ+ Port uses Data Center Access as the access type, that Port will be understood to be a 
+CenturyLink IQ+ Cloud Port.
+4.1 Pricing Methodologies.  
+(a) Flat Rate.  The Flat Rate pricing methodology bills Customer a specified MRC for a given Port speed regardless of 
+Customers actual bandwidth utilization. 
+(b) Tiered.  The Tiered pricing methodology caps Customers bandwidth at the tier specified on an Order Form and bills the 
+Customer a fixed MRC based on that bandwidth tier regardless of Customers actual bandwidth utilization.  No more than once per 
+month, Customer may change its specific bandwidth tier (e.g., 2 Mbps to10 Mbps) within the applicable Port classification (e.g., 
+Ethernet, Fast Ethernet). Customer may not change its bandwidth from one Port classification to another. 
+(c) Precise Burstable.  Usage samples are taken every five minutes throughout the monthly billing cycle.  Only one sample is 
+captured for each five-minute period, even though there are actually two samples taken; one for inbound utilization and one for 
+outbound utilization. The higher of these two figures is retained.  At the end of the billing period, the samples are ordered from highest 
+to lowest.  The top 5% of the samples are discarded. The highest remaining sample is used to calculate the usage level, which is the 
+95th percentile of peak usage. For each Precise Burstable Port, Customer will pay an MRC calculated by multiplying Customers 95th 
+percentile of peak usage in a given month by the applicable MRC per Mbps.  There is a minimum usage amount within each Precise 
+Burstable Port classification (Precise Burstable Minimum). Customer will be billed the greater of the Precise Burstable Minimum or the 
+actual charges based upon its 95th percentile of peak usage. 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 13 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.121216(d) Data Transfer.  Usage samples are taken every five minutes throughout the Customers monthly billing cycle.  Samples are 
+taken for both in-bound utilization and out-bound utilization.  Customer will be billed for the sum total of both inbound and outbound 
+utilization.  Charges are applied using a stepped or metered methodology such that Customers traffic will be billed incrementally at 
+each volume tier.  For example, if Customers total volume on a DS1 circuit is 10 GB, the first 7 GB of such total would be billed at the 
+0-7 GB tier, and the remaining 3 GB would be billed at the 7.01-17 GB tier. For each Data Transfer Port ordered hereunder, Customer 
+will pay an MRC calculated by multiplying Customers volume of data transferred in a given month (in GBs) by the applicable MRC per 
+GB.  Within each Data Transfer Port classification (e.g., DS1, DS3), Customer will be subject to the minimum usage amount set forth in 
+the column heading of the applicable Data Transfer pricing table (Data Transfer Minimum).  Customer will be billed the greater of the 
+Data Transfer Minimum or the actual charges based upon its actual volume of data transferred.  Data Transfer pricing is only available 
+if Customers premises-based router uses HDLC, PPP, or MLPPP line encapsulation.
+5. Term; Cancellation.
+5.1 Term. The term of an individual Port (and associated features/Services, if applicable) begins on the Start of Service Date for 
+that Port and continues for (a) the service term shown on the valid signed CenturyLink issued quote or the pricing attachment or (b), if a 
+service term is not shown in a quote or pricing attachment, three years. If Service is installed at multiple Customer locations or with 
+multiple Ports at a Customer location, each separate Port (and associated features/Services) will have its own Start of Service Date.  
+Upon expiration of a Service Term, individual domestic Ports (and associated features/Services) will remain in effect on a month-to-
+month basis until canceled by either party with 60 days notice and international Ports will automatically renew for consecutive one year 
+terms unless canceled by either party with 60 days notice prior to the end of the Port term.  
+5.2 Cancellation.  Upon cancellation of a Service, Customer will remain liable for charges accrued but unpaid as of the 
+cancellation date.  If a Port and associated features/Services is canceled by Customer other than for Cause, or by CenturyLink for 
+Cause, before the conclusion of its Service Term or Upgrade Service Term (as described in the Upgrades section), Customer will pay 
+a Cancellation Charge equal to: 
+(a)Domestic Internet Ports or Private Ports: (i) 100% of the Port and NMS MRCs multiplied by the number of months remaining in 
+the first 12 months of the initial Service Term (or Upgrade Service Term), if any, plus (ii) 35% of the balance of those MRCs multiplied 
+by the number of months remaining to complete the initial Service Term (or Upgrade Service Term) beyond the first 12 months, plus (iii) 
+the amount of any NRCs discounted or waived if the Port has not remained installed for at least 12 months.
+(b) Domestic and international CenturyLink IQ+ Ports and CenturyLink IQ+ Cloud Ports: (i) 100% of the CenturyLink IQ+ Port or 
+CenturyLink IQ+ Cloud Port MRC (and associated features/Service MRCs if applicable) multiplied by the number of months remaining 
+in the first 12 months of the initial Service Term, if any; plus (ii) 75% of the those MRCs multiplied by the number of months remaining 
+to complete 24 months of the initial Service Term, if any; plus, if applicable, (iii) 50% of those MRCs multiplied by the number of months 
+remaining to complete the remainder of the Service Term. 
+(c)International Internet Ports or Private Ports: (i) 100% of the Port, local access and NMS MRCs multiplied by the number of 
+months remaining in the Service Term. If Customer cancels the Service Exhibit or an international Internet Port, or Private Port before 
+the completion of a renewal period for reasons other than for Cause, then Customer will pay a Cancellation Charge equal to the amount 
+of any applicable termination related charges incurred by CenturyLink from any third party provider. 
+(d)All international Ports:  If Customer cancels an international order for which Customer accepted special construction or other 
+site preparation charges before its Start of Service Date or at any time during a Port Service Term, then Customer will pay (i) the 
+special construction or site preparation charges, and (ii) any additional CenturyLink-incurred cost to provide the Service. But if 
+CenturyLink notifies Customer that special construction is required to provision Service and Customer cancels Service on that particular 
+order because Customer does not approve such construction, CenturyLink will not charge a Cancellation Charge for canceling Service 
+on that particular order unless CenturyLink incurs a charge from the underlying local access provider despite the cancellation.  
+5.3 Waiver of Cancellation Charges. 
+(a) Upgrades. CenturyLink will waive the Cancellation Charges for a domestic Port if Customer: (i) upgrades a Port to another 
+Port with a higher bandwidth (e.g., from a DS1 to a DS3) within the same pricing methodology and the new Ports MRC (with Local 
+Access) is equal to or greater than the combined MRCs of the Port and the associated Local Access Service being terminated; or (ii) 
+upgrades the Port type to a higher Port type (e.g., from an Internet Port to a Private Port or CenturyLink IQ + Port ) within the same 
+pricing methodology.  All upgraded Ports must start a new Service Term equal to or greater than the replaced Ports remaining Service 
+Term, subject to a 12 month minimum (Upgrade Service Term).  If Customer cancels the upgraded Port before the completion of the 
+Upgrade Service Term, Customer will pay the Cancellation Charges set forth in the Cancellation section above.  In some cases an 
+upgrade to a Port may trigger a Local Access charge under the Local Access Service Exhibit.  Customer can upgrade a CenturyLink 
+IQ+ Port from 8x5 NBD Remote to 24x7 On-Site maintenance or upgrade a CenturyLink IQ+ Ports NMS feature to Select Management 
+or Comprehensive Management without restarting the Service Term.
+(b) Migration to Other CenturyLink Services.  CenturyLink will waive the Cancellation Charges for a domestic Port if Customer 
+migrates the Port to a new Data Bundle solution (a New Service) as long as: (i) the New Services MRC is equal to or greater than the 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 14 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.121216combined MRCs of the Port and the associated Local Access Service being terminated; (ii) the New Services minimum service term is 
+at least as long as the then remaining Service Term of the Port being terminated; and (iii) the New Service is available.
+6. Additional Disclaimer of Warranty.  In addition to any other disclaimers of warranty stated in the Agreement, CenturyLink 
+makes no warranty, guarantee, or representation, express or implied, that all security threats and vulnerabilities will be detected or that 
+the performance of the Services will render Customers systems invulnerable to security breaches.  Customer is responsible for 
+Customers own network security policy (including applicable firewall and NAT policies) and security response procedures.
+7. International Terms and Conditions.  The following terms and conditions in this section apply solely to Service provided to 
+Customer outside of the continental U.S. (International Service). In the event of a conflict between the terms and conditions set forth in 
+this Section and those contained elsewhere in this Service Exhibit or in the Agreement, the terms and conditions of this section will 
+control solely with respect to International Service. International Service includes local access. 
+7.1 Regulatory Activity. CenturyLink reserves the right to immediately change international rates as a result of Regulatory 
+Activity.  If Regulatory Activity materially and adversely impairs CenturyLink's ability to provide (including the economics of providing) 
+the Service, as reasonably determined by CenturyLink, CenturyLink reserves the right to terminate the affected Service.
+7.2 Export Controls. If equipment, software or technical data is provided under this Service Exhibit, Customers use of such items 
+must comply fully with all applicable export and re-export controls under U.S. Export Administration Regulations and/or the relevant 
+export control laws and regulations of any other applicable jurisdiction.
+7.3 Anti-Corruption.  Each party acknowledges and agrees that certain anti-bribery and anti-corruption laws, including the 
+Foreign Corrupt Practices Act, 15 U.S.C. Sections 78dd-1 et seq. and the UK Bribery Act, prohibit any person from making or promising 
+to make any payment of money or anything of value, directly or indirectly, to any government official, political party, or candidate for 
+political office for the purpose of obtaining or retaining business.  Each party represents and warrants that in the performance of its 
+obligations hereunder, it has not offered, made, or accepted and will not offer, make, or accept, any bribe or facilitation payment, and 
+will otherwise comply with the requirements of applicable anti-bribery laws.
+7.4 Business Contact Information. Customer is providing to CenturyLink the names of and contact information (Business 
+Contact Information) for its employees (Business Contacts) who have purchasing or other responsibilities relevant to CenturyLinks 
+delivery of International Service under this Service Exhibit.  The Business Contact Information does not include personal data revealing 
+racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union memberships, financial status, health or sex life.  
+Customer consents to CenturyLinks and its affiliates or subcontractors use and transfer to the United States of Business Contact 
+Information for the purpose of: (i) fulfilling its obligations under this Service Exhibit; and (ii) providing information to Customer about 
+CenturyLinks products and services via these Business Contacts. Customer represents that the Business Contact Information is 
+accurate and that each Business Contact has consented to CenturyLinks processing of their Business Contact Information for the 
+purposes set forth in this Service Exhibit.  The Business Contact Information provided by Customer has been collected, processed, and 
+transferred in accordance with applicable laws, including, where applicable, any necessary notification to the relevant data protection 
+authority in the territory in which Customer is established (Authority).  Customer will notify CenturyLink promptly of staffing or other 
+changes that affect CenturyLinks use of Business Contact Information. CenturyLink will have in place technical and organizational 
+measures that ensure a level of security appropriate to the risk represented by the processing and the nature of the Business Contact 
+Information and that protects such information against accidental or unlawful destruction or accidental loss, alteration, unauthorized 
+disclosure or access.  CenturyLink will use the information only for the express purposes set forth in this Service Exhibit.  CenturyLink 
+will identify a contact authorized to respond to inquiries concerning processing of Business Contact Information and will reasonably 
+cooperate in good faith with Customer and the Authority concerning all such inquiries without excessive delays.
+7.5 International Laws.  CenturyLink will provide the International Service in compliance with applicable international laws and 
+tariffs.  Customer agrees to cooperate with CenturyLink in obtaining necessary domestic or foreign approvals.  CenturyLink may elect to 
+not offer International Service, or to terminate International Service, in or to any particular jurisdiction, location or country if CenturyLink 
+determines that the provision of such International Service is not commercially reasonable or is not lawfully permitted. 
+7.6 Quote Signatory.  If a CenturyLink affiliate other than CenturyLink Communications, LLC is the signatory on any CenturyLink 
+issued quote, the CenturyLink affiliate signing that quote will be treated as CenturyLink and deemed to have entered into an agreement 
+solely for the Services included in the quote that consists of the terms and conditions in the Agreement (other than those related to a 
+Revenue Commitment), this Service Exhibit and the quote. Such quote may be called a Service Order and may use Service Schedule 
+and Service Guide to mean this Service Exhibit.
+7.7 Withholding Taxes.  All invoices will be issued to Customer and paid in the currency specified in the pricing attachment, offer 
+attachment or CenturyLink issued quote.  Customer will pay such invoices free of currency exchange costs, or bank charges. Service 
+charges are exclusive of Taxes and presented without reduction for any Withholding Tax, all of which are the responsibility of the 
+Customer.  Withholding Tax means any amount on account of tax on sources of income which a payor is obliged to deduct from 
+payments due to a recipient and account for to any tax authority. In the event that any payment to be made to CenturyLink hereunder 
+should be subject to reduction by reason of a Withholding Tax, Customer agrees to pay CenturyLink such amounts as would have been 
+necessary so that the aggregate net amount received by CenturyLink after application of a Withholding Tax, is the same amount as 
+would have been received by CenturyLink if there had been no requirement to deduct or withhold such tax.
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 15 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.1212167.8 CPE Return.  Customer will not obtain any ownership interests in the equipment used to provide international Service.  Upon 
+termination of the international Service, Customer must return the equipment to the third party provider designated by CenturyLink (as 
+instructed by CenturyLink) in the same condition as it was on the Start of Service Date, normal wear and tear excepted.  If Customer 
+fails to return the equipment in the time and manner provided by CenturyLink, Customer will pay to CenturyLink, as agent for the third 
+party provider, the fair market value of the equipment, as determined by the third party provider. 
+8. E-mail Notification.  Customer acknowledges and agrees that CenturyLink may contact Customer via e-mail at the e-mail 
+address provided to CenturyLink when Customer ordered the Service for any reason relating to the Service, including for purposes of 
+providing Customer any notices required under the Agreement.  Customer agrees to provide CenturyLink with any change to its e mail 
+address. 
+9. AUP.  All use of the Services must comply with the AUP located at http://www.centurylink.com/legal/, which is subject to 
+change.  CenturyLink may reasonably change the AUP to ensure compliance with applicable laws and regulations and to protect 
+CenturyLink's network and customers.  Any changes to the AUP will be consistent with the purpose of the AUP to encourage 
+responsible use of CenturyLink's networks, systems, services, Web sites, and products. 
+10. SLA.  Ports other than CenturyLink IQ+ Ports or CenturyLink IQ+ Cloud Ports are subject to the CenturyLink IQ Networking 
+Service Level Agreement (SLA), CenturyLink IQ+ Ports and CenturyLink IQ+ Cloud Ports are subject to the CenturyLink IQ+ Port SLA 
+and the NMS feature is subject to the NMS SLA.   EachSLA is located at http://www.centurylink.com/legal/ and subject to change.  For 
+Customers claims related to Service or NMS feature deficiencies, interruptions or failures, Customers exclusive remedies are limited to 
+those remedies set forth in the applicable SLA.  References to CenturyLink IQ+ Ports in the CenturyLink IQ+ SLA will also refer to 
+CenturyLink IQ+ Cloud Ports.
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 16 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.121216PRICING ATTACHMENT
+1. Pricing
+1.1 Network Management Service MRCs. 
+(a) NMS for devices associated with a CenturyLink IQ Networking Port. The following MRC is in addition to the Port MRC.  
+Description
+NMS for devices associated with a 
+CenturyLink IQ Networking Port. Promo CodeMRC NRC
+Select Management IQ MANAGED $45.00 per device N/A
+Comprehensive  Management IQ MANAGED $75.00 per device N/A
+Monitor and Notification (for non-
+CenturyLink IQ + Ports)N/A $35.00 per device N/A
+(b) NMS for devices not associated with a CenturyLink IQ Networking Port. The following MRC is in addition to the Port 
+MRC.
+Description
+NMS for devices not associated with a CenturyLink IQ 
+Networking Port (including VPN Extensions).MRC NRC
+Select Management $60.00 per device N/A
+Comprehensive  Management $100.00 per device N/A
+Monitor and Notification $35.00 per device N/A
+1.2 CenturyLink IQ Networking Features.
+(a) VPN Extensions.  
+Description MRC NRC
+VPN Extensions $25.00 per IPsec tunnel $50.00 per IPsec tunnel
+ (b) Backbone Prioritization. Backbone prioritization charges are in addition to the applicable Private Port MRCs.
+Description Increased MRC
+Backbone PrioritizationCenturyLink will apply a 20% uplift charge to the MRC of each 
+Private Port configured with Backbone Prioritization. 
+1.3 Domestic Port Pricing Tables. Some Port types or Port speeds may not be available in all areas or with certain types of 
+access. CenturyLink IQ+ Port pricing may be located in a valid signed CenturyLink issued quote, if available.  If Customer wishes to 
+order domestic CenturyLink IQ Networking Service with a different bandwidth or pricing methodology than those contained in the below 
+pricing tables, Customer must enter into a separate written amendment to this Agreement or if a quote applies, sign a new quote that 
+includes the Service Address, type, and details of the new CenturyLink IQ+ Port.  
+(a) Tiered Port Pricing.  
+Tiered Fast Ethernet 100 Mbps
+Internet Port Other AccessNet Rate MRC Install NRC
+20 Mbps $215.00 $1,500.00
+30 Mbps $300.00 $1,500.00
+50 Mbps $430.00 $1,500.00
+1.4 NRC Discounts.  
+ (a) NRC Waiver.  So long as Customer is not in default of any obligations under the Agreement, CenturyLink will waive the Install 
+NRCs for domestic Internet and Private, and Enhanced Ports. The Ports must remain installed for at least 12 months.  
+2. 10 Gigabit Ethernet Internet Port Description and Pricing. 10 Gigabit Ethernet Internet Ports provide Customer with access to 
+the Internet.   A 10 Gigabit Ethernet Internet Ports peak usage cannot exceed the Bandwidth Tier that is agreed upon between 
+Customer and CenturyLink.  Bandwidth Tier means the maximum bandwidth usage allowed on a 10 Gigabit Ethernet Internet Port; 
+CenturyLink will not deliver traffic that exceeds the Bandwidth Tier.  Customer understands that the SLA does not apply to any non-
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 17 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.121216delivered traffic that results from exceeding the Bandwidth Tier limit.  The Bandwidth Tier is indicated by checking the applicable 
+checkbox in the pricing tables shown below.  All 10 Gigabit Ethernet Internet Ports are subject to availability, and any additional 10 
+Gigabit Ethernet Internet Ports must be ordered via an amendment.  
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+DOMESTIC AND INTERNATIONAL CENTURYLINK IQ® NETWORKING SERVICE EXHIBIT
+NSP #: 309813 Page 18 © CenturyLink. All Rights Reserved.
+Contract Code: 190013CONFIDENTIALv1.121216ATTACHMENT 1
+COMPREHENSIVE MANAGEMENT
+LIMITED LETTER OF AGENCY 
+between
+Concentra (Customer)
+and
+CenturyLink Communications, LLC f/k/a Qwest Communications Company, LLC (CenturyLink)
+This limited letter of agency (LOA) hereby authorizes CenturyLink to act as the Customer's agent for the limited purpose of contacting 
+Customers designated Local Exchange Carrier (LEC), Interexchange Carrier (IXC), Internet Service Provider ("ISP"), or customer 
+premises equipment (CPE) maintenance provider in conjunction with CenturyLink Network Management Service.  Network 
+Management Service activities will consist of working with Customers LEC, IXC, ISP, and/or CPE maintenance provider for the 
+purpose of:  (a) extracting information concerning transmission data elements carried over Customers network connection; (b) 
+identifying Customers links or data link connection identifiers (DLCIs); (c) opening, tracking, and closing trouble tickets with the LEC, 
+IXC, ISP, or CPE maintenance provider on Customers transport links or CPE when an alarm or fault has been detected; 
+(d) dispatching CPE repair personnel on behalf of Customer to CPE for which a fault has been detected; and (e) discussing fault 
+information with the LEC, IXC or CPE maintenance provider on behalf of Customer to facilitate resolution of the problem.
+CenturyLink does not assume any of Customer's liabilities associated with any of the services the Customer may use.  
+The term of this LOA will commence on the date of execution below and will continue in full force and effect until terminated with 30 
+days written notice by one party to the other or until the expiration or termination of the Network Management Service.
+A copy of this LOA will, upon presentation to LEC, IXC, ISP, and/or CPE maintenance provider, as applicable, be deemed authorization 
+for CenturyLink to proceed on Customer's behalf.
+Customer Company Name
+Authorized Signature of Customer
+Print or Type Name
+Title
+Date
+10/17/17
+SVP & CIO
+James Talalai
+Concentra Health Service, Inc.
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT 
+LOCAL ACCESS SERVICE EXHIBIT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink.  All Rights Reserved.
+v1.1014161. General.  CenturyLink QCC will provide Local Access Service ("Service") under the terms of this Service Exhibit, the Agreement 
+and the RSS.  
+2. Service Description and Availability.
+2.1 Description.  Service provides the physical connection between the Service Address and the CenturyLink Domestic Network.  
+Service includes any entrance cable or drop wire to, and equipment maintained by CenturyLink at the Demarcation Point, but does not 
+include CPE, Extended Wiring, inside wiring, or other equipment not maintained by CenturyLink.  Customer is responsible for any 
+additional terminations beyond the Demarcation Point.  All equipment owned by CenturyLink remains property of CenturyLink.  
+Customer disclaims any interest in any equipment, property or licenses used by CenturyLink to provide Service.  CenturyLink will not 
+provide Service to a residential location, even if business is conducted at that location.  Service is not a standalone service and 
+Customer must purchase the Service in connection with another CenturyLink service for which a local loop is required.  
+2.2 Types of Service Technologies.  CenturyLink uses the following different technologies to provide Service.  Some technologies 
+or speeds may not be available in all areas or with certain types of Service.
+(a) Special Access.  Special Access means Service using digital signal bandwidths DS0, DS1 and DS3 or Optical Carrier signal 
+bandwidths OC3, OC12, OC48 and OC192. 
+(b) Ethernet Local Access (ELA).  ELA is available at bandwidths varying from 1 Mbps to 1,000 Mbps (1G) and 10G (Cross-
+Connect Access only).  ELA is available in the following options: Native Single-Class-of-Service (CoS) Low, Native Single-CoS Medium, 
+Native Single-CoS High, Native Multi-CoS, ELA over SONET, or Ethernet Virtual Access (EVA).  Native Single-CoS Low is a layer 2, 
+switched, native service using a standard Ethernet offering from the local access provider.  Native Single-CoS Low is not recommended 
+for use with critical applications (i.e. voice), but is ideal for non-critical applications (i.e. Internet and email traffic.)  Native Single-CoS 
+Medium is a layer 2, switched, native service using a better-than-standard Ethernet offering from the local access provider.  Native 
+Single-CoS Medium is ideal for a combination of non-critical and/or critical applications; typically varying voice, video, and data.  Native 
+Single-CoS High is a layer 2, switched, native service using the best Ethernet offering from the local access provider.  Native Single-
+CoS High is ideal for critical applications; typically predictable and reliable voice and data.  Native Single-CoS Medium and Native 
+Single-CoS High are only available with the following CenturyLink services:  CenturyLink IQ® Networking Internet Port, Private Port or 
+Enhanced Port with Secure Internet Gateway, E-Line, or Ethernet Private Line (EPL).  Native Single-CoS Medium or Native Single-
+CoS High circuit speed must match the maximum CenturyLink IQ Networking port, E-Line, or EPL bandwidth.  Native Multi-CoS is a 
+layer 2, switched, native service closely aligning the CenturyLink IQ Networking QoS and the local access providers Ethernet class of 
+service offering and is only available with CenturyLink IQ Networking Private Port or Enhanced Port with Secure Internet Gateway.  At 
+Customers discretion, Native Single-CoS Low, Native Single-CoS Medium, Native Single-CoS High, or Native Multi-CoS may be used 
+to support CoS for critical applications (i.e. voice).  ELA over SONET is a layer 1, SONET-based service.  EVA is a layer 2, Ethernet-
+based service that provides customers with a premium non-oversubscribed connection with Fast E and Gig E connection types.  
+Customer may experience delayed installation intervals due to construction requirements and available bandwidths may be limited due 
+to distance and available Ethernet-supported facilities from the local access provider.
+(c) Wavelength Local Access.  Wavelength Local Access means Service using wave division multiplexing technology.  
+Wavelength Local Access is available at bandwidths of 1 GbE, 10 GbE LAN PHY, 2.5 G (OC48), 10 GbE WAN PHY (OC192), 40G, 
+OTU1,  OTU2,  OTU3, 1G, 2G, 4G and 10G. 
+(d) DSL Local Access.  DSL Local Access means Leased Access using digital subscriber line (DSL) technology.  DSL Local 
+Access is available at bandwidths varying from 128 kbps/64 kbps to 15000 Mbps/1000 Mbps.  Customer may experience delayed 
+installation intervals due to Construction requirements and available bandwidths may be limited due to distance and available DSL-
+supported facilities from the local access provider.
+2.2.1 Use of IP Connection.  In some locations, CenturyLink will enable the Local Access component of your service using IP 
+Connection which is a Layer 3, symmetrical functionality that utilizes established IP and MPLS transport technologies.  In such cases, 
+Customer agrees that it will use IP Connection functionality only for the provision of either: (i) wireline broadband Internet access (as 
+defined in applicable Federal Communications Commission orders and regulations), or (ii) wireline broadband Internet access plus 
+additional information services, with wireline broadband Internet access constituting a principal use.  CenturyLink can provision IP 
+Connection functionality over multiple designs with MPLS transport supporting speeds up to 1G/1G.
+2.3 Types of Service.  CenturyLink offers the following three types of Service:  CenturyLink Provided Access, Customer Provided 
+Access or Cross-Connect Access. 
+2.3.1 CenturyLink Provided Access.  CenturyLink Provided Access or CLPA means either On-Net Access or Leased Access.  
+(a) On-Net Access.  For On-Net Access, Customer must be located in a CenturyLink designated building in which On-Net Access is 
+generally available.  On-Net Access is generally available as Special Access (except at the DS0 bandwidth), ELA, and Wavelength 
+Local Access.  Depending on the Service Address, On-Net Access may be provided through an existing CPOP, newly built CPOP, 
+existing intra-building local loop facilities, or connections to a third party provider where CenturyLink coordinates the connectivity 
+between CenturyLink facilities and facilities of a service provider with whom CenturyLink is interconnected. On-Net Access is subject to 
+the On-Net Service Level Agreement located at http://www.centurylink.com/legal/, which is subject to change.
+(b) Leased Access.  Leased Access is generally available as Special Access, ELA, Wavelength Local Access, and DSL Local 
+Access at the bandwidths described in this Service Exhibit for those access types.  Customer may request a Preferred Provider for 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT 
+LOCAL ACCESS SERVICE EXHIBIT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink.  All Rights Reserved.
+v1.101416Leased Access from a list of available providers with whom CenturyLink has interconnect agreements.  CenturyLink will attempt to use 
+Customers Preferred Provider, but both final routing and the provider actually used will be chosen by CenturyLink.  Where available for 
+Special Access, ELA and Wavelength Local Access, Customer may request CenturyLink to provide a separate fiber facility path for a 
+protection system between the local access providers serving wire center and the Service Address (Protect Route).  Protect Route 
+uses backup electronics and two physically separate facility paths in the provisioning of Service.  If the working facility or electronics fail, 
+or the Service performance becomes impaired, the facility is designed to automatically switch to the Service protect path in order to 
+maintain a near-continuous flow of information between locations.  Special Access and ELA are also generally available as a central 
+office meet point at a local access provider central office to which Customer has a dedicated connection.  
+2.3.2 Customer Provided Access.  Customer Provided Access or CPA means a local loop that Customer orders from a local 
+access provider to connect Customers premises to the CenturyLink Domestic Network at a connection point specified by CenturyLink.  
+CenturyLink will provide Customer with a limited letter of agency (LOA), which is incorporated by this reference, authorizing Customer 
+to act as CenturyLinks agent so that Customers local access provider will connect Customers premises to the CenturyLink Domestic 
+Network.  Customer will also need to execute a CPA-DAR Addendum for CPA POP with ELA or Wavelength Local Access.  Customer 
+will pay a CPA charge to CenturyLink when Customer uses the following: (a) Special Access CPA dedicated facilities or ELA CPA 
+virtual local area network (VLAN), both of which are dedicated entrance facilities CenturyLink leases from a local access provider and 
+that carry traffic only from CenturyLink; or (b) ELA CPA POP, which requires CenturyLink to provide space and power for the local 
+access provider to install Ethernet equipment; or (c) Wavelength Local Access.  Customer will pay a CPA charge to CenturyLink when 
+Customer uses Special Access CPA non-dedicated facilities owned by local access providers and that carry traffic from multiple 
+carriers, including CenturyLink, if the provider charges CenturyLink for those facilities.  CPA ELA VLAN is an access type where 
+CenturyLink will provision and assign an Ethernet virtual circuit from a CenturyLink POP to a Customer designated Ethernet facility 
+leased from a common Ethernet service provider.  This access will be used to connect to a CenturyLink VLAN assignment on a 
+CenturyLink IQ Networking Internet or Private Port or E-Line.  CenturyLink will not bill customer a CPA charge for an IP layer 3 
+expansion site because Customer, not CenturyLink, is responsible for ordering a cross-connect from the IP layer 3 expansion site 
+manager to meet CenturyLink in the IP layer 3 expansion sites meet-me-room.  CPA is the responsibility of Customer and CenturyLink 
+will not pay for or troubleshoot components of CPA.  
+2.3.3 Cross-Connect Access.  Cross-Connect Access or XCA means: (a) an intra-POP connection between certain Customer 
+facilities with direct access to the CenturyLink Domestic Network and the CenturyLink backbone access point (either (i) located within 
+CenturyLink's transport area where CenturyLink allows Customer to bring its own fiber directly to the CenturyLink fiber under an 
+executed Direct Connect Agreement (Direct Connect) or (ii) in an area where Customer has leased space in a CPOP, a remote 
+collocation site, or a collocation hotel under a Telecommunications Collocation License Agreement or (b) a connection between a 
+CenturyLink-determined data center and a CenturyLink IQ Networking Port, Optical Wavelength Service (OWS), or E-Line (Data 
+Center Access) under an executed CenturyLink TS Service Exhibit with a CenturyLink IQ Networking, OWS or E-Line Service Exhibit.  
+Data Center Access is available in bandwidths of 100 Mbps, 1G, and 10G (CenturyLink IQ Networking and OWS only).  Direct Connect 
+requires splicing of Customer and CenturyLink fibers and cross-connection of individual circuits. 
+2.4 RSS.  Customer understands that Service is an interstate telecommunications service, as defined by Federal Communications 
+Commission regulations and represents while using the Service, more than 10% of its usage will be interstate usage.
+3. Ordering.  Upon acceptance of an order for a Service, CenturyLink will notify Customer of CenturyLinks target date for the 
+delivery of that Service (Estimated Availability Date).  Once CenturyLink notifies Customer of the Estimated Availability Date for a 
+Service, cancellation fees or Cancellation Charges set forth in the Cancellation section below will apply to any cancellation of that order.  If 
+Customer fails to respond to CenturyLinks requests to arrange for the installation of a Service when CenturyLink is ready, CenturyLink 
+may consider the affected Service order canceled.  CenturyLink will use commercially reasonable efforts to install each such Service on or 
+before the Estimated Availability Date, but the inability of CenturyLink to deliver Service by such date is not a default under the Agreement 
+or this Service Exhibit.  
+4. Charges.  Customer will pay the rates set forth in a quote for Service issued by CenturyLink or set forth in the RSS, including all 
+applicable ancillary service charges.  CenturyLink invoices MRCs in advance and NRCs in arrears.  If the Start of Service Date for any 
+Service falls on any day other than the first day of the month, the first invoice to Customer will consist of:  (a) the pro-rata portion of the 
+applicable MRC covering the period from the Start of Service Date to the first day of the subsequent month; and (b) the MRC for the 
+following month.  Charges for Service will not be used to calculate Contributory Charges.
+4.1 Ancillary Charges.  Ancillary charges applicable to Service include but are not limited to those ancillary services set forth in this 
+section.  If an ancillary charge applies in connection with provisioning a particular Service, CenturyLink will notify Customer of the 
+ancillary charge to be billed to Customer.  Customer may either approve or disapprove CenturyLink providing the ancillary service.  
+(a) Expedite.  A local loop expedite charge applies to orders where Customer requests the delivery of Service one or more days 
+before the Estimated Availability Date.  Customer may only request to expedite CenturyLink Provided Access of Special Access and 
+ELA orders (where underlying local access provider allows CenturyLink QCC to order an expedited service.)
+(b) Extended Wiring.  Extended Wiring means additional wiring required for orders where Customers network interface 
+equipment is not located in the same location as the Demarcation Point.  Customer may only request Extended Wiring for (i) Special 
+Access ordered as Leased Access, (ii) DSL Local Access, and (iii) Ethernet Local Access (where available).
+(c) Construction.  Construction charges apply if; (i) special construction is required to extend Service to the Demarcation Point; or 
+(ii) other activities not covered by Extended Wiring are required beyond the Demarcation Point, that cause CenturyLink to incur 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT 
+LOCAL ACCESS SERVICE EXHIBIT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink.  All Rights Reserved.
+v1.101416additional expenses for provisioning the Service (e.g., special arrangements to provide conduit or intra-building cable) (Construction).  
+If Customer does not approve of the Construction charges after CenturyLink notifies Customer of the charges, the Service ordered will 
+be deemed cancelled.  
+(d) Multiplexing.  Customer may request multiplexing for Special Access where available.  CenturyLink will multiplex lower level 
+local loop into a higher local loop, or vice-versa, for an additional charge.  CenturyLink offers multiplexing at a CPOP, at an On-Net 
+Access building or at an ILEC/CLEC facility providing the Leased Access.  For multiplexing at a CenturyLink On-Net Access building, 
+CenturyLink provides multiplexed circuit handoffs to Customer at the same On-Net Access Service Address.  For multiplexing at 
+ILEC/CLEC facility, CenturyLink facilitates the delivery of multiplexed circuit handoffs to Customer at a single Service Address or at 
+multiple Service Addresses per Customers request.  Multiplexing is generally available at DS1 and OCn circuit levels.  Pricing for 
+multiplexing at an ILEC/CLEC facility is on an individual case basis.
+(e) Changes.  Ancillary change charge applies where Customer requests CenturyLink to change a local loop to a different Service 
+Address that is within the same Customer serving wire center as the existing local loop, but a Cancellation Charge does not apply.
+5. Term; Cancellation.  
+5.1 Term.  The term of an individual Service begins on the Start of Service Date for that Service and continues for the number of 
+months specified in the quote for Service issued by CenturyLink (Initial Service Term).  Excluding voice loops and Data Center Access 
+with a month-to-month Initial Service Term, the Initial Service Term will not be less than 12 months.  Upon expiration of the Initial 
+Service Term, Service will automatically renew for consecutive periods equal to the Initial Service Term length (a Renewal Service 
+Term).  CenturyLink may change rates at any time after the Initial Service Term, but will not change rates more than once during a 
+Renewal Service Term.  
+5.2 Cancellation.  Upon cancellation of a Service, Customer will remain liable for (a) charges accrued but unpaid as of the 
+cancellation date (including MRCs, NRCs and Construction charges and other ancillary charges), (b) the amount of any NRCs that 
+CenturyLink discounted or waived, if canceled during the first 12 months of the Initial Service Term and (c) any applicable cancellation 
+fees and Cancellation Charges as set forth below.  
+(a) Leased Access and On-Net Access—Cancellation Before the Start of Service Date.  Customer will pay the cancellation fee 
+identified in the below table if cancellation of a Service order occurs before the Start of Service Date.  If Customer accepted a 
+Construction charge, Customer will also pay any unpaid Construction charges incurred by CenturyLink.  If CenturyLink notifies 
+Customer that Construction is required to provision a Service order and Customer cancels that order before the Start of Service Date 
+because Customer disapproves of the Construction charge, the cancellation fee does not apply.
+Leased Access and On-Net Access Service Bandwidth† Before Start of Service Date Cancellation Fee
+DS0 (Leased Access only), DS1, DSL Local Access speeds up to 
+1536 Kbps/1.024 Mbps $150 NRC
+DS3, OCn, DSL Local Access speeds greater than 1536 Kbps/1.024 
+Mbps, all ELA speeds, all Wavelength Local Access speeds, all IP 
+Connection speeds$500 NRC
+†Includes all types of Service Technology unless otherwise noted. 
+(b) All Service Types—Cancellation After the Start of Service Date.  If a Service is canceled by Customer other than for Cause, 
+or by CenturyLink for Cause, before the conclusion of its Initial Service Term, Customer will pay a Cancellation Charge equal to:  
+(i) 100% of the balance of the MRCs that otherwise would have become due for the unexpired portion of the first 12 months of the Initial 
+Service Term, if any, plus (ii) 35% of the balance of the MRCs that otherwise would have become due for the unexpired portion, if any, 
+of the Initial Service Term beyond the first 12 months.  
+(c) Moves.  When Customer requests that CenturyLink move a local loop to a different Service Address that is not within the same 
+Customer serving wire center as the existing local loop such move will be deemed a disconnect of the current local loop to which a 
+Cancellation Charge applies and a new install of a new local loop.  
+(d) Waiver of Cancellation Charges.  CenturyLink will waive the Cancellation Charge for a cancelled Service:
+(i) When Customer cancels a Special Access ordered as Leased Access if it is (A) DS3 or less, (B) is not part of a bundle or 
+package offering that required Customer to order the local loop with other service components and (C) the local loops Start of 
+Service Date was at least 12 months prior to the requested date of cancellation. 
+(ii) When Customer upgrades existing Special Access, Native Single-CoS Low/Medium/High, Native Multi-CoS, ELA over 
+SONET, or Wavelength Local Access (Existing CLPA Service) with new Service within the same specific type of Service 
+technology at a higher Service speed (e.g., Special Access DS1 to Special Access DS3 or Native Single-CoS Low Fast E to 
+Native Single-CoS Low Gig E) and with the same local access provider (Upgraded CLPA Service).  The Upgraded CLPA 
+Service will have a new Service Term beginning on its Start of Service Date.  If the type of Service technology changes when 
+Customer upgrades Existing CLPA Service, Customer must pay Cancellation Charges.  
+(e) Customer Provided Access—Cancellation of Connectivity after Start of Service Date.  To cancel CPA, Customer must 
+provide CenturyLink with a written disconnect firm order confirmation (DFOC) notice from Customers CPA provider along with notice 
+to cancel the CPA.  If Customer fails to provide CenturyLink with the DFOC notice within 30 calendar days after CenturyLinks receipt of 
+the notice to cancel the CPA, or if CenturyLink disconnects CPA for Cause, then CenturyLink may disconnect the CPA or require the 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT 
+LOCAL ACCESS SERVICE EXHIBIT
+NSP #: 309813
+Contract Code: 190013
+CONFIDENTIAL© CenturyLink.  All Rights Reserved.
+v1.101416CPA provider to do so.  Customer will remain liable for charges for the connectivity to CPA (even if Customer cannot use the CPA) until: 
+(i) Customer furnishes the required DFOC to CenturyLink; or (ii) either party cancels the associated CPA with the CPA provider.  
+6. Grooming.  If CenturyLink plans to groom a circuit on which Service is provided, CenturyLink will provide a grooming notice to 
+Customer.  For CPA dedicated facilities grooming, Customer will provide a signed LOA to CenturyLink so that CenturyLink can order 
+the necessary changes.  Within 20 calendar days after receipt of that notice, Customer will:  (a) notify CenturyLink of its approval, which 
+may not be unreasonably withheld; (b) state its reason for refusing; or (c) request that CenturyLink provide Customer with an LOA so 
+Customer can order the necessary changes.  Customer's failure to respond within the 20-day period will constitute approval of the 
+groom.  If the groom results in Customer incurring additional NRCs from its local access provider and Customer provides sufficient 
+proof of the local access provider charge, CenturyLink will issue a credit to Customer equal to the local access provider NRC for each 
+groomed circuit.  If Customer refuses the groom for On-Net Access, CenturyLink will, upon 20 calendar days prior written notice, cancel 
+the Service on that circuit and assess a Cancellation Charge.  When Customer does not respond to a CPA dedicated facilities grooming 
+notice or refuses a CPA dedicated facilities groom, Customer must either: (a) provide CenturyLink with a LOA/CFA so that CenturyLink 
+can have the local access provider cancel the circuit; or (b) work directly with the local access provider to cancel the circuit.  If 
+Customer does neither of these things, CenturyLink will pass through to Customer any costs incurred by CenturyLink from the local 
+access provider as a result of the circuit remaining in place.  CFA means circuit facility assignment of the CenturyLink facility, as 
+identified by CenturyLink, to which Customer must order a local loop for connection to the CenturyLink Domestic Network.
+7. Definitions.  Capitalized terms not defined in this Service Exhibit are defined in the Agreement.
+CenturyLink Domestic Network means the CenturyLink network located within the contiguous U.S. states and Hawaii, which is 
+comprised only of physical media, including switches, circuits, and ports that are operated by CenturyLink.  
+CPOP means a CenturyLink-owned physical point of presence that lies directly on the CenturyLink Domestic Network where direct 
+interconnection between the CenturyLink Domestic Network and a local access providers network is possible.
+Demarcation Point means the CenturyLink designated interface between the CenturyLink Domestic Network or the Leased Access 
+provider network and Customers telecommunications equipment.  The Demarcation Point is typically located at a suitable location in 
+the basement or on the first floor of a Service Address where provision is made for termination of the local access providers outside 
+distribution network facilities.
+Leased Access means local backbone access circuits ordered and leased by CenturyLink from a local access provider chosen by 
+CenturyLink.
+On-Net Access means local backbone access circuits provided solely on CenturyLink owned and operated facilities.
+Preferred Provider or PP means a specific local access provider requested by Customer for Leased Access.
+Service Address means the business building where Customer receives the Service.
+Start of Service Date for each circuit is the date Customer accepts the circuit, following notification by CenturyLink that the local loop 
+is ready.  The ready notification will be via phone call or e-mail.  Customer has five days from CenturyLinks ready notification in which 
+to inform CenturyLink if the circuit fails to operate error-free.  Within the five-day timeframe, if Customer neither informs CenturyLink 
+about errors nor accepts the circuit, the circuit will be considered to have been accepted and the Start of Service Date to have 
+commenced on the fifth day following CenturyLinks ready notification, regardless of whether Customer placed traffic over the circuit.  If 
+Customer informs CenturyLink of circuit errors within the five-day timeframe, CenturyLink will promptly take necessary, reasonable 
+action to correct the errors, and upon correction, notify Customer that the circuit is ready. 
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+LOCAL ACCESS SERVICE EXHIBIT
+NSP #: 309813
+Contract Code:  190013
+CONFIDENTIAL© CenturyLink.  All Rights Reserved.
+v1.101416PRICING ATTACHMENT
+Except as set forth in this Pricing Attachment, capitalized terms will have the definitions assigned to them in the Agreement or the Local 
+Access Exhibit. 
+1.  Customer will pay the MRCs and Install NRCs for the Local Access Service selected.  In addition, Customer will pay all MRCs or 
+NRCs for any ancillary services provided as described in the Local Access Service Exhibit, including without limitation Construction 
+charges. 
+2.  Customer will pay the MRCs and NRCs for Service at the particular Service Address; or NPA/NXX or CLLI if no Service Address is 
+provided, set forth in the table below.  The MRCs and NRCs set forth below apply to new Service only and do not apply to Service 
+ordered prior to the effective date of this Pricing Attachment.  All MRCs and NRCs set forth in the below table apply per circuit and not 
+per Service Address.  Any modifications to any attribute of the particular Service (i.e., the NPA/NXX or CLLI, Service Address, type of 
+Local Access, Service term or circuit speed) will render the pricing below void, and Customer will pay the revised rates agreed upon by 
+the parties for the particular Service at the Service Address or NPA/NXX or CLLI, as applicable.  If a DS1 is bonded with one or more 
+DS1s to create a higher speed NxDS1 at the same Service Address, the MRC for the DS1 may be multiplied by the number of bonded 
+DS1s to determine the MRC for the NxDS1.  The pricing contained in this Pricing Attachment represents pricing for the local access 
+provider and route selected by CenturyLink.  Customer requests for a Preferred Provider or route may be subject to different pricing.
+NPA/NXX 
+or CLLILoop Tracking 
+ID Service AddressType of Local 
+AccessService 
+Term in 
+monthsCircuit 
+SpeedLocal 
+Access 
+Net Rate 
+MRCInstall 
+NRC
+520218 17100392465310860 N MAVINEE DR, LOT 
+14 TUCSON AZ 85737ELA - Native 
+SingleCoSLow 3630 Mbps Fast 
+Ethernet $350.00 $0.00
+515251 17092240726111144 AURORA AVE 
+URBANDALE IA 50322ELA - Native 
+SingleCoSLow 3630 Mbps Fast 
+Ethernet $275.00 $0.00
+412255 1709224072451600 W CARSON ST 
+PITTSBURGH PA 15219ELA - Native 
+SingleCoSLow 3630 Mbps Fast 
+Ethernet $385.00 $0.00
+973257 170922407240190 BALDWIN RD 
+PARSIPPANY NJ 07054ELA - Native 
+SingleCoSLow 3630 Mbps Fast 
+Ethernet $600.00 $275.00
+515261 1709224072772100 DIXON ST DES 
+MOINES IA 50316ELA - Native 
+SingleCoSLow 3630 Mbps Fast 
+Ethernet $275.00 $0.00
+973253 170922407242283 PIAGET AVE CLIFTON 
+NJ 07011ELA - Native 
+SingleCoSLow 3630 Mbps Fast 
+Ethernet $440.00 $275.00
+214427 1710039246485220 TENNYSON PKWY, 
+SUIT 100 PLANO TX 75024ELA - Native 
+SingleCoSLow 3650 Mbps Fast 
+Ethernet $500.00 $0.00
+303270 1709224072595855 E STAPLETON DR N 
+DENVER CO 80216ELA - Native 
+SingleCoSLow 3630 Mbps Fast 
+Ethernet $275.00 $0.00
+908282 170922407243595 DIVISION ST ELIZABETH 
+NJ 07201ELA - Native 
+SingleCoSLow 3630 Mbps Fast 
+Ethernet $440.00 $275.00
+ 3.Customer may order additional Local Access Services that are not specified above, but each additional Service ordered during the 
+Term must include a valid CenturyLink quote form that specifies the applicable Local Access MRC and NRC per Service.  No other 
+discounts or promotions apply.  Certain types of Service have separate service or agreement requirements as defined in the Local 
+Access Service Exhibit.
+4. Leased and On-Net CenturyLink Provided Access Install NRC Discount  – Current and Future.  Install NRCs specified above 
+for Leased and On-Net CenturyLink Provided Access or on a valid quote form during the Term will receive a 100% discount so long as 
+such Service ordered hereunder and subject to this discount remains installed and used by Customer for the duration of the first 12 
+months of the Service Term.  Supplemental NRCs, including but not limited to: Construction, Extended Wiring, Local Loop Expedite, 
+Local Loop Change Fee and Multiplexing, Customer Provided Access NRCs, and Cross-Connect NRCs are not eligible for any 
+discount.
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+RENTAL CPE SERVICE EXHIBIT
+NSP #: 309813
+Contract Code:  190013
+CONFIDENTIAL© CenturyLink.  All Rights Reserved.
+v1.1014161. General; Definitions.  CenturyLink QCC will provide Customer with rental customer premises equipment and software license 
+offerings (collectively, CPE) and CPE installation and maintenance (Service) under the terms set forth in the Agreement, this Service 
+Exhibit and any Rental CPE Rate Attachment submitted hereunder.  Capitalized terms not defined herein are defined in the Agreement.  
+Rental CPE Rate Attachment means the CenturyLink order request form issued and executed by CenturyLink and Customer.  CPE, 
+as defined in this Service Exhibit, does not include CPE purchased by Customer.  In order to qualify for CPE, Customer must also 
+purchase either CenturyLink IQ® Networking, SIP Trunk, Analog VoIP, Hosted VoIP, Managed Office, Managed Enterprise, Integrated 
+Access, Hosted Collaboration Solution, SD-WAN or any CenturyLink bundle, package or promotion that includes these services; or 
+CenturyLink QC intrastate Metro Ethernet service under a separate agreement (collectively Underlying Service).
+2. Delivery and Return.  CPE will be delivered to Customers location as identified, in writing, by Customer.  Delivery will be made 
+either by F.O.B. origin, freight paid by Customer, or personal delivery by CenturyLink.  CPE will be installed as designated herein, or as 
+otherwise agreed upon by the parties.  Except as otherwise provided in the Service Exhibit for the Underlying Service, upon termination 
+of Service, or when Customer replaces CPE with upgraded models, Customer must return terminated or replaced CPE at its own 
+expense within 15 calendar days of termination or replacement.  CenturyLink will provide Customer with return instructions.  Customer 
+will deliver CPE to CenturyLink in the same condition it was on the Effective Date, normal wear and tear excepted, and give 
+CenturyLink written notice of such return.  If CPE is not returned within 15 calendar days of termination, Customer will become owner of 
+and bear all responsibility for the terminated or replaced CPE and CenturyLink may invoice Customer the then-current value of the 
+applicable CPE model (Replacement Cost). 
+3. Ownership and Use.  Except as provided in Paragraph 2, CPE is the personal property of CenturyLink, its designee or a third 
+party provider, notwithstanding that the CPE, or any part thereof, may be affixed or attached to Customers real property or any 
+improvements thereon.  Customer has no right or interest to the CPE other than as provided herein and will hold the CPE subject and 
+subordinate to the rights of CenturyLink.  Customer will: (a) at its own expense, keep the CPE free and clear of any claims, liens, and 
+encumbrances of any kind; and (b) make no alterations or affix any additions or attachments to the CPE, except as approved by 
+CenturyLink in writing.  Customer will not remove, alter or destroy any labels on the CPE and will allow CenturyLink the inspection of 
+the CPE at any time.  As between CenturyLink and Customer, Customer will bear the entire risk of loss, theft, casualty, destruction or 
+damage to the CPE following delivery from any cause whatsoever (collectively, Loss), until returned to CenturyLink.  Customer will 
+indemnify, defend and hold harmless CenturyLink its affiliates, and contractors for any such Loss.  Customer agrees to advise 
+CenturyLink in writing within five business days of any such Loss.  In no event will such Loss relieve Customer of the obligation to pay 
+CenturyLink any amounts due hereunder. 
+4. Software.  Software licensor has retained title to the software.  To the extent possible, CenturyLink grants Customer a software 
+license or sublicense in the software according to the licensing agreement accompanying such software, which extends only to 
+Customer's own internal business use of such software and only on or with the designated CPE.  Software must be held in confidence 
+and may not be reproduced unless specifically authorized by the software licensor.  Customer is prohibited from reverse engineering, 
+decompiling or disassembling the CPE or otherwise attempting to derive the source code of the software.  All CPE is subject to the 
+terms and conditions set forth in the manufacturers or publishers warranty or end-user license.
+5. Insurance.  Without limiting the liabilities or indemnification obligations of Customer, Customer will, at its own cost and expense, 
+maintain during the term of this Agreement, such insurance as required hereunder.  The insurance coverage will be from a company, or 
+companies, with an A.M. Bests rating of A-VII and authorized to do business in each state where CPE is located.  Customer may 
+obtain all insurance limits through any combination of primary and excess or umbrella liability insurance.  
+(a) Commercial General Liability with limits not less than $1,000,000 per occurrence and aggregate.
+(b) All-Risk property insurance on a replacement cost basis in an amount sufficient to cover the CPE, including CenturyLink or a 
+third party provider designated by CenturyLink, as loss payee as their interests may appear.
+CenturyLink, its affiliates, subsidiaries, and parent, as well as the officers, directors, employees and agents of all such entities will be 
+included as additional insureds on the Commercial General Liability policy.  Policies will be primary and not contributory to insurance 
+which may be maintained by CenturyLink, subject to the Indemnification provisions of this Agreement.  Prior to commencement of work 
+under this Agreement, Customer will make available to CenturyLink evidence of the insurance required herein.
+6. Charges.  The charges for CPE and Service are set forth in the Rental CPE Rate Attachment, and will be used to calculate 
+Contributory Charges.  Charges will commence within five days of CenturyLinks notification to Customer that the Underlying Service is 
+provisioned and ready for use (Start of Service Date).  CenturyLink may cease providing Service and demand return of CPE if 
+payment is not made when due.
+7. CPE Replacement Recovery Charge.  Where CPE rented from CenturyLink is replaced due to loss or damage not covered by 
+maintenance under the applicable Detailed Description (for example, damage from accident, misuse or abuse), Customer will pay:  (a) 
+the Replacement Cost for the damaged CPE, and (b) a one-time charge to cover CenturyLinks cost to ship the new CPE.  If Customer 
+requires on-site assistance from CenturyLink to install the replacement CPE, an additional dispatch charge will apply.  CenturyLink will 
+quote the charges in advance, obtain Customers approval, and invoice the charges within 60 days.  Customer is responsible for any 
+claim for reimbursement from its insurance carrier.  The terms and conditions in this Service Exhibit will continue to apply.  
+Replacement CPE may or may not be the same model.
+CENTURYLINK® TOTAL ADVANTAGE® AGREEMENT
+RENTAL CPE SERVICE EXHIBIT
+NSP #: 309813
+Contract Code:  190013
+CONFIDENTIAL© CenturyLink.  All Rights Reserved.
+v1.1014168. Term.  This Service Exhibit will commence on the Effective Date of the Agreement (or, if applicable, an amendment to the 
+Agreement if this Service Exhibit is added to the Agreement after its Effective Date), and will remain in effect until terminated.  Either 
+party may terminate this Service Exhibit with at least 60 days prior written notice to the other party.  Termination will not affect 
+obligations under Rental CPE Rate Attachments accepted prior to the effective date of termination, and this Service Exhibit will remain 
+in effect as to such obligations if it would otherwise have terminated.  CPE and Service ordered during the Term will commence on the 
+Start of Service Date and will continue for a number of months as set forth on the Rental CPE Rate Attachment (CPE Term).  Upon 
+expiration of the CPE Term, CPE and Service will automatically renew on a month to month basis at the then current rates, unless 
+either party elects to terminate the CPE and Service by providing 60 days prior written notice of such termination to the other party.  If 
+the Agreement or any CPE and Service provided hereunder are terminated prior to the expiration of the applicable CPE Term for 
+reasons other than by Customer for Cause, then Customer will pay to CenturyLink:  (a) all charges for CPE and Service provided 
+through the effective date of such cancellation; and (b) an early cancellation charge of 100% of the balance of MRCs that otherwise 
+would have become due for the unexpired portion of the CPE Term.  
+9. Installation, Maintenance and Safety Compliance.  Installation, maintenance or other labor provided to Customer pursuant to 
+this Agreement is subject to, and controlled by, Detailed Description(s) which are posted under CPE at 
+http://www.centurylink.com/legal/ and are incorporated by reference and made a part of this Service Exhibit.  CenturyLink may change 
+the Detailed Descriptions at any time and such change will be effective upon posting to the Web site.  Customer is responsible for 
+informing CenturyLink of the existence, location and condition of any Hazardous Substances that may be in or around the CenturyLink 
+work area.  "Hazardous Substance" means a substance regulated by any safety regulation and includes, without limitation, asbestos.  
+Customer will indemnify and hold CenturyLink harmless from any fines or other liability of CenturyLink arising from Customer's failure to 
+inform CenturyLink of hazardous substances. 
+10. Additional Limitation of Liabilities.  If CPE contains a firewall or other security features, CenturyLink makes no warranty, 
+guarantee, or representation, express or implied, that all security threats and vulnerabilities will be detected or that the performance of 
+Service will render Customers systems invulnerable to security breaches.  Customer is responsible for Customers own network 
+security policy and security response procedures.  If any equipment or software not provided by CenturyLink impairs Customer's use of 
+CPE, Service or an Underlying Service: (a) Customer will nonetheless be liable for payment for all CPE, Service and Underlying 
+Service provided by CenturyLink; and (b) any SLA generally applicable to the Service or Underlying Service will not apply. 
+11. Miscellaneous.  With respect to the Agreement terms incorporated by reference, Service is replaced with CPE and Service as 
+defined in this Service Exhibit.Powered by TCPDF (www.tcpdf.org)

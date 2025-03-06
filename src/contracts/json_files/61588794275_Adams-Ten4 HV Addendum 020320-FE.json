@@ -1,0 +1,33 @@
+{
+  "Agreement Name": "Addendum to Master Services Agreement",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "Provider",
+  "Party2 Name": "Adams Property Group",
+  "Party2 Role": "Customer",
+  "Effective Date": "Not specified.",
+  "Signature Date": "5-1-2020",
+  "Term": "Not specified.",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "Not specified.",
+  "Nonrecurring Charges": "Not specified.",
+  "Services": [
+    "SIP Trunk Bundling (with option for unlimited)",
+    "Hosted Fax",
+    "Additional DIDs and setup",
+    "Remote setup and configuration of Edgemarc device to support SIP trunking",
+    "Hosted Phones",
+    "Access to account information via Ten4 Portal"
+  ],
+  "Locations": [
+    "2077 Calhoun Road, Greenwood, SC 29649",
+    "1758 St. Matthews Road, Orangeburg, SC 29118",
+    "318 Johnny Mercer Blvd., Bldg B, Savannah, GA 31410",
+    "365 Keowee School Road, Seneca, SC 29672",
+    "2254 Sandifer Blvd., Westminster, SC 29696"
+  ],
+  "Payment Terms": "All bills are due within thirty (30) days upon receipt of Ten4 invoice.",
+  "effective_date": "05/01/2020",
+  "signature_date": "05/06/2020"
+}

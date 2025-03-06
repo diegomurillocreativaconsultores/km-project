@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Commercial Service Agreement",
+  "Agreement Classification": "Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "BarConnects, LLC",
+  "Party1 Role": "Provider",
+  "Party2 Name": "Not specified.",
+  "Party2 Role": "Customer",
+  "Effective Date": "04/14/2020",
+  "Signature Date": "04/09/2020",
+  "Term": "Two (2) years",
+  "Renewal Term": "Month-to-month basis",
+  "Recurring Monthly Charges": "Not specified.",
+  "Nonrecurring Charges": "Not specified.",
+  "Services": "Direct Internet Access (DIA), circuits on a private network, switching services",
+  "Locations": "670 Oakland Circle, Raphine VA 24472",
+  "Payment Terms": "Nonrecurring charges and recurring charges due within fifteen (15) days of the invoice date; late charge of 1.5% per month for late payments.",
+  "effective_date": "04/14/2020",
+  "signature_date": "04/09/2020"
+}

@@ -1,0 +1,345 @@
+verizon
+Sales Authorization and CPNI Consent Form
+Verizon Partner Program
+For use in Commercial and Pub Sector Accounts
+ustomer Name
+\y
+Address
+o O Vy O. -—
+PhoneNumber |
+Og adie
+— Signature
+\Customor's Authorized
+Rep presentative we
+peel ta _
+Kd p
+By signing this form, you hereby authorize Telarus/Ten4 (List name of VPP Member and subagent, if
+applicable), a participant in the Verizon Partner Program ("Authorized Representative"), to submit requests and review
+account information including CPNI as defined below, pertaining to services your company purchases from Verizon.
+You further authorize Verizon Companies* to provide such information directly to the Authorized Representative, noting
+this authorization does not prevent you from acting on your own behalf whenever you deem it necessary.
+Also, in order to better serve your company and offer you additional products and services, Verizon Companies* may
+need to share information about you as described below.
+The Federal Communications Commission and various states require the Verizon Companies to protect certain
+information relating to the quantity, technical configuration, type, destination, location, and amount of use of your
+telecommunications and interconnected VoIP services purchased from the Verizon Companies and related local and toll
+billing information ("CPNI"). The Verizon Companies acknowledge that we have a duty, and you have a right, under law
+to protect the confidentiality of your CPNI.
+By signing this form, you also grant the Verizon Companies, solely for the purpose of offering you current and future
+products and services available from the Verizon Companies, permission to use, to permit access to, and to disclose
+your CPNI and Confidential Information ("Cl") among ourselves, and to our agents, contractors and partners who assist
+us in providing such products and services to you and who have an obligation to protect such information.
+By checking this box you represent that you have the authority to consent, and do consent, on behalf of your current
+and future affiliates who receive services and products from the Verizon Companies, to the use, disclosure, and access to
+CPNI and Cl as above.
+You have a right to disapprove of the uses of CPNI and Cl as set forth above, and you may withdraw consent at any time by
+notifying us in writing at coni-notices@verizon.com. Your consent will remain valid until we receive such a notice withdrawing
+consent. If you refuse or withdraw consent for use or disclosure of your CPNI and Cl, it will not affect our provisioning of
+services to which you subscribe.
+Verizon Confidential
+*"Verizon Companies" refers to Verizon Business Network Services Inc. on behalf of MC! Communications Services, Inc. d/b/a Verizon Business
+Services, Cellco Partnership d/b/a Verizon Wireless and their Verizon affiliates.
+1
+TeN4.
+ADDENDUM to ae Services Agreement
+HOSTED VO!
+Customer Legal Name: Accent Dermatology & Aluria Medical Spa
+Equipment Location Address: Suite A, Medford, NJ 08055
+Asofthe_______ day of July, 2020 (Effective Date), Ten4 and Customer enter into this Addendum to the Managed Services
+Agreement (MSA), which was signed and dated this same date and is incorporated herein by reference.
+1. Service Term
+The Service Term for Hosted Voice Services is thirty-six (36) months from date of install for each location.
+Auto Renewal: Following the Initial Service Term, the SAF shall renew automatically on a month-to-month basis upon the same
+terms and conditions, and either party either party may terminate at any time with sixty (60) days written notice.
+2. Coverage & Cost
+Services: During the Service Term, Ten4 agrees to provide the following hosted voice equipment and services at the stated rates for
+each site listed herein above, and as may be amended hereafter in writing.
+MONTHLY RECURRING CHARGES (MRC)
+DESCRIPTION MONTHLY EXTENDED
+$24.95 $748.50
+QUANTITY
+30 Business Complete Seat w/phone - Features include Unlimited
+Inbound/Outbound Calling, IP Phone license, 1 x DID, 1 x Call Path,
+Voicemail to Email, Auto Attendant, Hunt Group, Music on Hold, basic desk
+phone (Yealink T41P/Polycom VVX 250/Grandstream GXP2135)
+Yealink T54 w/power supply
+Wall Mount for Yealink T54
+Yealink T57W w/power supply - 7" capacitive touch screen corded
+deskphone, built in bluetooth 4.2, built in wi-fi (802.1 1a/b/g/n/ac), USB (for
+recording), POE
+Yealink 50-Button DSS
+Voicemail Transcription - enables voicemail messages to be transcribed $3.50 $3.50
+into text and send via email or SMS
+EdgeMarc 2900a (C2E) - A scalable VPN/router that supports dual Ethernet
+WAN and 4-port managed VLAN. Includes 2 FXO ports and 6 FXS ports.
+Licensed for up to 300 concurrent WAN VoIP calls.
+Edgemarc C2E Licensing & Monitoring - licensing and monthly monitoring
+for Edgemarc Cloud to Edge (C2E)
+Additonal Domestic Telephone Number (DID)
+One (1) DID or Telephone Number (TN) in one rate center.
+Bundle Ext Plan (Analog) - One extension associated with one device
+(Viking Door Phones)
+les MRC SUBTOTAL
+Pricing Excludes Taxes
+$6.00
+1700 Union Avenue, Suite B » Baltimore, MD 21211 » 410-464-8900 * www.tend.us
+NON-RECURRING CHARGES (NRC)
+DESCRIPTION
+QUANTITY EXTENDED
+1 Grandstream GXW ATA (24 port) $548.60
+On-site installation (full day)
+$4,500.00
+60 Phone Number LNP and/or Toll Free RESPORG $5.00 $300.00
+1 SBC Remote Setup & Configuration $350.00
+NRC SUBTOTAL $5,698.60
+Pricing Excludes Taxes & Shipping
+MRC: Customer agrees to pay Nine Hundred Thirty-One Dollars and Fi .50) per month for a Term of thirty-six
+(36) months, invoiced to Customer on a monthly basis, which shall become due and payable on the first day of each
+month.
+NRC: Customer agrees to pay a one-time fee of in Ninety-Eight Dollars
+($5,698.60) in advance, at the time this Agreement is signed.
+In addition to the terms and conditions in the MSA and listed herein, CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE
+BOUND BY ANY UNDERLYING SERVICE PROVIDER CONTRACTS.
+All bills are due within thirty (30) days upon receipt of Ten4 invoice. Customer will pay all Charges as set forth in the SAF which shall
+be signed per location or service ordered and are incorporated herein by reference. Charges listed may not include taxes, fees, or
+regulatory surcharges that may be assessed on the Services (Taxes), and Customer will be responsible for all such Taxes.
+3. Emergency Services 911 Dialing
+Customer understands and accepts the requirements and limitations provided in the E911 document, which can be found at
+www.ten4.us/E911 and which are incorporated herein and constitute part of this Addendum.
+4. Termination
+Termination For Cause. Either party may immediately terminate a SAF by written notice if the other party breaches a provision of
+this Addendum or the Master Services Agreement and the breaching party does not cure such breach after written notice and a five
+(5) day cure period in the event of any failure to pay an amount due hereunder, or a thirty (30) day cure period in the event of any
+other breach.
+If Ten4 Terminates for Cause, Ten4 will have no further liability or obligation under this Addendum and accompanying SAF.
+Early Termination Fee. If Customer terminates any Services prior to the expiration of the Service Term, Customer shall pay Ten4
+an Early Termination Fee equal to the MRC of the initial contract value times the number of months remaining under contract for
+that site. In no event shall Customer be entitled to any refund of already paid charges if the SAF, Addendum or MSA, or any portion
+thereof, is terminated.
+5. Service Level Agreement
+For all Customer sites that complete a SAF with designated Hosted Voice SLA equipment, Ten4 shall warrant the following levels of
+Service on the network when installed by Ten4 or an authorized technician:
+a. General Standard. Ten4 will use reasonable efforts under the circumstances to maintain its overall network quality. The
+quality of service provided hereunder shall be consistent with other common carrier industry standards, government regulations and
+sound business practices.
+b. Interruptions in Service. Interruptions in service, which are not due to Customer's negligence or non-compliance with
+the provisions of the Agreement (including all Addendums, SAFs and other relevant documents attached thereto), or the operation
+or malfunction of facilities, power, or equipment provided by Customer, will be credited to Customer as set forth below for the part of
+the service that the interruption affects. A credit allowance will be made when an interruption occurs because of a failure of any
+component furnished by Ten4 under this Agreement.
+¢. Credit for Interruptions. An interruption period begins when Customer reports a service, facility, or circuit to be
+interrupted through the opening of a trouble ticket and makes it available for testing and repair. An interruption period ends when the
+service, facility, or circuit is operative. If Customer reports a service, facility, or circuit to be inoperative but declines to make it
+available for testing and repair, it is considered to be impaired, but not interrupted.
+|. For calculating credit allowances, every month is considered to have 30 days. A credit allowance Is applied on a pro
+rata basis against the monthly recurring charges for the affected service and is dependent upon the length of the interruption. Only
+those facilities on the interrupted portion of the circuit will receive a credit. No credit will be given on the usage-sensitive portion of
+the service.
+li. A credit allowance will be given for interruptions of 30 minutes or more, upon written request of the customer no later
+than ten (10) business days after the occurrence of the outage to Customer's Ten4 Account Manager. Credit allowances will be
+calculated as follows:
+iii. _If the interruption continues for less than 24 hours:
+(a) 1/30th of the monthly recurring charge if it is the first interruption in the same billing period.
+(b) 2/30ths of the monthly recurring charge if there was a previous interruption of at least 24 hours in the same
+billing period.
+iv. If the interruption continues for more than 24 hours, 1/30th of the monthly recurring charge for the first 24 hours and
+2/30ths of such rate for each additional 24 hours (or fraction thereof); however, if service is interrupted for over 24 hours more than
+once in the same billing period, the 2/30ths allowance applies to the first 24 hours of the second and subsequent interruptions.
+v. | Two or more interruptions of 30 minutes or more during any one 24-hour period shall be considered as one
+interruption.
+d. Maximum Credit. Credits attributable to any billing period for interruptions of service shall not exceed the total monthly
+recurring charges for that period for the service and facilities fumished by Ten4 rendered useless or substantially impaired. The
+credits set forth in this SLA shall be Ten4's sole liability and Customer's sole remedy in the event of any interruption. Unless
+otherwise specifically provided in this Agreement, under no circumstances shall an interruption be deemed a breach of the
+Agreement.
+e. Interruption Defined. For the purpose of applying this provision, the word interruption (whether capitalized or not)
+shall mean a complete loss of service resulting in the inability to complete calls (either incoming or outgoing or both) due to
+equipment malfunction or human errors for a continuous period of more than thirty (30) minutes. Interruption does not include, and
+no allowance shall be given for, service difficulties such as slow dial tone, circuits busy or other network and/or switching capacity
+shortages. Nor shall the interruption allowance apply where service is interrupted by the negligence or willful act of Customer or
+where Ten4, pursuant to the terms of the Agreement, suspends or terminates service because of nonpayment of bills due to Ten4,
+unlawful or improper use of the facilities or service, or any other reason covered by the Agreement. No allowance shall be made for
+interruptions due to electric power failure where, by the provisions of this Agreement, Customer is responsible for providing electric
+power.
+f. _ Limitations on Credit Allowances. No credit allowance will be made for:
+i. Interruptions arising from the acts or omissions of, or non-compliance with, the provisions of this Agreement or any
+schedule or exhibit thereto by Customer or any authorized user, or any interruptions due to any party other than Ten4 or for events
+happening on any other party's network, including but not limited to internet service providers or other common carriers connected
+to, or providing service connected to, the service of Ten4 or to Ten4's facilities;
+ii. __ Interruptions due to the failure or malfunction of non-Ten4 equipment, including service connected to Customer-
+provided electric power;
+iii. _ Interruptions of service during any period in which Ten4 is not given full and free access to its facilities and
+equipment for the purpose of investigating and correcting interruptions;
+Iv. _ Interruptions of service during any scheduled maintenance period or when Customer has released service to Ten4
+for maintenance purposes or for implementation of a Customer order for a change in service arrangements;
+v. _ Interruptions of service due to force majeure events beyond the reasonable control of Ten4.
+6. Service Delivery and Escalation
+a. Support Hours. Standard live support hours are Monday through Friday, 8am to 8pm EST/EDT. Routine requests for
+changes (MACDs) are processed during standard support hours. Emergency after hours, weekend and holiday support available
+24/7 via call-back service,
+Support Contact Information:
+Phone — 888.787.6999 or 856.505.4900
+Email — support@ten4.us
+b. Priority Definitions and Processes.
+i. | MACD: Routine request for Moves, Adds, Changes or Deletion of configured services (none service-affecting).
+ii, | Low: Experiencing intermittent problems (e.g. static, echo) that do not impact the ability to conduct business.
+li. | Medium: Service is impaired, but Customer can still conduct business.
+iv. High: Experiencing 50% or more service outage of one or more locations, circuits, or lines. This may also include
+intermittent problems that are so severe that they impact the ability to conduct business.
+Note: All HIGH service outage tickets receive immediate attention and follow ups will be made every 2 hours until issue is
+closed.
+Priority Target Time Escalation Guidelines
+1* Level 2 Level 3™ Level 4" Level
+<24 hours 24 hours 28 hours 36 hours 48+ hours
+| Low | <8 hours 8 hours 10 hours 12 hours | 24+ hours
+| Medium | <4 hours 1 4 hours 6 hours 8 hours [10+ hours
+High | <2 hours [ 2 hours 4 hours 6 hours [ 6+ hours
+c. Customer Support Contacts. Ten4 has technical support available to assist Customer. Customer can contact Ten4s
+management team listed below:
+1° Level Technical Support + 888.787.6999 support@ten4.us
+2™ Level Senior Network Engineer, Bryan LaLonde 856.422.5304 blalonde@ten4.us
+3 Level Director, Network Engineering, Tom McDonnell [856.505.4909 |_tmedonnell@ten4.us
+4" Level VP Operations, Scott Klemm [ 856.505.4902 | _sklemm@ten4.us
+7. Disconnects
+Customer explicitly requests and Ten4 shall submit a written request for disconnection to Customer's current provider/s upon
+completion of porting of lines to Ten4s service at each Customer location. Customer understands and agrees that a request for
+disconnect and cancellation does not guarantee performance of same; disconnection may be contingent upon final payment or other
+factors. Ten4 shall not be responsible for any charges resulting from Customer's current provider failing to perform the requested
+disconnect.
+8. Network Changes
+Customer understands and agrees that Ten4s ability to provide Services may be affected by Customer's network design and any
+changes to its network design or security requirements may hinder or altogether prevent a Customer's site from receiving Services.
+Should Customer make any network design changes which require Ten4 to operate within Customer's network, Customer shall
+notify Ten4 as soon as reasonably possible. Ten4 shall make a reasonable effort to verify which, if any, Customer sites may be
+affected by the change and notify Customer within five (5) business days.
+Acceptance
+Ten4 and Customer have caused this Agreement to be executed below by their duly authorized signatories.
+Client: Accent Dermatology & Aluria Medical Spa Distributed Computing, Inc. dba Ten4
+By: Deanna R. Kelly
+Te: (unc sty actor H neal Vice President
+ten4
+This Master Services Agreement is between Distributed Computing, Inc. dba Ten4 (Ten4), with headquarters located at 1700
+Union Avenue, Suite B, Baltimore, MD 21211, and Accent Dermatology & Aluria Medical Spa (Customer), with headquarters
+located at 622 Stokes Road, Suite A, Medford, NJ 08055, and is effective as of the last date signed below (Effective Date).
+MASTER SERVICES AGREEMENT
+1. Term of Agreement
+This Master Services Agreement will have a term of five (5) years (MSA Term). Any and all Service Order Forms ("SOF") that are
+separately executed by Customer will have their own Service Term, which will pertain to that particular Service being purchased. If
+any Service Term extends beyond the MSA Term, this MSA will continue to apply to such Service Order for that Service Term.
+2. Services
+Ten 4 will provide to Customer the Services specified in each Addendum and SOF (Services), which documents shall be
+incorporated herein and shall constitute a part of this Agreement. Ten4's provision of Services is in all cases subject to Ten4s
+Acceptable Use Policy (AUP), which is located at www.ten4.us/acceptableusepolicy and is likewise incorporated herein and
+constitutes a part of this Agreement.
+Each SOF will specify the Service Charges, Service Term, Service Location and other information reasonably required by Ten4 to
+provide the Services.
+3. Charges and Payments
+Charges are specific to the Service being purchased. Customer will pay all Charges as set forth in the SOF for that Service and
+shall pay according to the terms and conditions set forth in the Addendum for that Service.
+4. Access
+Customer agrees to provide Ten4 reasonable access to Customer's voice/data network, in order that Services may be performed as
+set forth in the SOF. In the event that said access is not provided as requested, Customer is aware that delivery and effectiveness of
+Services may be jeopardized and that additional charges may be incurred.
+5. Security & Usage
+Customer understands that Ten4 and its Underlying Service Providers cannot guaranty the security of any transmissions and will
+not be liable for any lack of security relating to the use of the Services. Notwithstanding the foregoing, Ten4 agrees to use no less
+than a reasonable degree of care, including relevant industry-standard practices, to protect the security of any Customer
+transmissions while providing Services to Customer.
+The Services are for Customer's use only and Customer may not resell the Services to any other party.
+6. Warranty Exclusion
+Except as expressly stated in this Agreement, Ten4 makes no warranties or representations, express or implied, either in fact or by
+operation of law, and specifically disclaims any warranties of merchantability or fitness for a particular purpose, applicable to the
+services.
+7. Limitation of Liability
+NEITHER PARTY WILL BE LIABLE TO THE OTHER FOR ANY SPECIAL, PUNITIVE, INDIRECT, INCIDENTAL,
+CONSEQUENTIAL OR EXEMPLARY LOSSES OR DAMAGES INCLUDING, BUT NOT LIMITED TO, LOSS OF BUSINESS, LOSS
+OF USE, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF CLIENTS, LOSS OF GOODWILL OR COST OF REPLACEMENT
+FACILITIES OR SERVICES, ARISING IN ANY MANNER FROM THIS AGREEMENT AND/OR THE PERFORMANCE OR
+NONPERFORMANCE OF OBLIGATIONS HEREUNDER.
+Customer has no contractual relationship with any Underlying Service Providers through this Agreement and Customer is not a
+third-party beneficiary of any Agreement between Ten4 and an Underlying Service Provider. Customer understands and agrees that
+Underlying Service Providers will not have any kind of liability to customer, regardless of the form of action, including but not limited
+to failure or disruption of service.
+Additionally, in no event will Ten4s liability under this Agreement or otherwise arising out of Ten4s provision of Services hereunder
+exceed an amount equal to the previous ninety (90) days charges for the services to which the liability relates.
+The foregoing paragraphs of this Section 7 will also apply to all Underlying Service Providers with respect to the Services.
+8. Indemnification
+Each party will defend and indemnify the other party and the Underlying Service Providers, and each of their respective officers,
+employees, and agents, against any liabilities and reasonably related costs (including legal fees) incurred in connection with any
+third party claims for property damage, personal injury or death arising from or in connection with this Agreement to the extent said
+claims arise from the party's gross negligence or willful misconduct. This indemnity shall survive the termination of this Agreement.
+1700 Union Avenue, Suite B » Baltimore, MD 21211 » 410-464-8900 « www.ten4.us
+Additionally, Customer will defend and indemnify Ten4 and the Underlying Service Providers, and each of their respective officers,
+employees, and agents, against any liabilities and reasonably related costs (including legal fees) incurred in connection with any claim
+by an end user of the Services, it being understood that Customer, and not Ten4, is fully responsible for any such claims.
+9. Default
+A party is in default of this Agreement if it breaches this Agreement or any SOF and fails to cure such breach within thirty (30) days of
+the other party's notice reasonably specifying the breach. Upon default, the non-defaulting party may terminate this Agreement and/or
+an affected SOF by written notice.
+If Customer is in default of this Agreement, all Charges accrued under any SOFs will be due and payable and Ten4 may, in addition
+to all other available remedies, disconnect Customer's Services specific to that SOF.
+If Ten4 is in default of this Agreement, only the Charges accrued as of the date of default will be due and payable to Ten4.
+10. Termination
+In no event shall Customer be entitled to any refund of already paid Service Charges if this Agreement or any SOF is terminated,
+except for a termination based on Ten4's default, as defined in Section 9 herein.
+If Customer terminates a Service (other than for Ten4s default) prior to the expiration of the Service Term, Customer will pay the Early
+Termination Fee ("ETE") set forth in the applicable Addendum or SOF. The parties acknowledge that the ETF is a genuine estimate
+of the actual damages to Ten4 for Customer's early termination of a Service and is not a penalty.
+11. Confidentiality
+If the parties entered into a confidentiality or non-disclosure agreement in anticipation of this Agreement, such agreement is
+incorporated herein and shall apply instead of this Section. Otherwise, the parties acknowledge that they have or will exchange
+certain confidential information expressly designated or which should reasonably be known as confidential (Confidential
+Information) and each party agrees that neither party will (a) use the other partys Confidential Information except for the purpose(s)
+for which it is disclosed or (b) disclose the other party's Confidential Information to any third party except (i) under an identical
+confidentiality restriction to the receiving party's employees or contractors who have a need to know Confidential Information in
+connection with the purposes for which it is disclosed or (ii) when compelled by a court or other government agency (with as much
+advance notice to the disclosing party as reasonably possible).
+Ten4 acknowledges that it may receive certain of Customer's information that constitutes customer proprietary network information
+or customer proprietary information under applicable law, and Ten4 agrees that it will hold all such information in compliance with
+applicable law.
+12. Other Terms
+Force Majeure
+Neither party shall be responsible for any loss, harm, damage, or failure to comply with any obligation hereunder resulting from
+circumstances beyond its reasonable control (commonly referred to as force majeure events) including, but not limited to fire, flood,
+war, strikes, cable cuts, acts of terrorism, explosions, loss of power, governmental restrictions, acts of third parties, or acts of God.
+In additional, Customer will not be obligated to pay for the Services during periods of force majeure, and either party may terminate
+an affected SOF upon notice to the other if a force majeure event continues uninterrupted for a period ofthirty (30) days or longer.
+Subcontracting
+Ten4 may subcontract work to be performed under this Agreement but shall retain responsibility for the work.
+Assignment
+Neither party may assign its rights and obligations under this Agreement, any SOF, whether by operation of law or otherwise,
+without the prior written consent of the other party, not to be unreasonably withheld.
+Publicity
+Without the prior written consent of the other Party, neither Party will (i) publicly use the name, logo or other identifying marks of the
+other Party, or (ii) issue or permit the issuance of any press release or other public statement regarding this Agreement or the
+Parties relationship.
+Conflict Between Agreements
+In the event of any conflict between this Agreement and a SOF, this Agreement will control, except to the extent that the SOF
+specifically references the section/provision of this Agreement that it is modifying or superseding.
+Governing Law
+This Agreement and the rights of the parties hereunder shall be governed by and construed in accordance with the laws of the State
+of Delaware, exclusive of conflict or choice of law rules.
+Notification
+Any notices, requests, consents and other communication under this Agreement shall be in writing and shall be deemed to have
+been delivered on the date (a) personally delivered, (b) mailed, postage prepaid, by certified mail with return receipt requested, or
+(c) faxed and confirmed. All communications under this section shall be addressed to the respective parties hereto as follows:
+If to Customer: Accent Dermatology & Aluria Medical Spa If to Ten4: Ten4
+1700 Union Avenue, Suite B
+Baltimore, MD 21211
+Attn: Legal Dept.
+Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous oral and written
+agreements, commitments, or understandings with respect to the matters provided for herein. This Agreement may not be modified
+except by a writing signed by both parties. In the event that any of the provisions of this Agreement are held to be invalid or
+unenforceable in whole or in part, all other provisions will nevertheless continue to be valid and enforceable with the invalid or
+unenforceable parts severed from the remainder of this Agreement. The waiver by either party of a breach, default, delay or
+omission of any of the provisions of this Agreement by the other party will not be construed as a waiver of any subsequent breach of
+the same or other provisions.
+Acceptance
+| have read and understood the terms and conditions of the above Agreement. By my signature hereunder, | indicate that | am
+authorized to bind the indicated party and that Party agrees to the terms and conditions herein.
+ustomer: Accent Dermatology & Aluria Medical Spa Distributed Computing, Inc. dba Ten4
+4 wher —
+VA orratractor Tie: Vice President
+Thee
+Date:

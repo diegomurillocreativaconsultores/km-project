@@ -1,0 +1,290 @@
+AVE
+Customer Name: Distributed Computing, Inc.
+Ar . Quote #: 0-00621183
+was Centu ryLi n k Quote Generation Date: 1177/2018 12:04:19 PM
+f Cutoff Date: 12/22/2018
+Currency: USD
+Customer Information Account Information Prepared By
+Name: Distributed Computing, Inc. BPID: 3542391
+Primary Contact: Zane Gee Billing Account:
+Primary Contact Phone: (410) 464-8928 Billing Address: 1700 UNION AVE Name: Jo Branch
+Primary Contact Email: zgee@distcomp.com SUITE B Phone: (801) 838-9451
+Billing Contact: Kelly Hiser BALTIMORE, MD Email: jbranchsfa@carriersvcs.com
+Billing Contact Phone: (410) 464-8900 21211 Sales Rep: MORFORD, RUTH
+Billing Contact Email: carrierbills@distcomp.com Contract ID#: NEW
+Pricing Table
+Waived NRC
+Add Term
+1554 SURGEONS DR Pro 36
+ee ced STAREADASBER ELSZA06. | 109M —- ~—
+ries seas nt
+Essentials - $0.00 $0.00
+Standard neni
+$139.00 $0.00
+Service Sub Total:
+Except as otherwise provided in Section 2 of the Customer Acceptance Provisions, CenturyLink provides Fiber+ Internet services under
+these additional service-specific terms and conditions which are incorporated into the Agreement by this reference: (a) Fiber+ Internet
+Bundle provisions ("Package Provisions") found at http://www.centurylink.com/legal/ctae/MT U/fiberplusinternet/v17.pdf and (b) the
+Domestic CenturyLink 1Q Networking, Local Access, and Rental CPE service-specific sections in "Section II, Additional Service-Specific
+Terms and Conditions" of the Detailed Terms and Conditions ("DT&C") at: http:/Awww.centurylink.com/legal/DTC/v85. pdf.
+Internet
+"Terms and Conditions for Fiber+ Internet Bundle Offer"
+"Other Provisions for Fiber+ Internet Bundle Offer
+The Fiber+ Internet Bundle type appears in the first Fiber+ Internet row under the Service Attributes column of the above table. The
+CenturyLink IQ Networking port is an Internet Port. The port bandwidth details appear in the first Fiber+ Internet row under the
+Service Attributes column of the above table. The Local Access bandwidth details appear in the first Fiber+ Internet row under the
+Service Attributes column of the above table. The package/bundle pricing includes the Local Access MRC and the Rental CPE MRC.
+CenturyLink will provide the rental equipment while Customer purchases the Services from CenturyLink. CenturyLink may provide
+equipment from various manufacturers at its discretion. The Rental CPE maintenance is ProMET® On-Site Standard (8x5, on-site,
+next business day) maintenance unless Pro MET 24x7 Professional appears in the Service Details column of the above table. If
+Pro MET 24x7 Professional appears in the Service Details column of the above table, the Rental CPE maintenance is ProMET® On-
+Site Premium (24x7, on-site, 4-hour response) maintenance for that location. There is an additional MRC for ProMET® On-Site
+Premium maintenance. Customer's site must qualify for ProMET® On-Site Premium maintenance.
+The following Cancellation Charge will apply for the Fiber+ Internet Bundle solution(s) ordered in the above table in lieu of any
+cancellation charges defined elsewhere in the Agreement, unless stated otherwise herein. If a Fiber+ Internet Bundle Solution is
+canceled by Customer for any reason other than for Cause or by CenturyLink for Cause before the Service Term is completed, then
+Customer must pay CenturyLink the following Cancellation Charges: (A) the sum of the applicable Fiber+ Internet MRC, plus any
+additional MRCs associated with the Fiber+ Internet Bundle Solution at that Service location multiplied by: (1) 100% of the number of
+months, if any, remaining in the first year of the Service Term; (2) 75% of the number of months, if any, remaining in the second year of
+the Service Term; and (3) 50% of the number of months, if any, for the remainder of the Service Term; (B) the amount of any applicable
+nonrecurring charges waived or discounted by CenturyLink for the Services; (C) the amount of any installation or construction charges
+incurred by CenturyLink to install the Services; and (D) charges incurred by CenturyLink from a third-party provider that result from the
+early termination. The charge in the Rental CPE section that applies if Customer fails to return rental CPE to CenturyLink will also
+apply.
+As part of the Service provisioning process, CenturyLink will identify whether Customer's Local Access functionality is IP Connection as
+described in the Local Access service-specific terms. If it is, Customer agrees to use the CenturyLink 1Q Networking Internet Port only
+for the provision of either: (i) wireline broadband Internet access (as defined in applicable Federal Communications Commission orders
+and regulations), or (ii) wireline broadband Internet access plus additional information services, with wireline broadband Internet access
+constituting a principal use. If the IP Connection Local Access functionality is used in conjunction with a CenturyLink 1Q Networking
+Private Port, Customer must, so long as the Private Port is used, either: (iii) have entered into an agreement or amendment directing
+Customer to the Network-Based Security ("NBS") service-specific terms and use NBS with the Private Port or (iv) use the Private Port
+in conjunction with an interconnected Internet Port in a multi-site configuration. In either case, Customer agrees the arrangement will
+Opportunity ID#: 56091266  © CenturyLink. All Rights Reserved.
+CONFIDENTIAL
+Customer Name: Distributed Computing, Inc.
+Quote #: Q-00621183
+— Quote Generation Date: 11/7/2018 12:04:19 PM
+a CenturyLink: ie Cutoff Date: 12/22/2018
+Currency: USD
+be configured so each Private Port connection will be used consistent with the wireline broadband Internet access usage limitations
+noted in (i) and (ii) above.
+No Resale. Customer warrants: 1) Services are for its own use; 2) It will not resell the Services, regardless of whether it qualifies as a
+reseller under the Telecommunications Act of 1996 or under state law; and 3) It will not in any way offer third party access to the
+Services, even if it adds features or functions to the Services or combines the Services with another service.
+Business Applications Provisions
+Customer is currently eligible to receive the following optional CenturyLink business applications provided by CenturyLink affiliate
+Savvis Communications Corporation DBA CenturyLink TS and its affiliates (CenturyLink TS") at no additional charge. The optional
+business applications apply to the product(s) listed in the Product column of the preceding pricing table. CenturyLink or CenturyLink
+TS may modify or discontinue this offering for any future purchases of the product(s) listed in the Product column of the preceding
+pricing table. You will receive a URL and log-in credentials to access your business applications. When you first log in to the
+Management Console, you will be asked to accept the CenturyLink terms and conditions before activating the applications. The optional
+business applications are governed by the CenturyLink business applications terms and conditions also found at
+https://apps.centurylink.com/terms-conditions and not by this Agreement.
+Optional Business Applications Included at No
+Additional Charge Quentity/Detaile
+Microsoft Office 365 from CenturyLink 10 Business Essential licenses, includes email
+w/ 50GB storage
+[GioudFax SS —_* 20 InbouncOutbound Pages
+Customer may purchase additional CenturyLink TS services at the following website: https://apps.centurylink.com/login. Additional
+charges will apply.
+Customer: Distributed Computing, Inc.
+Q c -
+Authorized SignatGre
+Deanna Kelly
+Name Typed or Printed
+CenturyLink Sales Solutions, Inc.
+Authorized Signature
+Name Typed or Printed
+Title Title
+\WAa§
+Date Date
+Service(s) Total for Services priced in this Quote
+Monthly Recurring Non-Recurring
+Charges ($) Charges ($)
+Opportunity ID#: 56091266  © CenturyLink. All Rights Reserved.
+CONFIDENTIAL
+. Customer Name: Distributed Computing, Inc.
+al Quote #: Q-00621183
+Quote Generation Date: 11/7/2018 12:04:19 PM
+TI Centu ryLink Cutoff Date: 12/22/2018
+= Currency: USD
+Customer Acceptance Provisions
+ls Charges/Orders. CenturyLink will charge Customer the rates for the Services shown above. If Customer changes any of the
+Bundle/Package or Service Details or moves a Service Address, these rates will not apply. Rates and charges for Service elements not
+identified appear in the applicable terms and conditions. Rates do not include foreign, federal, state or local taxes, surcharges, fees,
+EAS, Zone, CALC, or other similar charges. Services (located at the address specified, if applicable) shown on this Quote may not be
+combined with any other offer(s) or discount(s) other than those specifically listed on this Quote. Early termination charges may apply
+as set forth in the Agreement. By signing this Quote, Customer orders the services, bundles, offers, and packages identified in the
+Product column of the table(s) above ("Services").
+2; General. A CenturyLink Total Advantage Express Agreement, CenturyLink Total Advantage Agreement, CenturyLink Master
+Service Agreement, CenturyLink Master Service Agreement Express or CenturyLink Loyal Advantage Agreement that is signed by
+authorized representatives of both parties on or before the earlier of the Cutoff Date on this Quote or the Cutoff Date on the agreement
+and includes all Service specific terms for the Service(s) described and any applicable offer terms in this Quote as determined by
+CenturyLink records is required to implement the pricing in this Quote (Agreement). The terms of this Quote including the Other
+Provisions, Customer Acceptance Provisions, Terms and Conditions for VP Checkbook Credit Offer, and Business Applications
+Provisions for the Services control except that the Terms and Conditions that appear under the pricing table for the Services will only
+apply if Customer's Agreement is a CenturyLink Total Advantage Express Agreement or CenturyLink Master Service Agreement
+Express and will not apply if Customer's Agreement is a CenturyLink Total Advantage Agreement, CenturyLink Master Service
+Agreement or CenturyLink Loyal Advantage Agreement. Existing services, bundles, offers, or packages will continue to be governed by
+the terms and conditions incorporated by attachment or reference when previously added to the Agreement. If the Agreement does not
+allow for rates to be set forth in a quote, this Quote amends the Agreement to include CenturyLink-approved signed quotes as a
+method to order the Services listed above.
+3. Waived NRCs. Despite anything to the contrary in the Service-specific terms and conditions and for purposes of this Quote
+only, NRCs are NOT waived unless this Quote expressly states NRCs are waived or the NRCs appear in the waived column in the
+above table(s). If a Cancellation Charge requires Customer to pay the amount of any waived or discounted NRC, the NRC will be the
+amount stated in this Quote or shown in the Waived NRC column in the above table(s) despite anything to the contrary in the Existing
+Agreement or Agreement.
+4. MACD. If in this Quote Customer is upgrading, moving, disconnecting or otherwise changing an existing Service, cancellation
+charges may apply as set forth in the Agreement.
+Except to the extent required by an open records act or similar law, Customer agrees not to disclose this Quote or any of its
+contents to any third party.
+Opportunity ID#: 56091266  © CenturyLink. All Rights Reserved.
+CONFIDENTIAL
+CENTURYLINK® TOTAL ADVANTAGE® EXPRESS - AGREEMENT - Summary Page
+This CenturyLink® Total Advantage Express Agreement is between CenturyLink Sales Solutions, Inc. as contracting agent on behalf
+of the applicable CenturyLink company providing the Services under this Agreement (CenturyLink) and DISTRIBUTED COMPUTING,
+INC. (Customer or You). The name of the CenturyLink operating company providing Services to Customer is listed in the service-
+specific terms and conditions. CenturyLink may withdraw this offer if Customer does not execute and deliver the Agreement to
+CenturyLink on or before December 22, 2018 (Cutoff Date"). Using CenturyLink's electronic signature process for the Agreement is
+acceptable.
+1. Services. CenturyLink provides Services under the terms of this CenturyLink Total Advantage Express Agreement and Summary
+Page including (a) the Terms and Conditions following the signature block, as more fully described in Section |. General Terms and
+Conditions of the Detailed Terms and Conditions (DT&C) at: http://www.centurylink.com/leqal/DTC/v85.pdf, (b) the service-specific
+terms and conditions applicable to the Services in Section Il. Additional Service-Specific Terms and Conditions of the DT&C, and (c)
+the supplemental terms and conditions (if any) for which links have been provided below the pricing table(s) in this Agreement or ina
+valid CenturyLink quote that references this Agreement (collectively the Agreement.") Provisions that are applicable to a specific
+CenturyLink company are so indicated. All general provisions are applicable to services provided by the CenturyLink company providing
+the Services under this Agreement. For an interim period of time until all work is completed to update the Service-specific provisions,
+various on-line offer provisions, Tariffs and other terms and conditions incorporated by attachment or reference into this Agreement, all
+references to Qwest Communications Company, LLC mean CenturyLink Communications, LLC f/k/a Qwest Communications Company,
+LLC.
+The following Services are incorporated into the Agreement:
+ween ennn ne nnnnnnneenenennnnnnennnnanenennncennnnnnnnennnnnnnnenennnennenennennnannnnanenennnwennannnnnecnenannnnanenenannnansannnennsnaaaaeaamemnaee sis
+FIBER + INTERNET BUNDLE
+CenturyLink will charge Customer, and Customer will pay, the rates set forth in a signed CenturyLink issued quote for Service, which will
+reference this Agreement. The Initial Service Term is set forth in the quote.
+eaennwnnnnnnwnnnnnnnnn nana nnn nn nnn n nnn nnn nnn nn nn nnn nena nnn n enn c nee e een nn nn nn nnn nn nn nn nen nn nnnnnennnnnnennernenennannnnnnnnnnnnnnnmmnman
+2. Rates
+2.1 Rate Changes. Rates apply only for the above Services and Service Address(es) and will not apply if Customer moves a Service
+Address or changes any of the Bundle or Service Details. The rates for Local Access Service and CPE Purchase may be subject to
+valid quote forms, which control if they conflict with the rates listed on this Summary Page, all of which are subject to change.
+2.2 Additional Charges. Additional charges may apply. Rates and charges for Service elements not identified appear in the applicable
+terms and conditions. Rates do not include foreign, federal, state or local taxes, surcharges, fees, EAS, Zone, CALC, or other similar
+charges.
+3. Term and Termination.
+3.1 Term. This Agreement is effective on the date all parties have signed below (Effective Date) and continues until expiration of all
+Orders placed under this Agreement. Service Terms begin on their Start of Service Date and automatically renew unless terminated by
+either party. The Start of Service Date, renewal periods and renewal period rates are described in the DT&C, Bundle or Package
+Provisions, Service Provisions, or in an applicable Tariff, RSS or ISS.
+3.2 Termination. If Customer gives notice of cancellation or termination, disconnects any portion of a Service or breaches this
+Agreement resulting in the termination of a Service before the end of the applicable Service Term, Cancellation Charges will apply as
+set forth in the applicable terms and conditions.
+4. Amendments. At CenturyLink's sole discretion, the parties may amend the Agreement to add additional CenturyLink services.
+Except as otherwise expressly permitted in the Agreement, amendments must be in writing and signed by both parties authorized
+representatives.
+CUSTOMER: DISTRIBUTED COMPUTING, INC. CENTURYLINK SALES SOLUTIONS, INC.
+uthorized Signature Authorized Signature
+Deanna Kelly
+Name Typed or Printed Name Typed or Printed
+Vice Prestdeat v/s iy
+Title ate Title Date
+Customer's Address for Notices: 1700 UNION AVE, Attn: General Counsel, BALTIMORE, MD 21211;
+Op ID #: 56091266  © CenturyLink. All Rights Reserved.
+Contract Code: 490003 CONFIDENTIAL CGT R.v85.110118
+CENTURYLINK® TOTAL ADVANTAGE® EXPRESS - AGREEMENT — Summary Page
+TERMS AND CONDITIONS
+1. Additional Terms and Conditions. Customer understands that the DT&C and other provisions identified in this Agreement (Other
+Provisions) contain additional important terms and conditions that apply to the Services, including, among other things, confidentiality
+obligations, disclaimer of warranties, indemnification, shortfall charges, minimum-service terms, early termination charges, and jury-trial
+and class-action waiver.
+2. Payment. Customer must pay all charges within 30 days of the invoice date except for CenturyLink QC charges, which Customer must
+pay by the due date on the invoice. Charges not paid by their due date are subject to late payment charge of the lesser of 1.5% per month
+or the maximum rate allowed by law or required by Tariff. In addition to payment of charges for Services, Customer must also pay
+CenturyLink any applicable Taxes (which is defined in the DT&C and may include surcharges, fees, and other similar charges) assessed in
+connection with Services. Customer's payments to CenturyLink must be in the form of electronic funds transfer (via wire transfer or
+ACH), cash payments (via previously-approved CenturyLink processes only), or paper check.
+3. Notices.
+(a) All notices must be in writing. Notices are deemed given if sent to the addressee specified for a party either (i) by registered or
+certified U.S. mail, return receipt requested, postage prepaid, three days after such mailing; or (ii) by national overnight courier service,
+next business day; or (iii) by facsimile when delivered if duplicate notice is also sent by regular U.S. Mail.
+(b) Service Notices. All Customer notices for Service disconnect and termination must be sent via e-mail to: CenturyLink, Attn.:
+BusinessDisconnects@centurylink.com, except that for Services purchased under the CPE Products & Services; Professional Services
+Section of the DT&C Customer notice must be provided to the customer care number specified on Customer's invoice, and must contain
+the account name, account number, identification of the Service(s), and Service address(es). Such disconnect and termination is
+effective 30 days after CenturyLink's receipt of the notice, unless a longer period is otherwise required by Service-specific Terms and
+Conditions below. Customer's notice of non-renewal for Services must be sent via e-mail to: CenturyLink, Attn.: CenturyLink NoRenew,
+e-mail: Norenew@centurylink.com. All Customer notices for other routine operational notices will be provided to its CenturyLink sales
+representative. Failure to provide disconnect, termination and non-renewal notices in accordance with the terms of this Agreement may
+result in continued charges, and CenturyLink will not credit charges for such noncompliance.
+(c) Legal Notice. All legal notices required to be given under the Agreement will be in writing and provided to CenturyLink at: 931 14"
+Str., #900, Denver, CO 80202; Fax: 888-778-0054; Attn.: Legal Dept., and to Customer as provided in the Agreement or in its absence,
+to Customer's address reflected in CenturyLink's records Attn. General Counsel.
+4. Credit Approval. Provision of Services is subject to CenturyLink's credit approval of Customer. As part of the credit approval
+process, CenturyLink may require Customer to provide a deposit or other security. Additionally during the Term, if Customer's financial
+circumstance or payment history becomes reasonably unacceptable to CenturyLink, CenturyLink may require adequate assurance of
+future payment as a condition of continuing CenturyLinks provision of Services. Customer's failure to provide adequate assurances
+required by CenturyLink is a material breach of the Agreement. CenturyLink may provide Customer's payment history or other
+billing/charge information to credit reporting agencies or industry clearinghouses.
+5. Disclaimer of Warranties. EXCEPT AS EXPRESSLY PROVIDED IN THE AGREEMENT, ALL SERVICES AND PRODUCTS ARE
+PROVIDED AS IS. CENTURYLINK DISCLAIMS ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO ALL
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. CENTURYLINK
+MAKES NO WARRANTIES OR REPRESENTATIONS THAT ANY SERVICE WILL BE FREE FROM LOSS OR LIABILITY ARISING
+OUT OF HACKING OR SIMILAR MALICIOUS ACTIVITY, OR ANY ACT OR OMISSION OF THE CUSTOMER.
+6. Limitations of Liability. The remedies and limitations of liability for any claims arising between the parties are set forth below.
+(a) Consequential Damages. NEITHER PARTY OR ITS AFFILIATES, AGENTS, OR CONTRACTORS IS LIABLE FOR ANY
+CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL, OR PUNITIVE DAMAGES OR FOR ANY LOST PROFITS, LOST
+REVENUES, LOST DATA, LOST BUSINESS OPPORTUNITY, OR COSTS OF COVER. THESE LIMITATIONS APPLY REGARDLESS
+OF THE LEGAL THEORY UNDER WHICH SUCH LIABILITY IS ASSERTED AND REGARDLESS OF FORESEEABILITY.
+(b) Claims Related to Services. For Customer's claims related to Service deficiencies or interruptions, Customer's exclusive remedies
+are limited to: (a) those remedies set forth in the SLA for the affected Service or (b) the total MRCs or usage charges paid by Customer
+for the affected Service in the one month immediately preceding the event giving rise to the claim if an SLA does not apply.
+(c) Personal Injury; Death; Property Damages. For claims arising out of personal injury or death to a party's employee, or damage to
+a party's real or personal property, that are caused by the other party's negligence or willful misconduct in the performance of the
+Agreement, each party's liability is limited to proven direct damages.
+(d) Other Direct Damages. For all other claims arising out of the Agreement, each party's maximum liability will not exceed in the
+aggregate the total MRCs and usage charges paid by Customer to CenturyLink under the Agreement in the three months immediately
+preceding the event giving rise to the claim ("Damage Cap). The Damage Cap will not apply to a party's indemnification obligations or
+Customer's payment obligations under the Agreement.
+7. Entire Agreement. This Agreement, including DT&C, Other Provisions, and any CenturyLink-accepted Order Forms constitute the
+entire agreement between the parties. This Agreement supersedes all prior oral or written agreements or understandings relating to the
+same service, ports, or circuits at the same locations as covered under this Agreement. Capitalized terms are defined in the DT&C and
+Other Provisions.
+8. Purchase Orders. This Agreement controls over any Customer-issued purchase order, and any terms or conditions contained in a
+Customer-issued purchase order or other Customer ordering document will have no force or effect.
+9. Uniform Resource Locators (URLS). References to URLs in this Agreement include any successor URLs designated by
+CenturyLink.
+Op ID #: 56091266  © CenturyLink. All Rights Reserved.
+Contract Code: 490003 CONFIDENTIAL CGT R.v85.110118
+AID J
+= + CenturyLink~
+Channel Alliance
+Letter of Agency
+Date: 11/8/2018
+To: CenturyLink
+From: SSH Tallahassee FL 507150
+1554 Surgeons Drive
+Tallahassee, FL 32308
+Sub-Agent of:
+Telarus LLC
+45 W Sego Lily Dr, Suite 220
+Sandy, UT 84070
+This Letter of Agency (LOA) hereby authorizes SSH Tallahassee FL 507150 and Telarus LLC to
+act as our agent for the purpose of ordering, coordinating, discussing and arranging communications
+services at the location indicated below and specifically authorizes release of all customer records to
+SSH Tallahassee FL 507150 and Telarus LLC, including but not limited to billing records, services
+records, and network and equipment records. We accept full responsibility for all authorized orders
+placed by our authorized agent with CenturyLink on our behalf.
+This LOA will become effective on 11/8/2018 and will remain in effect for: (check one of the following):
+a period of one year unless revoked in writing prior to that date
+indefinitely, until revoked in writing
+This LOA does not preclude our ability to act in our own behalf when we deem it necessary. Any
+0 ay be directed to Zane Gee at 410-464-8928.
+PPP
+Customer Signature
+Deanna Kel
+VP, DCr toa.
+SSH Tallahassee FL 507150
+Tallahassee, FL 32308
+Member (indicated above) and Centu
+Link agre! i i
+our joint Customer (indicated above), ry! gree to protect Customer Proprietary Network Information (CPNI) on behalf of

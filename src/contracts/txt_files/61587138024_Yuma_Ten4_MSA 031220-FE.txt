@@ -1,0 +1,113 @@
+TENA
+This Master Services Agreement is between Distributed Computing, Inc. dba Ten4 (Ten), with headquarters located at 1700
+Union Avenue, Suite B. Batmore, MD 21211, and Yuma Center (Customer), with headquarters located at 4101 Yuna Street Nw,
+Washington, DC 20016, and is eMactive as of the last dale signed below ("EMective Date")
+MASTER SERVICES AGREEMENT
+1. Term of Agreement
+This Master Services Agreement wil have a term of five (5) years (MSA Term") Any and all Sennice Order Forms (SOF*) that are
+separately executed by Customer wil have their own Service Term, which will Penain to that partcular Service being purchased. If
+any Service Term exiends beyond the MSA Term, this MSA will continue to apply to such Servica Order for that Service Term.
+2. Services
+Ten 4 wil provide to Customer the Services specified in each Addendum and SOF (Services), which documents shall be
+incorporated herein and shail consstute a part of this Agreement Tend's provision of Services is in all cases subject to Tend's
+Acceptable Use Policy ("AUP"), which is located at www tend us/acceptableusepolicy and as tkewtsa incorporated herein and
+Conshtutes @ Dart of this Agreement.
+Each SOF will specify the Service Charges, Service Term, Service Location and other information reasonably required by Ten4 to
+Provide the Services.
+3. Charges and Payments
+Charges are specific to the Service being purchased. Customer will pay all Charges as set forth in the SOF for that Service and
+shall pay according to the terms and conditions set forth in the Addendum for that Servce,
+4 Access
+Customer agrees to provide Tend reasonable access to Customer's vorcaldata network, in order that Services may be performed as
+set forth in tne SOF. In the ever that said access is rot provided as requested, Customer is aware that delivery and eMectiveness ot
+Services may be jeopardized and that addtional charges may be incurred.
+The Services are for Customer's use only and Customer may not resell the Services to any other party
+6. Warranty Exclusion
+Except as expressly stated in thes Agreement, Ter makes no warrantes or representations, express cr implied, either in tact or by
+operation of law, and specifically disclaims any warranties of merchantability or ftness for a particular purpose, applicable to the
+Services.
+7. Limitation of Liability
+NEITHER PARTY WILL BE LIABLE TO THE OTHER FOR ANY SPECIAL, PUNITIVE. INDIRECT, INCIDENTAL.
+CONSEQUENTIAL OR EXEMPLARY LOSSES OR DAMAGES INCLUOING, BUT NOT LIMITED TO, LOSS OF BUSINESS, LOSS
+OF USE, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF CLIENTS, LOSS OF GOODWILL OR COST OF REPLACEMENT
+FACILITIES OR SERVICES, ARISING IN ANY MANNER FROM THIS AGREEMENT ANOIOR THE PERFORMANCE OR
+NONPERFORMANCE OF OBLIGATIONS HEREUNDER.
+Customer has no contractual relationship with any Undertying Service Providers trough this Agreement and Customer is nota
+third-party beneficiary of any Agreement between Tend and an Underlying Sernice Provider. Customer understands and agrees that
+Undertying Sernce Providers will nat have any hind of liabtity to customer, regardiess of the form of action, including but not limited
+ta failure oF disruption of service
+Adcitonally, in no event will Ten4s liability under this Agreement or otherwise ansing out of Ten4's provision of Services hereunder
+exceed an amount equal to the previous ninety (90) cays charges for the services to which the liabéity relates,
+The foregoing paragraphs cf this Secton 7 will also apply to all Underiying Service Providers with respect to the Services.
+8. Indernification
+Each party will defend and indemrsty the other party and the Underlying Service Providers. and each of ter respective officers,
+employees, and agents, aganst any Sabdiltes and reasonably related costs {inctucing legal fees) incurred in connection with any
+third party clams for property damage, personal injury of death arising from of in connection with this Agreement to the extent vaid
+laims arse from the party's gross negligence ce willful misconduct. This indemnity shall survive the termination of this Agreement.
+ia. 8 8 ¢ Bolt more, MD 21211 ¢ 310-463.8500 « w.tend
+Additionally, Customer will defend and indemnity Tent and the Underlying Service Providers, and each of their respectve oficers,
+employees, and agents, against any Sabilities ang reasonably related costs (including legal fees) incurred in connection wit any claim
+by an end user of the Services, it being understood that Customer, and fal Tend, is fully responsible for any such claims.
+9. Default
+A party is in detaut of this Agreement if it breaches this Agreement or any SOF and fails to cure such beeach within thirty (30) days of
+the other party's notice reasonably spectying the breach. Upon cefault, the non-defaulting party may terminate this Agreement and/or
+an afectes SOF by wrtten notice
+if Customer is in detautt of this Agreement. all Charges accrued under any SOFs wil be dus and payable ang Tens may, in addibon
+{9 ab other available remedies, disconnect Customers Services specific to that.
+Tend is in default of this Agreement, only the Charges accrued as of the date of detaut wil be due and payable to Tent,
+10. Termination
+Inno event shall Customer be entitled to any refund of already paid Service Charges if thes Agreement or any SOF is terminated.
+except for a termination based on Ten's cafault, as defined in Section 9 herein.
+' Customer terminates a Service (other than fot Ten4s detault) prior to the expiration of the Service Term, Customer wil pay the Earty
+Termnaton Fee ("ETF") set forth in the applicable SOF The parties acknowledge that tha ETF is @ genuine estimate of the actual
+damages to Tend for Customer's early termination of @ Service and is not a penaty,
+11, Confidentiality
+the partes entered into a confidentiality or non-Gaciosure agreement in anticipation of this Agreement. such agreement is
+incorporated herein and shall apply instead of this Section Otherwise, the parties acknowledge that thay have or will exchange
+cenain confidential informaton expressly Gesignated of which should reasonably be known as confidential
+information) and each party agrees that neither party will (a) use the other party's Conficential Informaton except tor the purpase|s)
+for which @ is disclosed or (b) dasclose the cther party's Confidential Information to any third party excest (i) under an identcal
+Confientialty restriction ta the recerving party's employees of contractors who have @ need to know Confidential Information in
+Connection with the purposes for which it is disclosed oF [i) when competed by @ court or other government agency (with as much
+advance notice ta the disclosing party as reasonably possible).
+Tend acknowledges that it may receive certain of Customer's Information that constitutes customer proprietary network information
+© customer proprietary information under applicable law. and Ten4 agrees that 4 wil hold all such information in complance with
+applicable law
+12. Other Terms
+Force Majeure
+Nother party shal be responsible for any loss, harm, damage, or failure to comply with any obligation hereunder resulting from
+arcumsiances beyond its reasonable control (commonly referred to as force majeure events) including, but not listed to fire, flood.
+Ten4 may subcontract work to be performed under this Agreement 0.4 shall retain responsibility for the work.
+Assicnmert
+Neither party may assign its rights and obigations under this Agreement, any SOF, whether by operation of law or otherwise.
+without the prior written consent of the otter party, not to be urreasonably withheld,
+Publicity
+Without the prior written consent cf tha othr Party, neither Party wil (i) publicly use te name, logo ce other Mentfying marks of the
+other Party, of (li) issue of permit the issuance of any press release ce other public statement regarding this Agreemert ce the
+Partas' relationsrip.
+Confit Between Agreoments
+In the event of any confict between tis Agreement and a SOF, this Agreement wil control, except to the exlent that the SOF
+speciically references the secton/pravision of this Agreement that it is modifying of superseding
+Governing Law
+This Agreement and the rights of the parties nereunder shal be governed by and construed in accordance with the laws of the State
+Of Delaware, exciusive of conflict or choice of law rules
+Notification
+Any notees, requests, consents and other comyrunication under this Contract shail ba in writing and shall be deemed to have been
+Gelivered OF the date (a) personaly delivered, {) mailed, postage prepaid, by certified mail with return fecept requested, of (c)
+faxed and confirmed, All communicatons under this section shall be addressed to the respective parties hereto as follows:
+a,
+If to Custorner SS ee eee eee ita Ten4: Tent
+1700 Union Avenue. Sute
+Baltimore, MD 21211
+Attn: Legal Dept,
+Entire Agreement
+This Agreement constitutes tha entre agreement between the parties and supersedes al prior er contemporaneous oral and written
+agreements, Commitments, Of understandings with respect to the matiers provided for herein, TNs Agreement may not be modified
+except by a writing signed by both partes, i He event that any of the provisions of this Agreement are held to be invalid or
+Cmission of any cf the provisions cf thes Agreement by the other party will not be construed as a waiver of any subsequent breach of
+the Sarre of other provisions.
+Acceptance
+Ten4 and Customer have caused this Agreement to be executed below by ther duly authonzed signatories.
+Customer: Yuma Center Distributed Computing, Inc. dba Ten4
+By. By. = Deanna Keay
+Load feecvive. Arecte— Date: pecpe "

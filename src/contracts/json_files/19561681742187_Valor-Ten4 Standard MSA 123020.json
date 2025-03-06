@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Master Services Agreement",
+  "Agreement Classification": "Master Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "Provider",
+  "Party2 Name": "Valor Healthcare, Inc.",
+  "Party2 Role": "Customer",
+  "Effective Date": "12/31/2020",
+  "Signature Date": "12/31/2020",
+  "Term": "twelve (12) months",
+  "Renewal Term": "Not specified",
+  "Recurring Monthly Charges": "Not specified",
+  "Nonrecurring Charges": "Not specified",
+  "Services": "Services specified in each Addendum and SOF",
+  "Locations": "Not specified",
+  "Payment Terms": "Customer will pay all Charges as set forth in the SOF for that Service",
+  "effective_date": "12/31/2020",
+  "signature_date": "12/31/2020"
+}

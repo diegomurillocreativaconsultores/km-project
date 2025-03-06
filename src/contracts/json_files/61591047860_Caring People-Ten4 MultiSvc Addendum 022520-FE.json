@@ -1,0 +1,27 @@
+{
+  "Agreement Name": "Addendum to Master Services Agreement",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "Caring People Alliance",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified.",
+  "Signature Date": "February 27, 2020",
+  "Term": "thirty-six (36) months",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": {
+    "MRC-1": "$8,833.00",
+    "MRC-2": "$42.50",
+    "Estimated POTS Connectivity": "$910.15"
+  },
+  "Nonrecurring Charges": "$2,500.00",
+  "Services": [
+    "Hosted Voice Solutions",
+    "Connectivity Billing Aggregation Services"
+  ],
+  "Locations": "Not specified.",
+  "Payment Terms": "Monthly in advance, due on the first day of each month; invoices due net thirty (30) days from the date of the invoice.",
+  "effective_date": "02/27/2020",
+  "signature_date": "Not specified"
+}

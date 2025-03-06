@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Master Service Agreement",
+  "Agreement Classification": "Master Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Arelion U.S. Inc.",
+  "Party1 Role": "provider",
+  "Party2 Name": "Free Range internet LLC",
+  "Party2 Role": "customer",
+  "Effective Date": "Nov 21, 2023",
+  "Signature Date": "Not specified",
+  "Term": "Not specified",
+  "Renewal Term": "Not specified",
+  "Recurring Monthly Charges": "Not specified",
+  "Nonrecurring Charges": "Not specified",
+  "Services": "Covered services/products",
+  "Locations": "service locations",
+  "Payment Terms": "Customer shall pay Arelion all recurring and non-recurring charges for Service, plus all applicable Taxes. Payments due under this Agreement shall be made by wire transfer or ACH in immediately available funds.",
+  "effective_date": "11/21/2023",
+  "signature_date": "11/21/2023"
+}

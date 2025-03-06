@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Addendum to Master Services Agreement",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "Provider",
+  "Party2 Name": "Dovell & Williams",
+  "Party2 Role": "Customer",
+  "Effective Date": "Not specified.",
+  "Signature Date": "3/6/2020",
+  "Term": "Not specified.",
+  "Renewal Term": "Auto Renewal on a month-to-month basis",
+  "Recurring Monthly Charges": "Not specified.",
+  "Nonrecurring Charges": "Not specified.",
+  "Services": "Hosted voice services, SIP Trunk Bundling, Hosted Fax, Additional DIDs and setup, Remote setup and configuration of Edgemarc device, Hosted Phones, Access to account information via Ten4 Portal",
+  "Locations": "8016 Reichs Ford Road, Frederick, MD 21704",
+  "Payment Terms": "All bills are due within thirty (30) days upon receipt of Ten4 invoice.",
+  "effective_date": "03/03/2020",
+  "signature_date": "04/17/2020"
+}

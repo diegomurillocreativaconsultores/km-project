@@ -1,0 +1,157 @@
+Customer Name: Distributed Computing Inc  
+Order  #: Q-01015732  
+Order Generation Date: 6/18/2020 9:52:12 AM  
+Cutoff /Expiration  Date:  8/2/2020  
+Currency: USD  
+Opportunity ID#: 57328698  
+CONFIDENTIAL  © CenturyLink.  All Rights Reserved . 
+OFC  
+Customer Information  Account Information  Prepared By  
+Name:  Distributed Computing Inc  
+Primary Contact:   
+Primary Contact  Phone :  
+Primary Contact  Email :  
+Billing Contact:  
+Billing Contact Phone:   
+Billing Contact Email:   BPID: 2997054   
+Billing Account:   
+Billing Address:  1700 Union Ave., Suite B   
+                            Baltimore , MD 
+                            21211  
+Contract ID#: 1198451   
+(Internal Use Only)  Name:  Frank McClure  
+Phone:  8012925700  
+Email:  frank@carriersvcs.com  
+Sales Rep: MORFORD, RUTH  
+Order  
+ Pricing Table  
+Product  Qty Service Address  Service Details  Service Attributes  Term 
+(Months)  MRC  NRC  Waived NRC  
+ IQ Data Bundle  1 200 E LAUREL AVE 
+FOLEY AL 36535  IQ Networking Port 
+- Internet  Adtran NV5660 Copper  
+Pro 
+8x5 NBD  
+GIG E  
+100M  
+100 Mbps  
+Flat 36 
+Months  $420.00  $0.00   
+ Local Access  1 200 E LAUREL AVE 
+FOLEY AL 36535  ELA Native Single -
+CoS Low  CenturyLink (CLPA)  
+GIG E  
+100M  36 
+Months  $550.00  $500.00  $500.00  
+     Service Sub Total:  $970.00  $0.00   
+"Terms and Conditions for CenturyLink IQ Data Bundle Offer"  
+CenturyLink provides CenturyLink IQ Data Bundle services under: (a) the Data Bundle Offer Attachment ("Attachment") and (b) t he 
+CenturyLink IQ Networking, Local Access and  Rental CPE Service Exhibits.  
+CenturyLink IQ Data Bundle is a bundle composed of the following services: (a) CenturyLink IQ Networking (b) Local Access and  (c) 
+Rental CPE. The bundle type appears in the first "IQ Data Bundle" row under the "Service Attrib utes" column. The details for 
+CenturyLink IQ Networking appear in the first "IQ Data Bundle" row under the "Service Details" column (port type) and under t he 
+"Service Attributes" column (port bandwidth) of the above table. The details for Rental CPE (CPE t ype and maintenance type) appear in 
+the first "IQ Data Bundle" row under the "Service Attributes" column of the above table.  The charges for Local Access are NO T 
+included in the IQ Data Bundle Monthly Recurring Charge (MRC).  The Local Access charges are listed as a separate line item in the 
+Pricing Table.  
+If Customer orders Diversity Enhancement or Diversity Backhaul, the Domestic Network Diversity Service Exhibit applies.  A co py of the 
+Domestic Network Diversity Service Exhibit is available upon reques t. 
+If Customer orders Building Extension Service, the Building Extension Service Service Schedule applies.  A copy of the Buildi ng 
+Extension Service Service Schedule is available upon request.  
+a 
+Service(s) Total  for Services priced in this Order  
+  Monthly Recurring 
+Charges ( $) Non-Recurring 
+Charges ( $) 
+Total  $ 970.00  $ 0.00 
+ Customer Name: Distributed Computing Inc  
+Order  #: Q-01015732  
+Order Generation Date: 6/18/2020 9:52:12 AM  
+Cutoff /Expiration  Date:  8/2/2020  
+Currency: USD  
+Opportunity ID#: 57328698  
+CONFIDENTIAL  © CenturyLink.  All Rights Reserved . 
+OFC  
+Terms and Conditions Governing This Order  
+1. This confidential Order may not be disclosed to third parties and is non -binding until accepted by CenturyLink (CenturyLink), as set 
+forth in section 4. Customer places this Order by signing (including electronically or digitally) or otherwise acknowledging (in a manner 
+acceptable to CenturyLink) this document an d returning it to CenturyLink.    
+2. Prior to insta llation, CenturyLink may notify Customer in writing (including by e -mail) of price increases due to off -net vendors. 
+Customer has 2 business days following notice to terminate this Order without liability; or otherwise, Customer is deemed to accept the 
+increase.    
+3. If a generic demarcation point (such as a street address) is provided, the demarcation point for on -net services will be CenturyLinks 
+Minimum Point of Entry (MPOE) at such location (as determined by CenturyLink).  Off -net demarcation points will be the off -net 
+vendor's MPOE.  If this Order identifies aspects of services that are procured by Customer directly from third parties, Centu ryLink is not 
+liable for such services.  
+4.  The Service identified in this Order is subject to the CenturyLink  Master Service Agreement(s) and applicable Service Schedule(s) or 
+Service Exhibit(s) between CenturyLink Communications, LLC and Customer (or its affiliate if expressly provided for under suc h affiliate 
+Master Service Agreement). If Customer has not execu ted a CenturyLink Master Services Agreement with CenturyLink 
+Communications, LLC but has executed a services agreement for applicable services with an affiliate of CenturyLink ("Affiliat e 
+Agreement"), then the terms of the most recent Affiliate Agreement w ill apply to the Service (to the extent not inconsistent with this 
+Order); in such cases, the current standard Service Schedule applicable to the Services will apply. If CenturyLink and Custom er have 
+not executed a CenturyLink Master Service Agreement and/ or applicable Service Schedule(s) governing the Service and have not 
+executed an Affiliate Agreement, CenturyLink's current standard Master Service Agreement/Service Schedule(s) as of the date o f this 
+Order will govern, copies which are available upon requ est. The CenturyLink invoicing entity is the entity providing Services . 
+Notwithstanding anything in any Affiliate Agreement to the contrary, CenturyLink will notify Customer of acceptance of requested 
+Service in this Order by delivering (in writing or ele ctronically) the date by which CenturyLink will install Service (the Customer 
+Commit Date), by delivering the Service, or by the manner described in a Service Schedule.  CenturyLink will deliver a written or 
+electronic notice that the Service is installe d (a Connection Notice), at which time billing will commence. Unless otherwise provided in 
+a Service Attachment, at the expiration of the Service Term, Service will continue month -to-month, and rates are subject to change 
+upon 30 days notice from Centur yLink.  If the Affiliate Agreement governs and does not include early termination charges and if 
+Customer cancels or terminates Service for any reason other than CenturyLinks uncured default or if CenturyLink terminates d ue to 
+Customers uncured default, then Customer will pay CenturyLinks standard early termination liability charges as identified in the 
+CenturyLink Master Service Agreement, Affiliate Agreement, Service Exhibit or Service Schedule. Affiliate Agreement for Cen turyLink 
+Communications, LLC  or any companies that were affiliates of CenturyLink Communications, LLC before the merger between 
+CenturyLink and Level 3 Communications (Merger) means only an applicable Interexchange Carrier (IXC) network agreement, e.g . 
+CenturyLink Total Advantage A greement, CenturyLink Total Advantage Express Agreement, or CenturyLink Wholesale Services 
+Agreement, for non -government customers (each, a CenturyLink Affiliate Agreement). Affiliate Agreement also includes an Agreement 
+between Customer and any entity tha t was an affiliate of Level 3 Communications before the Merger .  
+5. Neither party will be liable for any damages for lost profits, lost revenues, loss of goodwill, loss of anticipated saving s, loss of data or 
+cost of purchasing replacement service, or an y indirect, incidental, special, consequential, exemplary or punitive damages arising out of 
+the performance or failure to perform under this Order.  Customer's sole remedies for any nonperformance, outages, failures t o deliver 
+or defects in Service are co ntained in the service levels applicable to the affected Service.  
+6. All transport services ordered from CenturyLink will be treated as interstate for regulatory purposes.  Customer may certi fy transport 
+service as being intrastate (for regulatory purpose s only) in a format as required by CenturyLink, but only where the transport services 
+are sold on a stand -alone basis, the end points for the service are located in the same state and neither end point is a CenturyLink 
+provided IP port ("Intrastate Service s"). Where Customer requests that services be designated as Intrastate Services, Customer 
+certifies to CenturyLink that not more than 10% of Customer's traffic utilizing the Intrastate Services will be originated or  terminated 
+outside of the state in which  the Intrastate Services are provided. Such election will apply prospectively only and will apply to all 
+Intrastate Services stated in this Order.  
+7. Charges for certain Services are subject to (a) a per month property tax surcharge and (b) a per month cost recovery fee to 
+reimburse CenturyLink for various governmental taxes and surcharges. Such charges are subject to change by CenturyLink and wi ll be 
+applied regardless of whether Customer has delivered a valid tax exemption certificate. For additional details on taxes and su rcharges 
+that are assessed, visit http://www.centurylink.com/taxes  or the RSS, if in dicated by the applicable Service Schedule(s) or Service 
+Exhibit(s) . 
+8. Customer will pay CenturyLink's standard: (a) expedite charges (added to the NRC) if Customer requests a delivery date ins ide 
+CenturyLink's standard interval duration (available upon request and (b) ancillary charges for additional activities, features or options.  If 
+CenturyLink cannot complete installation due to Customer delay or inaction, CenturyLink may begin charging Customer and Custo mer 
+will pay such charges.  
+ Customer Name: Distributed Computing Inc  
+Order  #: Q-01015732  
+Order Generation Date: 6/18/2020 9:52:12 AM  
+Cutoff /Expiration  Date:  8/2/2020  
+Currency: USD  
+Opportunity ID#: 57328698  
+CONFIDENTIAL  © CenturyLink.  All Rights Reserved . 
+OFC  
+9. Charges/Orders.  CenturyLink will charge Customer the rates for the Services shown above. If Customer changes any of the 
+Bundle/Package or Service Details or moves a Service Address, these rates will not apply. Rates and charges for Service eleme nts not 
+identified appear in the applicable terms and conditions. Existing services, bundles, offers, or packages will continue to be go verned by 
+the terms and conditions incorporated by attachment or reference when previously added to the Agreement. If the Agreement  does not 
+allow for rates to be set forth in a quote, this Order amends the Agreement to include CenturyLink -approved signed quotes as a method 
+to order the Services listed above. Despite anything to the contrary in the Service -specific terms and condition s and for purposes of this 
+Order only, NRCs are NOT waived unless this Order expressly states NRCs are waived or the NRCs appear in the waived column in  
+the above table(s). If a Cancellation Charge requires Customer to pay the amount of any waived or disco unted NRC, the NRC will be 
+the amount stated in this Order or shown in the Waived NRC column in the above table(s) despite anything to the contrary in  the 
+Existing Agreement or Agreement. If in this Order Customer is upgrading, moving, disconnecting or o therwise changing an existing 
+Service, cancellation charges may apply as set forth in the Agreement . 
+Customer:   Distributed Computing Inc  
+\ 
+{{Sig1a_es_:signer1:signature                                              }}  
+Authorized Signature  
+{{Fname1a_es_:signer1:fullname                                          }}  
+Name Typed or Printed  
+{{*Title_es_:signer1                                                           }}  
+Title  
+{{Dte_es_:signer1:date}}  
+Date

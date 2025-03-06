@@ -1,0 +1,586 @@
+Version 6.3        
+Subscriber  Agreement  
+This Subscrib er Agreement , which includes  the attached Terms and Conditions , the policies identified in this Subscriber Agreement 
+that are identified as being part of , or incorporated into,  this Agreement , and the terms of the particular Service plan you selected  
+(collectively, the  Agreement ), describes the terms and conditions between the Subscriber set forth on the signature page below 
+(you or  Subscriber ) and Viasat , Inc. (Viasat , Us or We) applicable to  Viasat s two-way, satellite based  Internet access 
+service (the  Internet Service ). Please note that if you receive your bill for the Internet Service from a third party , the terms of any 
+customer agreement between you and that third party will govern your relationship with that third party (and those terms may be 
+different than the terms of this Agreement ). Please read this Agreement  carefully since it sets forth important rights and obli gations 
+that you have governing the Internet Service  as well as important limitations on those rights.  If you would like to contact us, you may 
+call 855-313-4111  or write to:  
+Viasat , Inc.  
+P.O. Box 4427  
+Englewood, CO  80155  
+Attention: Customer Care  
+A. Monthly Fee, You will pay the monthly fee applicable to your Internet Service plan (the  Monthly Fee ) for the Internet Service . 
+B. Minimum Service Commitment  and Early Termination Fee . Our Internet Service  plans  require you to commit to a 24 -month 
+minimum service term ( Minimum Service Term ), unless a different term is expressly provided in the written terms of the Internet 
+Service plan you select . If you upgrade from an Internet Service plan and the upgraded plan requires : (i) the use of upgraded 
+Equipment (as de fined below) , or (ii) a service call to the Subscriber Premises (as defined below) , then you must  commit to a new 24 -
+month Minimum Service Term beginning on the date we activate your new plan . If you terminate Internet Service  with us  prior to the 
+expirati on of the then-applicable Minimum Service Term, you will owe (and your credit card, debit card, or bank account will 
+promp tly be charged) the Termination Fee (as defined below ). The  Termination Fee  means an amount equal to the number of 
+unpaid months left in your Minimum Service Term multiplied by $15.00.  For example, if you terminate Internet Service with 12 
+unpaid months remaining on your Minimum Service Term, the Internet Service Termination Fee would equal $180.00.  
+C. Term and Renewal . The term of this Agreement commences on the date we activate your Internet Service and continues for the 
+duration of the Minimum Service Term unless terminated earlier by you or Viasat . After the Minimum Service Term expires, the term 
+of this Agreement wil l automatically renew on a month -to-month basis, unless you have agreed to a new Minimum Service Term 
+under another Internet Service plan offered by Viasat .  
+D. Leased Equipment  and Installation . You must lease and install certain  equipment directly or indirectly provided by us to 
+receive the Internet  Service . The equipment consists of a modem, a receiver , and ancillary customary mounting and installation 
+materials  (collectively, and as may be replaced from time to time, the Leased Equipment ). The fee for the Leased Equipment (the 
+Monthly Lease Fee) is set forth in your Internet Service plan, and, for some plans, may be included in the Monthly Fee.  Applicable 
+taxes, surcharges , and fees will apply  to the Monthly Lease Fee . You agree to use only a Viasat  authorized installer  (a Designated 
+Service Provider ) to install the Leased Equipment on your premises  (the  Subscriber Premises ). You will provide us with such 
+location information (e.g., address, telephone number) that w e may request of each Subscriber Premises subject to this Agreement. We 
+will charge  our standard one -time installation fee for a standard installation. Non -standard installations will be subject to additional 
+charges above our standard installation fee. We  will communicate to you the amount of the installation fee prior to installation.  You 
+agree to pay the installation fee on or prior to the date of installation . 
+E.  Data Usage Limits for Internet Service Plans . Many of our Internet Service plans are  subject to data usage limits . We detail 
+the data usage limits and how we calculate data usage in our Viasat Data Allowance Policy  – Business Plans (the  Data Allowance 
+Policy ). The Data Allowance Policy is part of this Agreement. If you exceed your data usage limit and (i) you subscribe to a plan 
+other than any Business unlimited data plan or the Business 30 Internet Service plan , we will charge you for such additional usage at 
+the additional usage rate identified for your Internet Service plan as set for th in Table 1 below, or (ii) you subscribe to the Business 30 
+Internet Service plan, we will significantly slow and/or restrict your Internet Service, or certain uses of your Internet Ser vice, for the 
+remainder of the applicable time period . Our current Internet Service plan menu , the data allowance limit , the additional usage rates  
+and data usage threshold  for each plan are set forth in Table 1 and Table 2 below . Please note that not all Internet Service plans are 
+available in all areas.  
+Version 6.3       Table 1 - Viasat Business Metered  Service Plans  
+Business Metered Plans  Data Allowance  (GB)  
+(Combined Upload and Download ) 
+Measured over a Fixed Monthly 
+Period  Additional Usage Rate  
+Redundancy  1 $15.00 per GB  
+Business Metered 1 GB  1 $10.00 per GB  
+Business Metered 10 GB  10 $10.00 per GB  
+Business Metered 10 GB (12 Mbps)  10 $12.00 per GB  
+Business 20  20 $10.00 per GB  
+Business Metered 20 GB  20 $6.00 per GB  
+Business 30  8:00 a.m. to  
+ 3:00 a.m.  3:00 a.m. to  
+8:00 a.m.  N/A 
+30 At least 30*   
+Business 50 50 $10.00 per GB  
+Business Metered 50 GB  50 $3.00 per GB  
+Business Metered 50 GB (12 Mbps)  50 $4.00 per GB  
+Business 100  100 $10.00 per GB  
+Business 200  200 $10.00 per GB  
+Business Metered 200 GB  200 $2.00 per GB  
+*Viasat does not currently enforce a data allowance during the period from 3:00 a.m. to 8:00 a.m., but reserves the right to do so in the future 
+in its sole discretion.  
+Table 2 - Viasat Business Unlimited Data Service Plans  
+Business Unlimited Data Plans  Data Allowance   Data Usage Threshold  *** 
+(Combined Upload and 
+Download ) Measured over 
+a Fixed Monthly Period  
+Business Unlimited Data**  Unlimited   300 GB  
+Business Unlimited 12  Unlimited  75 GB  
+Business Unlimited 15 Enhanced  Unlimited  300 GB  
+Business Unlimited 35  Unlimited   75 GB  
+Business Unlimited 60  Unlimited  150 GB  
+Business Unlimited 100  Unlimited  200 GB  
+** For the Business Unlimited Data plan, Viasat  expressly reserves the right in the future  and in its sole discretion  to prioritize your data behind 
+other customers during network co ngestion after  300 GB of data usage during your monthly measurement period , whic h will result in slower 
+speeds . 
+***Viasats Business unlimited data plans do not have a monthly data allowance.  The amount of data you use will not affect your service 
+speeds, unless the network is congested. After you exceed the data usage threshold for your service plan listed in the applic able chart above 
+during your monthly measurement period, Viasat may priori tize your data behind other customers during network congestion, which will result 
+in slower speeds. All uploaded and downloaded data transmitted using your Viasat service starting on the first day of your monthly 
+measurement period will count towards your  monthly data usage threshold. At the end of your monthly measurement period, your data usage 
+resets to zero.  
+**** For the Business Unlimited Data plan, Viasat expressly reserves the right in the future and in its sole discretion  to limit the quality of video streams 
+above high definition -type quality to high definition -type quality, which is typically up to 1080p.  
+ Business Unlimited Data Plans Video Streaming Quality  
+Business Unlimited Data   Full High -definition quality (typically up to 1080p) **** 
+Business Unlimited 12  DVD quality (typically up to 480p)  
+Business Unlimited 15 Enhanced  Full High -definition quality (typically up to 1080p)  
+Business Unlimited 35   DVD quality (typically up to 480p)  
+Business Unlimited 60  DVD quality (typically up to 48 0p) 
+Business Unlimited 100  High -definition quality (typically up to 720p ) 
+Version 6.3       Video Data Extender  
+The Business Metered 1 GB, 10 GB, 10 GB (12Mbps), 20 GB, 50 GB, 50 GB (12 Mbps) and 200 GB plans have the Video Data Extender.  
+The Video Data Extender is a feature that streams video at DVD quality (optimized for 480p), which  allows you to get more out of your 
+monthly data allowance or other data threshold.  Not all video sources are iden tifiable and available to benefit from the Video Data 
+Extender.  For plans purchase d on or after December 7, 2018, the feature is turned on by default.  For plans purchased prior to December 
+7, 2018, t he feature is turned off by default.  You can turn the Video Data Extender off or on at any time by  contacting Viasat at 855-313-
+4111 . 
+F. Return of Equipment . If you fail to return the Leased Equipment within 30 days of termination of this Agreement for any 
+reason , we will charge you the Unreturned Equipment Fee as set forth in Section 2.4 below. Viasat is not obligated to de-install the 
+Equipment, but may do so for a fee.  
+G. Subscriber Representations and Warranties . Subscriber represents and warrants that (i) to the extent Subscriber is an entity, it 
+is duly organized, validly existing, and in good standing under the laws of the State of formation set forth on the signature block 
+below, and (ii) the execution of this Agreement by the individual whose signature is set forth on the signature block for it below, and 
+the delivery of this Agreement by Subscriber, have been duly authorized by all necessary corporate action on the part of Subscriber. 
+The individual executing this Agreement represents and warrants that he or she is at least 18 years old (or at least the age of majority 
+where applicable state law is greater than 18). 
+You acknowledge that you have received, read, understand, and agree to be bound by all of the terms and conditions set forth 
+in this Agreement, including the following policies, which can be found at www.Viasat.com/legal :(1) Data Allowance Policy, (2) 
+Acceptable Use Policy, (3) Subscriber Privacy Policy, and (4) Network Management Policy.  
+If you did not receive Sections 1 through 8 of the Terms and Conditions of this Agreement, DO NOT SIGN THIS AGREEMENT. 
+SUBSCRIBER  
+Legal Business Name   
+Signature: ______________________________________  
+Name:   
+Title: __________________________________________  
+Subscriber State of Formation:   VIASAT, INC.  
+Signature: /s/ Cody Catalena  
+Name: Cody Catalena  
+Title: President , Global Business Solutions  
+Joe Becker
+Director of Operations
+Storage at NOBT
+Florida
+Version 6.3       Terms and Conditions  
+1. The Internet Service . 
+1.1 Limitations  of the Internet Service . Subject to certain exceptions, t he Internet  Service is available at locations 
+within the United States  with an unobstructed view of the southern sky . Your usage  of the Internet Service  is subject to the Acceptable 
+Use Policy, whic h forms part of this Agreement . Your Internet Service plan sets forth certain up to upload and download speeds. 
+The upload and download speeds you will experience using your Internet Service will vary significantly depending on  a number of 
+factors, inclu ding network or Internet traffic and congestion, the configuration of the device accessing the Internet, the speed of the 
+websites you are visiting, the number of concurrent users, and whether you are accessing the Internet Service using Wi -Fi. Viasat  does 
+not guarantee stated up to speeds or uninterrupted use of the Internet Service. In a variety of  circumstances, actual upload and 
+download speeds will be lower than  stated up to speeds, particularly during peak congestion periods. You should also be aw are that 
+the performance of some  games using the Internet Service  is very poor and s ome games may not work at all . Virtual private network s 
+and remote computer access may also be very slow with the Internet  Service. Some virtual private networks may not work at all.   
+1.2 System Requirements . It is your responsibility, at your expense, to obtain, maintain, and operate suitable and fully 
+compatible computer equipment (including , without limitation , a wireless  router if you intend to access  the Internet Service wirelessly 
+or on multiple devices ) required to access the Internet Service.  
+2. Leased Equipment and Installation . 
+2.1 Equipment Lease . The Leased Equipment  necessary to provide the Internet Service  is being leased  to you. We have 
+the right, in our sole discretion , to provide or replace the L eased Equipment with new or reconditioned Leased Equipment . We also 
+have the right to remove , or require the return of, any or all Leased  Equipment (whether in working order or not) upon cancellation or 
+disconnection of your Internet Service for any reason .  
+2.2 Ownership by Viasat . The L eased Equipment shall at all times remain the sole and exclusive property of Viasat . 
+No L eased Equipment shall be deemed fixtures or part of your realty. Our ownership of the Le ased Equipment may be displayed by 
+notice contained on it. We reserve the right to make  filings with governmental authorities we determine  necessary to evidence our 
+ownership rights in the Leased Equipment, and you agree to execute any and all documents as we determine necessary for us to make 
+such filings.  You shall not  pledge, sell, mortgage, otherwise encumber, give away, remove, relocate, tamper with, or alter the Leased  
+Equipment (or any notice of our o wnership thereon) at any time. We will perform a ny rei nstallation, return, or change in the location 
+of the  Leased Equipment at our service rates in effe ct at the time of such service.   
+2.3 Responsibility for Care of Leased Equipment . You are solely responsible for prevent ing the loss, damage, or 
+destruction of L eased Equipment.  
+2.4 Return of Equipment . If you cease to be a Viasat  subscriber  for any reason (whether voluntarily or involuntarily), 
+you must call Viasat  at 1-855-313-4111 within seven days after the termination of your Internet S ervice to make arrangements for 
+Viasat  to de -install the Leased Equipment  at our standard rates; otherwise, Viasat  will send you a prepaid shipping package for you to 
+return the Leased Equipment  to Viasat . You acknowledge that you must return the Leased Equipment  to Viasat  in good working order, 
+normal wear and tear excepted. If Viasat  does not receive the modem and transceiver within 30 days after the termination of your 
+Internet Service or if  you return  the modem and/or transceiver in a non -functioning or damaged s tate, you agree to pay Viasat  the 
+following fee(s), as applicable to you depending on your Service plan  (Unreturned Equipment Fee ): 
+Equipment Type  Fee for each unreturned or damaged 
+modem  Fee for each unreturned or damaged 
+transceiver  
+Exede WiFi Modem or Exede branded 
+modem, and its associated transceiver  $150.00  $150.00  
+Viasat Wi-Fi Gateway  modem and its 
+associated transceiver  $50.00  $250.00  
+Additionally, you agree that Viasat  may collect and charge  the Unreturned Equipment Fee  using the payment method on file with 
+Viasat  (Card Payment or EFT Payment) and you hereby irrevocably authorize Viasat  to make such charges.   
+2.5 Repair/Replacement . Provided that you are in compliance with all terms and conditions of this Agreement, while 
+you receive Internet Service under this Agreement, Viasat  will, at no additional charge to you, replace Leased Equipment that Viasat , 
+in its sole discretion, determines to be defective ( Defective Equipment ). Defective Equipment replacement under this Secti on 2.5 
+expressly excludes charges for service calls and for damage to, or destruction or misuse of, the Leased Equipment. For the first 90 
+days after initial activation of your Internet Service, Viasat  will waive its standard service call charge if Viasat  makes a service call  
+unless such service call was necessitated as a result of damage to, or destruction or misuse of, the Leased Equipment . After the first 90 
+Version 6.3       days following initial activation of your Internet Service, Viasat s standard service call charg e shall apply to all service calls by Viasat  
+in respect of the Leased Equipment or the Internet Service . You shall notify us promptly of any defect in, damage to, destruction of, or 
+accident involving your L eased Equipment by calling 1 -855-313-4111. All ma intenance and repair of Leased Equipment shall be 
+performed by u s or our designee(s). Viasat  will charge you for any repairs that are  necessitated by any damage to, or destruction or 
+misuse of, the Leased Equipment.  
+2.6 Disclaimer . VIASAT PROVIDES THE  LEASED  EQUIPMENT AS IS, AND MAKES NO WARRANTY, 
+EITHER EXPRESSED OR IMP LIED, REGARDING THE LEASED EQUIPMENT. LEASED EQUIPM ENT MAY BE NEW 
+OR REFURBISHED. ALL WARRANTIES INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY AND FITNESS FOR A PARTIC ULAR PURPOSE, ARE EXPRESSLY EXCLUDED. VIASAT IS 
+NOT RESPONSIBLE FOR ANY SPECIAL, INCIDENTAL , OR CONSEQUENTIAL DAMAGES OF ANY KIND 
+RELATING TO THE LEASED EQUIPMENT PROVIDED TO YOU.   
+2.7 Customer Acknowledgement . You acknowledge and agree  that Viasat  is not  extending credit and th at any 
+Unreturned Equipment Fee  we may charge  does not constitute interest, a credit service fee , or a finance charge.  
+2.8 Stolen Leased Equipment . If your Leased Equipment is stolen or otherwise removed from the Subscriber  Premises 
+without your authorization, you must notify our Customer Care department by telephone or in writing immediately, but in any eve nt 
+not more than three business days after such removal to avoid liability for payment for unauthorized use of your Leased Equipmen t. 
+You will not be liable for unauthorized use that occurs after we have received your notification.  
+2.9 Permissions for Installation of Leased Equipment . 
+(a) Authority to Permit Installation of Equipment  on the Subscriber  Premises . You represent and warrant 
+that the Internet Service  will be installed and used solely within the Subscriber Premises and that there are no legal, contractual , or 
+similar restrictions on the installation of the Leased Equipment in the lo cation(s) within the Subscriber Premises you have authorized. 
+It is your responsibility to ensure compliance with all applicable building codes, zoning ordinances, business district or as sociation 
+rules, covenants, conditions, and restrictions , and lease obligations  related to the Subscriber Prem ises applicable to the Internet Service  
+(and the installation of the Internet Service ), to pay any fees or other charges, and to obtain any permits or authoriza tions necessary for 
+the Internet Service  and the installation of the Leased Equipment (collectiv ely, Legal Requirements ). Without limiting the 
+foregoing, to the extent you are leasing the Subscriber Premises, you should review your lease and you agree to secure any landlord 
+approvals that are necessary or advisable and pay any associated fees prior  to installation of the Leased Equipment. We shall not be 
+required to execute any agreements with any third party in connection with the installation. You are solely responsible for any fines or 
+similar charges for violation of any applicable Leg al Require ments. If you approve  a roof mount  installation , you acknowledge the 
+potential risks associated with this type of installation (including, without limitation, with respect to any warranty that a pplies to your 
+roof or roof membrane).   
+(b) Access to Your Premise s and Computer . You acknowledg e and agree that Viasat  or its D esignated 
+Service P rovider must access  the Subscriber Premises  and, in certain circumstances,  your computer  or network  to install and maintain 
+the Leased Equipment , including the receiver (which  may require roof access) . This will include attaching the  Leased Equipment to 
+your computer, installing software on your computer  or network , and configuring your computer  or network  to optimize the 
+performance of the Internet Service. You confirm that yo u have reviewed the installation plan and agr eed to any associated charges. 
+You are responsible for backing up the data on your computer and we highly recommend that you do so prior to permitt ing access to 
+us or one of our Designated Service P roviders. EXC EPT AS ARISES FROM THE GROSS NEGLIGENCE OF VIASAT OR ITS 
+DESIGNATED SERVICE PROVIDERS,  NEITHER VIASAT NOR ITS DESIGNATED SERVICE PROVIDER S SHALL 
+HAVE ANY LIABILITY WHATSOEVER FOR ANY LOSSES RESULTING FROM THE LEASED EQUIPMENT OR ANY 
+INSTALLATION, REPAIR , OR OTHER SERVICES ASSOCIATED WITH THE  LEASED  EQUIPMENT, INCLUDING, 
+WITHOUT LIMITATION, DAMAGE TO THE SUBSCRIBER PREMISES OR LOSS OF SOFTWARE, DATA , OR 
+OTHER INFORMATION FROM YOUR COMPUTER  OR NETWORK . Time frames for installation, if any, are not guaranteed 
+and may vary depending on the types of services requested and other factors.  If we determine in our sole discretion that there are 
+unacceptable hazards associated with the installation, we may discontinue the installation at any point and terminate this Ag reement 
+without liability. In su ch a case, you will not incur an y Termination Fee s.  
+(c) Authorization for Installation . You hereby authorize Viasat  or its Designated Service P rovider to perform 
+the installation of the Leased Equipment at the Subscriber Premises subject to the terms of this Section 2. 9 and initiate the Internet 
+Service.  
+2.10  Software License for Leased Equipment . The Leased  Equipment contains software and/or other intellectual 
+property that are  subject to license agreement(s). Any breach of such license agreement(s) constitut es a breach of this Agreement.  
+3. Users of the Internet Service;  Responsibility and Supervision . 
+3.1 Account Set -Up. We may, in our discretion, provide one or more administrative portals or websites available to 
+Subscriber in connection with Subscribers use of the Internet Service  and their usage of data (Account Access ). In connection with 
+Version 6.3       Account Access  and discussi ons with us regarding your account , we may furnish you with one or more user identifications or 
+passwords. Subscriber is responsible for  it and its authorized users  confidentiality of such information. Subscriber is also  responsible 
+for verifying and main taining the account, options, settings , and other parameters under which the Internet Service  are used. We may 
+discontinue Account Access at any time in our discretion.  
+3.2 Multiple Use of Account . Only devices physically  located  in the Subscriber P remises  may receive the Internet 
+Service  under a single billing account. For clarity, the Subscriber Premises  shall be  limited to the single address where the Internet 
+Service is installed , and do not include adjacent apartments, residences, offices , or any type of space not physically associated with 
+such address  (nor suites or other locations at the single address if not associated with your business) . Any use of the Internet Service  
+other than as specified above is unauthorized and a material breach  of this Agreement , regardless of whether you receive any 
+compensation for such use, and may result in the immediate termination of the Internet Service  and the imposition of the Termination 
+Fees, without prejudice to any other rights and remedies availabl e to us under this Agreement.  
+3.3 Subscriber Responsibility . You are  responsible for all access to and use of the Internet Service  (and Account 
+Access)  through your account or password(s) and for any fees incurred for the Internet Service, or for software or other merchandise 
+purchased through the Internet Service , or any other expenses incurred under  this Agreement, including, without limitation access and 
+use by your employees, agents, contractors, patrons or customers, and represe ntatives. You are responsible for backing up (a) any data 
+you submit, receive , or transfer over the Internet Service, including, without limitation , your email , and (b) any  data, files, programs, 
+or applications on any device you connect to the Internet Service . You acknowledge that you are aware that content  accessible on or 
+through the Internet Service  may contain material that is unsuitable for minors. You are responsible for supervision of  usage of your 
+account  by minors. You hereby ratify and confirm and shall be responsible for any obligations incurred by a minor using your 
+account . 
+4. Fees and Payment .  
+4.1 Fees, Taxes , and Other Charges .  
+(a) Commencement and Duration of Fees . You will pay the Monthly Fee for the Internet Service  each month 
+in advance, for so long as  you are a subscriber  to the Internet  Service , beginning with the date we activate the Internet Service . In 
+addition, we may bill you for some aspects of the Internet Service  individually after they have been provided to you; these include 
+charges  for additional  data usage beyond  your data allowance . Your account will continue until you cancel your account in accordance 
+with the method or methods specified by us (unless otherwise terminated in accordance with this Agreement). You may cancel your 
+account at any time, subject to payment of the Termination Fee , if applicable. The Monthly Fee  and the Monthly  Lease Fee (and any 
+other monthly recurring fee, if any)  shall cease to apply for any months after the billing month in which you cancel or terminate your 
+account in accordance with  these terms and conditions . 
+(b) Billing and Charges . You agree to pay, in  accordance with the provisions of the Internet Service plan  you 
+selected, any registration, activation, service charges, minimum charges , and other amounts charged to or incurred by you, or by users 
+of your account, at the rates in effect at the start of  the billing period in which those amounts are charged or incurred. All fees under 
+this Agreement are exclusive of all applicable federal, state , and local taxes , fees , and surcharges  (collectively  Taxes ) related to 
+your use of the Internet Service , prov ision of services, software , or hardware , or the use of the Internet Service  by users of your 
+account. You agree to pay all such Taxes as reflected on your billing statement. Information on our charges and surcharges may be 
+made available to you on  www.Viasat.com  (and any successor website identified  by us, collectively, the  Viasat  Website ). We will 
+send your billing statements  to the email address you provide to us , and you agree that this is sufficient notice for all purposes as to 
+charges incurred and paid or to be paid to us . Unless otherwise agreed to by Viasat  in writing, y ou understand and agree that you will 
+not receive a paper statement  in the mail.  Additional terms relating to pricing, billing, and payment that are an integral part of this 
+Agreement are contained in your Internet Service  plan details . Viasat  reserves the right to correct and charge under -billed or unbilled 
+amounts for a period of 180 days  after (i) any  incorrect statement  was issued  or (ii) a statement should have been issued . Payment of 
+the outstanding balance is due in full within 15 days of the date of invoice .  
+(c) Administrative Fees . If we do not receive your electronic payment by its due date or your payment is 
+returned , we may charge you administrative  late or nonpayment fees equal to the lesser of (i) $5.00 per month , or (ii) the maximum 
+amount p ermitted under applicable law. Such char ge shall apply monthly  until all delinquent amount s are  paid in full.  If your  bank or 
+other financial institution fails to honor the  electronic funds transfer out of your bank account ( EFT Payment ) or credit card or 
+debit card payment (Card Payment ), we may charge you a collection fee equal to the lesser of (i) $15.00 , or (ii) the maximum 
+amount permitted under applicable law.  You acknowledge that these fees are not interest or finance charge s and are reasonably related 
+to the actual expenses we incu r due to non -payment.  
+4.2 Payment Authorization . Viasat  will initiate a Card Payment or  EFT Payment , as applicable,  for payment of all fees  
+incurred  in connection with the Internet Service , including any Termination Fee , and any other amounts payable under this Agreement  
+unless applicable law  requires us  to accept another  method of payment or Viasat  has otherwise agreed in writing to accept another 
+method of payment  from you . You agree that Viasat  will bill your Monthly Fee and the Monthly Lease F ee (to the extent the Monthly  
+Lease Fee is not included in the Monthly F ee as identified by your Internet Service plan)  and one time charges  in advance  and will bill 
+other fees in arrears such as fees for additional data usage  beyond your data allowance , and in all cases will automatically collect  these 
+Version 6.3       fees through either a Card Payment or EFT Payment. By signing this Agreement and receiving the Internet Service , you authorize 
+automatic Card Payments or EFT Payments by Viasat . You agree that  Viasat  will bill the charges described above  to the credit or 
+debit card provided by you when you applied for the Internet Service until such time as you may authorize recurring EFT Payments. 
+You must provide current, complete, and accurate information for your billing account, and promptly update us with any changes to 
+your account information, such as change s in your billing address, credit card number, credit card expiration date, bank account 
+numb er, or contact email address. You may make  changes to such information by calling Viasat  Customer Care  at (855) 313-4111 . If 
+you fail to provide us with any of the foregoing information, Viasat  will continue charging you for any Internet Service  provided 
+under your account  in the same manner it had previously charged . In addition to administrative fees that you may owe, if we are 
+unable to process your Card Payment or EFT Payment  at any time and we do not receive electronic payment from you by the due date, 
+we may immediate ly suspend your account  and you will remain responsible for all  amounts payable by you to us. If we do not receive 
+your payment before  we issue your next statement , we may terminate your a ccount and you will  owe us the Termination Fee , if 
+applicable. In ad dition, i f you are receiving Internet Service  at multiple locations, we may suspend or terminate any other account you 
+have with us due to late payment or non -payment for your Internet Service  at any location . Your card issuer agreement governs use of 
+your credit or deb it card in connection with the Internet Service  and you must refer to that agreement with respect to your rights an d 
+liabilities as a cardholder. If we do not receive payment from your credit or debit card issuer or its agent, you agree to pa y us all 
+amounts due upon demand by us. Viasat  will not be responsible for any expenses that you may incur resulting from overdrawing your 
+bank account or exceeding your credit limit as a result of an automatic charge made under this Agreement.   
+4.3 Disputes a nd Partial Payments . If you think a charge is incorrect or you need more information on any charges 
+applied to your account, you should  promptly  contact us at 855-313-4111 . You must contact  us within 60 days of receiving the 
+statement on which  the error or problem appeared.  We will make a statement available to you for each billing cycle showing 
+payments, credits, purchases , and other charges.  We will not pay you interest on any o vercharged amounts late r refunded or 
+credited to you. We may, but  are not required to, ac cept partial payments from you.  If you make a partial payment, we will apply  it to 
+amounts owed by you starting with the oldest outstanding amount. If you send us  checks or money orders marked  payment in f ull or 
+otherwise labeled with a similar restrictive endorsement, we may, but are not required to, accept them, without waiving any of our 
+rights to collect all amounts owe d by you under this Agreement. If we choose to use a collection agency or attorney to collect money 
+that you o we us, you agree to pay the reasonable costs of collection , including, without limitation , collection age ncy fees, reasonable 
+attorney s fees, and court costs.  
+4.4 Reactivation . To reactivate suspended Internet Service , you must bring your account current through the month of 
+reactivation by making payment in full of any outstanding balance . In addition, we may require a deposit before reactivating your 
+Internet Service . The amount of the deposit will not exceed an amou nt equal to 12 times the Monthly Fee. Any amounts you deposit 
+will appear on your statement as a credit, and service charges and other fees will b e invoiced as described above. If you fail to pay any 
+amount on a subsequent bill, we will deduct the unpaid a mount each billing cycle from the credit amount. Credit amounts will not earn 
+or accrue interest.   
+4.5 Credit Inquiries and Reporting . You authorize us to make inquiries and to receive information about your credit 
+experience from others, including , without li mitation,  credit reporting agencies, to enter this information in your file , and to disclose 
+this information concerning you to third parties for  reasonable business purposes. You authorize Viasat  to report both positive and 
+negative information about your  payment history to any credit reporting agencies.  
+5. Modifications, Rights of Cancellation , or Suspension .  
+5.1 Modification of this Agreement . We may modify this Agreement , which includes the incorporated policies,  
+prospectively  (and not retroactively) , including, without limitation, our pricing and billing terms  (Amendments ) by posting such 
+Amendments within the Viasat  Website . Each Amendment is effective upon posting. We may, but are not required to, also notify you 
+by e-mail or other electronic noti ce of the posting of an Amendment. If you do not agree to an Amendment , then you must terminate 
+this Agreement in accordance with Section 5 .3 below and stop using the Internet Service  within 30 days after  the effecti ve date of 
+such Amendment . Your continued  use of the Internet Service  after this 30-day period  constitutes your  acceptance of such Amendment . 
+In the unlikely event  a change results in an increase in the aggregate amount of Monthly Fee and the Monthly Lease Fee or a reduction 
+of your permitted data limit  (for metered Internet Service plans) during your Minimum Service Term , you may terminate your Internet 
+Service, without incurring the Termination Fee, by calling us within 30  days after the Amendment , unless at the time you call we 
+waive such increase (or we eliminate the data reduction) for you , in which case if you still choose to terminate the Internet Service, 
+you will be liable  for the Termination Fee . Other than payment increases or data cap red uction Amendments, termination for any other 
+Amendments shall require  payment of the Termination Fee  if you are within your Minimum Service Term. You acknowledge and 
+agree that termination of the Internet Service  by you shall be your sole and exclusive rem edy for any Amendment . 
+5.2 Modification of the Internet Service . Because of the nature of the ongoing provision of the Internet Service , we 
+may discontinue, add to , or revise any or all aspects of the Internet Service  in our sole discretion and without notice, including , 
+without limitation,  access to support services, publications , and any other products or serv ices ancillary to the Internet Service . In 
+particular, we reserve the right in our sole discretion to modify,  supplement, delete, discontinue or remove any software, file, 
+publications, information, communication , or other content that we or one of our vendors provide to you in connection with the 
+Internet Service . If we undertake any of these changes, we may, bu t are not required to, notify you by e -mail, posting a notice within 
+Version 6.3       the Viasat  Website,  or other electronic notice. If you do not agree to the identified  changes, then you must cancel your subscription 
+and stop using the Internet Service  within 30 days of  the effective date of the changes. Your use of the Internet Service  after 30 days 
+from the  effective date of the changes constitutes your acceptance of the changes.  In addition, w e may take any action consistent with 
+our Acceptable Use and Data Allowance Policies, including , without limitation,  actions to (a) prevent unsolicited bulk e -mailing from 
+entering or leaving any e -mail account or the network e -mail system, (b) delete e -mail messages if your e -mail account has not been 
+accessed by you within a tim e established by us from time to time, in our sole discretion, (c) instruct our system not to process e -mail 
+or instant messages due to space limitations, (d) make available to third parties information relating to Viasat  or its subscribers, (e) 
+withdraw, change, suspend , or discontinue any functionality or feature of the Internet Service , (f) delete attachments to e -mail due to 
+potentially harmful materials included within such attachment, and (g) limit access to the Internet Service  to prevent abusive 
+consumption .  
+5.3 Termination by Subscriber . Subject to your payment of the Monthly F ee and the Monthly Lease Fee for the full 
+billing cycle in which termination occurred  and the Termination Fee, if applicable (and all  other due and past due amounts, if any) , 
+you may immediately terminate this Agreement at any time by giving us written or telephone notice. Viasat  will not provide a pro -rata 
+refund for any pre -paid fees regardless of when your Internet Service  is terminated or suspended. In limited circumstances, Viasat  may 
+permit you to temporarily suspend Internet Service . Please allow five business days from the date of receipt for processing written 
+requests to terminate or suspend your Internet Service . Viasat  does not accept notices of  termination or suspension via e -mail or chat. 
+You will continue to be liable under this Agreement for all fees and charges until such time as the Agreement has been proper ly 
+terminated or suspended or we have acknowledged such termination or suspension in  writing or by e -mail. Once your account is 
+terminated, you will no longer have access to any of the web or email services provided to you as part of the Internet Service. In 
+addition, upon termination you will be responsible for the return of the Leased Equipment to Viasat  as set forth in this Agreement . For 
+a fee, Viasat  will assist you with the return of the Leased Equipment.  
+5.4 Termination or Suspension by Viasat . We reserve the right in our sole discretion , either for convenience or with 
+cause,  to terminate your Internet Service  and this Agreement or suspend your Internet Service  at any time (with or without  notice), in 
+whole or in part. If we terminate this Agreement for convenience, we will provide you with 30 days notice. If we terminat e or 
+suspen d your Internet Service  because  you have , or a user of your account ha s, breached this Agreement  or violated a law , then 
+notwithstanding the termination or suspension of your Internet Service , you will remain responsible for all payment and other 
+obligations under this Agreement, including , without limitation,  the obligation to pay all charges that may be due as a result of or in 
+connection with such termination or suspension. In these instances, you are responsible for the full Monthly Fee and  the Mo nthly 
+Lease Fee for any month (or portion of a month) in which you receive the Internet Service and Viasat  will not provide a pro -rata 
+refund for any pre -paid fees regardless of when your Internet Service  is terminated or suspended.  
+6. Permitted Use and Restrictions on Use . 
+6.1 Software License . Subject to the terms of this Agreement, Viasat  grant s to you a personal, non -exclusive, non -
+assignable , and non -transferable license to use and display the software provided by or on behalf of Viasat  (including any up dates) 
+only for the purpose of accessing the Internet Service  (Software ) on any device (s) on which you are the primary user or which you 
+are authorize d to use. Our Subscriber Privacy Polic y, which applies to the Internet Service , provide s important information about the 
+Software applications we utilize . Please read t he terms of the Subscriber Privacy Policy very carefully, as they  contain important 
+disclosures about the use and security of data transmitted to and from your devices through the Internet Service . Unauthorized copying 
+of all or any portion of the Software, including , without limi tation, portions or items that have  been merged  with the Software, or the 
+written materials associated therewith, is expressly forbidden. You may not sublicense, assign, or transfer this license or t he Software 
+except as permitted in writing by Viasat . Any attempt to sublicense, assign , or transfer any of the rights, duties , or obligations under 
+this license is void and may result in termination by Viasat  of this Agreement.  You agree that you shall not copy , distribute , 
+decompile,  or duplicate , or permit anyone else to copy , distribute, decompile,  or dup licate , any part of the Software, or create or 
+attempt to create, or permit others to create or attempt to create, by reverse engineering or otherwise, the source programs or any part 
+thereof from the object programs or from other information made availabl e under this Agreement.  The license granted under this 
+Section 6.1  terminates upon termination of the Agreement or termination of the Internet Service .  
+6.2 Restrictions on Use of t he Internet Service . You agree to comply with Viasat s Ac ceptable Use Policy an d Data 
+Allowance Policy . You also acknowledge and agree that the Internet Service is  subject to Viasat s Network Management Policy. 
+Viasat  reserves the right to immediately terminate the Internet Service  and this Agreement if you knowingly or otherwise eng age in 
+any prohibited activity  under such Policies . You do not own or have any rights (other than those expressly granted to you) to a 
+particular IP address , even if you are utilizing a persistent IP address.  
+6.3 Prohibition on Resale . You agree not to use the Internet Service for operation as an Internet service provider, or to 
+run programs, equipment, or servers from the Subscriber Premises  that provide network content or any other similar services to 
+anyone outside of the Subscriber Pr emises.  Additionally, if you subscribe to the Viasat  Business Unlimited Data plan, you are 
+prohibited from allowing  anyone who is not your agent or employee to use the Internet Service  (e.g., via Wi -Fi or any other method), 
+in whole or in part, directly or  indirectly, or on a bundled or unbundled basis . 
+Version 6.3       6.4 No Unauthorized Use of Equipment or Software . You are strictly prohibited from servicing, altering, modifying, 
+or tampering with the Leased Equipment , Software , or Internet Service  or permit ting any other person who is not authorized by Viasat  
+to do the same.  
+6.5 Compliance  with Laws . You agree to comply with all applicable laws, rules , and regulations in connection with the 
+Internet Service , your use of the Internet Service , and this Agreement . 
+6.6 Security . You agree to take reasonable measures to protect the security of any devices you connect to the Internet 
+through the Internet Service , including , without limitation,  maintaining at your cost an up -to-date version of anti -virus and/or firewall 
+software to protect your devices from malicious code , programs , or other internal components (such as a computer virus, computer 
+worm, computer time bomb or similar component) . You expressly agree that if your compute r or an Internet connected device 
+becomes infected and causes any of the prohibited activities listed in the Acceptable Use Policy , Viasat  may immediately suspend the 
+Internet Service  until such time as your computer or device is sufficiently protected to prevent further prohibited activities. You will 
+be fully liable for all Monthly F ees, Monthly Lease Fees,  and other charges under this Agreement du ring any period of suspension. 
+Although Viasat  has no obligation to monitor the  Internet Service  or its network, Viasat  and its authorized suppliers reserve the right 
+to monitor bandwidth, usage, transmissions, and content from time to time in order to operate the  Internet Service , identify violations 
+of this Agreement, or protect th e Viasat  network, the Internet Service , and other users of the Internet Service. In all cases, you are 
+solely responsible for the security of any device you choose to connect to the Internet Service, including , without limitation, the 
+security of  any data stored or shared on such device (s).  
+6.7 Responsibility of Subscriber . You are responsible for any misuse of the Internet Service , even if the misuse was 
+committed by an employee , agent , customer, patron,  or guest  of yours (or any other third party)  with access to your Internet Service  
+account.  You may not assign or transfer your Internet Service  without our written consent.  If you do, we may terminate  your Internet 
+Service  and you will be liable for any Termination Fee . 
+7. Warranties and Limitations of  Liability . 
+7.1 DISCLAIMER OF WARRANTIES . YOU EXPRESSLY AGREE THAT USE OF THE SERVICE S ARE  AT 
+YOUR SOLE RISK. VIASAT  AND  VIASATS SUBSIDIARIES AND AFFILIATES AND EACH OF THEIR RESPECTIVE 
+OFFICERS, DIRECTORS , SHAREHOLDERS, EMPLOYEES, AGENTS, WHOLESALERS, DEALERS, DISTRIBUTORS, 
+SUPPLIERS, LICENSORS , AND  THIRD -PARTY CONTENT PROVIDERS ( COLLECTIVELY, VIASAT S PARTNERS) 
+DISCLAIM ANY AND ALL WARRANT IES THAT THE INTERNET SERVICE  WILL BE UNINTERRUPTED OR 
+ERROR FREE , AS WELL AS ANY AND ALL WARRANT IES AS TO THE RE SULTS TO BE OBTAINED FROM USE OF 
+THE INTERNET SERVICE , INCLUDING , WITHOUT LIMITATION,  ANY MINIMUM UPLOAD OR DOWNLOAD 
+SPEEDS , OR LATENCY PERFORMANCE . THE INTERNET SERVICE  IS DISTRIBUTED ON AN AS IS AND AS 
+AVAILABLE  BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING , 
+WITHOUT LIMITATION, WARRANTIES OF TITLE , OR IMPLIED WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY OR COMPLETENESS OF INFORMATIONAL CONTENT, OR 
+NON -INFRINGEMENT. VIASAT  AND VIASATS PARTNERS EXPRESSLY DISCLAIM ANY REPRESENTATION OR 
+WARRANTY THAT THE INTERNET SERVICE  WILL BE ERROR FREE, SECURE , OR UNINTERRUPTED , OR WILL 
+OPERATE AT ANY MINIMUM SPEED. NO ORAL ADVICE OR WRITTEN INFORMATION GIVEN BY VIASAT  OR 
+ANY OF VIASAT S PARTNERS SHALL CREATE A  WARRANTY; NOR SHALL YOU RELY ON ANY SUCH 
+INFORMATION OR ADVICE. BECAUSE VIASAT  PROVIDES SUBSCRIBERS WITH ELECTRONIC ACCESS TO THE 
+CONTENT AVAILABLE ON THE INTERNET, VIASAT AND VIASATS PARTNERS  CANNOT AND DO NOT 
+WARRANT THE ACCURACY OF ANY OF THE INFORMAT ION YOU OBTAIN THROUGH THE INTERNET 
+SERVICE . VIASAT AND VIASATS PARTNERS  SHALL HAVE NO LIABILITY WHATSOEVER FOR ANY DAMAGE 
+TO OR LOSS OR DESTRUCTION OF ANY HARDWARE, SOFTWARE, FILES , OR DATA RESULTING FROM  YOUR 
+USE OF THE INTERNET SERVICE .  
+7.2 LIMITATION OF LIABILITY . NEITHER VIASAT  NOR ANY OF VIASAT S PARTNERS SHALL BE 
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE , OR CONSEQUENTIAL DAMAGES 
+ARISING OUT OF USE OF THE INTERNET SERVICE , INABILITY TO USE THE INTERNET SERVICE , OR ANY 
+BREACH OF ANY REPRESENTATION OR WARRANTY. WITHOUT IN ANY WAY LIMITING THE FOREGOING, IF 
+FOR ANY REASON, BY OPERATION OF LAW OR OTHERWISE, ANY PORTION OF THE FOREGOING 
+LIMITATION OF LIABILITY OR THE WARRANTIES SET FORTH IN SECTION 7.1  AND ELSEWHERE IN THIS 
+AGREEMENT  SHALL BE VOIDED, THEN IN SUCH EVENT VIASAT S MAXIMUM, SOLE, AND EXCLUSIVE 
+LIABILITY AND THE LIABILITY OF VIASAT S PARTNERS SHALL BE LIMITED TO GENERAL MONEY 
+DAMAGES IN AN AMOUNT NOT TO EXCEED THE TOTAL AMOUNT ACTUALLY PAID TO VIASAT  BY YO U FOR  
+THE APPLICABLE  SERVICE DURING AND FOR A PERIOD OF TIME COMMENCING UPON THE OCCURRENCE 
+OF ANY  ERROR, DEFECT , OR FAILURE AND CEASING UPON THE DISCOVERY OF SUCH  ERROR, DEFECT , OR 
+FAILURE , IN WHOLE OR IN PART; PROVIDED, HOWEVER, THAT IN NO EVENT SHALL SU CH PERIOD OF TIME 
+EXCEED THE 12 -MONTH PERIOD IMMEDIATELY PRECEDING THE DATE THAT  SUCH ERROR, DEFECT , OR 
+FAILURE IS FIRST DI SCOVERED IN WHOLE OR IN PART.  
+Version 6.3       7.3 Applicability and Exceptions . The foregoing exclusions or limitations of liability apply regardless of  any allegation 
+or finding that a remedy failed its essential purpose, regardless of the form of action or theory of liability (including, without 
+limitation, negligence) and even if Viasat , Viasat s Partners,  or you  were advised or aware of the possibility or likelihood of such 
+damages or liability.   
+7.4 Service Interruptions . Internet Service  may be interrupted from time to time for a variety of reasons , including , 
+without limitation,  weather conditions at the Subject P remises  or at your assigned gateway location . Weather conditions at your 
+assigned gateway may be different than the weather at the Subject P remises . The Internet Service  is not fail safe and is  not designed or 
+intended for use in situations requiring fail -safe performance or in which an error or interruption in the Internet Service  could lead to a 
+severe injury to persons, property, or the environment. You expressly assume, and shall indemnify, defend, and hold us harmless from , 
+all risks and liabilities as sociated with your use of the Internet Service  in situations requiring fail -safe performance. Without limiting 
+the foregoing, w e are not responsible for any interruptions of the Internet Service  that occur due to acts of God  (including , without 
+limitation,  weather) , power failure , satellite failure, ground station failure,  or any other cause beyond our reasonable control.  However, 
+because we value our subscribers, for an interruption of a significant length of time that is within our reasonable control, upon your 
+request we may provide what we reasonably determine to be a fair and equitable adjustment to your account to make up for the 
+Internet Service  interruption.  THIS WILL BE YOUR SOLE REMEDY AND OUR SOLE DUTY IN ALL SUCH CASES .  
+7.5 Indemnity . You agree to i ndemnify , defend , and hold  us harmless against all claims, liability, damages, costs and 
+expenses, including , without limitation,  reasonable attorneys  fees, arising out of or related to any and all use s of your account.  This 
+includes, without limitation, responsibility for all consequences of your violation of this Agreement (or a violation  of this Agreement  
+by any user of your account) or placement on or over, or retrieval from or through, the Internet Service  of any sof tware, file, 
+information, communication , or other content , and all costs incurred by us in enforcing this Agreement against you.    
+7.6 Third -Party Beneficiaries . The provisions of this Section 7 are for the benefit of us and Viasat s Partners , and each 
+shall h ave the right to assert and enforce such provisions directly on its own behalf  against you . Other than as expressly stated in this 
+Agreement, this Agreement shall not be deemed to create any rights in third parties  and no other party shall be deemed a thir d-party 
+beneficiary under this Agreement . 
+8. General  
+8.1 Call Monitoring, Recording , and Other Communications . For quality assurance, Viasat  records and/or monitors 
+telephone calls and online chat sessions  between its customers and Viasat  agents, employees , and/or its affiliates regarding the Internet 
+Service . By using the Internet  Service , you ( and anyone calling  or otherwise contacting Viasat  with regard to your account ) consent to 
+any and all call  and online chat session  recording and monitoring performed  by Viasat  or its agents, employees , and/or its affiliates. 
+You agree that by entering into this Agreement and providing Viasat  with your telephone number and/or your e -mail address, Viasat  
+or its agents may contact you for: (a) any account -related issues by calling or texting you at such number(s) using a 
+prerecorded/artificial voice or text message delivered by an automatic telephone dialing system and/or using a call made by l ive 
+individu als, and/or (b) for any account -related issues or for marketing purposes by sending an e -mail to such e -mail address. The 
+consent provided here continues even if your Viasat  Service terminates. If you do not wish to receive marketing emails, you may 
+follow  the opt -out instructions contained in any such email  by making an opt -out request or by calling  1-855-313-4111.  
+8.2 Applicable  Law . This Agreement is made in the State of Colorado . This Agreement and all of the parties  
+respective rights and duties, including , without limitation, claims for violation of state laws, unfair competition laws, and any claims in 
+tort shall be governed by and construed in accordance with the laws of the State of Colorado , excluding conflicts of law  provisions . 
+For clarity, the Feder al Arbitration Act shall govern the interpretation and enforcement of Section 8.3 . 
+8.3 Dispute  Resolution . To expedite resolution of issues  and control the cost of disputes, you and Viasat  agree that any 
+legal or equitable claim  or cause of action  relating to this Agreement, any addendum, or the Internet  Service (referred to as a  Claim ) 
+will be resolved as follows:  We will first try to  resolve any Claim informally. Accordingly, neither of us may start a formal proceeding 
+until at least 60 days af ter one of us notifies the other of a Claim in writing ( Notice ). You will send your Notice to the address on the 
+first page of this Agreement to the attention of the Viasat  Legal Department  and we will send our Notice to your billing address.  If you 
+and Viasat  are unable to resolve the C laim within 60 days after Notice is received, then Viasat  and you agree to arbitrate any and all 
+Claims  between us. This agreement to arbitrate is intended to be broadly interpreted.  It includes, but is not limited to:  
+ Any Claims arising out of or relating to any aspect of the relationship between us, whether based in contract,  statute, 
+fraud, misrepresentation,  tort, or any other legal theory  relating in any way to this Agreement, the Internet Service , the 
+Leased Equipm ent, installation of the Leased Equipment or service calls ; 
+ Any Claims that are currently the subject of a purported class action suit in which you are not a member of a certified 
+class; and /or 
+ Any Claims that may arise after the termination of this Agreement  that in any way relate to the Internet Service , the 
+Leased Equipment, installation of the Leased Equipment, service calls,  or this Agreement.  
+Notwithstanding the foregoing, either party may bring an individual action in small claims court  in the county of your billing address  
+if permitted by the laws of such county . You agree that by entering into this Agreement, you and Viasat  each expressly waiv e the 
+Version 6.3       right to participate in a class action and/ or a trial by jury . This Agreement evidences a transaction in interstate commerce, and 
+thus the Federal Arbitration Act governs the interpretation and enforcement of this provision. Th is Dispute Resolution  provision shall 
+survive termination of this Agreement.  The arbitration shall  be governed by t he C ommercial Arbitration Rules ( the Arbitration  
+Rules ) of the American Arbitration Association ( AAA ), as modified by this Agreement, and will be a dministered by the AAA.  The 
+Arbitration  Rules are available online at adr.org or  by calling the AAA at 1 -800-778-7879 . The arbitrator is bound b y the terms of this 
+Agreement. All issues shall be for  the arbitrator to decide, except issues relating to the scope and enforceability of this Dispute 
+Resolution provision , which shall solely be for a c ourt of competent jurisdiction to decide. Any arbitration hearings shall  take place in 
+Douglas, Denver, or Arapahoe County  in Colorado . During the arbitration, neither party shall disclose to the arbitrator the amount of 
+any settlement offer made by either part y, until after the arbitrator determines the amount, if any, to wh ich you or Viasat  is entitled. If 
+your C laim is for $10 ,000 or less, you and Viasat  agree that you may choose whether the arbitration will be conducted solely on the 
+basis (a) of documents s ubmit ted to the arbitrator, (b) through  telephonic hearings, or  (c) by an in -person h earing as established by the 
+Arbitration  Rules. If your C laim exceeds $10 ,000, the right to a heari ng shall  be determined by the Arbitration  Rules.  Regardless of 
+the manne r in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient ly explain ing the 
+essential findings and conclusions on which the award is based.  If the arbitrator finds t hat either the substance of a partys  Claim or the 
+relief sought by a Claim is frivolous or brought for an improper purpose (as measured by the standards set forth in the Federal Rule of 
+Civil Procedure 11(b)), then the payment of all fees related to the arbitration shall  be governed by the A rbitration  Rules. In such case, 
+you agree to reimburse Viasat  for all monies previously disbursed by it that are otherwise your  obligation to pay under the Arbitration  
+Rules.  The arbitrator may award declaratory or injunctive relief only in favor of the in dividual party seeking relief and only to the 
+extent necessary to provide relief warranted by that partys individual Claim. YOU AND VIASAT  AGREE THAT EACH MAY 
+BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A 
+PLAINTIFF O R CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.  Further more , 
+the arbitrator may not consolidate more than one persons Claim, and may not otherwise preside over any form of a representat ive or 
+class proceeding, unless both you an d Viasa t otherwise agree in writing . Notwithstanding any provision in this Agreement to the 
+contrary, if Viasat  makes any f uture change to this Dispute Resolution  provision during your Minimum Service Term , you may reject 
+any such change by sending us written not ice within 30 days of the change to the address on the first page of this Agreement. By 
+rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language o f this 
+Dispute Resolution provision. Any Claim  brought by you, or by users of your account, with respect to the Internet Service, the Leased 
+Equipment, the installation of the Leased Equipment, service calls, or this Agreement  must be instit uted within one year after the 
+Claim has arisen or it will be barred.   
+8.4 Export Laws . Without limiting your obligations under Section 6.5, you acknowledge  that the hardware, software, 
+technical data or technology, and/or services ( for purposes of this Section 8 .4 only,  collectively , the  Products ) supplied by Viasat, 
+directly or indirectly, under this Agreem ent are subject to U.S. export l aws and regulations and t he laws of non -U.S. governments that 
+may apply to the import, export, use, transfer , or distribution of the Products.  The applicable U.S. regulations are determined by the 
+export control level of the Products and may include, without limitation , the Export Administration Regulations, Foreign Assets 
+Control Regulations, and  the International Traffic in Arms Regulations.  You shall  comply with these l aws. Viasat  shall have no 
+obligation to deliver any Produc ts in violation of U.S. export laws . You will  not, without prior U.S. governmental a uthority 
+authorization, export, re -export, or transfer ( for purposes of this Section 8 .4, collectively  Export ) any Products, either directly or 
+indirectly, to any country subject to a U.S. trade embargo or sanction, or to any resident or national of these countries (a current list 
+includes Cuba, Iran, North Korea, Sudan , and Syria ), or to any person or entity listed on any U.S. g overnment restricted party list . In 
+addition, no Products may be exported , re-exported, or transferred  to any end -user engaged in prohibited activities, or for any end -use, 
+directly or indirectly related to the desi gn, development, production, or use of weapons of mass destruction including nuclear, 
+chemical, or biological weapons, and/or the missile technology to deliver them.   
+8.5 Notices , Disclosures and Other Communications . Where notification by Viasat  is contemplated by or related to 
+this Agreement, notice may be made by any reasonable means, including, without limitation , e-mail or publication over the Service  or 
+the Viasat  Website . A printed version of this Agreement and of any notice given in electr onic form by Viasat  shall be admissible in 
+judicial , arbitration,  or administrative proceedings relating to or based upon this Agreement to the same extent and subject to the same 
+conditions as other business documents and records originally generated  and maintained in printed form . 
+8.6 Construction and Delegation . If any term of this Agreement is found by a court or arbitrator of competent 
+jurisdiction to be invalid, illegal , or unenforceable, it shall be construed in such a way as to eliminate the offending a spects while still 
+giving as much effect as possible to the intentions of such term.  If this cannot be done and the entire term is invalid, illegal , or 
+unenforceable and cannot be so repaired, then the term shall be considered to be stricken from this Agre ement as if it had not been 
+included from the beginning.  In any such case, the balance of this Agreement shall remain in effect in accordance with its remaining 
+terms notwithstanding such invalid, illegal , or unenforceable term.  Neither the course of condu ct between the parties nor trade practice 
+shall act to modify the provisions of this Agreement . We may authorize or allow our contractors and other third parties to provide t he 
+services necessary or related to making the Internet Service  available and to perform obligations and exercise our rights under this 
+Agreement , and we may collect payment on their behalf, if applicable.   
+8.7 Miscellaneous . We may enforce or decline to enforce any or all of the terms of this Agreement  in our sole 
+discre tion. In no event shall we be required to explain, comment on, suffer liability for , or forfeit any right or discretion based on , the 
+Version 6.3       enforcement, non -enforcement , or consistency of enforcement of these terms. Captions used in this Agreement  are for conven ience 
+only and shall not be considered a part of this Agreement  or be used to construe its terms or meaning.  The provisions of any Sections 
+of this Agreement that  by their nature should continue shall survive any termination of this Agreement.  
+8.8 Assignment o f Account . We may sell, assign , pledge , or transfer this A greement, your account , or an interest in 
+your account to a third party without notice to you. In the absence of a notice of such sale or transfer, you must continue to make all 
+required payments to us in accordance with your billing statement.  
+8.9 Entire Agreement . This Agreement  (including all documents and writ ings identified in this Agreement as being 
+part of this Agreement)  constitute s the entire and only agreement with respect to its subject matter between you and Viasat , applicable 
+also to all users of your account. This Agreement supersedes all representati ons, proposals, inducements, assurances, promises, 
+agreements , and other communications with respect to its subject matter.

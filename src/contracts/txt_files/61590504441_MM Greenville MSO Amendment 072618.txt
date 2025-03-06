@@ -1,0 +1,51 @@
+Managed Services A greement  
+Amendment to Original  
+1700 Union Avenue  • Baltimore, MD 21211  • 410.464.8900  • FAX 410.464.8950  
+Date : July 26 , 2018  
+The original Agreement entitled Managed Services Agreement: Bundle Options  made between Distributed Computing, Inc. (DCi), 
+THI of South Carolina at Greenvill e, LLC  (Client ), which was fully executed on March 3, 2018, shall be hereby amended as 
+follows:  
+Term and Payment Schedule  
+MRC:  Client agrees to pay Nine Hundred Thirty Dollars ($930 ) per month for a Term of Fifty-Seven (57 ) months , invoiced to 
+Client on a m onthly basis, which shall  become due and payable on the first day of each month.    
+NRC:  Client agrees to pay a n additional  one-time fee of Seven Hundred Twenty -Eight  Dollars ($ 728) in adv ance, at the time 
+this Amendment  is signed.    
+APPENDIX  B 
+Ten4pbx & Sangoma Hosted Solutions,  Additional T&C  
+Ten4pbx Hosted Services  Sangoma Hosted Fax   
+     6  Unlimited Standard SIP Trunk       0  Low-Volume Fax Tier  
+     2  Unlimited Hosted Fax Trunk       2  High-Volume Fax Tier  
+     1  E911 Service Charge       1  4-Port FaxStation Box  
+    30  Domestic Telephone No. (DID)  
+     0  Business Hosted Extension  
+     0  Polycom VVX300  Conference Phone  
+     1  Edgemarc 2900A  and Appliance Monitoring  
+*   *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  
+APPENDIX D  
+SITE SERVICES ADMINISTRATION  
+Services Administration Options   
+    0   Connectivity (Fiber) Order: [Use Existing Circuits/Fiber]  
+    1  Connectivity (Coax) Order: Spectrum 100x10 Coax  
+     1  Connectivity (Fiber) Monitoring and Trouble -ticketing  
+     1  Connectivity Billing Aggregation  
+  .. 
+At the time this Agreement becomes effective, Client agrees to execute referenced connectivity order with underlying carrier OR 
+Customer will execute an LOA, allowing DCi to purchase connectivity services for this si te as agreed to by the Parties and described 
+herein above.  
+Upon selection of the Site Services Administration option , DCi agrees to  provide the following:  
+• Aggregate billing in single invoice  
+• Advance payments to carrier for fiber  
+• Monthly billing reviews  
+It is agreed that the C lient end user will call DCis  help desk with any network issue, or via other mutually agreed upon method.  
+CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND BY THE UNDERLYING FIBER CARRIER CONTRACT/S.  
+This includes but is not limited to carrier resolution of issues. DCi shall promptly contact carrier for carrier -related issues but DCi is  
+not responsible for  any delay that is caused solely by the carrier in resolving such carrier -related issues.  
+*   *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  
+ Distributed Computing, Inc.   
+THESE CHANGES HEREIN ARE THE ONLY CHANGES TO THE ORIGINAL AGREEMENT. THE ENTIRE REMAINDER OF THE 
+ORIGINAL AGREEME NT REMAINS IN FULL FORCE AND EFFECT. THIS AMENDMENT SHALL BE EFFECTIVE ONCE SIGNED 
+BY BOTH PARTIES.  
+THI of South Carolina at Greenville, LLC    Distributed Computing, Inc.  
+By:  By: Brooke L. Frank  
+Title:  Title: President  
+Date:        Date:

@@ -1,0 +1,55 @@
+TENA.
+Billing Aggregation Services Addendum
+Customer Legal Name: Behavioral Innovations
+Customer Address: 1 Mi i i 7
+Billing Contact and e-mail address: ntin: i
+As of the date this Billing Aggregation Services Addendum is signed by Customer ("Effective Date"), Ten4 and Customer enter into this
+Agreement and, in addition to the terms herein, agree to be bound by Ten4's Standard Terms and Conditions, which can be found at :
+www.ten4.us/standardTC and which are incorporated herein and constitute part of this Agreement. This Agreement is intended to be used in
+conjunction with the Service Order Forms (SOF) for Billing Aggregation Services, which includes the site-related order details, and which is
+incorporated herein and constitutes part of this Addendum.
+1. Service Term
+The Service Term for Billing Aggregation Services is thirty-six (36) months unless otherwise stated in writing.
+Auto Renewal: Following the Initial Service Term, this Agreement shall renew automatically on a month-to-month basis upon the same terms
+and conditions, and either party either party may terminate at any time with sixty (60) days written notice.
+2. Coverage & Charges
+During the Service Term, Ten4 agrees to provide aggregate billing of Customer's broadband network, for sites listed in the SOF, and as may
+be amended hereafter in writing. Those Services may include: (a) Aggregate billing in a single invoice; (b) Payment of known bills to service
+providers; (c) Monthly billing analysis; and (d) Access to account information via Ten4 Portal.
+In addition to the terms and conditions in the MSA and listed herein, CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND
+BY THE UNDERLYING SERVICE PROVIDER CONTRACTS.
+Charges may not include taxes, fees, USF charges or regulatory surcharges that may be assessed on the Services (Taxes"), and Customer
+will be responsible for all such Taxes. Billing for Services shall commence when this Agreement is signed by Customer and shall continue on a
+monthly basis for the full Term of Service.
+3. Payments
+MRC: Customer agrees to pay Five Hundred Ten Dollars ($510.00) per month for a Term of thirty-six (36) months, invoiced
+to Customer on a monthly basis, which shall become due and payable at the beginning of each monthly billing cycle.
+Ten4 invoices for Billing Aggregation are payable monthly in advance at the beginning of each month, unless otherwise specified in writing,
+and are due net fifteen (15) days from the date of the invoice. Amounts not paid when due (total Ten4 invoice, including all Service Provider
+and Ten4 charges) may accrue interest at a rate of 1.5% per month or the highest amount permitted by applicable law, whichever is less.
+Services may be suspended if payment is not received within thirty (30) days following date due. In the event a Billing Aggregation site is
+migrated on a date that is not the first day of the month, fees shall be pro-rated for the month of migration and invoiced in the next subsequent
+full month.
+Ten4 will not increase any specified rates during the Service Term but may, upon notice to Customer, adjust any such rates to Ten4's then-
+standard rate following the expiration of the fixed portion of the Service Term. Ten4 may, during the Service Term and upon notice to
+Customer, pass-through to Customer any increase in Costs if Ten4s underlying third party network or service providers (Underlying
+Providers) increase their charges to Ten4.
+If Customer disputes any portion of an invoice relating to Ten4 Charges, Customer will notify Ten4 of the dispute within fifteen (15) days of the
+date of the invoice and will include with such notice all applicable documentation supporting Customer's dispute. The parties will each designate
+an authorized representative to discuss the dispute in good faith, such discussion to occur within five (5) business days of the date of Customer's
+dispute notice. To the extent the dispute is resolved in Customer's favor, Ten4 will credit the applicable amount on Customer's next invoice; and
+to the extent the dispute is resolved in favor of Ten4, Customer will deliver payment of the disputed amount (together with applicable interest)
+within five (5) business days of the resolution decision.
+If Customer disputes any portion of an invoice relating to Underlying Provider Charges, Customer will notify Ten4 of the dispute within fifteen
+(15) days of the date of the invoice and will include with such notice all applicable documentation supporting Customer's dispute. Ten4 will
+communicate the disputed amount/s and forward all submitted documentation to the Underlying Service Provider within a reasonable time but
+Ten4 cannot and will not guarantee the nature or timeliness of a response by the Underlying Service Provider.
+If Customer does not dispute an invoice within the timeframes and otherwise in accordance with this subsection, the invoice will be payable in
+full and Customer will be deemed to have waived any right to dispute the invoice.
+Ten4 and Customer have caused this Agreement to be executed below by their duly authorized signatories.
+Customer: Behavioral Innovations Distributed Comp , Inc. Ten4
+By: Deanna R. Kelly
+ie: Controller Title: Vice President
+ate; te:
+03/22/2021 Bele: 7/10/21
+1700 Union Avenue, Suite B * Baltimore, MD 21211 * 410-464-8900 * www.ten4.us

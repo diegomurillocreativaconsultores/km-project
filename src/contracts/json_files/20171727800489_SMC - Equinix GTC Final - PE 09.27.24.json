@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Global Terms and Conditions",
+  "Agreement Classification": "Master Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Equinix",
+  "Party1 Role": "provider",
+  "Party2 Name": "Select Medical Corporation",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified.",
+  "Signature Date": "Sep 27, 2024",
+  "Term": "Not specified.",
+  "Renewal Term": "Not specified.",
+  "Recurring Monthly Charges": "Not specified.",
+  "Nonrecurring Charges": "Not specified.",
+  "Services": "Licensed Space, power, Cross Connects, cooling, fire protection, physical security, Smart Hands services",
+  "Locations": "IBX Center",
+  "Payment Terms": "Equinix will invoice monthly in advance for all recurring Fees and in arrears for usage-based or non-recurring Fees.",
+  "effective_date": "Not specified",
+  "signature_date": "09/27/2024"
+}

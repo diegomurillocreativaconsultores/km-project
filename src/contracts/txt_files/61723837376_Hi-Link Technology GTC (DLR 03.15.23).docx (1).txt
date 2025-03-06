@@ -1,0 +1,823 @@
+GLOBAL TERMS AND CONDITIONS   SEPTEMBER 2022  
+CONFIDENTIAL INFORMATION  
+ GLOBAL  TERMS AND  CONDITIONS  
+1. Structure . These Global  Terms and Conditions 
+(Global  Terms and Conditions ) are incorporated by reference 
+into each country -specific Master Services Agreement entered 
+into by Customer and the applicable Digital Realty  entity  (each, a 
+Country MSA ). The terms Customer  and Digital Realty  are 
+defined in the applicable Country MSA. Services may be 
+performed by Digital Realty , an affiliate of Digital Realty, or any 
+independent contractor(s) on behalf of Digital Realty. Digital 
+Realty may also be referred to as Licensor and Customer may 
+also be referred to as Licensee in Orders. Customer and Digital 
+Realty may enter into orders  (whether executed by a manual or 
+electronic signature or via Digital Realtys online ordering 
+platform, each  an Order ), each of which incorporates the terms 
+of the applicable Country MSA and constitute s a separate and 
+distinct contract  for data center -related services  and/or  product s 
+to be provided by Digital Realty to Customer  (Services ), as 
+more particularly set forth on each Order . An Order, together with 
+its applicable Country MSA and these Global  Terms and 
+Conditions  incorporated therein , is referred to  as the 
+Agreement . Services may not be ordered , activated,  or used  
+by Customer,  unless and until an applicable Country MSA 
+and these Global Terms and Conditions are executed.    
+2. Term . 
+(a) Agreement Term .  The initial term of each  Agreement 
+(i.e., the period prior to any Extension Term as defined below) is 
+defined in the Country MSA. Th ese Global  Terms and Conditions 
+will continue to be effective so long as at least one  Order and 
+applicable Country MSA are in effect.    
+(b) Commencement Date . The  Commencement Date  is 
+the date design ated in an Order as the  commencement date; 
+provided that i f installa tions are required  to be performed by 
+Digital Realty , the Commencement Date will be the earlier of (i) 
+the date Digital Realty completes the applicable pre -
+Commencement Date installations and delivers notice of 
+completion to the Customer , or (ii) the date Customer occupies 
+the Customer Area  or begins using a Service . In either case, 
+Digital Realty will inform Customer of the actual Commencement 
+Date  (which notice may be via e -mail) . Services may have 
+different Commencement Dates under the same Order, in which 
+case billing will commence for each Service upon the date that 
+such individual Service ha s commenced.  
+(c) Extensions . Except as otherwise set forth in an 
+Agreement , the Term  (as defined below)  will automatically extend 
+for subsequent 1 -year period(s) (each, an  Extension Term ) on 
+the same terms unless Digital Realty  or Customer  provide s written 
+notice to the other party of its decision not to extend at least 90 
+calendar days prior to the expir ation of the then current Term . The 
+initial term and any Extension Term (s), as applicable, shall 
+collectively be referred to as the  Term . 
+3. Right to Use  Customer Area  and Services . 
+(a) Right to Use . During the applicable Term, Digital 
+Realty  (i) grants to Customer  a non-transferable  (except as 
+otherwise provided in Section 1 4(c)), non -sub licensable , limited 
+right to deploy  computer, network ing, communication, security 
+and other systems, and associated racks, wiring, cabling and 
+materials (collectively,  Equipment ) in the space described in 
+the Order  (Customer Area  or the  Premises ) at the building 
+identified in an Order ( Building ); and ( ii) will provide or cause to 
+be provided  to Customer  the S ervice(s) set forth in the Order , 
+subject to the provisions of the Agreement . The portion of the 
+Building used to furnish data center Services within which the 
+applicable Customer Area is located is known as a  Data Center  
+or Suite . The owner, landlord or ground lessee of a Building is 
+known as  Owner . This Agreement does not constitute a lease or convey ance  of any interest in real property  to Customer , and 
+Customer  shall have no interest in the Customer Area , Data 
+Center , Building  or the land on which the Building is located, 
+including Digital Realtys associated Equipment and personal 
+property (the  Property ), other than the right to access and use 
+the Customer Area as set forth in this Agreement .   
+(b) Interconnections . All interconnections  between 
+Customer  Equipment and the equipment of anyone else,  
+including the equipment of any telecommunication carrier or 
+telecommunications service providers,  shall be contracted 
+through  and installed by  Digital Realty  and performed  in the 
+Building point of presence or meet -me-room  area(s) 
+(Connectivity Area  or MMR ) designated by Digital Realty . 
+Customer  may not ( i) operate its own  Connectivity Area in the 
+Customer Area  or any other portion of  a Building  or refer to the 
+Customer Area as a meet -me-room ; or (ii) provide carrier -
+neutral interconnection services in the Customer Area  or any  
+other portion of the Building .   
+(c) Policies and Procedures . Customer  will (i) have 
+non-exclusive  access  to the relevant portions of the Building  to 
+install  Customer  Equipment  in the Customer Area ; (ii) use the 
+Customer Area  and Services in compliance with this Agreement 
+and Digital Realty s then-current policies a nd procedures 
+described at http:// www.digitalrealty.com/leasing ; and (ii i) ensure 
+that its designated  users, visitors, contractors and others 
+accessing or using the Building or Services in connection with , as 
+authorized by, or on behalf of,  Customer  (collectively  Customer 
+Authorized Persons ) also comply with this Agreement and 
+Digital Realty s Building policies and procedures . As between the 
+parties, Customer is responsible for Customer Authorized 
+Persons  in connection with the Agreement , Building or Services . 
+Digital Realty  may refuse  access to the Building (including the 
+Customer Area ) to anyone , inclu ding Customer Authorized 
+Person s, if Digital Realty  in its reasonable sole discretion 
+determines that person presents a hazard or security threat to 
+Digital Realty  or other occupants of the Building or if the 
+Customers rights under Section 3(a) have been suspended or 
+terminated.    
+(d) Customer Data . Notwithstanding any provision in 
+the Agreement to the contrary, Customer  shall have sole control 
+over and responsibility for, and Digital Realty shall have no liability 
+in connection with,  the safety, security  and integrity of any data or 
+information  stored  or processed  on Customer Equipment or  
+transmitted to or from Customer.  Customer  Equipment, 
+Customer s storage , processing,  and transmission of data and 
+information, including via third party services, and associated 
+Customer  information security and privacy practices, shall comply 
+with applicable laws, and industry standard information security 
+practices, including those relating to the access, backup and 
+encryption of data. Customer will not give Digital Realty  (or 
+anyone acting on or behalf of Digital Realty)  access to data or 
+information stored on , processed by,  or transmitted to or from 
+Customer Equipment.      
+(e) Customer s Power  Usage . 
+(i) Customer  shall (A) not exceed the basic 
+power capacity described in an Order ( Basic Capacity ), or 
+exceed the maximum cabinet or rack power density for , or draw 
+more th an, eighty percent (80%) of each  electrical power circuits 
+rated capacity at any time ; (B) ensure that that total power draw 
+of any power circuit (A -side, B -side or A -side and B -side 
+combined) does not exceed 80% of the Primary (A -side) capacity ; 
+(C) properly use the A+B or dual corde d power circuit delivery 
+so that Customers Equipment can continue to operate during an 
+interruption of one of the dual power circuits ; (D) balance the 
+GLOBAL TERMS AND CONDITIONS   SEPTEMBER 2022  
+CONFIDENTIAL INFORMATION  
+ loading of any redundant circuit pair evenly (50% of the load on 
+the primary, and 50% of the load on the  secondary), as applicable;  
+and (E) balance its loading across phases of any three -phase 
+circuits provisioned to Customers cabinet(s) or rack(s) . If Digital 
+Realty notifies Customer that Customer has violated any of the 
+requirements of this Section (3)(g) (i), Customer must take 
+immediate action to remedy such noncompliance.  
+(ii) Digital Realty  may measure Customer s actual 
+electrical usage  using methods and systems , including sub-
+meters, pulse meters, electrical surv eys, engineers estimates, or 
+branch circuit monitoring.  If Digital Realty  notifies Customer  that 
+Customer  has exceeded the applicable Basic Capacity, Customer  
+will take immediate action to reduce its  power consumption to be 
+at or below the applicable Bas ic Capacity .  In addition to any other 
+remedies Digital Realty may have under the Agreement, i f 
+Customer  exceeds the Basic Capacity during any month,  then 
+Digital Realty may charge Customer a fee equal to 150% of the 
+product of ( A) the MRCs (defined below)  on a per kW basis and 
+(B) the kW/hour/month in excess of the Basic Capacity in such 
+month .  
+4. Delivery of Services . 
+(a) Digital Realty s Mainten ance .  Digital Realty  will 
+maintain  or cause to be maintained  the (i) common area s of the 
+Building  serving the Customer Area , (ii) power distribution units 
+and the uninterruptable power supply plant serving the Customer 
+Area , (iii) fire suppression system serving the Customer Area , (iv) 
+floors, foundation , exterior walls, windows and roof  of the Building, 
+(v) an el ectronic key card, access code and/or biometric system 
+to control access to the Data Center , and ( vi) a video survei llance 
+system in the Data Center .   
+(b) Condition of Customer Area .  Except as expressly 
+provided otherwise  in the applicable Order  for specific work or 
+installations to be provided by Digital Realty , the applicable 
+Customer Area , Building , Property,  Data Center, and Services are 
+provided  or made available, as applicable,  on an AS -IS basis, 
+Customer  acknowledges that  neither  Digital  Realty  nor any one 
+acting on  Digital Realty s behalf has made any representations or 
+warranties , and Digital Realty disclaims all implied  or other  
+representations and warranties  not expressly provided  in this 
+Agreement  to the extent permitted by applicable  law, including 
+those pertaining to  merchantability , fitness for a particular 
+purpose  or fitness  for Customer s purposes.    
+(c) Access and Inspection .  Digital Realty  and its 
+representatives may enter the Customer Area  to perform 
+Services, inspect the Customer  Area  or make alterations, repairs, 
+improvements or additions to the Customer Area , the Building or 
+the Property  (i) at Customer s request , (ii) any time in case of an 
+emergency, (iii) daily for routine inspections  by operations 
+personnel , or (iv) otherwise at reasonable times upon at least 24 
+hours prior notice to Customer .   
+(d) SLA.  Digital Realty  will (i) provide electrical power 
+to the Customer Area  sufficient to meet the Basic Capacity 
+described in the Order , (ii) furnish ventilation and air conditioning 
+to the Customer Area , and (iii) provide other products and 
+services, all at a level sufficient to meet the service level 
+agreement found at https://marketplaceportal.com/library  
+(SLA), subject to the other provisions of this Agreement and 
+Customers compliance with its obligations . Notwithstanding 
+anything to the contrary, the credits and express rights  and 
+remedies  contained in the SLA shall be Customers sole and 
+exclusive rights and remedy for Digital Rea ltys failure to meet the 
+SLA.  
+5.  Fees; Taxes and Other Charges; Security Deposit.  
+(a) Recurring  Fees . Starting  on the applicable 
+Com mencement Date, Customer  shall pay in advance on the first 
+day of each calendar month during the applicable Term, the 
+monthly recurring charges or fees (MRCs  or Base License 
+Fees ) per the applicable Order.  If the Commencement Date is 
+not on the first day of a calendar month, the  payment of the 
+applicable MRCs  for that month will be pro -rated based on a daily rate calculated by dividing the  MRCs by  the total number of 
+calendar days in that month. Unless otherwise expressed in an 
+Order, during the Term, including any Extension Term, the MRCs 
+shall increase annually from the prior years MRCs on or after 
+each anniversary of the Commencement Date (the  Escalation 
+Date ) by the greater of either (i) three  percent ( 3%) of the MRCs 
+payable during the last full month prior to the Escalation Date, or 
+(ii) the CPI Increase.  CPI Increase  shall mean the percentage 
+increase over a 12 -month period (if any) calculated by comparing 
+the CPI published three (3) months prior to the then -current 
+Escalation Date and the CPI published 12 months prior to that 
+date. Under no circumstances shall the increase exceed 5% 
+annually. CPI shall mean the A ll Items portion of the Consumer 
+Price Index for All Urban Consumers (CPI -U) published by the 
+Bureau of Labor Statistics of the United States Department of 
+Labor (as published on the website www.bls.gov/cpi ). For 
+exam ple: if Customers Escalation Date is May 1, 2023, and the 
+CPI posted in February 2023 is 21 2 and the CPI posted in 
+February 2022 is 200, the CPI Increase would be 6% and the 
+MRCs will, accordingly, be increased by 6% on the Escalation 
+Date; if, however, C ustomers Escalation Date is May 1, 2023 and 
+the CPI on February 2023 is 205 and the CPI on February 2022 
+is 200, the CPI Increase would be 2.5% and the MRCs will, 
+accordingly, be increased by 3% on the Escalation Date. In the 
+event such CPI is discontinue d, Digital Realty shall reasonably 
+select another index to be substituted for such discontinued index . 
+(b) Other Fees.  Customer  shall pay in accordance with 
+the applicable Order or invoice any non-recurring charges 
+(NRC s), installation /de-installation  fees, and technical support 
+fees. Unless otherwise stated in the applicable Order or invoice, 
+Customer  must pay fee s other than MRCs  (for example, charges 
+for electricity usage if specified in the applicable Order)  within 30  
+calendar days of the date of the invoice  or Digital Realty s request 
+for payment .   
+(c) Taxes . Customer  shall pay or reimburse to Digital 
+Realty  any applicable  taxes and charges  levied by any 
+government authority  on the Services received by Customer , 
+including  excise, sales, use, privilege, value a dded tax, gross 
+receipts  or margin  tax, goods /services tax, or possessory interest 
+tax.  Customer must also promptly pay all taxes and charges 
+relating to Customer Equipment located in or used in connection 
+with the Customer Area  or Services . 
+(d) Payments Generally . All fees and payments to 
+Digital Realty  are due and payable (i ) unless otherwise agreed, in 
+the local curr ency  of the place where the Building is located ; (ii) 
+at the address specifi ed by Digital Realty  for payment; (iii) 
+following receipt of an invoice from Digital Realty, whenever sent 
+and in whatever manner sent, including via electronic delivery ; 
+and (iv ) without withholding, deduction or setoff  of any kind . 
+Except as otherwise provided in the Agreement, all Orders for 
+space, pow er, cross -connect installation/de -installation, technical 
+support, remote hands/smart hands (Remote Hands ) or any 
+other Services shall be at such rates as are in effect at the time of 
+the provision of such S ervice s. Any and all fees  or costs  
+associated with the transfer or collection of funds (including any 
+and all fees paid by Digital Realty to submit invoices or other 
+materials through any invoicing or payment system designated by 
+Customer and agreed upon by Digital Realty) shall be the 
+responsibility of Customer.  If, following the execution date of an 
+Order, Digital Realtys costs increase by more than 5% due to 
+changes in electricity  or other utility  prices  or changes in law, then 
+Digital Realty may proportionately increase the MRCs charge d to 
+Customer under such Order following 30 days written notice.   
+(e) Request for Review .  If Customer has a concern 
+about any amounts invoiced , Customer must pay the invoiced 
+amount by the due date and submit a written request for review 
+within 60 calendar days after the invoice was provided or 
+applicable payment was made , whichever is later .   
+(f) Security D eposit .  Subject to review of Customers 
+financials and/or if Customers required monthly payments are not 
+received within 5 days after they are due for 2 consecutive 
+months, Digital Realty may, in its sole but reasonable   discretion, 
+GLOBAL TERMS AND CONDITIONS   SEPTEMBER 2022  
+CONFIDENTIAL INFORMATION  
+ request Customer to provide a security deposit, and Customer 
+will, within 3 business days after receipt of written notice thereof, 
+deposit with Digital Realty such sums as may be reasonably 
+required by Digital Realty to provide Digital Realty with adequate 
+assurance of Customers abili ty to satisfy its financial obligations 
+under an applicable Country MSA and Order. Customer agrees 
+that any security deposit provided may be applied against any 
+Order and may be used as security for the performance of 
+Customers obligations or liabilities under any such Order. The 
+security deposit is not an advance payment of fees, and Digital 
+Realty will hold the security deposit without any obligation to pay 
+interest. Digital Realty may commingle the security deposit with 
+other funds.   Digital Realty shal l have the right to transfer any 
+security deposit to any Affiliate, assignee or other transferee of 
+Digital Realty. Upon any such assignment or transfer of Digital 
+Realtys interests, Digital Realty shall thereupon be discharged 
+from any further liability with respect to such transferred security 
+deposit. Within forty -five (45) days after Customers vacating the 
+Data Center following the expiration or earlier termination of the 
+Agreement, Digital Realty shall return the Security Deposit less 
+any portion as Digital Realty may have used to satisfy Customers 
+financial obligations under the Agreement.  
+6. Confidentiality, Data, Ownership . 
+(a) Confidentiality .  Confidential Information  
+means ( i) the contents of this Agreement and any related 
+documents  or pricing information;  and (ii) any techn ical, business 
+or other information disclosed by one party , whether in graphic, 
+electronic, written or oral form, including about current or possible 
+future Services, that i s (x) marked as confidential; ( y) design ated 
+within 10 calendar days of disclosure as confidential ; or (z) by its 
+nature should reasonably be understood by both parties as 
+confidential. A party receiving (the  Recipient ) Confidential 
+Information  of the other party  must use the same degree of care 
+that it exercises with respect to its own Confidential Information to 
+keep it confidential during the term of this Agreement plus 3 years 
+after the termination or expiration of this Agreement. Except as 
+otherwise provided in this A greement, Confidential Information 
+may only be (A) used for the purposes f or which it was provided; 
+and ( B) disclo sed to employees or authorized representatives of 
+Recipient who have a need to know, are under similar 
+confidentiality  (or nondisclosure)  restrictions , and are prohibited 
+from using or further disclosing the information for purposes not 
+permitted under this Agreement .  The obligations under this 
+section do not apply to information that (a) was rightfully obtained 
+by Recipient without an obl igation to maintain its confidentiality; 
+(b) is or becomes known to the public through no act or omission 
+of the Recipient ; (c) the Recipient develops independent ly without 
+using Confidential Information of the other party ; or (d) is 
+advisable  to be disclosed under applicable securities laws or other 
+similar laws .  Either party may disclose Confidential Information 
+(1) in response to a valid court or governmental order, if, to the 
+extent legally permissible, the Recipient gives the disclosing p arty 
+prior written notice and reasonable assistance, if requested, so as 
+to afford the disclosing party a reasonable opportunity to object  to 
+the disclosure  at the disclosing partys cost and expense ; or (2) to 
+an existing or potential investor, joint vent ure partner, acquiring 
+company, purchaser, bank or other financial institution under 
+appropriate confidentiality terms in connection with a merger, joint 
+venture, acquisition, disposition, financing, or similar transaction.  
+Notwithstanding anything in thi s Agreement to the contrary, the 
+obligations under this Section 6(a) shall be binding upon each 
+party even if no Order is effective.  
+(b) Publicity  and Logos . Digital Realty  may issue a 
+press re lease or other public statement or disclos ure, including on 
+its website,  the fact that the  parties  have entered into an 
+Agreement . Customer grants Digital Realty Group (defined 
+below) the right, and an irrevocable license to use the logo(s) of 
+Customer and Customer Affiliates (defined below) in connection 
+with and as part of marketing, investor relations and securities 
+disclosure activities; provided, however, that no such use shall 
+intentionally  be disparaging to Customer, nor confusing with 
+respect to the relationship between Customer and Di gital Realty, nor imply endorsement of any product or service provided by the 
+Digital Realty Group.  
+7. Surrendering  the Customer Area . 
+(a) No later than the termination or expiration of an 
+applicable  Term  for a particular Order or Customer Area , 
+Customer  must  (i) surrender possession of the Customer Area  to 
+Digital Realty  in good order and clean condition, reasonable wear 
+and te ar excepted, (ii) remove all Customer  Equipment , other 
+personal property , and fixtures installed by Customer  from the 
+Customer Area  and the Building , (iii) restore the Customer Area 
+to the condition it was in as of the Commencement Date, and (iv) 
+repair (or reimburse Digital Realty s reasonable costs to repair) 
+damage caused by Customer or Customer Authorized Parties . 
+(b) If Customer  does not surrender the Customer  Area 
+by the end of the applicable Term, Customer  shall pay 150% of 
+the MRCs  payable during the last month of the Term for each 
+month, or part thereof, beyond the end of the applicable Term , 
+and all other fees attributable to the Customer Area  and Services 
+until Customer  complies with Sections 7(a)(i) and (ii) .  During any 
+holdover period , Customer will  be require d to surrender  the 
+Customer Area  at any time  following notice from Digital Realty . 
+(c) If Customer  does not remove the Customer  
+Equipment within 5 calendar days after the end of the applicable 
+Term , to the extent permitted by law, Digital Realty  may treat the 
+Customer E quipment as abandoned and (i) charge  Customer  for 
+the removal and  storage costs  of the Customer Equipment , and/or 
+(ii) dispose of the Customer Equipment  in accordance with 
+applicable laws  and recover from the proceeds of such disposal 
+any fees or costs owed by Customer , including  any fees or costs 
+relating to the storage, removal, and disposition of the Customer 
+Equipment , MRCs , or NRCs .  The rights of Digital Realty as set 
+forth in this Section 7(c) do not impose an obligation on Digital 
+Realty to remove the Customer Equipment from the Data Center . 
+For the avoidance of doubt, if Digital Realty exercises any of its 
+rights under this Section 7(c) by removing Customer Equipment 
+from the Customer Area, Digital Realty shall thereafter not require 
+Customer to pay the holdover MRCs set fort h in Section (7b).  
+8.  Events of Default, Late Charges.  
+(a) Customer  Default . If Customer fails to perform any 
+of its payment obligations under the Agreement and such failure 
+has not been cured within 5 days following delivery of a written 
+notice of breach, Digi tal Realty has the right (without limiting any 
+other remedies hereunder) to immediately terminate, to restrict 
+Customers access to, or Customers right to remove Customer 
+Equipment from, the Customer Area (s), or to suspend provision 
+of power to the Custom er Area (s).  If Customer fails to perform 
+any other Customer obligation under th is Agreement which has 
+not been cured within 30 days of receiving a written notice of 
+breach, Digital Realty has the right to exercise the remedies 
+above ; provided that, in the  event any action or non -action by 
+Customer threatens or causes harm to any portion of the Building, 
+the Customer Area or any other customer or user of the Building  
+or Services , Digital Realty may immediately exercise such 
+remedies  and take immediate actio n to repair any damage or 
+harm at Customers expense. Upon any termination under this 
+Section 8(a), (i) Digital Realty is entitled to recover from Customer 
+all damages Digital Realty may suffer by reason of such 
+termination,  all arrearages in MRCs and NRCs and other costs, 
+charges, assessments, and reimbursements, and all costs 
+(includi ng court costs and attorneys fees) to exercise its remedies 
+and recover amounts due hereunder, and (ii) Digital Realty may 
+declare due and payable immediately the aggregate MRCs and 
+other charges and assessments that would otherwise become 
+due and payable  during the remainder of the Term (Customer and 
+Digital Realty agreeing that Digital Realtys actual damages in 
+such event are impossible to ascertain and the amount set forth 
+above is a reasonable estimate thereof).  In addition, Digital Realty  
+may al so seek payment of a late fee at the lesser of 10% or the  
+maximum rate permitted in the jurisdiction where the Customer 
+Area is located or the Services  are provided , for any payment not 
+received when due . Customer shall not be permitted to remove 
+GLOBAL TERMS AND CONDITIONS   SEPTEMBER 2022  
+CONFIDENTIAL INFORMATION  
+ any Custo mer Equipment from the Customer Area at a time when 
+Customer is delinquent in meeting its payment obligations or is in 
+breach of any other material term of the Agreement . 
+(b) Digital Realty  Default . If Digital Realty fails to 
+perform any material obligation under this Agreement which has 
+not been cured within 30 calendar days of receiving a  written 
+notice of breach (provided that if the breach is of a nature that 
+reasonably takes more than 30 days to cure, the time period to 
+cure shall be extended to the peri od reasonably required to effect 
+such cure so long as Digital Realty has begun to cure within such 
+30 day period and diligently pursues such cure), then Customer 
+may immediately terminate this Agreement by providing written 
+notice and vacating and surrende ring the Customer Area within 
+30 days after Digital Realtys failure to timely cure .  For the 
+avoidance of doubt, the provisions of this Section 8( b) shall not 
+apply to a n SLA Ex ception  as the Customers rights in the event 
+of a chronic SLA Exception a re set forth in the SLA.  
+9. Changed or Unexpected Circumstances . 
+(a) Relocation . Digital Realty  may relocate the 
+Customer Area  to a comparable area upon not less than 60 
+calendar  days  advance notice and will work with Customer  to 
+minimize any potential disruption.  Digital Realty  will also 
+reimburse Customer  for all reasonable and documented out-of-
+pocket expenses paid by Customer  for such  relocation.  Following 
+any such relocation, all references to  Customer Area  will mean 
+the new area to which Customer  has been relocated.    
+(b) Casualty and Condemnation . If there is material 
+damage to, destruction of or condemnation of the Bui lding , the 
+Data Center  or the Customer Area  preventing the use thereof or 
+the provision of the Services , (i) SLA credits  and remedies  will not 
+apply ; (ii) Customers obligation to pay for the Services  not 
+provided  shall abate as of the date of the occurrence of such 
+material damage, destruction of or condemnation of the Building , 
+Data Center or Cust omer Area ; (iii) Digital Realty  may, in  its 
+discretion, terminate the impacted Order  (or Services)  upon 
+notice to Customer , thereby terminating all further obligations 
+between the parties with respect to the impacted Order (or 
+Services), provided that any obligations that accrued prior to the 
+date of termination shall remain in force ; and (iv) Customer  may 
+terminate the impacted Order within 10 calendar days after receipt 
+of notice from Digital Realty  that the estimated amount of time to 
+restor e would be gr eater than 60  calendar days.  If the impacted 
+Order is not terminated, the MRCs  will be red uced proportionately 
+during the  restoration period to the extent that the Customer Area  
+is unfit for use by Customer  in the ordinary course . 
+(c) Force Majeure.  Except for monetary obligations 
+owed by either party to the other, neither party shall be 
+responsible for the failure to act in accordance with the terms of 
+this Agreement if such failure is due to causes beyond the partys 
+reasonable control (financial inability  excluded), including, but not 
+limited to, global pandemics (such as COVID19, SARS, etc.) 
+earthquake, flood, acts of God, war, or terrorist attacks, a declared 
+national emergency, and whether such event is physical or 
+electronic, whether foreseen or unfore seen.  
+10. Status as a Real Estate Investment Trust.   Without 
+limiting any other rights it may have, Digital Realty  may assign 
+part or all of its interest and obligations in and under this 
+Agreement to a n Affiliate of  Digital Realty as necessary or 
+advisable in  connection with its status or the status of any Affiliate 
+of Digital Realty as a real estate investment trust within the 
+meaning of Section 856 of the United States Internal Revenue 
+Code of 1986, as amended . If Digital Realty  determines that  any 
+fee or other amount (in addition to or included in the MRCs ) is 
+paid for Services  that are  assigned to and provided by or on behalf 
+of an Affiliate of  Digital Realty , then Digital Realty  may receive and 
+pay over those amounts to such Affiliate as agen t of such  Affiliate.   
+11. Insurance; Waiver of Subrogation.  
+(a) Insurance . Commencing as of the earlier of (i)  the 
+commencement of  the Term , or (ii ) the date Customer first places any Equipment or personal property in the Building , and 
+continuing throughout the Term thereafter , Digital Realty and 
+Customer will each maintain, and Customer will cause its 
+contractors and others having access to the Customer Area to 
+maintain , the following minimum levels of insurance:  
+Liability Insurance – 
+Combination of Commercial 
+General Liability (CGL) 
+insurance and Umbrella or 
+Excess insurance (or local 
+equivalent ) $3,000,000 USD per 
+occurrence or equivalent 
+sum in local currency  
+Statutory Workers 
+Compensation and 
+Employers Liability insurance 
+or local equivalent , to the 
+extent  required by applicable 
+law. $1,000 ,000 USD per 
+accident or equivalent sum 
+in local currency  
+Property insurance on a 
+Special Causes of Loss 
+(formerly known as all-risk) 
+form insuring in full 
+replacement value their 
+respective equipment and 
+property inc luding all leased 
+equipment  Full replacement value basis  
+(b) Certificates of Insurance . Prior to storing or 
+installing any Equipment in, or otherwise accessing, the Building 
+or Customer Area, Customer must provide Digital Realty with 
+certificates of insurance , with copies of all applicable 
+endorsements attached,  confirming the insurance required above 
+and adding Digital Realty Trust, L.P. and its subsidiaries or  any 
+other parties  designated by Digital Realty as an additional insured 
+under its required policies  of insurance.  Customer must notify 
+Digital Realty at least 10  calendar days prior to cancellation or 
+reduction of any insurance required.  All insurance required herein 
+shall be issued by insurers having a rating by AM Best of at least 
+A-, VIII. Customer s CGL policy shall be primary to and 
+noncontributory with any insurance carried by Digital Realty.  
+(c) Waiver.  To the maximum extent permitted by 
+applicable laws,  and notwithstanding anything in this Agreement 
+to the contrary:  (i) Digital Realty  waive s, and wi ll cause its insurer 
+to waive  against Customer , and (ii) Customer waives, and will 
+cause its customers, contractors and sub -licensees  having 
+access to the Customer Area or Services and their insurers to 
+waive  (and deliver to Digital Realty written instrume nts waiving) 
+against Digital Realty Group  and Owners Indemnitees,  all rights  
+of recovery (by way of  subrogation  or otherwise), for claims that 
+are or would have been  customarily covered by insurance . 
+Owners Indemnitees  shall mean Owner (and in the event of 
+an attornment to Owners designee, Owners designee), th e 
+shareholders, members, or partners comprising Owner ( or such 
+designee) and its and their partners, members, shareholders, 
+officers, directors, employees, servants, agents (including, 
+without limitation, any leasing and managing agents) , contractors, 
+the lessor under any superior lease and the holder of any 
+mortgage affecting the Building and/or the land upon which it 
+stands.  
+12. Indemnity . 
+(a) Customer  will defend , indemnify  and hold harmless  
+Digital Realty , its Affiliates,  and their respective  directors, officers, 
+employees, members, managers, agents, partners and lenders 
+(collectively, the  Digital Realty  Group ) and Owners 
+Indemnitees , from and against any and a ll third party claims for 
+loss, cost, damage, expense or liability (including reasonable 
+court costs and  attorneys' fees) (collectively,  Claims ) to the 
+extent arising from or relating to (i) the gross negligence or willful 
+misconduct of Customer  or its employees, customers, sub-
+licensee s, contractors, visitors, agents, representatives or others 
+acting on Customer s behalf (collectively  Customer  Group ); (ii) 
+use of the Customer Area  or Services ; and (iii) any person or 
+GLOBAL TERMS AND CONDITIONS   SEPTEMBER 2022  
+CONFIDENTIAL INFORMATION  
+ entity, other than any broker listed in an Order, claiming 
+commission or other compensation in connection with this 
+Agreement . 
+(b) Digital Realty  will defend , indemnify  and hold  
+harmless  Customer  and its directors , officers and Affiliates, from 
+and against all third-party  Claims caused by Digital Realtys  gross 
+negligence or willful misconduct with respect to  its provision of  the 
+Customer Area  or Services.  
+13. Liability .  To the maximum extent permitted by 
+applicable laws, and  however caused, on any theory of liability, 
+whether in an action in contract, strict liability, tort or otherwise, 
+and whether or not the party has been advised of the possibility 
+of such damage:  
+(a) Waiver .  Neither party will be liable for any indirect, 
+special, consequential, exemplary or punitive damages , or 
+penalties,  including but not limited to  lost revenues  (other than 
+Customers payment obligations under this Agreement)  or profits , 
+lost or impaired goodwill,  lost or impaired data, losses  or 
+damages resulting from failed or disrupted connectivity  or 
+communications, losses caused by other cust omers , occupants  
+or tenants  of any  Building, cost of purchasing replacement 
+services  or space , or loss of business opportunity, arising out of 
+or relating to this Agreement or any Customer Area  or Services . 
+(b) Limitations on Liability . The obligations under or 
+relating to this Agreement do not constitute personal obligations 
+of, or give rise to recourse or liability against,  the individual 
+partners, employees, officers, directors, investors, shareholders, 
+managers or members of that entity  or any affiliated group 
+companies . Notwithstanding anything in this Agreement to the 
+contrary, (i) Digital Realtys m aximum aggregate liability for any 
+and all claims arising out of the provision of Remote Hands 
+Services shall not exceed the total fees actually paid by Customer 
+for the specific provision of Remote Hands Service giving rise to 
+the claim, (ii) Digital Real tys maximum aggregate liability for all 
+claims  not subject to clause (i) above shall not exceed 6 months 
+of the ave rage monthly MRC s paid to it by Customer  under the 
+applicable Order  giving rise to the claim (s), and (iii) for all claims 
+not subject to clauses (i) or (ii) above or not relating to an Order, 
+Digital Realtys maximum aggregate liability will not exceed 6 
+months of the average monthly MRCs paid to it by Customer .  
+14. General Provisions . 
+(a) Compliance with Law. Digital Realty  and Customer  
+will comply with all applicable laws, rules, and regulations , 
+including , but not limited to  the U.S. F oreign Corrupt Practices 
+Act, export control, and all applicable privacy laws . Customer 
+represents and warrants that Customer is duly formed and 
+qualified to do business in the jurisdiction in which the Building is 
+located.  
+(b) Notices .  All legal notices  relating  to this Agreement  
+must be sent in writing to the addresses listed in the  applicable 
+Country MSA via means eviden ced by a delivery receipt or 
+acknowledgment and will be effective upon receipt.  
+(c) Successors . This Agreement will inure to the benefit 
+of and be binding o n the parties, and their successors and 
+assigns. Customer may not assign, sublicense or otherwise 
+transfer this Agreement  (or a Country MSA , an Order , or any right 
+to a Customer Area or  the Services thereunder ), in whole or in 
+part (each, a  Transfer ), without the express prior written 
+consent of Digital Realty  (which may be granted, denied, or 
+condit ioned as determined by Digital Realty  in its sole discretion) , 
+and any attempted Transfer in bre ach of this Section will be void . 
+If Digital Realty consents to a sublicense of all or any portion of 
+the Services  to a third party (each such third party, a 
+Sublicensee ), (i) Customer shall remain liable for the acts, 
+omissions or conduct of any Sublicensee ; (ii) Customer shall not 
+permit any additional Transfers by Sublicensee without the 
+express prior written consent of Digital Realty (which may be 
+granted,  denied, or conditioned as determined by Digital Realty in 
+its sole discretion) ; and (iii) the Transfer agreement shall 
+incorporate all of the terms and conditions (other than commercial terms) contained in, and shall not otherwise be inc onsistent with, 
+this Agreement, and shall contain a provision for Digital Realty to 
+enforce against Sublicensee  directly any of the provisions 
+contained in this Agreement . 
+(d) Entire Agreement; Amendments, Severability . 
+This Agreement contain s the entire agreement of the parties with 
+respect to the subject matter of this Agreement , and supersede s 
+all previous or contemporaneous communications, 
+representations,  warranties  proposals, commitments, 
+understandings and agreements, whether written or oral, between 
+the parties regarding the subject matter of this Agreement . An 
+Agreement may only be amended in writing signed by authorized 
+representatives of Customer and Digital Realty ; Customer and 
+Digital Realty hereby agree to be bound by any amendment 
+signed by Customer and Digital Realty Holdings US , LLC, and  an 
+amendment  to the Global Terms and Conditions will apply to all 
+Order (s) and Country MSA (s), whether executed before or aft er 
+such amendment, unless otherwise provided . If any provision of 
+this Agreement is held to be illegal, invalid or unenforceable, the  
+subject  provision will be enforced to the maximum extent 
+permissible to give effect to the intent of the parties, and the 
+remaining provisions of this Agreement will remain in full force and 
+effect.   Including  means including without limitation  whether or 
+not capitalized .  
+(e) Order of Precedence . If there is a conflict in terms, 
+the terms of documents will control in the following order of 
+precedence ( i) Order; (ii) Country MSA ; and , lastly, (iii) these 
+Global  Terms and Conditions . If a Country MSA modifies the se 
+Global Terms and Conditions, such modification will only apply to 
+Orders for that country; similarly,  if an Order modifies a term, that 
+modification will only apply to that Order.     
+(f) Cumulative Remedy; Waiver .  Digital Realty s rights 
+and remedies are cumulative, unless otherwise stated, and a 
+waiver of a breach of , or failure or delay to enforce,  any provision 
+of this Agreement does not constitute a waive r of any other 
+provision or any subsequent breach.   
+(g) Independent Contractor s. The relationship 
+between the parties, and between any Digital Realty  Group 
+member and Customer  to an Order, is solely that of independent 
+contractors, and nothing in th e Agreement creates or implies  any 
+agency, partnership, joint venture, employment, or  other legal 
+relationship.  Neither party , nor any Digital Realty  Group member  
+or Customer  Group member , may  represent itself as an agent, 
+partner, or joint v enture of the other or  incur any obligation or 
+liability on behalf of the other.  
+(h) No Third -Party  Rights . No one except the parties 
+to an Order have  any rights or obligations under that Order.  The 
+Digital Realty  entity  that enters into an Order with Customer for 
+Services will be solely responsible for provid ing the Services in 
+accordance with the Agreement, and no other Digital Realty 
+Group member  will be jointly , severally , or otherwise  liable  in 
+connection with that Order . As used in this Agreement,  Affiliate  
+shall mean an entity which (i) controls, is controlled by, or is under 
+common control with a party, where control is defined as the right 
+to exercise, directly or indirectly, 50% or more of the voting rights 
+attributable to the controlled entity or the power to elect a majority 
+of the controlled entitys board of directors, or (ii) is parti ally-
+owned by a party and the affairs of which are managed by such 
+party in accordance with its charter or other agreement governing 
+the management and operation of such entity.  
+(i) Legal Fee s. If either party commences an y legal 
+action or arbitration against the other party arising out of or 
+concerning this Agreement, the prevailing party in such litigation 
+or arbitration shall be entitled to reasonable legal fees and costs 
+in addition to such relief as may be awarded.  
+(j) Liens.   Customer  must  keep the Building, Data 
+Center and Customer Area  free from any liens and pay, when 
+due, all claims for labor or materials furnished or alleged to have 
+been furnished to or for Customer  at or for use in the Customer 
+Area . Customer  must also promptly pay all taxes and charges 
+GLOBAL TERMS AND CONDITIONS   SEPTEMBER 2022  
+CONFIDENTIAL INFORMATION  
+ relating to Customer  Equipment located in or used in connection 
+with the Customer Area . 
+(k) Survival.  Sections  5 (Fees; Taxes and Other 
+Charges; Security Deposit ), 6 (Confidentiality , Data, Ownership), 
+7 (Vacating the Customer Area ), 8 (Events of Default), 112 
+(Indemnity), 13 (Liability), and 14 (General Provisions) will survive 
+the expiration or termination of th is Agreement.  
+(l) Subordination; Estoppel Certificates .  Within 10 
+calendar days after receipt of a  written request from Digital Realty  
+or a lender in connection with a ground lease, mortgage, deed of 
+trust or other hypothecation or security device  (any of the 
+foregoing a  Security Device ), sale, financing or refinancing of a 
+Building  (or any part thereof) , Customer  will (A) execute and 
+deliver to Digital Realty  documents reasonably required to confirm 
+this subordination  and an estoppel certificate in the form 
+requested by Digital Realty  or its lender; and ( B) provide any 
+additional i nformation, confirmation or statements reasonably 
+requested by Digital Realty . If the holder of a Security Device or 
+someone else succeeds to th e rights of Digital Realty , then  
+Customer  must  attorn and recognize the holder of the Security 
+Device in lieu of Digital Realty  under the applicable Order for the 
+remainder of the Term. All rights of Customer and Customers use 
+and occupancy relating to the Building are and shall be and 
+remain unconditionally subject and subordinate in all respects to 
+all security interests on the Building  (or any part thereof) , to the 
+lease for the Building (or any part thereof)  (if any) , as amended , 
+and any ground lease  of the Building, if any.  The Agreement, as 
+it pertains to the Data Center in the Building, shall, if applicable, 
+terminate automatically upon the expiration or earlier termination 
+of the lease between Digital Realty and the Owner of the Building . 
+This Sec tion 14( m) shall be self -operative and no further 
+instrument of subordination required. Owner is deemed a third-
+party  beneficiary of Customers obligations and covenants under 
+Sections 11, 12, 14(c) and 14( k).    
+(m) Counterparts; Delivery . These Global  Terms and 
+Conditions  (as well as any Country MSA or Order)  may be 
+executed electronically or simultaneously in 2 or more 
+counterparts  each of which will  be deemed an original, but all of 
+which will  constitute one document.  Digital Realty  and Customer  
+agree that the delivery of an executed copy  of a document  by e-
+mail or other similar electronic means  or acknowledgement via 
+Digitals ordering platform  is legal and binding with the same force 
+and effect as an original.   
+(n) Financial Statements . Customer  will provide 
+financial statements or other information as reasonably requested 
+by Digital Realty .   
+(o) Sustainability Practices : To enable energy and 
+water conservation:   
+(i) Usage Measurement .  Digital Realty  may, at 
+its own cost, install separate metering (whether direct meter, 
+submitter  or check meter) for a Customer Area  for electricity, 
+water, gas, steam or other utility usage.   (ii) Utility Data Sharing .  If Digital Realty  
+requests information  about Customer s energy or water usage  
+and charges  that are available to Customer  but not to Digital 
+Realty , Customer  will provide the requested information within 14 
+days of receiving Digital Realty s written request.  
+(iii) Third Party Accreditation and Standards .  
+Customer  will reasonably cooperate with Digital Realty s efforts to 
+seek third party sustainability accreditation, including providing 
+relevant information within 14 calendar days of receiving Digital 
+Realty s written request.  
+(iv) Compliance with Digital Realty  
+Sustainability Practices . Customer  will use commercially  
+reasonable  efforts to minimize its  use of electrici ty, air 
+conditioning,  water, and heating to help  meet applicable Building -
+wide energy or water usage reduction  goals. Alterations  
+performed  by or on behalf  of Customer  will comply with applicable 
+Digital Realty  sustainability practices,  including any agreed upon  
+third-party rating  system  concerning  the environmental 
+compliance  of the Proper ty, the Building  or the Customer Area . 
+(v) Alternate Energy Sources . Digital Realty  
+may acquire  any part of  the electrical  power for the Customer 
+Area  from sources with reduced greenhouse emissions or 
+undertake other practices, such as acquiring renewable 
+energy certificates,  carbon offsets  or other  environmental  
+sustainability credits (collectively  Alternative Energy Costs ).  If 
+Customers utility costs are billed separately from MRC s or are 
+not otherwise included in the MRCs , Customer  will pay or 
+reimburse its pro -rated portion of the applicable and reasonably 
+documented Alternative Energy Costs incurred by Digital Realty . 
+(vi) Permitted Sustainability Expenses . Digital 
+Realty  may make capital expenditures to improve energy and 
+water conser vation or reduce greenhouse emissions, including 
+upgrading equipment ( Sustainability Capital Expenses ).  If 
+Customers utility costs are billed separately from MRCs  or are 
+not otherwise included in the MRCs , and Digital Realty  is 
+reasonably able to verify  that the Sustainability Capital Expenses 
+have low ered Customer s utility costs, Customer  will reimburse its 
+pro-rated portion of the amortized Sustainability Capital Expenses 
+monthly a long with the MRCs , based on Digital Realt ys good faith 
+estimate of Customer s utility savings, subject to adjustment after 
+the end of each calendar year based on Customer s actual utility 
+cost reductions.   For the avoidance of doubt (and, if applicable 
+based on whether Customer separately reimburses Digital Realty 
+for utility costs as reflected in a fully executed Order), in no event 
+shall Customers pro rata portion of the amortized Sustainability 
+Capital  Expenses exceed the amount of Customers actual utility 
+cost reductions as a result of Digital Realty implementing the 
+Sustainability Capital Expenses (with both sides acting 
+reasonably to verify and/or approximate Customers utility costs 
+savings in circ umstances where there is a debate as to whether 
+Customers pro rata portion of the amortized Sustainability Capital 
+Expenses are higher or lower than Customers utility cost 
+savings).    
+[SIGNATURES APPEAR ON THE FOLLOWING PA GE] 
+GLOBAL TERMS AND CONDITIONS   SEPTEMBER 2022  
+CONFIDENTIAL INFORMATION  
+ The individuals  and/or entities  signing th ese Global Terms and Conditions  are executing and are authorized to execute  these Global Terms 
+and Conditions on behalf of the Customer and Digital Realty parties identified below or otherwise identified in Orders, respectively, and are 
+doing so solely to  acknowledg e the terms hereof as incorporated into each Country MSA  and Order . Each party represents and warrants as 
+to itself that each  Agreement is executed and approved by representatives authorized to bin d such party  to such Agreement.  
+For Digital Realty   
+Customer :  Hi-Link Technology  Group, LLC  
+By: _____________________________________  
+Name: _ _________________________________  
+Date: ___________________________________  
+By: _ ___________________________________  
+Name: _ _________________________________  
+Vasim Limbadiya

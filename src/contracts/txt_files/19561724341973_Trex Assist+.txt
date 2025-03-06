@@ -1,0 +1,372 @@
+- PROPRIETARY  & CONFIDENTIAL  - Ten4  • Page 1       
+MASTER  SERVICES  AGREEMENT  
+This Master  Services Agreement is between Distributed Computing, Inc. dba  Ten4  (Ten4), with  headquarters located at 1700 
+Union Avenue, Suite B, Baltimore, MD 21211, and Trex Company, Inc. , a Delaware corporation (Customer),  with headquarters 
+located at 2500 Trex Way, Winchester, VA  22601 , and is effective as of the last date signed below (Effective Date).  
+1. Term  of Agreement  
+This Master  Services  Agreement  will have  a term of thirty -six (36) months (MSA  Term).  Any and all Service  Order  Forms (SOF) 
+that are separately executed by Customer will have their own Service Term, which will pertain to that particular Service bein g 
+purchased. If any Service Term extends beyond the MSA Term, this MSA will continu e to apply to such Service Order for that 
+Service Term.  
+2. Services  
+Ten 4 will provide to Customer the Services specified in each Addendum and SOF (Services), which documents shall be 
+incorporated  herein  and shall constitute  a part of this Agreement.  Each  Addendum  or SOF will specify  the Service  Charges,  Service 
+Term, Service Location and other information reasonably required by Ten4 to provide the Services.  
+Coverage  shall be during  the business  day (8am -5pm,  EST/EDT),  five days  per week  (Monday -Friday),  excluding  major  holidays, 
+unless otherwise agreed to in writing.  
+Ten4s provision of Services is in all cases subject to Ten4s Acceptable Use Policy (AUP),  which is designed to help  
+protect  Ten4,  its customers,  and the Internet  community  in general  from fraud,  abuse  of resources,  and irresponsible  or illegal 
+activities.  
+a. Customer  Responsibilities  
+Each Ten4 customer is responsible for the activities of all end -users and, by accepting service from Ten4, agrees to 
+inform  its customers and/or  end-users  of this AUP or its own Acceptable  Use Policy,  which  must  not be inconsistent  with 
+the terms herein.  
+b. Prohibited  Conduct  
+Ten4  Services are  only to be used  for lawful  and appropriate  purposes.  Customers  may not transmit  material  in violation 
+of any federal or state laws or regulations, including, but not limited to, obscenity, indecency, defamation or material 
+infringing trademarks or copyrights.  
+Ten4  customers  may not  abuse  or fraudulently use  Ten4  products  and services,  nor allow or  permit  such  use by others.  
+The following activities illustrate some, but not all, prohibited uses under this AUP:  
+ Child  Pornography:  Receiving,  transporting  or distributing  by any means,  sexually  explicit conduct  involving 
+children.  
+ Inappropriate  Content:  Using  the services  to transmit,  distribute  or store  material  that, as reasonably  determined 
+by Ten4, is inappropriate, obscene, defamatory, libelous, threatening, abusive, hateful or excessively violent.  
+ Denial  of Service:  Engaging  in any activity  that will interfere  or attempt  to interfere  with the  service  of any other  user, 
+host or network on the Internet.  
+ Distribution  of Viruses:  Intentional  distribution  of software  that attempts to  and/or  causes  damage  or annoyance  to 
+persons, data, and/or computer systems.  
+ Forging  Headers:  Forging  or misrepresenting  any message  header,  in part or whole,  of any  electronic  transmission, 
+originating or passing through the Ten4 network.  
+ Email Spamming or Mailbombing:  The transmitting of unsolicited  Email to multiple recipients, sending large 
+amounts  of Email  repeatedly  to a person  to harass  or threaten, or  any attempt  to use Ten4  services  for SPAM.  
+ Unauthorized  Access:  Illegal  or Unauthorized  Access  to Other  Computers,  Accounts,  or Networks.  
+c. Violations  and Enforcement  
+At Ten4s sole discretion, violations of any element of this AUP may result in a warning to the offender followed by 
+suspension  or termination  of service  if the customer  does not  cease  the violation.  If Ten4  deems  that a violation  of this 
+AUP has occurred, it may immediately suspend or terminate service with or without notice. Ten4 is not liable for any 
+damages of any nature suffered by any customer, user, or any third party resulting in whole or in part  
+from Ten4  exercising  its rights  under  this AUP.  Ten4  reserves  the right to modify  this AUP at any time.  
+3. Charges  and Payments  
+Charges are  specific  to the Service  being  purchased. Customer  will pay all  Charges as  set forth in the SOF for that Service  and 
+shall pay according to the terms and conditions set forth in the Addendum for that Service.  
+4. Access  
+Customer agrees  to provide  Ten4  reasonable access  to Customers  voice/data  network, in  order that Services  may be performed  as 
+set forth in the SOF.  In the event  that said access  is not  provided  as requested,  Customer  is aware  that delivery and  effectiveness  of 
+Services may be jeopardized and that additional charges may be incurred.  
+Docusign Envelope ID: C806299D-31E3-47ED-80FD-7C0C8DEC4B60
+- PROPRIETARY  & CONFIDENTIAL  - Ten4  • Page 2  Customer  agrees  to fully complete  all reasonably  requested  forms which  may be needed  to provide  the Services,  including  but not 
+limited to  Service Order Forms, Letters of Agency, Provider Contracts and others. Ten4 shall follow its standard and customary 
+procedures in processing SOFs. Services may be provided by Ten4 through one or more of its affiliates.  
+5. Security  & Usage  
+Customer understands that Ten4 and its Underlying Service Providers cannot guaranty the security of any transmissions and will 
+not be  liable  for any lack of  security relating  to the use of the Services.  Notwithstanding  the foregoing,  Ten4  agrees  to use no less 
+than a reasonable degree of care, including relevant industry -standard practices, to protect the security of any Customer 
+transmissions while providing Services to Customer.  
+The Services  are for Customers  use only and Customer  may not resell  the Services  to any other  party.  
+6. Warranty  Exclusion  
+Except  as expressly  stated  in this Agreement,  Ten4  makes no  warranties  or representations,  express or  implied,  either  in fact or by 
+operation of law, and specifically disclaims any warranties of merchantability or fitness for a particular purpose, applicabl e to the 
+services.  
+7. Limitation  of Liability  
+NEITHER PARTY WILL BE LIABLE TO THE OTHER FOR ANY SPECIAL, PUNITIVE, INDIRECT, INCID ENTAL, 
+CONSEQUENTIAL  OR EXEMPLARY  LOSSES  OR DAMAGES  INCLUDING,  BUT NOT  LIMITED  TO, LOSS  OF BUSINESS,  LOSS 
+OF USE, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF CLIENTS, LOSS OF GOODWILL OR COST OF REPLACEMENT 
+FACILITIES OR SERVICES, ARISING IN ANY MANNER FROM THIS AGREEMENT AND/OR THE PERFORMANCE OR 
+NONPERFORMANCE OF OBLIGATIONS HEREUNDER.  
+Customer  has no contractual  relationship  with any Underlying  Service  Providers  through  this Agreement  and Customer  is not a 
+third-party  beneficiary  of any Agreement  between  Ten4 and an Underlying  Service  Provider.  Customer  understands  and agrees  that 
+Underlying Service Providers will  not have  any kind of liability to customer, regardless of the form of action, including  but not limited 
+to failure or disruption of service.  
+Additionally,  in no event  will Ten4s  liability  under  this Agreement  or otherwise  arising  out of Ten4s  provision  of Services  hereunder 
+exceed an amount equal to the previous ninety (90) days charges for the services to which the liability relates.  
+The foregoing  paragraphs  of this Section  7 will also apply  to all Underlying  Service  Providers  with respect  to the Services.  
+8. Indemnification  
+Each party  agrees to indemnify and hold the other party, and each of their respective officers, employees, and agents, against any 
+liabilities and reasonably related costs (including legal fees)  from and against any claims, damages, penalties or liabiliti es asserted 
+by any person or entity resulting directly from any breach by such party of this Agreement or any warranties , representations, 
+covenants or obligations as provided for in this Agreement; or from claims, damages or liabilities arising out of any neglige nt act or 
+negligent failure to act where action was required.   This indemnity  shall survive  the termination  of this Agreement.  
+Ten4 shall, at its own expense, defend Customer against any claim, demand or suit made or brought against Customer by a third  party 
+alleging that Customers use of the Services as allowed hereunder infringes or misappropriates the patent, copyright or trad emark rights 
+of a third party and Ten4 shall pay any actual costs of settlement or any damages finally awarded against Customer.  
+Additionally, Customer will defend and indemnify Ten4 , and each of their respective officers, employees,  and agents,  against  any 
+liabilities  and reasonably  related  costs  (including  legal  fees)  incurred  in connection  with any claim by an end user of the Services, it 
+being understood that Customer, and not Ten4, is fully responsible for any such claims.  
+9. Default  
+A party  is in defa ult of this  Agreement  if it breaches  this Agreement,  its Addendums  or any  SOF and fails to cure such breach  as 
+follows:  
+a. after written  notice  and a five (5) day cure period  in the event  of any failure  to pay an amount  due hereunder,  or 
+b. after written  notice  and a thirty  (30) day cure period  in the event  of any other  breach.  
+If Customer is in  default of this Agreement, all Charges accrued under any SOFs will be due and  payable and Ten4  may, in  addition 
+to all other available remedies, disconnect Customers Services specific to that SOF.  
+If Ten4  is in default  of this Agreement,  only the Charges  accrued  as of the date of default  will be due and payable  to Ten4.  
+10. Termination  
+Either party may terminate this Agreement, its Adden da and/or any affected SOF upon six ty (60) days written notice.  
+Upon  default,  the non-defaulting  party  may terminate  this Agreement,  its Addendums  and/or  any affected  SOF by written  notice.  
+If Ten4  Terminates  for Cause,  Ten4  will have  no further  liability or  obligation  under  the Agreement,  Addendum  and/or  accompanying 
+SOF.  
+If Customer terminates any Services (other than for Ten4s default) prior to the expiration of the Service Term, Customer sha ll pay 
+Ten4 an Early Termination Fee equal to the MRC of the initial contract value ti mes the number of months remaining under contract 
+for that site .  
+Docusign Envelope ID: C806299D-31E3-47ED-80FD-7C0C8DEC4B60
+- PROPRIETARY  & CONFIDENTIAL  - Ten4  • Page 3  The parties acknowledge that the ETF is a genuine estimate of the actual damages to Ten4 for Customers early termination of a 
+Service  and is not a  penalty. In  no event shall  Customer  be entitled  to any refund  of already paid  Service  Charges if  this Agreement, 
+its Addendums or any SOF is terminated, except for a termination based on Ten4s default, as defined in Section 9 herein.  
+11. Confidentiality  
+If the parties entered into a confidentiali ty or non -disclosure agreement in anticipation of this Agreement, such agreement is 
+incorporated herein and shall apply instead of this Section. Otherwise, the parties acknowledge that they have or will exchan ge 
+certain confidential information expressly d esignated or which should reasonably be known as confidential ( Confidentia l 
+Information ) and each  party  agrees  that neither  party will  (a) use the other  partys Confidential  Information  except  for the purpose(s) 
+for which it is disclosed or (b) disclos e the other partys Confidential Information to any third party except (i) under an identical 
+confidentiality restriction to the receiving partys employees or contractors who have a need to know Confidential Informatio n in 
+connection with the purposes for  which it is disclosed or (ii) when compelled by a court or other government agency (with as much 
+advance notice to the disclosing party as reasonably possible).  
+Ten4  acknowledges  that it may receive  certain  of Customers  information  that constitutes  customer  proprietary  network  information 
+or customer proprietary information under applicable law, and Ten4 agrees that it will hold all such information in complia nce with 
+applicable law.  
+12. Other  Terms  
+Force  Majeure   
+Neither party shall be responsible for any loss, harm, damage, or failure to comply with any obligation hereunder resulting from 
+circumstances beyond its reasonable control (commonly referred to as force majeure events) including, but not limited to fire, flood, 
+war, strikes,  cable cuts, ac ts of terrorism, explosions, loss of power,  governmental restrictions, acts of third parties, or  acts of God. 
+In additional, Customer will not be obligated to pay for the Services during periods of force majeure , and either party may terminate 
+an affecte d SOF upon notice to the other if a force majeure event continues uninterrupted for a period of thirty (30) days or longer.  
+Subcontracting  
+Ten4  may subcontract  work  to be performed  under  this Agreement  but shall retain  responsibility  for the work.  
+Assignment  
+Neither  party  may assign  its rights  and obligations  under  this Agreement,  any SOF,  whether  by operation  of law or otherwise, 
+without the prior written consent of the other party, not to be unreasonably withheld.  
+Publicity  
+Without  the prior written consent  of the other  Party,  neither  Party will  (i) publicly use  the name,  logo or other  identifying marks  of the 
+other Party, or (ii) issue or permit the issuance of any press release or other public statement regarding this Agreement or the 
+Parties relationship.  
+Conflict  Between  Agreements  
+In the event  of any conflict  between  this Agreement  and a SOF and Ten4s Terms and Conditions , this Agreement  will control,  except  
+to the extent that  the SOF specifically references the section/provision of this Agreement that it is modifying or superseding.  
+Governing  Law 
+This Agreement  and the rights of  the parties  hereunder  shall be governed  by and  construed  in accordance  with the laws of the State 
+of Delaware, exclusive of conflict or choice of law rules.  
+Notification  
+Any notices, requests, consents and other communication under this Agreement shall be in writing and shall be deemed to have 
+been  delivered  on the date (a) personally  delivered,  (b) mailed,  postage  prepaid,  by certified  mail with return  receipt  requested,  or 
+(c) faxed  and confirmed.  All communications  under  this section  shall be addressed  to the respective  parties  hereto  as follows:  
+If to Customer:  Trex Company, Inc.  If to Ten4:   Ten4  
+ 2500 Trex Way   1700  Union  Avenue,  Suite  B 
+ Winchester, VA 22601   Baltimore, MD 21211  
+ Attn:  Attn: Legal Dept.   
+Entire  Agreement  
+This Agreement  constitutes  the entire  agreement  between  the parties and  supersedes all  prior or  contemporaneous oral and  written 
+agreements, commitments, or understandings with respect  to the matters provided for herein. This Agreement may not be modified 
+except by a writing signed by both parties. In the event that any of the provisions of this Agreement are held to be invalid or 
+unenforceable in whole or in part, all other provisions will nevertheless continue to be valid and enforceable with the invalid or 
+unenforceable parts severed from the remainder of this Agreement. The waiver by either party of a breach, default, delay or 
+omission  of any of  the provisions of  this Agreement  by the other party  will not be construed  as a waiver  of any subsequent  breach  of 
+the same or other provisions.  
+Docusign Envelope ID: C806299D-31E3-47ED-80FD-7C0C8DEC4B60
+- PROPRIETARY  & CONFIDENTIAL  - Ten4  • Page 4  Acceptance  
+I have  read and understood  the terms  and conditions of  the above  Agreement.  By my signature  hereunder, I  indicate  that I am 
+authori zed to bind the indicated party and that Party agrees to the terms and conditions herein . 
+Customer:  Trex Company, Inc.   Distributed  Computing,  Inc. dba Ten4  
+By: By: Deanna  R. Kelly  
+Title: Title:   Vice President  
+Date:  Date:  
+Docusign Envelope ID: C806299D-31E3-47ED-80FD-7C0C8DEC4B60
+Director of Infrastructure and IT Operations
+7/10/2024Keith Aylor
+7/10/2024
+TEN4 SERVICES AGREEMENT  
+1700 Union Avenue, Suite B • Baltimore , MD 21211  • 410-464-8900 • www.te n4.us 
+Customer Legal Name :  Trex Company, Inc.   
+Customer  Address :  2500 Trex Way, Winchester, VA  22601   
+Billing Contact  and email : [on file]   
+Sales Representative :  Aimee Moore    
+Service Term  
+The Service Term for  Ten4 Services  is thirty -six (36) months from date of install for each service , unless otherwise stated in writing (Effective 
+Date) .  
+Auto Renewal : Following the Initial  Service Term, this SOF shall renew automatically on a month -to-month basis upon the same terms and 
+conditions , and e ither party may terminate at any time with sixty (60) days written notice.  
+Coverage  & Charges  
+During the Service Term, Ten4 agrees to provide the Services  components  described herein  at the stated rates for sites and services listed  in 
+the attached Exhibits , and as may be amended hereafter in writing.  Charges listed may not include taxes, fees, or regulatory surcharges that 
+may be assessed on the Services (Taxes), and Customer will b e responsible for all such Taxes.  
+MRC: Customer  agrees to  pay a total of  $1,048.95  per month  for the Service  Term . 
+NRC:  Customer  agrees to pay a total  one-time fee  of $0.00  in advance, at the time this Agreement is signed.     
+Payments   
+Payment Method  (choose one) :  
+ AUTO  PAYMENT  OPTION     STANDARD PAYMENT OPTION   
+ Our team will contact you with instructions for providing   Please check here to pay your monthly invoices via check.   
+ secure credit card or ACH payment information.   
+Unless otherwise specified in this agreement , all Ten4  invoices are payable  at the beginning of each monthly billing cycle  and are due net thirty 
+(30) days from the date of the invoice.  Amounts not paid when due (total Ten4 invoice, including all Underlyin g Provider and Ten4 charges) may 
+accrue interest at a rate of 1.5% per month or the highest amount permitted by applicable law, whichever is less. Additionall y, Services may be 
+suspended if payment is not received within thirty (30) days following date due.  
+In the event a  Ten4 Service (or component thereof)  is onboarded  on a date that is not the first day of the month, fees shall be pro -rated from the 
+date onboarded  and invoiced in the subsequent full month.  
+Ten4 will not increase any specified rates d uring the Service Term but may, upon notice to Customer, adjust any such rates to Ten4s then -
+standard rate following the expiration of the fixed portion of the Service Term.   
+Terms & Conditions   
+The undersigned acknowledges they have received, read, accepted, and agree to the Ten4 terms of service and conditions incorporated in the 
+following link : www.ten4.us/standardtc . 
+Acceptance   
+Ten4  and Customer  have caused this A greement  to be executed below by their duly authorized signatories .  
+Customer : Trex Company, Inc.  Distributed Computing, Inc.  dba Ten4  
+By:    By: Deanna R. Kelly  
+Title:   Title:  Vice President  
+Date:   Date:   
+Docusign Envelope ID: C806299D-31E3-47ED-80FD-7C0C8DEC4B60
+7/10/2024Keith Aylor 
+ X
+Director of Infrastructure and IT Operations
+7/10/2024
+Date: April 05, 2024
+Trex
+2500 Trex Way
+Winchester, VA 22601
+Dear Keith,
+Thank you for the opportunity to provide this proposal for additional support services. We are
+confident that the measures addressed on the following pages will allow your organization to
+continue operating efficiently and cost-effectively.
+At Ten4, we specialize in helping you leverage technology to improve the way you work and
+communicate. As a follow-up to our support discussion, I have put together a proposal to add our
+Assist Plus service to your account. This solution is the next step in our relationship and will allow
+Ten4 to better support your connectivity efforts. The Assist Plus service will save your team time
+and limit the exhaustion of resources when it comes to carrier interactions. We will provide
+prompt, proactive support to bolster the already robust infrastructure in place.
+As we approach the next phase of disconnecting the Trex MPLS network, Ten4 believes the best
+time to add these services is now. This will add additional resources to alleviate any possible
+issues that may come up when working with ACC. As an act of Good faith, Ten4 will also delay
+billing the service up to 60 days after signature.
+Thank you in advance for considering this solution, and I look forward to meeting with you soon.
+Please dont hesitate to call me if you have any questions or need further assistance.
+Sincerely,
+Aimee Moore , Account Executive
+office 856.505.4908
+Ten4 • 1700 Union Ave • Suite B • Baltimore, MD • 21211 • 410.464.8900 Page 1
+EXECUTIVE SUMMARY
+In today's fast-paced digital environment, seamless connectivity is the backbone of business
+operations. Recognizing this essential need, Ten4 is excited to present the Assist Plus service.
+Assist Plus goes beyond conventional monitoring solutions by offering a comprehensive suite of
+services to ensure your Comcast ActiveCore solution and other critical circuits remain
+uninterrupted and efficiently managed.
+Customized Monitoring and Support for Trex
+The core of our proposition is proactive monitoring of circuits that feed your Comcast ActiveCore
+solution, with the flexibility to extend our oversight to additional circuits as required. Our primary
+goal is to ensure that Trex experiences minimal downtime and enjoys optimal performance across
+all locations.
+Proactive Management and Coordination
+Understanding Trex's need for a proactive approach in handling network issues, Ten4 commits to
+identifying and resolving problems swiftly and coordinating and scheduling necessary vendor
+meetings. This ensures that any disruptions are addressed promptly and effectively without Trex
+needing to manage these engagements directly.
+Tailored Communications and Support
+Trex will benefit from a dedicated support team that provides:
+Updates on ticket status
+Proactive alerts through a contact email
+A seamless communication channel for any escalations
+Our support framework guarantees that Trex is always informed of the network status across
+all locations.
+Why Choose Ten4's Assist Plus?
+Incident Management:  From detection to resolution, we handle every aspect of incident
+management, ensuring rapid response to any issues.
+Custom Reporting:  Gain insights into your network's performance with custom reports
+detailing incidents, resolutions, and service metrics.
+Guaranteed SLAs:  Our service level agreements promise quick and effective responses,
+giving you peace of mind that your network is in capable hands.
+In partnership with Ten4, Trex can anticipate a significant enhancement in operational efficiency
+and network reliability. Our Assist Plus service is more than just a solution. It's a strategic
+investment in your company's uninterrupted connectivity and overall success.
+Ten4 • 1700 Union Ave • Suite B • Baltimore, MD • 21211 • 410.464.8900 Page 2
+SCOPE OF WORK
+Ten4 will proactively monitor the following locations and associated carrier circuits for Trex:
+Ten4's proactive monitoring will cover all aspects of the service, including network performance,
+uptime, and security. Trex can add more locations and circuits as required. All information will be
+reviewed during the onboarding process.
+Ten4 • 1700 Union Ave • Suite B • Baltimore, MD • 21211 • 410.464.8900 Page 3
+Ten4 • 1700 Union Ave • Suite B • Baltimore, MD • 21211 • 410.464.8900 Page 4
+Ten4 • 1700 Union Ave • Suite B • Baltimore, MD • 21211 • 410.464.8900 Page 5
+MONTHLY RECURRING CHARGES (MRC)
+2500 Trex Way, Winchester, VA 22601
+ASSIST SERVICES
+QTY DESCRIPTION MONTHLY EXTENDED
+21 Ten4 Assist Plus $49.95 $1,048.95
+MRC SUBTOTAL $1,048.95
+TOTAL MRC $1,048.95
+Pricing Excludes Taxes | Valid Through: May 5, 2024
+Additional Information:
+Ten4 • 1700 Union Ave • Suite B • Baltimore, MD • 21211 • 410.464.8900 Page 6
+TEN4 SERVICES AGREEMENT
+Customer Legal Name:  
+Billing Address:  
+Billing Name and Email:  
+Sales Agent:   Aimee Moore
+Service Address: /2500 Trex Way, Winchester, VA 22601
+Service Term
+The Service Term for Ten4 Services is thirty-six (36) months from date of install for each service, unless otherwise stated in writing (Effective
+Date).
+Auto Renewal : Following the Initial Service Term, this SOF shall renew automatically on a month-to-month basis upon the same terms and
+conditions, and either party may terminate at any time with sixty (60) days written notice.
+Coverage & Cost
+During the Service Term, Ten4 agrees to provide the Services components described herein at the stated rates for sites and services listed in the
+attached Exhibits, and as may be amended hereafter in writing. Charges listed may not include taxes, fees, or regulatory surcharges that may be
+assessed on the Services (Taxes), and Customer will be responsible for all such Taxes.
+MRC:      Customer agrees to pay a total of $1,048.95  per month for the Service Term.
+NRC:      Customer agrees to pay a total one-time fee of $0.00 in advance, at the time this Agreement is signed.
+Monthly Payment Method (choose one):
+AUTO PAYMENT OPTION STANDARD PAYMENT OPTION
+Our team will contact you with instructions for providing secure
+credit card or ACH payment information.Please check here to pay your monthly invoices via check.
+Unless otherwise specified in this agreement, all Ten4 invoices are payable at the beginning of each monthly billing cycle and are due net thirty
+(30) days from the date of the invoice. Amounts not paid when due (total Ten4 invoice, including all Underlying Provider and Ten4 charges) may
+accrue interest at a rate of 1.5% per month or the highest amount permitted by applicable law, whichever is less. Additionally, Services may be
+suspended if payment is not received within thirty (30) days following date due.
+In the event a Ten4 Service (or component thereof) is onboarded on a date that is not the first day of the month, fees shall be pro-rated from the
+date onboarded and invoiced in the subsequent full month.
+Ten4 will not increase any specified rates during the Service Term but may, upon notice to Customer, adjust any such rates to Ten4s then-
+standard rate following the expiration of the fixed portion of the Service Term.
+Terms & Conditions
+The undersigned acknowledges they have received, read, accepted, and agree to the Ten4 terms of service and conditions incorporated in the
+following link. www.ten4.us/standardtc
+In addition to the Terms and Conditions referenced herein, CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND BY THE
+UNDERLYING SERVICE PROVIDER CONTRACTS.
+Acceptance
+Ten4 and Customer have caused this Agreement to be executed below by their duly authorized signatories.
+Customer:
+By:/sign/
+Title:/sign/
+Date:/sign/  Distributed Computing, Inc. dba Ten4:
+By:      Deanna R. Kelly
+Title:    Vice President
+Date:/signDeanna/
+Ten4 • 1700 Union Ave • Suite B • Baltimore, MD • 21211 • 410.464.8900 Page 7
+EXHIBIT D
+ASSIST SERVICES
+ASSIST SERVICES
+QTY DESCRIPTION MONTHLY EXTENDED
+21 Ten4 Assist Plus $49.95 $1,048.95
+MRC SUBTOTAL $1,048.95
+Pricing Excludes Taxes | Valid Through: May 5, 2024
+By checking this box, Customer allows new sites to be added with same service at the same rate without additional signature. assistCheckbox
+COVERAGE
+During the Service Term, Ten4 agrees to provide help desk services relating to Customers broadband network as listed herein, and as may be
+amended hereafter in writing.
+Standard Assist Services include:
+WAN/ Edge Connection Management
+Incident Management
+U.S. Based Support Team
+ Connection Inventory Management (ForgeOS)
+Business Hours Support
+Onboarding and Maintaining Accurate Services Inventory
+Assist Plus includes above (standard) Services PLUS the following:
+Extended Hours Support
+24/7 Proactive MonitoringService Level Agreement Response Times
+Custom Reporting & Service Analysis
+For Standard Assist Services, after-hours coverage for interruption of Provider Services and/or connectivity issues is provided at an additional
+expense.
+It is agreed that the Customer will call Ten4s Assist Line with any network issue, or via other mutually agreed upon method. Ten4 shall promptly
+contact carrier for carrier-related issues, but Ten4 is not responsible for any delay that is caused solely by the carrier in resolving such carrier-
+related issues.
+If new broadband services are being ordered, Customer agrees to execute the referenced connectivity order/s with underlying carrier/s OR
+Customer will execute a Letter of Authorization (LOA), allowing Ten4 to purchase connectivity services for this site as agreed to by the Parties
+and described herein above.
+INITIALS  
+Ten4 • 1700 Union Ave • Suite B • Baltimore, MD • 21211 • 410.464.8900 Page 8

@@ -1,0 +1,23 @@
+{
+  "Agreement Name": "Addendum to Master Services Agreement",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "Pediatric Eye Care of Maryland",
+  "Party2 Role": "customer",
+  "Effective Date": "June 2020",
+  "Signature Date": "Not specified",
+  "Term": "thirty-six (36) months",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "$498.95",
+  "Nonrecurring Charges": "$424.95",
+  "Services": [
+    "Hosted Voice & Fax Solutions",
+    "Sierra Wireless Fixed Cellular (Internet Access)"
+  ],
+  "Locations": "Not specified",
+  "Payment Terms": "Invoices are payable monthly in advance at the beginning of each month, due net thirty (30) days from the date of the invoice.",
+  "effective_date": "06/17/2020",
+  "signature_date": "Not specified"
+}

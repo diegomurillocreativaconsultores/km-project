@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Hosted Voice Service Order Form",
+  "Agreement Classification": "Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "Keller Williams Cornerstone Realty",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified",
+  "Signature Date": "8/20/2021",
+  "Term": "thirty-six (36) months",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "$369.75",
+  "Nonrecurring Charges": "$790.00",
+  "Services": "Hosted voice equipment and services",
+  "Locations": "2230 US Highway 206, Suite 4, Belle Mead, NJ 08502",
+  "Payment Terms": "Invoices payable at the beginning of each monthly billing cycle and due net thirty (30) days from the date of the invoice.",
+  "effective_date": "Not specified",
+  "signature_date": "08/20/2021"
+}

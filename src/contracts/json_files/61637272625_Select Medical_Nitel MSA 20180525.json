@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Master Service Agreement",
+  "Agreement Classification": "Master Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "NITEL INC.",
+  "Party1 Role": "provider",
+  "Party2 Name": "Select Medical Corporation",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified",
+  "Signature Date": "Not specified",
+  "Term": "Not specified",
+  "Renewal Term": "Not specified",
+  "Recurring Monthly Charges": "Not specified",
+  "Nonrecurring Charges": "Not specified",
+  "Services": "communications services",
+  "Locations": "4714 Gettysburg Road, Mechanicsburg, PA 17055",
+  "Payment Terms": "Invoices are delivered monthly and payment is due 30 days after the invoice date.",
+  "effective_date": "Not specified",
+  "signature_date": "06/04/2019"
+}

@@ -1,0 +1,277 @@
+• USA DIGITAL MASTER SERVICES AGREEMENT 
+This Master Services Agreement ("MSA") is made this 9th day of June, 2023, ("by and between USA Digital Communications, Inc., a Nevada 
+corporation, located at I 1600 Broadway Extension, Suite 150 Oklahoma City, OK 73 I 14, ("USAD" or "Provider"), and ("Customer''), JAS 
+Worldwide located at 6195 Barfield Rd. Atlanta, Ga. 30328 
+For the purposes of communicating and fulfillment, USAD will interface with the following listing of representatives of the Customer, which listing 
+h c . . t e ustomer agrees to maintain: 
+Contact 
+Main Contact 
+Technical 
+Billing 
+Equipment 
+Network Alerts 
+Rate Change/Other Customer Contact Information 
+Name Phone Email 
+Jennifer Hayes 8606072500 jennifer@tcainc.biz 
+Jennifer Hayes 8606072500 jennifer@tcainc.biz 
+1. Agreement. This agreement between the parties (Agreement) consists of this Master Services Agreement (MSA), any schedules describing 
+offered Services (Service Agreements), any orders for services submitted by Customer and accepted by USAD (Service Orders), the Schedule of 
+Ancillary Services found at Ancillary Services and any other documents incorporated by reference herein. If there is conflict between the MSA, 
+Service Agreement or a Service Order, the document that shall control will be in the following order: I) Service Order, 2) Service Agreement 3) 
+MSA. 
+2. Services. Services offered by USAD to Customer for purchase are described in the Service Agreement and/or Service Orders executed by both 
+parties (the "Services"). The Services may consist of services provided directly by USAD and also of services procured by USAD from third 
+party suppliers. 
+3. Term. 
+3.1 Master Service Agreement. This MSA shall become effective on the date a Service Order is fully executed by both USAD and 
+Customer and shall continue in full force and effect until the last Service Order's term expires or all Service Orders are cancelled by 
+either party. 
+3.2 Service Agreement and Service Order Term. Each Service Agreement or Service Order placed under this MSA shall have its own 
+term (Services Tenn). At the end of the Services Tenn for any Service, such Service shall automatically continue month-to-month 
+("Extension Period"), unless either Party gives written notice to the other that the Service(s) shall be disconnected, such notice to be 
+delivered at least sixty (60) calendar days before the end of the Services Term, or if during an Extension Period, at least thirty (30) 
+calendar days before the end of the Extension Period. 
+4. Charges and Payment Obligation. The rates and charges for Services, including installation charges, per-minute-of-use charges, one-time 
+non-recurring charges (NRC) or monthly-recurring charges (MRC) (collectively; "Charges") will be set forth in Services Agreements, Service 
+Orders or exhibits made part thereof and entered into by the Parties. Installation and set-up charges (NRC), if applicable, are due and payable 
+upon completion and timely acceptance by Customer. Expedited Installation services can be requested and will incur an additional charge. 
+Expediting requests are not a guarantee that service delivery will occur inside the normal delivery window specified by PrO\ isioning Intervals. 
+On the first billing, USAD will charge a prorated amount for all the MRCs from the date of activation to the end of the month in addition to 
+charging a total amount for all MRCs one month in advance. If Customer cancels any Service Order or this Agreement after the Service has 
+been ordered but prior to USAD notifying Customer that Service is available, Customer shall pay to USAD all third-party supplier costs 
+including but not limited to pre-engineering costs, installation costs and cancellation fees that are charged to USAD due to Customer's 
+cancellation. 
+5. Payment. Invoices will be due on the date specified on the invoice ("Due Date"). USAD will notify Customer via email that the prepared 
+invoice is available and Customer may log on the USAD's Billing portal at Imps: .. usad-ebill.com to view and download the invoice. It is 
+understood that USAD or its representative and affiliates may impose a finance charge on delinquent amounts as follows: an amount equal to the 
+lesser of the maximum lawful rate of interest, or one and one-half percent (I Vi%) per month: such amount will accrue on any unpaid or 
+undisputed amount that is past due. An invoice is past due if any undisputed amount is not paid on the due date. Except for amounts properly 
+disputed by Customer, if payment in full is not received from Customer on or before the Due Date, USAD shall have the right, after three (3) 
+business days' notice, to do any or all of the following: (i) suspend or terminate Service to Customer, (ii) suspend or tenninate any or all Service 
+Orders including any pending Service Orders or (iii) terminate this Agreement. 
+MS A_ Rev _092019 11600 Broadway Ext. Ste. 150, Oklahoma City, OK 73114 I 888-872-3787 Page I of6 
+MASTER SERVICES AGREEMENT 
+If USAD initiates legal proceedings to collect any amount due or for recovery of any USAD equipment and USAD substantially prevails in such 
+proceedings, and if USAD has included a claim for attorneys' fees and costs in the initial legal proceeding(s) and such fees and costs are 
+awarded, then Customer shall pay the reasonable attorneys' fees and costs incurred by USAD in prosecuting such proceedings and any appeals 
+therefrom. 
+6. Forms of Payment. Acceptable forms of payment are: company checks, cashier's checks and certified checks, money orders, personal checks 
+(for non-business accounts), wire transfers and ACH credits, except where other payment form restrictions are specifically noted in a separate 
+Services Agreement Addendum. Checks must be written and payable in U.S. dollar values. Checks drawn on foreign banks and third-party 
+checks are not accepted unless advance arrangements have been made. Payment by cash is not acceptable. USAD may accept, in its sole 
+discretion, payment by credit card. USAD may impose a surcharge or convenience fee upon the Customer making a payment by credit card to 
+wholly offset the amount of any discount or administrative fees charged to USAD. When a Customer elects to make payment to USAD by credit 
+card and a surcharge or convenience fee is imposed, the payment of the surcharge or convenience fee shall be deemed voluntary by the 
+Customer and shall not be refundable. 
+7. Billing Disputes. Customer shall submit all disputes to USAD within thirty (30) days of the date of the invoice in question. If Customer does 
+not submit its dispute before the end of the thirty (30) day period, then Customer waives the right to dispute the charges. Customer will submit 
+all disputes via a written statement containing reasonably sufficient detail together with supporting documentation. Customer may withhold 
+payment for only the disputed amounts. Both parties shall use good faith efforts to resolve the dispute within forty-five (45) days from the Due 
+Date of the invoice in question. At the end of the forty-five (45) day period, or after USAD makes a decision on the dispute, whichever comes 
+first, either party may file to immediately commence arbitration in accordance with Section 25 of this Agreement. Once USAD makes a decision 
+on the dispute the disputed amount shall be due or credited on the next invoice. 
+8. Right to Assurance. If a Customer suffers a material adverse change in its financial condition, USAD may: (a) request adequate assurance of 
+Customer's performance in the form of a cash deposit, and/or (b) decline to accept a Service Order, and/or (c) require changes to the previously 
+agreed payment terms. Failure of Customer to provide a deposit or other form of security requested by USAD within three (3) business days of 
+USAD's request shall be a material breach of Customer's obligations under this Agreement and shall entitle USAD to all remedies USAD 
+would have for nonpayment of an undisputed amount due. 
+9. Taxes, Fees and Assessments. Except to the extent Customer provides a valid exemption certificate in a fonn acceptable to USAD prior to the 
+delivery of Services, Customer shall be responsible for payment of any and all applicable local, state and federal taxes or fees and any 
+surcharges and assessments required or permitted by applicable Jaw. USAD further reserves the right at any time during the Service Tenn to 
+pass through and invoice to Customer any existing, new or increased fees, any applicable ancillary fees, any assessments, taxes, regulatory fees 
+(specifically including, but not limited to, federal or state Universal Service Fund obligations), or other charges imposed on, required, or allowed 
+to be collected by USAD by any governmental agency or third party provider that affect USAD's costs in providing Services to Customer. 
+10. Exemption Certificates. Accepted exemption certificates, including but not limited to tax exemption or 499a filing status certificates, shall be 
+effective upon receipt. USAD reserves the right to require the submission of updated certificates for such exemption to remain effective. If 
+USAD does not collect any tax, assessment or surcharge because Customer has provided USAD with an exemption certificate with inaccurate or 
+incomplete information or that is later found to be inadequate by an applicable authority, then, notwithstanding USAD's prior acceptance of the 
+certificate, Customer shall be liable for such uncollected amount, any interest assessed thereon, any penalty assessed with respect to such 
+uncollected amount by the applicable authority, plus USAD's reasonable expenses and attorneys' fees that result from such proceedings. 
+Exemption will only apply to taxes, fees, assessments and surcharges incurred after the date USAD receives the proper exemption 
+documentation (Customer cannot receive credit for any taxes, fees, assessments or surcharges already billed). 
+11. Equipment. USAD may, in connection with providing Services to Customer, locate equipment in Customer's premises. All such equipment 
+shall be listed in the applicable Service Order, which may be amended from time to time if USAD changes the equipment configuration. 
+Customer acknowledges and agrees that all right, title and interest in such equipment shall at all times be vested, and remain, in USAD. 
+Customer shall assume liability for loss, damage or theft of such equipment while in their care, custody and control. Customer shall return all 
+such equipment in the same condition as received (reasonable wear and tear excluded) to USAD upon the expiration or termination of the 
+applicable Service Order. If for any reason Customer fails to promptly return such equipment to USAD, Customer acknowledges and agrees 
+USAD shall have the right to enter Customer's premises to remove such USAD equipment. 
+12. Third-Party Service Charges. Customer acknowledges and agrees that Customer is solely responsible for the payment of all charges and 
+expenses associated with any third party-provided services used by Customer in connection with USAD's Services (including, but not limited 
+to, payphone dial-around compensation surcharges, Local Access charges, PICC charges, End-User Common Line Charges), plus any 
+reasonable administrative charge USAD may establish for its custom ers for administering these pass-through charges). This obligation includes, 
+without limitation, any costs or charges incurred by USAD upon any termination or cancellation of any such third-party services. 
+MSA_Rev _092019 11600 Broadway Ext. Ste. 150, Oklahoma City, OK 73114 I 888-872-3787 Page 2 of6 
+MASTER SERVICES AGREEMENT 
+13. Default. In the event of a breach of any material term or condition of the Agreement (except for payment breach) by a Party, the other Party 
+may terminate the Agreement upon thirty (30) days written notice, unless the breaching Party cures the breach during the thirty (30) day period. 
+If a breach cannot be reasonably cured within a thirty (30) day period, such cure period shall be extended as may be reasonably required to cure 
+such default. If Customer fails to pay any amounts due hereunder by the Due Date or fails to provide any security or additional security within 
+the period required under the MSA and such failure remains uncured for ten (I 0) days after Customer's receipt of notice thereof from USAD, 
+USAD may immediately suspend or terminate the MSA and any Services Agreements or Service Orders executed thereunder. 
+14. Early Termination Charges. If(i) Customer terminates any Service provided by USAD under the MSA and the applicable Services 
+Agreements and Service Orders for convenience prior to the expiration of the applicable tenn set forth in such Services Agreements and Service 
+Orders, or (ii) USAD terminates this MSA and/or any Services Agreements and Service Orders for Customer's uncured breach, then, in addition 
+to any other rights or remedies that may be available to USAD at law or in equity, Customer shall pay to USAD an amount equal to the sum of 
+(i) all billed and unbilled charges which Customer has not paid at the time of termination; (ii) the monthly recurring charge for each active 
+Service Order at the time of termination multiplied by the number of months remaining in the applicable Service Order Tenn, (iii) any revenue 
+shortfall charge (as specified in any Service Agreement or Service Order) equal to the Monthly Usage Commitment contained in any Service 
+Agreement or Service Order multiplied by the number of months remaining in the initial or subsequent tenn on the date of such termination, and 
+(iv) all charges incu1Ted by USAD to its suppliers and other third parties for the provision or disconnection of Service to Customer. Customer 
+agrees that the actual damages in the event of a termination would be difficult or impossible to ascertain, and that the charges described in this 
+Section are intended to establish liquidated damages only and are not intended as penalties. 
+15. Abuse of Service. USAD's Services may be used only for lawful purposes and may not be used in violation of any operating rule, policy, or 
+guideline set by USAD. USAD will cooperate with law enforcement if criminal activity is suspected. USAD may immediately suspend or 
+terminate a Service if such Service is used by Customer or any of its End Users in a manner that (i) restricts or inhibits any person, whether a 
+user of USAD or otherwise, in its use or enjoyment of USAD's Service or any other systems, services or products; (ii) manipulation of any 
+dialing record, SIP string or Call Detail Record in a pre-meditated attempt to alter the rate plan, routing or jurisdiction; (iii) violates any local, 
+state, federal or international law or regulation or guidelines; (iv) is in violation of the USAD Acceptable Use Policy (AUP) that can be found at 
+Acceptable Use Poiicy. 
+16. Warranties. Except as may be provided for in the applicable Attachments, SERVICES PROVIDED U DER THE MSA OR A Y SERVICES 
+AGREEMENT OR SERVICE ORDERS ARE PROVIDED WITHOUT ANY WARRANTIES, WHETHER EXPRESS, IMPLIED OR 
+STATUTORY, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, INFRINGEMENT, 
+COMPLETE ESS, QUALITY OR FIT ESS FOR A PARTICULAR PURPOSE. USAD HEREBY SPECIFICALLY DISCLAIMS ANY 
+LIABILITY TO CUSTOMER FOR fNTERRUPTIONS AFFECTING THE SERVICES FURNISHED UNDER THE MSA OR SERVICES 
+AGREEMENT THAT ARE ATTRIBUTABLE TO CUSTOMER'S INTERCONNECTION FACILITIES OR TO CUSTOMER'S 
+EQUIPMENT FAILURES, OR TO CUSTOMER'S BREACH OF THE AGREEMENT. 
+17. Limitation of Liability. IN NO EVENT WILL USAD OR ANY OF ITS AFFILIATES BE LIABLE TO CUSTOMER OR ANY OF ITS 
+AFFILIATES OR EMPLOYEES OR TO ANY THIRD PARTY FOR: (i) ANY LOSS OF PROFIT OR REYE UE, OR FOR ANY 
+INDIRECT, CONSEQUENTIAL, INCIDENTAL, PUNITIVE OR SIMILAR OR ADDITIONAL DAMAGES, WHETHER INCURRED OR 
+SUFFERED AS A RESULT OF THE UNAVAILABILITY OF FACILITIES, PERFORMANCE, NON-PERFORMANCE, TERMINATION, 
+BREACH, OR OTHER ACTIO OR INACTION UNDER THE MSA OR SERVICES AGREEMENT, OR FOR A YOTHER REASON, 
+EVEN IF CUSTOMER ADVISES USAD OF THE POSS! Bl L TY OF THIS LOSS OR DAMAGE; OR (ii) FOR ANY OUT AGE OR 
+INCORRECT OR DEFECTIVE TRANSMISSIONS, OR ANY DIRECT OR INDIRECT CONSEQUENCES THEREOF. CUSTOMER 
+AGREES THAT ITS' SOLE AND EXCLUSIVE REMEDY IN THE EVENT OF BREACH OF THE WARRA TIES DESCRIBED fN THIS 
+SECTION SHALL BE LIMITED TO THE SERVICE CREDITS DESCRIBED IN THE APPLICABLE SERVICES AGREEMENTS OR 
+TERMfNATION OF THE RELEVANT SERVICE. 
+18. Liability for Fraudulent Charges. CUSTOMER IS LIABLE FOR ALL CHARGES INCURRED FOR THE USE OF ANY SERVICE 
+UTILIZING CUSTOMER'S EQUIPMENT, WHETHER AUTHORIZED OR UNAUTHORIZED. CUSTOMER SHALL NOT HOLD USAD 
+LIABLE FOR A Y FRAUDULE T CHARGES OR USAGE WHICH MAY OCCUR ON ANY OF CUSTOMER'S SERVICES, 
+INCLUDING ANY FRAUD RELATED TO UNAUTHORIZED ACCESS OF CUSTOMER'S TELECOMMUNICATIONS EQUIPMENT. 
+USAD OR ITS UNDERLYING CARRIERS, WITHOUT INCURRING ANY LIABILITY, RESERVE THE RIGHT TO DlSCONTrNUE 
+FURNISHfNG SERVICES A DIOR BLOCK THE CUSTOMER'S ACCESS TO THE UNDERLYING CARRIER NETWORK 
+IMMEDIATELY AND WITHOUT NOTICE IF THE COMPANY DEEMS THAT SUCH ACTION IS NECESSARY TO PREVENT OR TO 
+PROTECT AGAINST FRAUD. REGARDLESS OF WHETHER OR NOT USAD DlSCONTrNUES OR BLOCKS SERVICE, CUSTOMER 
+SHALL STILL BE FULLY LIABLE FOR ALL INCURRED FRAUDULE T CHARGES OR USAGE. 
+MSA_Rev_092019 11600 Broadway Ext. Ste. 150, Oklahoma City, OK 73114 I 888-872-3787 Page 3 of6 
+MASTER SERVICES AGREEMENT 
+19. Definitions. Capitalized tenns not elsewhere defined in this MSA, other Services Agreements, Service Order Forms or other exhibits will have 
+industry standard meanings or can be found at Dctinit1ons 
+20. Force Majeure. Neither party shall be liable under the MSA or Services Agreement for delays, failures to perform, damages, losses or 
+destruction, or malfunction of any equipment, or any consequence thereof, caused by, or due to any cause beyond its reasonable control, 
+including, but not limited to, fire, earthquake, flood, water, weather elements, acts of God, third Party labor disputes, utility curtailments, cable 
+cuts, power failures, explosions, civil disturbances, vandalism, governmental actions, shortages of equipment or supplies, unavailability of 
+transportation, acts or omissions of third Parties. The Party claiming relief under this Section shall notify the other in writing of the existence of 
+the Force Majeure Event and shall be excused on a day-by-day basis to the extent of such prevention, restriction or interference until the 
+cessation of such Force Majeure Event. In the event USAD is unable to deliver Service as a result of a Force Majeure Event, Customer shall not 
+be obligated to pay USAD for the affected Service for so long as USAD is unable to deliver. 
+21. Indemnification 
+21.1. Both Parties Indemnification. Each Party shall defend and indemnify the other and their respective officers, directors, employees, 
+suppliers, licensors, contractors and agents against and from any loss, debt, liability, damage, obligation, claim, demand, judgement 
+or settlement of any nature or kind, known or unknown, liquidated or unliquidated, including without limitation, all reasonable costs 
+and expenses incurred including all reasonable litigation costs and attorneys' fees arising out of or relating to claims, complaint, 
+action, proceeding or suit of a third party (including and investigation by a governmental agency or authority), that arise or relate in 
+whole or part to the gross negligence or willful misconduct of the indemnifying Party, its employees, agents, contractors, licensors or 
+suppliers. 
+21.2. Customer Indemnification. Customer shall defend and indemnify USAD and their respective officers, directors, employees, 
+suppliers, Ii censors, contractors and agents against and from any loss, debt, liability, damage, obligation, claim, demand, judgement 
+or settlement of any nature or kind, known or unknown, liquidated or unliquidated, including without limitation, all reasonable costs 
+and expenses incurred including all reasonable litigation costs and attorneys' fees arising out of or relating to claims, complaint, 
+action, proceeding or suit of a third party (including any investigation by a governmental agency or authority), that arise or relate in 
+whole or part to (i) Customer's breach of this Agreement, (ii) Customer's employees', agents', contractors', licensors', end users' or 
+suppliers' unauthorized, illegal or fraudulent use of the Services (e.g., slamming),or use of the Services in breach of the AUP, (iii) 
+alleged or actual violation by Customer of the Truth in Call ID Act. 
+21.3. Procedure for Indemnification. The indemnified party promptly shall notify the indemnifying party of any claims that are subject 
+to indemnification. The indemnified party shall have the right, at its own expense, to participate either directly or through counsel in 
+any litigation or settlement negotiations. The indemnified party shall provide reasonable assistance and cooperation in such defense 
+at the indemnifying party's expense. The indemnifying party shall not agree to any settlement without the written consent of the 
+indemnified party and such consent shall not be unreasonably withheld. The indemnification provided herein shall survive the 
+termination of this Agreement. 
+22. Relationship of the Parties. Nothing in the MSA, or in the course of dealing between the Parties pursuant to the MSA, shall be deemed to 
+create between the Parties (including their respective affiliates, directors, officers, employees and agents) a partnership, joint venture, 
+association, employment relationship or any other relationship, other than that of independent contractors with respect to each other. Neither 
+Party shall have the authority to commit or legally bind the other Party in any manner whatsoever, including, but not limited to, the acceptance 
+or making of any agreement, representation or warranty. 
+23. Confidentiality. The Parties understand and agree that the terms and conditions of this MSA, all documents referenced herein, 
+communications between the Parties regarding this MSA or the Services to be provided hereunder, as well as any financial or business 
+information of either Party, are confidential ("Confidential Information"). Such Confidential Information shall not be disclosed by either Party 
+to any individual other than the directors, officers and employees of such Party or agents of such Party who have specifically agreed to non­
+disclosure of the terms and conditions hereof. However, neither Party sh al I be required to keep confidential any information that: (i) becomes 
+publicly available other than through the receiving Party; (ii) is required to be disclosed pursuant to a governmental or judicial rule, order or 
+regulation; (iii) the disclosing Party independently develops; (iv) becomes available to the disclosing Party without restriction from a third 
+party; or (v) is required by its lender and is given to such lender on a confidential basis. Neither party, nor their respective affiliates (including 
+any members, shareholders, directors or officers of either of them), shall, without the written consent of the other Party, make any 
+announcement or other disclosure relating to the transactions contemplated herein, except to their professional advisors, unless otherwise 
+required by law. Each Party shall disclose the proposals herein to such professional advisors and to their respective employees on a need-to­
+know basis only, and shall instruct such persons to maintain confidentiality. 
+24. Publicity. No public statements or announcements relating to the Agreement shall be issued by either Party without the prior consent of the 
+other Party. 
+MSA_Rev_092019 11600 Broadway Ext. Ste. 150, Oklahoma City, OK 73114 I 888-872-3787 Page 4 of6 
+MASTER SERVICES AGREEMENT 
+25. Notices. Written notices to Customer shall be considered given and received by Customer on the third day after the date deposited in the U.S. 
+Mail addressed to the address of record in USAD's billing records, or immediately upon delivery using electronic means such as e-mail or fax. 
+Written notice to USAD shall be considered given when received in writing at USAD's corporate offices listed below. 
+Customer Name: JAS Worldwide 
+Address: 6195 Barfield Rd 
+City, State, Zip: Atlanta, GA. 30328 
+Attn: 
+Fax/Email: 
+USA Digital Communications, Inc. 
+1 1600 Broadway Extension, Suite 150 
+Oklahoma City, OK 73114 
+Attn: Legal 
+Fax: (888) 254-5096 
+26. Assignment. Customer may not assign or transfer its rights or obligations under the Agreement without USAD's prior written consent which 
+will not be unreasonably withheld. USAD may assign the MSA and Services Agreements without Customer's consent. Any assignment or 
+transfer without the required consent is void. The MSA and Services Agreement will inure to the benefit of and be binding upon Customer's 
+permitted successors and assigns. 
+27. Arbitration. Except for an action seeking a temporary restraining order or an injunction relating to the purposes of this Agreement, or suit to 
+compel compliance with this dispute resolution process, the Parties agree to use the following alternative dispute resolution procedures as the 
+sole remedy with respect to any controversy or claim arising out of or relating to this Agreement or its breach. At the written request of either 
+Party, each Party will appoint a knowledgeable representative to meet and negotiate in good faith to resolve any dispute arising out of or 
+relating to this Agreement. The representatives shall have the discretion to determine the location, fonnat, frequency and duration of their 
+negotiations, and to utilize other alternative dispute resolution procedures such as mediation to assist in the negotiations. All discussions and 
+correspondence among the representatives shall be treated as confidential information developed for the purposes of settlement, exempt from 
+discovery, and shall not be admissible in the arbitration described below or in any lawsuit without the agreement of the Parties. If the 
+negotiations do not resolve the dispute within forty-five (45) days of the initial written request, the dispute shall be submitted to binding 
+arbitration by a single arbitrator experienced in the matters at issue and selected by the Parties in accordance with the rules of the American 
+Arbitration Association ("AAA"). The parties acknowledge that this Agreement is made pursuant to a transaction in interstate commerce, and 
+that any arbitration will be governed by the Federal Arbitration Act, 9 U.S.C. sec. 1, et seq. Any court with jurisdiction may enter judgement 
+upon the award rendered by the arbitrator. The arbitration will be held in Oklahoma City, Oklahoma. The Parties agree that the arbitration shall 
+proceed ex-parte in the event that a Party, after being duly notified refuses to participate in the arbitration. The prevailing party shall be entitled 
+to reasonable costs and attorney's fees. 
+28. Waiver and Amendment. The failure of either party to enforce any provision hereof on one or more occasions shall not constitute the 
+pennanent waiver of such provision. Any addition, deletion or modification to this Agreement shall not be binding on either party except by 
+written amendment executed by both parties. 
+29. Severability. Any provision of the Agreement that is deemed invalid, void, or illegal shall in no way affect, impair, or invalidate any other 
+provision of the Agreement, and the remaining provisions the Agreement shall remain in full force and effect to the greatest extent pennitted by 
+law. 
+30. Survival of Provisions. No termination of this MSA shall affect the rights or obligations of either party with respect to payment or with 
+respect to other provisions of this MSA that, by their sense and context, are intended to survive termination of this MSA, including without 
+limitation, indemnification, limitation of liability, confidentiality, governing law and forum selection. 
+31. Counterparts. This MSA may be executed in several counterparts, each of which shall constitute an original, but all of which shall constitute 
+one and the same instrument. 
+32. Governing law. This MSA and any amendments, attachments, Services Agreements or Service Orders shall be governed by and construed in 
+accordance with the laws of the State of Oklahoma. Customer hereby irrevocably submits to the personal jurisdiction of any state or federal 
+court sitting in the State of Oklahoma, County of Oklahoma, in any suit, action or proceeding arising out of or relating to this MSA. Customer 
+hereby irrevocably waives, to the fullest extent pennitted by applicable law, any objection which such party may raise now, or hereafter have, 
+to the laying of the venue of any such suit, action or proceeding brought in such court and any claim that any such suit, action or proceeding 
+brought in such a court has been brought in an inconvenient forum. 
+MSA_Rev_092019 l 1600 Broadway Ext. Ste. l 50, Oklahoma City, OK 73114 l 888-872-3 787 Page 5 of6 
+MASTER SERVICES AGREEMENT 
+33. Integration. The MSA, and all Attachments hereto, including Services Agreements and Service Orders, and all exhibits, schedules or addenda 
+incorporated into the MSA, represent the entire agreement between the Parties with respect to the Services and the MSA and supersede and 
+merge all prior agreements, promises, understandings, statemen ts, representations, warranties , indemnities and inducements to the making of 
+the MSA relied upon by either Party, whether written or oral. 
+In witness whereof, USAD and Customer have read, understand and agree to all of the foregoing tenns and conditions of this MSA and do 
+hereby execute by their signature below. 
+Title 
+u\ °'\ .)3 
+Date ' \ 
+Provider 
+USA Digital Communications, Inc. 
+Signature 
+nnte ame 
+Title 
+Date 
+MSA_Rev_092019 11600 Broadway Ext. Ste. 150, Oklahoma City, OK 73114 I 888-872-3787 Page 6 of6

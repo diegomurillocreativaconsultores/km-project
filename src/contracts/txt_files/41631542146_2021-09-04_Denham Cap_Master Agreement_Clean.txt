@@ -1,0 +1,430 @@
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 1 
+MASTER SERVICES AGREEMENT  
+THIS MASTER SERVICES AGREEMENT is dated as of September 10 , 2021 by and between the client 
+listed below on this cover page ( Client ) and Thrive Operations, LLC ( Thrive ) (Client and Thrive are each referred 
+to as a  Party  and collectively as the  Parties ).   
+CONTENTS OF AGREEMENT.   This Master Services Agreement  (this Agreement) is comprised of and 
+includes  the terms and conditions set forth in this cover sheet , the General Terms and Conditions set forth 
+below , and the terms and conditions of any Service Orders as may hereafter be made part hereof as 
+provided  herein.  
+Each Party has caused this Agreement to be executed by its duly authorized representative as of the day 
+and year first written above.  
+CLIENT: Denham Capital Management LP  
+ THRIVE OPERATIONS, LLC   
+By: ___________________________________  By: ___________________________________  
+Name: ________________________________  
+Name: _______________________________ _ 
+Title: _________________________________  Title:  __________________________________   
+Address for Notices  
+Denham Capital Management LP  
+185 Dartmouth Street  
+Boston, Massachusetts 02116  
+ATTN:   John Collins  
+Email:  john.collins@ denhamcapital.com    Thrive Operations , LLC  
+25 Forbes Blvd, Suite 3  
+Foxborough, MA  02035  
+ATTN:  Contract Operations  
+Email:  contract.operations @thrivenetworks.com    
+Authorized Signatory
+John P. Collins
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 2 
+GENERAL TERMS AND CONDITIONS  
+Part of  
+Master Services Agreement  
+Between Thrive Operations, LLC and Denham Capital Management  LP 
+Definitions :  The following capitalized terms are used with the meaning set forth below:  
+Products :  means products and other goods, including hardware, software and other tangible and intangible items, 
+and other deliverables provided to Client by Thrive as contemplate d by this Agreement.  
+Service (s):  means , services (including maintenance, support, security, hosting, procurement, development, 
+integration, administrative and other services ), including those to be provide d on a one -time basis and those to be 
+provided on a recurring monthly basis.   
+Service Order :  means a Service Order signed by the Parties referencing this Agreement and describing the 
+Products  and Services to be provided to Client by Thrive and setting forth the price and other terms and conditions 
+on which such  Products  and Services are to be provided.   
+Service Provisioning Date  means for each recurring monthly Service  to be provided under a Service Order the date 
+as of which Thrive makes such Service  available for use by Client.    
+Service Provisioning Completion Date  means for each Service Order the Service Provisioning Date for the last of 
+the recurring monthly Services  to be provisioned and made available  for use by Client under such Service Order.  
+1. SERVICES .   
+(a) General . This Agreem ent governs Products  and Services Thrive  or its affiliates  may provide 
+or sell to Client.  Products  and Services will only be delivered to Client pursuant to one or more Service Order s.  Once 
+executed  by both Parties , a Service  Order  becomes part of this Agreement, although the terms of a Service  Order  
+will govern only the Services described in that Service  Order .  The terms and conditions set forth in a Service Order 
+will control any discrepancy between  that Service Order and  these G eneral Terms and Conditions . 
+(b) Procurement  of Products .   
+(i) All purchases of Products  by Client from Thrive under a Service Order will be final at the time the 
+order therefor is placed by Thrive with a third-party  supplier .  Each  purchase of Products  from Thrive will be 
+considered an independent  and separate transaction from the purchase of Services from Thrive, even if both 
+Products  and Services are included in the same Service Order.   
+(ii) Thrive shall not be liable  for any damages, costs, or delays in the provision of Services by Thrive 
+under any Service Order arising  in connection with Clients procure ment of Products  from a party other than Thrive  
+(such procurement by Client referred to as  a Client Third Party Procurement ).  Client will reimburse Thrive for the  
+out-of-pocket expenses Thrive incurs  and will pay Thrive (at the hourly rates specified in the applicable Service Order ) 
+for the additional time Thrive devote s to the provision of Services  as a result of or arising  in connection with any Client 
+Third Party  Procurement.  
+(c) Price Changes .  Pricing for Services are subject to change as follows:  
+(i)         Thrive may pass on to Client the actual amount of any increase in the cost to Thrive of goods and  
+service s included in or among the Products  and Services that are sourced by Thrive from a Third -Party  Provider (as 
+referenced in Section 4 below) .  Thrive will notify Client at least 30 days in advance of any such increases and  provide 
+Client supporting documentation for any such increases upon request . 
+(ii) All prices for Services provided in accordance with any Service Order will increase by three percent 
+(3%) upon each renewal of such Service Order in accordance with the terms thereof . 
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 3 
+(d) Minimum Hardware, Operating System and Software Standards .  
+Client agrees to  maintain the minimum hardware, operating system and software standards  (and licenses 
+therefor)  set forth in each Service Order  or otherwise necessary to receive the Services , which may include, among 
+other matters, versions of operating systems and hardware, security, data protection and environmental (HVAC, and 
+electrical power)  controls and network bandwidt h  requirements  (such minimum standards, as the same may be 
+changed or supplemented by Thrive from time -to-time being referred to as  Minimum Standards ).  Unless otherwise 
+contemplated by a Service Order, Thrive  has no duty to assure or assess whether or not Clients network meets 
+Minimum Standards and  disclaims responsibility for any loss, damages, costs or delays Client incurs or realizes as a 
+result of or in connection with the failure or malfunction of any pa rt of Clients network or systems that do not meet 
+Minimum Standards.  Client will reimburse Thrive for the out -of-pocket expenses Thrive incurs  and will pay Thrive (at 
+the hourly rates specified in the applicable Service Order) for the additional time Thr ive devotes to the provision of 
+Services as a result of or arising in connection with Clients network components managed by Thrive not  adhering to 
+the Minimum Standards . Client will also adhere to any Acceptable Use Policies that may be in effect from tim e to time 
+and applicable to all Thrive customers, which will be communicated or made available by Thrive on its website, and 
+which will be deemed incorporated by reference herein.   
+(e) Access to Client Facilities .  Client will provide Thrive access to and right to use all Clients facilities, 
+including all hardware and software owned, leased or licensed by Client, to the extent reasonably necessary to enable  
+Thrive to provide Services to Client in accordance with these General Terms and Conditions  and any S ervice Order.  
+(f) Service Reduction .  Client will have the right to reduce or cancel the recurring monthly  end-user 
+and subscription based  Services  (excluding  Services on account of which Thrive has purchased equipment, licenses 
+or other property that is dedicated to its provisioning)  delivered pursuant to one or more of the Service Orders upon not 
+less than 30 days prior written notice to Thrive;  provide d that the resulting aggregate reduction in the recurring monthly 
+charges payable by Client as a result of all such reductions or cancellations of such Services shall in no even t exceed 
+ten percent (10%) of the  aggregate recurring monthly charges for such Serv ices as originally set forth  in the Service 
+Orders  in accordance with which  such Services  are provided . Notwithstanding  the forgoing, C lient may reduce or cancel 
+Services up to 30% of the recurring monthly  Services  (excluding  Services on account of which Thrive has purchased 
+equipment, licenses or other property that is dedicated to its provisioning)  up to 30% due to  a documented downturn in 
+its business and/or adverse change in its financial conditio n 
+(g) Thrive Equipment . Client will maintain and protect the equipment and other hardware and 
+tangible goods placed by Thrive in the Clients possession o r control (and that is not Clients property) in connection 
+with the provision of Services (collectively, Thrive Hardware) in good working condition, reasonable wear and tear 
+excepted, and  will not modify, disassemble, decompile, reverse engineer, rent,  lease, loan, transfer, or copy such 
+Thrive Hardware (including any software or firmware that is part of, incorporated into or running on the same). Client 
+assumes all risk of compliance with any government regulation relating to the operation of Thrive Ha rdware, as well 
+as the loss, damage, theft, or destruction thereof, while it is in the Client s possession or control or that of its agents, 
+including any carrier (except any carrier transporting Thrive Hardware from Thrive to Client), and Client will reim burse 
+Thrive for any costs of necessary repair or replacement (including shipping costs). Client will keep Thrive Hardware 
+free of all security interests, liens, and other encumbrances.  
+2. TERM . This Agreement is effective as of the date hereof and , unless earlier terminated as permitted herein,  
+will continue in effect during the Term of any Service Order (as defined therein) entered in connection herewith  and 
+thereafter in accordance with Section 9(e) below .    
+3. PAYMENT S.   
+(a) Fees  and Charges . Client agrees to pay Thrive the fees , charges , expenses  and other 
+amounts for  the Products  and each Service  specified in  a Service Order  during the Term of and as provided in such 
+Service Order  and in these General Terms and Conditions . In addition, Client will be responsible for payment of all 
+applicable sales and other taxes,  and all  surcharges and handling fees levied by third party suppliers , on Products  
+and Services provided  by Thrive.   
+(b) Commencement of Billing . Thrive will, subject to Section 3(f) below, bill Client for Products 
+included in a Service Order five (5) business days after Thrive notifies Client that the same is ready for shipment to 
+Clients site (without regard to delays i n Clients acceptance thereof).  Thrive will begin billing for one -time Services 
+included in a Service Order upon commencement of such one -time Services.  Thrive will begin billing for each 
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 4 
+recurring monthly Service included in a Service Order  beginning (6 0) sixty days from the date of Clients execution of 
+such Service Order  or, if earlier, beginning on the Service Provisioning Date of such Service, and continuing through 
+the end of the Term of such Service Order as set forth therein . 
+(c) Payment of Invoices . Invoices for fees, charges and other amounts charged  hereunder, 
+whether for  Products , Services or otherwise, will be due and payable in full within thirty (30) days of the date of invoice 
+therefo r.  Thrive may charge Client a finance charge of on e and one -half percent (1.50%) per month on balances 
+(other than those disputed pursuant to Section 3(d) below) for which payment has not been received within thirty (30) 
+days of the date  of such invoice.   
+(d) Disputes . If Client in good faith disputes an y portion of an invoice, Client will promptly pay 
+the undisputed portion of the invoice and submit to Thrive a written claim within thirty (30) days of the due date thereof 
+as provided in Section 3(c) above describ ing in reasonable detail  the basis of the dispute and including  any relevant 
+supporting documentation .  After receipt of such claim, Thrive will undertake an investigation of the disputed charges, 
+and, subject to Thrives rights under Section 9 below, both Parties agree to make a good  faith attempt to resolve the 
+dispute promptly.  Any failure by Client to submit a written dispute of charges  with the information specified above  
+within such thirty-day period  will be deemed final agreement by Client  without defense or counterclaim with a ll charges 
+on the invoice  for all purposes .  Client will be liable to Thrive for all reasonable fees and expenses, including 
+reasonable attorneys fees and litigation costs, that Thrive incurs to collect amounts due to Thrive from Client under 
+or in connec tion with this Agreement or any Service Order.   
+(e) Expenses . Client agrees to reimburse Thrive for all reasonable and ordinary out-of-pocket 
+expenses incurred by Thrive in delivering Products  and Services to Client, such as parking, out-of-area travel 
+expenses, international phone calls, and pay -per-incident third party support calls.  Thrive will itemize such expenses 
+on Clients invoices and will not incur any single expense greater than $ 250 without Clients prior written approval.    
+(f) Timing of Products  Orders . Thrive reserves the right to delay procuring Products  from third 
+party suppliers pending Thrives receipt from Client of payment of all or any portion (as determined by Thrive in its 
+discretion) of the price therefor set f orth in the Service Order providing for such Products .  Thrive will notify Client of 
+any requirement that Thrive receive payment for Products  in advance of Thrives ordering the same from  third party 
+suppliers and Thrive will not be responsible  thereafter for any damages, costs or delays Client experiences as a result 
+of the timing of the delivery of such Products  to Client under any Service Order.    
+4. THIRD PARTY GOODS & SERVICES .   
+ (a) Third Party Providers .  Client acknowledges that Services may include or incorporate goods or services 
+manufactured, produced and/or delivered by third parties ( Third -Party Providers ).  Thrive hereby assigns to Client 
+any warranties provided by Third Party Providers of goods an d services that are resold by Thrive (to the extent 
+permitted to be so assigned or passed through) and Client agrees to pursue all defective product, quality, breach of 
+warranty and other claims directly against such Third -Party  Providers  and not against T hrive. Thrive will not be 
+responsible for any such claims; however,  Thrive will reasonably assist Client in resolving any performance, quality, 
+breach of warranty or other claims of Client with the applicable Third -Party Providers of such goods or services .  Client 
+acknowledges that some Products  cannot be returned or cancelled once ordered.  At the request of Client, Thrive 
+will make a reasonable attempt to return Products  to the Third -Party Provider and Client agrees to reimburse Thrive 
+for any restocking fees  and other out -of-pocket expenses Thrive may incur in connection therewith .  However, Client 
+agrees that Thrive is under no obligation to take back from Client any Products  ordered from Thrive if Thrive is unable 
+to return those same Product s to the Third -Party  Provider.  Risk of loss or damage for Products  purchased from 
+Third -Party Providers will pass to Client when such Products  are delivered to Client, unless otherwise agreed in 
+advance in writing by Client and Thrive.   
+ (b)  Software Li censing . Thrive may use its own third -party software licenses in provisioning Services under 
+a Service Order , including among others, antivirus, antispyware and monitoring software (the  Software ).  Thrives 
+licenses to use such Software are and will rema in Thrives property  exclusively , and except as provided herein, Client 
+will obtain no right to such licenses or the source code  of the Software licensed thereby .  Thrive hereby grants to Client 
+a non -exclusive, worldwide, royalty -free, non -assignable and non-sublicensable license to use the Software solely in 
+connection with Services for which such Software is utilized  (a License ), which License will terminate immediately 
+upon termination of such Services.  Thrive may terminate such License  and any Services for which such License is 
+utilized  if it determines  that Client has breached the terms of the License.  Upon termination of the License, Client will 
+immediately cease to use the Software and re lated documentation and certify to Thrive within ten (10) days after 
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 5 
+termination that Client has, at Thrives option, either destroyed or returned to Thrive the Software and all 
+documentation and related information, and all copies thereof, whether or not modified or merged into other materials.  
+5. WARRANTIES, DISCLAIMER , LIMITATION OF LIABILITY  AND INDEMNIFICATION . 
+ (a)   Services .  Thrive warrants that  Services , including without limitation, those provide d by Third -Party 
+Providers, will be performed in a  professional manner conforming  in all material respects  to prevailing industry 
+standards and practices, applicable law, and the  specifications set forth in the  Service Orders  relating thereto .  
+Client acknowledge s that no network, system, device, hardware , software, or component can be made fully secure  
+and, accordingly, agrees that Thrive shall not be  liable for   damages arising from or in connection with loss of data 
+or breach of privacy of Client's systems except to the extent that Thrive's gross negligence or fraud (and not, e.g., 
+equipment failure, software failure, phishing attacks or other fraud ulent acts of third parties, or Client's failure to 
+follow Thrive's advice) is the direct and primary cause of such loss or breach.  
+   (b)  Warranty Disclaimer .  
+OTHER THAN THE WARRANTIES EXPRESSLY SET FORTH IN THIS SECTION 5 , THRIVE MAKES NO 
+REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, REGARDING PRODU CTS OR SERVICES 
+AND EXPRESSLY DISCLAIMS ALL OTHER REPRESENTATION S AND WARRANTIES, INCLUDING BUT NOT 
+LIMITED TO ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT.  
+ (c)  Limitation of Liability .   
+(i)  IN NO EVENT SHALL THRIVE  BE LIABLE FOR ANY INDIRECT, EXEMPLARY, INCIDENTAL, 
+SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING FROM OR IN CONNECTION WITH  THIS 
+AGREEMENT OR ANY BREACH HEREOF, WHETHER BASED ON BREACH OF CONTRACT, TORT 
+(INCLUDING NEGLIGENCE) OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, LOST REVENUE, LOST 
+PROFITS, REPLACEMENT GOODS, COST OF REPLACEMENT GOODS, LOSS OF TECHNOLOGY, RIGHTS 
+OR SERVICES, LOSS OF INFORMATION  OR DATA (WHETHER VIA PRIVACY BREACH OR OTHERWISE) , OR 
+INTERRUPTION OR LOSS OF  USE OF SERVICE OR EQUIPMENT, EVEN IF THRIVE  HAS BEEN ADVISED OF 
+THE POSSIBILITY OR LIKELIHOOD OF SUCH DAMAGES.   
+ (ii)  EXCEPT IN THE CASE OF THRIVES GROSS NEGLIGENCE  OR FRAUD  THRIVE SHALL IN NO 
+EVENT BE LIABLE FOR DAMAGES ARISING UNDER OR IN CONNECTION WITH THIS AGREEMENT OR THE 
+PROVISION OF SERVICES HEREUNDER IN AN AMOUNT EXCEEDING THE AMOUNT OF FEES FOR 
+SERVICES PAID BY CLIENT TO THRIVE DURING THE THREE (3) MONTHS IMMEDIATELY PRECEDING THE 
+DATE ON WHICH THE EVENT GIVING RISE TO SUCH LIABILITY OCCURED . 
+(d)  Mutual Indemnification .  Subject to the terms and conditions hereof, each Party (an "Indemnifying 
+Party") shall defend at its own expense the other Party, including the other Party's directors, officers, employees, 
+agents and affiliates (collectively, the "Indemnified Party"), from and against any and all third -party claims, demands, 
+suits or actions to the extent resulting from or arising out of the Indemnifying Party's (i) grossly negligent acts or 
+omissions or fraud in connection with this Agreement, (ii) violation of any statute, law, ordinance or regulation, or (iii) 
+infringement of any patent, copyright, trademark, trade secret or other intellectual property or other rights of a third 
+party (collectively, an "Indemnifiable Claim"). W ith respect to each Indemnifiable Claim, the Indemnifying Party shall 
+indemnify and hold harmless the Indemnified Party from and against any and all damages, judgments, awards, 
+expenses, and costs (including without limitation those of the type described i n Section 5(c)(i) above) that are awarded 
+and payable to the third party by a court of competent jurisdiction or that are payable pursuant to a settlement made 
+or approved by the Indemnifying Party.   The Indemnifying Party shall have right to defend any I ndemnifiable Claim 
+with counsel of its choosing.  
+6.  INTELLECTUAL PROPERTY RIGHTS .   
+(a)  Thrive Intellectual Property . Thrive retains right, title and interest in and to the Services, all 
+intellectual property rights contained therein, and all modificatio ns, alterations, derivative works and enhancements 
+made thereto (collectively,  Thrive IP ).  Client may not modify or create derivative works from or copy any ideas , 
+Features , functions or graphics of the Services or Thrive IP or modify or make derivative  works based thereon , or offer 
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 6 
+the Services on a timeshare or service bureau (including software -as-a-service) basis .  Client may use Thrive IP in 
+accordance herewith and any Service Order solely as necessary to utilize Services for its own account and oth erwise 
+will not disclose or use Thrive IP for any purpose.   
+(b)  Client Intellectual Property .  Client retains all right, title and interest in and to all of Clients 
+intellectual property rights transmitted by or on behalf of Client to Thrive in connecti on with the Services (collectively, 
+Client IP ).  Thrive may not modify or create derivative works from or copy any ideas , features , functions or graphics 
+of the Client IP or modify or make derivative works based thereon.  Thrive may use Client IP in  accordance herewith 
+and any Service Order in  connection with providing Services to Client and otherwise will not disclose or use Client IP 
+for any purpose.   
+7. CONFIDENTIALITY .  The Parties acknowledge that in connection with this Agreement  each may 
+receive from the other certain non-public  information regarding the other P artys financial condition, suppliers, clients, 
+business plans and other information not generally known to the public, including, without limitation, the terms  and 
+condit ions of this Agreement  r ("Confidential Information ").  The Party receiving  Confidential Information of the other 
+Party will not except as is required by law or legal process disclose such Confidential Information  (i) to any person 
+known by the receiving P arty to be competitor of the other Party   or (ii) to other third parties  other than the receiving 
+Partys employees , representatives and  contractors who are  bound by confidentiality obligations comparable to those 
+set forth herein  and who need to know such  Confidential Information for purposes of  the receiving Partys performance 
+or receipt of the benefits of this Agreement , and will  not use Confidential Information except in connection therewith .  
+A Party that has received tangible embodiments of Confident ial Information shall promptly return to the disclosing 
+Party or destroy such Confidential Information upon the disclosing Partys request ; provided that the receiving Party 
+is not obligated to delete, purge or expunge Confidential Information maintained o n its backup servers and similar 
+devices in the ordinary course of its business  (but nevertheless remain s obligated under this Section 7 with respect to 
+any such retained Confidential Information) .  The obligation to maintain the confidentiality of Confidential Information 
+shall continue for so long as this Agreement shall remain in effect and for a period of two (2)  years after the termination 
+hereof , except that the obligation to maintain the con fidentiality of trade secrets shall continue in perpetuity.  If the 
+Parties have entered into a separate non-disclosure or other agreement regulating the use or disclosure of the Parties 
+respective information, then the terms of such separate agreement will control in the event of a conflict between such 
+separate agreement and this Section 7.   
+8.  HIRING OF REPRESENTATIVES . For so long as this Agreement remains in effect and 
+for a period of one (1) year thereafter,  neither Party will employ, hire, contract  with, or otherwise engage, or 
+seek to employ, hire, contract with, or otherwise engage, any individual who at any time in the preceding twelve 
+(12) months was an employee  of the other Party involved in the provisioning or receiving of Services under any 
+Service Order .  The Parties  agree that any breach of this Section 8 will result in irreparable injury to the other 
+Party  for which monetary damages alone would not be an adequate remedy.  Therefore, the Parties agree that 
+in the event of a breach or threate ned breach of this Section 8 by the other Party , the non -breaching Party  will 
+be entitled to specific performance and injunctive or other equitable relief as a remedy for any such breach or 
+threatened breach without the necessity proving the inadequacy of money damages or of posting a bond or 
+other security .   
+9. TERMINATION .    
+(a) Termination of Agreement and Service Order s for Breach  of Terms .  
+(i) Breach of terms of General Terms & Conditions .  Each Party may notify the other Party if the other 
+Party breaches  the terms  of these General Terms and Conditions , which notice will describe in reasonable detail the 
+nature of such breach  and including relevant supporting documentation .  Unless the breaching Party within thirty (30) 
+days of its receipt of such notice either cures or remedies  the breach described in su ch notice in all material respects  
+or provides the other Party with a reasonable written plan for doing so , the other Party may, without limitation of its 
+other rights and remedies under applicable law, terminate this Agreement by providing written notice of termination  
+to the breaching Party . 
+(ii) Breach of terms of a Service Order . Each Party may notify the other Party if the other Party 
+breaches the terms of any Service Order, which notice will describe in reasonable detail the nature of such breach  
+and including relevant supporting documentation ; including b ut not limited to Thrive non -compl iance with Service 
+Level Agreement s expressly stated in a Service Order   Unless the breaching Party within thirty (30) days of its receipt 
+of such notice either cures or remedies the breach described in such notice in all material respects or provides the 
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 7 
+other Party with a reasonab le written plan for doing so , the other Party may , without limitation of its other rights and 
+remedies under applicable law,  terminate those Services  under such  Service Order as to which such breach relates 
+(and not this Agreement , other Services provided under such Service Order  or any other Service Order as may then 
+be in effect) by providing written notice of termination to the breaching Party.    
+(b) Suspension or  Termination of Services by Thrive for Failure to Pay . Notwithstanding the 
+provisio ns of Section 9(a) above, i n the event Client does not timely make  payment s under this Agreement (other 
+than amounts timely disputed in accordance with Section 3(d) above, pending the resolution of such disputes)  and 
+such payment(s) is (are)  not made  by Cl ient within ten (10 ) days of receiving written notice thereof from Thrive, (which 
+notice may be delivered to Client in the same manner as Thrive sends invoices to Client in the ordinary course) Thrive 
+may, without limitation of its other rights and remedies under applicable law,  suspend or terminate providing  Services 
+to Client  under any Service Order as may then be in effect , and Thrive will have no liability for any damage s incurred  
+or realized  by Client as a result of such suspension or terminatio n of any such Service s.  No such suspension or  
+termination of Service  under a Service Order  due to Clients non -payment will relieve Client of its obligations to pay 
+all charges and other amounts and  otherwise comply with and fulfill its obligations under this Agreement, including 
+under that or any other Service Order  as may be in effect .  If Services are suspended for non -payment, lapse in 
+service will not count towards completion of the Term of such Services .   
+(c) Suspension . Notwithstanding the provisio ns of Section 9(a) above, Thrive may suspend the 
+Services immediately upon notice to Client if: (i) Client materially violates (or Thrive believes in good faith that Client 
+has materially violated) any provision of this Agreement or any provision of the applicable Thrive Acceptable Use 
+Policy  (https://thrivenextgen.com/acceptable -use-policy/ ); (ii) there is an unusual and material spike or increase in 
+Clients use of the Services and Thrive  believes, in good faith, that such traffic or use is fraudulent or materially and 
+negatively impacting the operating capability of the Services; or ( iii) Thrive determines in good faith that its provision 
+of the Services is prohibited by applicable Law ; or (iv) Thrive determines in good faith that Client is using the Products 
+or Services in violation of applicable law or for an otherwise unlawful purpose . Notwithstanding the foregoing, Thrive 
+will use commercially reasonable efforts to (x) provide Client as much prior notice as possible of any situation that it 
+is aware of that could lead to a right to suspend described in this subsection, and (y) work with Client to remedy any 
+situation that could lead to a right to suspend described in this subsection if such situation can be remedied.  
+(d) Duties Upon Termin ation or Expiration .  
+(i) Payment of Obligations/Return of Property .  Upon the  expiration or  termination of this Agreement 
+or any Service Order, Client will pay the full amount of all unpaid invoices issued under any outstanding Service Order 
+and any other  payment obligations specified in each outstanding Service Order (other than amounts timely disputed 
+in accordance with Section 3(d) above, pending the resolution of such disputes) .  In addition, excluding any software 
+and hardware that is the  Client s pro perty , Client will return all software and hardware provided to Client by Thrive in 
+good working condition and free from all liens, charges and encumbrances within thirty days of termination of this 
+Agreement or the applicable Service Order(s) . 
+(ii) Termin ation Status  Reporting ; Further Services .   Thrive will upon expiration or termination of 
+any Service under any Service Order  and receipt of all amounts then due and payable  to Thrive under  this Agreement  
+as relates to such expired or terminated Service  (other than amounts timely disputed in accordance with Section 3(d) 
+above, pending the resolution of such disputes)  provide Client a written report on the status of the Service  in a form 
+and level of detail  reasonably satisfactory to Client .  If requested by Client, Thrive will assist Client in winding down 
+or transferring the terminated or expired  Service to Client or its designee  ( such assistance being referred to as  
+Migration Services ) in accordance wi th a mutually agreed separate Service Order  signed by the Parties  setting forth 
+the terms and conditions thereof, which will include , among other terms  to which Parties may agree , Client agreeing 
+to pay Thrive  for such Migration Services , if applicable, at the hourly rates  set forth in the Service Order under which 
+such Service was provided  (and if no such rates are set forth in such Service Order, then at hourly rates agreed to 
+by the Parties) .  Except as set forth above in this Section 9(d)(ii)  and, if applicable, any Service Order providing for 
+the provision of Migration Services , Thrive will have no duty or obligation to provide any  Products  or Service or any 
+other service or assistance to Client following the expiration or termination of a Service in accordance herewith.   
+(e) Survival.  The following provisions will survive any expiration or termination of this 
+Agreement: Section 3 (Payment s), Section 4 (Third Party Products  & Services), Section 5 ( Warranties, Disclaimer 
+and Limitation of Liability), Section 6 ( Intellectual Property Rights ), Section 7 (Confidentiality), Section 8 ( Hiring of 
+Representatives ), this Section 9 (Termination), Section 10 (Force Majeure),  and Section 12 (General Terms).  
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 8 
+10. FORCE MAJEURE . Except for payment obliga tions, neither Party will be liable for any failure 
+or delay  in performance  of its obligations under this Agreement arising out of or caused, directly or indirectly, by  
+circumstances or causes beyond its reasonable control , including, without limitation, fire, pandemics  or other 
+casualty, act s of God,  fiber cuts or Internet delays, delay or failure of Third -Party Providers, war, terrorism, or other 
+violence  or criminal acts , any law, order , requirement  or act of any government or governmental agency or aut hority 
+or other causes beyond the reasonable control of such Party, provided that such Party has informed the other Party 
+of such force majeure  event promptly upon the occurrence thereof (including a reasonable estimate of the additional 
+time required for  resumed  performance to the extent determinable) and such Party uses reasonable commercial 
+efforts to resume  performance  hereunder  as soon as reasonably practicable.   
+11. INSURANCE .  Thrive will maintain  insurance providing at least $1 ,000,000 commercial 
+general liability coverage, as well as statutory workers compensation coverage.  Upon Clients request, Thrive will 
+deliver to Client  promptly  a certificate of insurance made out by the applicable insurer(s) or their authorized agents 
+as evidence of the in surance required under this Section and for any material policy amendments thereto.  At Clients 
+request, Client will be identified as an additional insured ATIMA (as their interests may appear) on such certificate of 
+insurance.   
+12. GENERAL TERMS .   
+(a) Governing Law ; Jurisdiction; Venue . This Agreement will be governed by and construed in 
+accordance with the internal laws of the Commonwealth of Massachusetts , without regard to the conflict s or choice 
+of law provisions thereof that would give rise to the application of the domestic  substantive  laws of any other 
+jurisdiction . The Parties agree that any proceeding arising out of or relating to this Agreement will be brought only in , 
+and hereby submit to the jurisdiction of,  the state or federal courts  sitting in the Commonwealth of Massachusetts  
+and hereby  waive any objections to the jurisdiction, venue or convenience of any such courts .  EACH PARTY 
+WAIVES TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW ANY RIGHT IT MAY HAVE TO 
+TRIAL BY JURY IN AN Y PROCEEDING ARISING OUT OF, UNDER OR IN CO NNECTION WITH THIS 
+AGREEMENT.  
+(b) Assignment . Neither Party may assign its rights or delegate its duties hereunder without the 
+prior written consent of the other Party ; provided that either Party may assign its ri ghts hereunder to, and cause its 
+obligations hereunder to be assumed by, a successor to  substantially all of the assets or business of such Party .  If 
+there is any assignment or delegation in violation of any of the foregoing restrictions, the non -breachi ng Party may 
+terminate this Agreement and all S ervice  Orders as may then be in effect upon written notice within ninety (90) days 
+after notice or  discovery of such assignment . 
+(c) Headings .  The section headings herein are for ease of reference and convenience only and 
+are not to be considered in the interpretation of this Agreement.  
+(d) Interpretation . Neither Party shall be considered the drafter of this Agreement or any schedule , 
+addendum  or exhibit as may be made part thereof so as to give rise to any presumption or convention regarding 
+construction hereof or any such other writing.  
+(e) Integration; Severability . Except as provided in Section 7 above with respect to separate 
+nondisclosure or confidentiality agreements between the Parties, this Agreement, including any Service Orders, sets 
+forth the entire agreement and understandings between the Parties hereto with respect to the subject matter hereof, 
+and merges all previous and contempora neous discussions and negotiations between the Parties and supersedes 
+and replaces any other agreement that may be in effect as of the date hereof between the Parties or their respective 
+subsidiaries or other affiliates with respect to the subject matter h ereof .  Without limitation of the foregoing, this 
+Agreement  supersede s and replace s in its entirety any Master Services Agreement  or similar document  as may be 
+in effect as of the date hereof between the Parties or their respective subsidiaries or other affiliates  (any such 
+agreement being referred to as the Original Agreement ).  The parties agree that any statements of work, s ervice 
+orders and similar writings as may be  outstanding and in effect under the Original Agreement (t he Outstanding 
+SOs) are, from and after the date hereof, Service Orders for all purposes of these General Terms and Conditions  
+and the Master Service Agreement or similar agreement referenced in the Outstanding SOs shall from and after 
+the date hereof be a reference instead to this Agreement .  Notwithstanding the foregoing, all amounts due  to Thrive 
+under the terms of the Original Agreement or Outstanding SOs remain due  in accordance with the terms of the 
+Original Agreement or Outstanding SOs,  and unl ess otherwise specified herein, no such amounts are settled, 
+released or compromised hereby .   This Agreement will be interpreted in such a manner as to be effective and valid 
+Thrive Operations, LLC Confidential Information            MSA Thrive Operations, LLC  v4b 
+ 9 
+under applicable law, but if any provision hereof will be prohibited or invalid under any such law, such provision will 
+be ineffective to the extent of such prohibition or invalidity, without invalidating or nullifying the remainder of such 
+provision or any other provisions of this Agreement.  If any one or more of the provisions of these General Terms and 
+Conditions  or any Service Order will for any reason be held to be excessively broad as to duration, geographical 
+scope, activity or subject, such provisions will be construed by limiting and reducing it so as to be enforceable to the  
+maximum extent permitted by applicable law.  
+(f) No Third -Party Beneficiaries . There are no third -party beneficiaries of this Agreement  or any 
+schedule , addendum  or exhibit as may be made part hereof . 
+(g) Residual Knowledge .  Nothing herein shall be construed to prevent or in any way limit Thrive from 
+using general knowledge, skill and expertise acquired in the performance of this Agreement in any current or 
+subsequent engagement or business.  Client shall have no interest in such engagements or busin ess. 
+(h) Signatures,  Amendments  and Waivers  and Exercise of Rights . 
+(i) Signatures .  This Agreement  and amendments or modifications hereof and consents and waivers 
+relating hereto may be executed, issued  and accepted electronically (via authenticated digital or similar electronic 
+means) and will be effective when transmitted bearing a copy of a manual, digital or electronic signature.  
+(ii) Amendments and Waivers .  Amendments to and waivers of the provisio ns of this Agreement  must 
+be in writing (including in a digital format) and signed as provided in Section 12(h)(i) above .  
+(iii) Exercise of Rights .  Except as otherwise provided herein, no  failure to exercise or delay in exercising 
+any right, power or rem edy will operate as a waiver thereof; nor will any single or partial exercise of any right, power 
+or remedy hereunder preclude any other or further exercise thereof or the exercise of any other right, power or 
+remedy.   
+(i) Notices . Notices required or permitted to be provided hereunder will be in writing and ,  
+except as otherwise provided herein, will be valid and sufficient if delivered in person or sent by nationally recognized 
+overnight courier or by email addressed to the Parties at the  addresses listed on the cover page of this Agreement .  
+Notices will be deemed received by the Party to whom notice is addressed on the date delivered, if delivered in 
+person  or by email , or on the next business day after being provided to a nationally rec ognized overnight courier 
+service, delivery charges  prepaid, for next day delivery.   
+(j) Publicity . Each Party may use the other Partys name and logo on its website and printed 
+materials to identify Thrive as  a service provider to Client.  
+(k) Independent Contractor . Each of the Parties is an independent contractor and neither 
+Party is, nor will be considered to be , an agent, distributor or representative of the other.  All personnel supplied or 
+used by each Party will be its employees or subcontractors and each Party assumes full responsibility for the actions 
+of such personnel and for the payment of their compensa tion (including, if applicable, withholding of income taxes 
+and the payment and withholding of social security and other payroll taxes), workers compensation, disability benefits 
+and the like to the extent applicable.   
+END OF GENERAL TERMS AND CONDITIONS

@@ -1,0 +1,68 @@
+MCA -US_0 8Jan2024  Equinix Proprietary and Confidential   
+MAIN COUNTRY AGREEMENT  
+UNITED STATES 
+This Main Country Agreement (United States) (the  MCA (US)  which also may be referred to as " MSA ") is entered into 
+on_______________________(the " Effective Date") by and between Select Medical Corporation, a Delaware corporation, for the 
+benefit of itself and its subsidiaries, affiliates, joint ventures, partnerships, managed and contracted entities (hereinafter referred to as 
+the "Customer ") and Equinix LLC,  for and on behalf of itself or its Affiliates, each of whom may provide use of Licensed Space and 
+Services pursuant to an agreed Order from time to time (and each referred to herein as Equinix).  Customer and Equinix may be referred to collectively as  Parties or individually as a Party.  
+In consideration of the mutual covenants and conditions set forth below, Equinix and Customer agree as follows:  
+1. This MCA (US) incorporates the Global Terms and Conditions attached as Attachment A ("GTCs") and all other attachments 
+to this MCA (US).  The term "Agreement" as used in this MCA (US) and in the GTCs shall mean this MCA (US) and everything 
+incorporated by reference into this MCA (US) and in the GTCs, including the Policies and all Orders.  Capitalized terms used but not 
+defined in this MCA (US) shall have the meaning ascribed to them in the GTCs.  
+2. This Agreement will be governed in all respects by the internal laws of the state of New York  without regard to its conflict 
+of law provisions.  The Parties each irrevocably agree to the exclusive jurisdiction of the courts of New York  and waive any right to 
+bring any action against the other Party in any other jurisdiction or courts.  If any legal action is brought by either Party  arising from, 
+or related to, the subject matter of this Agreement, the prevailing Party will be entitled to an award of its reasonable attorneys' fees 
+and costs.  
+3. Customer will not file a mechanics lien or similar lien on, or in connection with, the Licensed Space or IBX Centers.  Without 
+limiting the foregoing, in the event a mechanics lien or similar lien is filed on or in connection with, the Licensed Space or IBX Centers, 
+Customer will be responsible for the immediate satisfaction, payment or bonding of any such lien. In no event will Customers  
+Equipment be construed as fixtures.  
+Executed as an Agreement, which shall not take effect until signed by both Parties below.  
+Customer to complete:  
+Customer warrants and represents that the individual signing 
+below has full authority to execute this Agreement on behalf of 
+Customer.  Equinix to complete:  
+Equinix warrants and represents that the individual 
+signing below has full authority to execute this Agreement 
+on behalf of Equinix . 
+Customer Name:   Select Medical Corporation  Equinix LLC  
+(Complete Legal Name )  
+Authorized Signature: {{_es_signer1_signature }}   
+Authorized Signature: {{_es_:signer2:signature         }}  
+Printed Name: {{_es_:signer1:fullname                     }}  Printed Name: {{_es_:signer2:fullname         }}  
+Title: {{_es_:signer1:title               }}   
+Title: {{_es_:signer2:title         }}  
+Street address for notices:   
+Street address for notices:  Agreement Number: 00238345.0  
+[On following page]
+MM
+09/23/2024
+VP Acknowledgement/Nonassent:
+Brian Rusignuolo (Sep 27, 2024 10:50 EDT)
+EVP & CIO
+Brian Rusignuolo
+MCA -US_0 8Jan2024  Equinix Proprietary and Confidential   
+Select Medical Corporation  
+Attn: CIO & EVP  
+4714 Gettysburg Rd.,  
+Mechanicsburg, PA 17055  
+With a CC to:  Select Medical Corporation  
+Attn: EVP & Dep. GC  
+4714 Gettysburg Rd.,  
+Mechanicsburg, PA 17055  
+ Equinix LLC  
+One Lagoon Drive, 4th Floor  
+Redwood City, California 94065, USA   
+Phone: + 1 650-598-6000  
+Facsimile number: +1 650- 618-1857 
+MCA -US_0 8Jan2024  Equinix Proprietary and Confidential   
+Attachment A  
+Global Terms and Conditions  
+The remainder of this page is intentionally blank.  
+ Signature:
+Email:
+Matthew Martin (Sep 23, 2024 10:13 EDT)
+mmartin@selectmedical.com

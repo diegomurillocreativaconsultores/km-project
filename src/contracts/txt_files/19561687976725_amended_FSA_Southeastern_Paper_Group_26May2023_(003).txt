@@ -1,0 +1,260 @@
+Ver. 04252022    
+This Frontier Services Agreement  (FSA)  is effective as of  05/25/2023  by and between  Frontier Communications of America , Inc. on behalf of itself and 
+its affiliates  which provide Equipment and S ervices identified in the Schedules (Frontier ), and  Southeastern Paper Group , whose primary address is 7080 
+Havertys Way, Lakeland, Florida, 33805  (Customer) .   
+1. Provision of Services  and Equipment  
+a. Frontier will provide and the Customer agre es to pay for the  communications, installation and maintenance  services  (collectively  Service ), 
+and/or purchase or lease equipment  (Equipment) , described in this FSA and Schedules executed by Customer .  
+b. Customer acknowledges that certain  Services may be governed by tariff  or price schedule filed with the Federal Communications Commission 
+and/or the s tate public utilities commission . In the event of any inconsistencies between this FSA and an applicable tariff, the tariff  shall control  except with 
+respect  to pricing, early termination charges or cancellation charges for which this FSA shall control .   
+c. Frontier will provide, maintain and repair the Frontier owned facilities and equipment used to provide the Services  (Frontier (s) Network) , up to 
+and including the point at which Frontier s Network is  made available for interconnection to Customers premises equipment or inside wiring.  Customer 
+shall provide Frontier reasonable access to Customers premises during normal business hours for the purpose of installing, inspecting, testing, 
+rearranging, repairing or removing any Frontier Network components , including obtaining approvals , permits or licenses  from third parties as necessary . 
+Customer will cooperate in good faith and provide all reasonable information and authorizations required by Frontier for the purpose of installing Services  
+and/or Equipment , performing routine network grooming, maintenance, upgrades, and addressing emergencies, includin g but not limited to design layout 
+records of any Customer or third party network elements to be connected to the Services and Letters of Agency allowing Fronti er to act on the Customers 
+behalf related to the Services and a uxiliary third party services.  
+d. Only authorized agents and representatives of Frontier may perform maintenance work  with respect to Frontiers  Network .  Any repair, alteration, 
+configuration or servicing of Frontiers  Network , Services or Equipment by Customer or third parties without the written consent of Frontier is a material 
+breach  of this FSA and cause for termination at Frontiers option.  
+e. If Frontier is unable to commence performance hereunder due to circumstances within Customers control, an y related costs incurred by Frontier, 
+including but not limited to travel at normal rate and overtime labor rate expenses, will be reimbursed by Customer. Customer  will reimburse Frontier for 
+all costs incurred for installation, maintenance and repair if: (i) Frontiers  Network  is altered, maintained or repaired by any party other than Frontier, without 
+Frontier prior written consent, (ii) the malfunction of the Service or Equipment is the result of mishandling, abuse, misuse, improper operation, improper 
+storage, or improper in stallation by anyone other than Frontier (including use in conjunction with equipment electrically  or mechanically incompatible) ; or 
+(iii) if the problem originated from a source unrelated to Frontiers  Network . 
+f. Customer will provide (i) suitable building facilities (including but not limited to space, circuitry, power, backup power, and surge protectors) for 
+the installation, operation, and maintenance of Frontiers  Network  in accordance with manufacturers documentation and Frontiers installation standards, 
+more fully described in the applicable Schedule; and (ii) a well -lighted and safe working area that complies with all local safety standards and regulations.  
+g. The Servic es or Equipment may be connected with the services or facilities of other carriers.  Frontier may, when authorized by Customer and 
+as may be agreed to by Frontier, act as Customers agent for ordering facilities provided by other carriers to allow such con nection of Customers locations 
+to Frontiers Network or to the network of an underlying carrier or service.   
+h. Customer is responsible for all charges billed by other carrie rs or third parties .  Frontier shall not be responsible for the installation, opera tion, 
+repair or maintenance  or performance  of equipment , facilities, software  or service  not provided directly by Frontier.   Customer is responsible to provide 
+equipment compatible with the Service or Equipment and Frontier's Network , and any wiring required to extend a communications termination and/or 
+demarcation at the Customer premises . Customer will provide suitable buildin g facilities for the provision of Services in accordance with local codes, 
+including but not limited to ducting, conduit, structural borings, etc. for cable and conductors in floors, ceilings and wall s; electrical service with suitable 
+terminals and power surge protection devices; and metallic grounds with sufficient slack in the equipment room, installed in conformity with the National 
+Electrical Code and local codes, and Frontiers installation standards.  
+i. Customer is solely responsible for the selection, implementation and maintenance of security features for protection against unauthorized   or 
+fraudulent use of the Services  and Equipment . Customer is solely responsible for (a) ensuring that all of Customers data is adequately secured, 
+documented and backed -up at all times  and (b) reimbursing Frontier for costs incurred by Frontier related thereto .  Frontier and its contractors are not 
+responsible or liable for data loss  and/or unauthorized or fraudulent use of Customer Services or Equip ment  for any reason  and Customer agrees to 
+reimburse Frontier  for costs incurred by Frontier  related thereto.   
+j. Frontier will manage the Frontier N etwork in Frontiers sole discretion , and reserves the right to substitute, change or rearrange any equipment 
+or facilities used in delivering Services  or provisioning the Equipment .  Frontier will endeavor to provide reasonable notice  prior to any scheduled 
+maintenance, planned enhancements or upgrades, which may result in a degradation or disruption in  Service.  Frontier reserves the right to suspend 
+Service for emergency maintenance to Frontier's N etwork without notice to Customer.  Customer shall designate a primary contact for receipt of such 
+notice.   
+k. Customer represents and warrants that its use of  the Service  and Equipment  will comply and conform with all applicable federal, state and local 
+laws, administrative and regulatory requirements and any other authorities having jurisdiction over the subject matter of thi s FSA and Customer  will be 
+responsible for applying for, obta ining and maintaining all registrations and certifications which may be required by such authorities with respect to such 
+use. 
+l. Except as expressly identified in a Schedule, Customer and its employees shall be the only permitted end -user of the Services  and leased 
+Equipment .  Customer shall not resell or bundle the Services  or leased Equipment , nor permit any third party to access the Services or leased Equipment 
+in exchange for compensation of any kind.  
+Ver. 04252022    
+2. Term  
+The term of this FSA will commence as of the  date identified in the introductory paragraph above or the date the FSA is executed by both Parties, whichever 
+is later (the  Effective Date ) and will continue through the Service  Term with respect to any Service or Equipment provided pursuant to this FSA. Customer 
+will purchase the Services , or lease Equipment,  identified in each Schedule for the period of time stated in the Schedule (the Service Term ).  Unless 
+otherwise stated in the Schedule, the Service Term and billing for the Service,  will begin upon the earlier of (i) Customers use of the applicable Service(s)  
+or Equipment  or (ii) five (5) days following Frontiers installation of such Service(s ) or Equipment , and such date is deemed the commencement of the 
+applicable Service Term .  If neither party provides the other with written notice of its intent to terminate a Service at least sixty (60) days prior t o expiration, 
+the Service Term of each Se rvice will automatically renew for additional one -month periods, subject to the terms and conditions of this FSA and at the 
+then applicable monthly term rate, excluding promotional rates.  If the parties agree to negotiated renewal terms, such terms will no t be effective unless 
+and until documented in writing and executed by both parties.   
+3. Payment  
+a. Customer shall pay all charges set forth in the Schedules and in applicable tariffs during the Service Term .  Frontier will invoice Customer any 
+non-recurring charges (NRC ), monthly recurring charges (MRC) , and usage based charges .   
+b. In addition to the applicable charges set forth in the tariffs and Schedules, Customer shall pay all applicable federal, state or local sales, use, 
+privilege, gross receipts, utility, value added, excise or other taxes ( excludin g taxes based on Frontiers net income), or any charges in lieu thereof, and 
+any applicable surcharges or fees, whether government mandated or Frontier initiated including but not limited to Primary Interexchange Carrier Charge, 
+Federal Pre -Subscribed Line  Charge , Carrier Cost Recovery Surcharge, E -911, and Universal Service and Local Number Portability, in the amounts 
+applicable at the time of billing.  Customer shall also be responsible for third party charges  and penalties incurred as a result of Custome rs use of the 
+Services  or Equipment  and/or unauthorized or fraudulent use thereof due to Customer s conduct.  
+c. All payments shall be due within thirty (30) days of the invoice date and , in addition to and not in lieu of any other remedies Frontier may have 
+hereunder or under the law as a result of Customers failure to pay,  late payments shall be subject to a late payment fee of the lesser of one and one -half 
+percent (1.5%) per month or the maximum allowed by law.  In the event Customer disputes any inv oiced amount, Customer will pay all charges not 
+disputed, and notify Frontier of the dispute in writing, providing an explanation of the basis for the  dispute.  If Frontier does not receive notice of a payment 
+dispute by Customer within ninety (90) calenda r days after the date  of an invoice, such invoice will be final and not subject to further challenge.  For the 
+purpose of computing partial month charges, a month will consist of thirty (30) calendar days.  Frontier reserves the right to immediately suspend or 
+terminate any or all Services or the installation or  lease  of any or all Equipment if Customer is overdue more than thirty  (30) days for payments that have 
+not been disputed in good faith.  
+4. Cancellation and Early Termination Charges  
+a. If Customer c ancels any Service  or Equipment  prior to delivery of any E quipment or installation  of the Service  or Equipment , Customer shall pay 
+a cancellation charge  equal to  the NRC and  one (1) month of MRC  for the Service, plus the total costs and expen ditures  of Frontier in connection with 
+establishing  the Service prior to Frontiers receipt of notice of cancellation, including but not limited to any Equipment restocking fees .   
+b. Following installation , Cus tomer may terminate a Service  or Equipment by providing at least thirty (30) days prior written notice to Frontier. All 
+unpaid amounts shall be due upon termination of any Service identified in a Schedule for any reason . In addition, and unless otherwise specifically provided 
+in the applicable Schedule, if any Service  or Equipment is terminated by Customer for any reason other than breach  by Frontier  or by Frontier due to 
+Customers breach,  then Customer shall pay Frontier a termination ch arge equal to the applicable MRC and all related taxes and surcharges multiplied by 
+the number of months remaining in the Service Term.   Partial months shall be prorated.   
+c. Customer agrees  that Frontiers damages in the event of early termination will be di fficult or impossible to ascertain , and that t he charges 
+identified in this Section are intended, therefore, to establish liquidated damages in the event of termination an d are not intended as a penalty.  
+5. Limitation of Liability and Warranty Provisions  
+a. The liability of Frontier and its affiliates related to  this FSA or the Service or Equipment provided under this FSA,  shall in no event (a) exceed 
+the limitations of liability set forth in the applicable tariffs , regulatory rule or order , (b) i f there is n o applicable tariff, regulatory rule or order, the total amount 
+paid for the applicable Service  or Equipment  during the prior 12 months .  In cases of an Outage, Frontiers liability shall be limited to 1/720 of the MRC  for 
+each hour  after Frontier is notified  of the Outage .  An Outage is an interruption in Service or use of the Equipment caused by a failure of Frontiers 
+Network , excluding degradation or disruption due to planned or emergency maintenance or an event outside Frontiers direct control.  Notwithstanding the 
+above, Frontier will not be liable to Customer for interruptions in Services  or Equipment  caused by failure of hardware or software, failure of communications 
+services, power outages, or other interruptions not within the complete control of Frontier.  In addition, there will be no c redits, reductions or set -offs against 
+charges for Services  or Equipment , or for interruptions  of Services  or Equipment , except as expressly set forth herein.  
+b. IN NO EVENT WILL FRONTIER OR ITS AFFILIATES BE LIABLE FOR ANY LOST PROFITS OR BUSINESS OPPORTUNITIES, OR FOR ANY 
+OTHER SPECIAL, INCIDENTAL, INDIRECT , EXEMPLARY, PUNITIVE  OR CONSEQUENTIAL DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY 
+THEREOF.  FRONTIER AND IT S AFFILIATES SHALL NOT BE LIABLE FOR ANY LOSS, LOSS OF USE, COST, CLAIM OR EXPENSE EXPERIENCED 
+OR INCURRED BY CUSTOMER OR THIRD PARTIES RESULTING FROM THE USE OF THE SERVICES OR EQUIPMEN T PROVIDED HEREUNDER, 
+INCLUDING BUT NOT LIMITED TO  DAMAGE, LOSS OR LOS S OF USE OF CUSTOMER DATA OR FRAUD BY THIRD PARTIES.  
+c. Frontier warrants that Frontiers Network  will be maintained in good working order.  If any Service does not function substantially  in accordance 
+with applicable S ervice specifications as a result of Frontiers failure to maintain Frontiers Network ( excluding degradation related to the acts or omissions 
+of Customer or anyone using the Services, a force majeure event, or scheduled maintenance ), Frontiers sole obliga tion is to repair the affected Servi ce 
+at Frontiers  expense.  THE FOREGOING WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, AND  FRONTIER 
+DISCLAIMS ALL OTHER WARRANTIES WITH RESPECT TO FRONTIERS NETWORK , SERVICES  OR EQUIPMENT PROVIDED PURSANT TO 
+Ver. 04252022    
+THESE TERMS  INCLUDING , WITHO UT LIMITATION , ANY WARRANTY OF NON -INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR ANY 
+PARTICULAR PURPOSE OR FUNCTION.  FRONTIER DOES NOT WARRANT THAT THE SERVICES  OR EQUIPMENT  OR ACCESS OR OPERATION 
+OF THE SERVICES OR EQUIPMENT WILL MEET CUSTOMERS NEEDS, OR WILL BE UNINTERRUPTED, ERROR -FREE, OR SECURE .   
+d. This FSA shall not be construed as granting a license with respect to any patent, copyright, trade name, trademark, service m ark, trade secret 
+or any other intellectual property, now or hereafter owned, controlled or licensable by Frontier.  Customer agrees that Front ier has not made, and that 
+there does not exist, any warranty, express or implied, that the use by Customer of Fr ontiers Services  and/or the Equipment  provided under this FSA will 
+not give rise to a claim of infringement, misuse, or misappropriation of any intellectual property right.  
+e. Customer agrees that the Services and Equipment , and Frontier s performance  hereunder are subject to the terms, conditions and restrictions 
+contained in any applicable agreements (including software or other intellectual property license agreements) between Frontie r and Frontiers vendors.  
+f. No action, regardless of form , arising out of this FSA or the Schedules may be brought more than two (2) years after the cause of action has 
+arisen  or charges ha ve been billed whichever is earlier .  The parties hereby waive the right to invoke any different limitation on the bringing of actions 
+provided under applicable  law. 
+6. Indemnification  
+Customer shall indemnify, defend and hold Frontier and its affiliates, and their respective directors, officers, employees, s uccessors, assigns and agents, 
+harmless from and against any and all claims, loss, damage, cost or expense (including reasonable attorneys fees) to the extent arising out or relating to 
+any claim, action or proceeding brought by any third party based upon: (i)  Customers  breach of this FSA; (ii) Customers negligence or wi llful misconduct 
+in the performance of its obligations under this FSA; (iii) use of the Equipment or Services , including but not limited to the content of communic ations 
+transmitted thereby ; (iv) any infringement of intellectual property or misappropriation of any patent, copyright, trademark, trade secret or other proprietary 
+right arising from Customers or any other persons use of the Equipment or Services , any combination of the Equipment  or Services with other products 
+or services not provided by Frontier, or any modification of the Equipment  or Services  by anyone other than  Frontier ; (v) any bodily injury (including illness 
+or death) or property damage caused by Customer  or anyone within its  control .  The obligations under this Section  6 are independent of any other obligation 
+under this FSA.  
+7. Confidentiality  
+a. Both parties agree that all terms and conditions set forth in this FSA shall be considered confidential, and that details of the terms of this FSA, 
+shall not be disclosed to third parties, other than affiliates, employees, agents or contractors who have a need to know such  information in the scope of 
+their employment or enga gement, without the prior written consent of the other party, unless required by law.  
+b. Customer and Frontier may disclose to each other information that is confidential in nature.  In order to receive confidentia l treatment, all such 
+information (hereafter Information ) shall be either (i) clearly marked as confidential if written, or clearly identified as confidential if oral or (ii) reason ably 
+understood by the recipient, based on the nature of the Information or the circumstances of disclosure, to be con fidential or proprietary to the discloser.  
+Except as required by law or regulation, Customer and Frontier agree not to disclose any Information to any third party  and to keep Information in a secure 
+place available only to employees, af filiates , con tracto rs or agents who are subject to obligations of confidentiality no less restrictive than those set forth 
+herein, and who need to know the Information for purposes of the business dealing between Customer and Frontier, and to use Information o nly in 
+connecti on with such business dealings.  This Section is enforceable by injunction.  
+c. Information will lose its confidential status if obtained legitimately from a third party without restriction or upon the exp iration of five (5)  years 
+from delivery of each item of Information.  Information shall remain the property of the disclosing party and shall be return ed to such party on request or 
+upon termination of the business dealing between Customer and Frontier.   
+d. Notwithstanding any thing herein to the contrary, Frontier shall have the right to include Customers name in a public list of current customers 
+who use Frontiers services, provided Frontier does not make any representation with respect to Customer and does not attribu te any  endorsements to 
+Customer, without Customers prior written consent.  In addition, Frontier may publicly  identify  Customer as a new customer of Frontier or an existing 
+customer obtaining expanded or additional services from Frontier, as the case may be.  
+8. Breach  
+a. Breach by Customer :  If Customer fails to make any payment when due  and such failure continues for five (5) days after notice , or Customer 
+fails to comply with any other term or condition of this FSA or any Schedule  and such failure continues f or thirty (30) days after notice, then Frontier may 
+either suspend the applicable Schedule  (or any portion thereof ) until the breach  is remedied , terminate the applicable Schedule (or any portion thereof),  
+or terminate this FSA and all Schedule s.  Notwiths tanding the foregoing , Frontier may immediately  suspend Services and, after giving notice to Customer 
+with an opportunity to respond appropriat e to the circumstances and Customers failure to respond, Frontier may terminate any or all Services , retrieve 
+Frontier Network elements from the service location and Equipment  for which title has not transferred to Customer, in the following circumstances :  (i) in 
+the event of unauthorized, unlawful or improper use or abuse of the Frontier Network or  Service ; (ii) if, in the reasonable  judgment of Frontier, Customers 
+use of the Frontier Network or  Service has or will damage or have an adverse effect on Frontiers  Network, its personnel, property or service; ( iii) such 
+action is necessary to meet the exigencies of an emergency; or  (iv) a court or other governmental authority having jurisdiction issues an order prohibiting 
+Frontier from furnishing the Equipment or Services to Customer.  
+b. Breach by Frontier :  If Frontier has not remedied any breach within thirty (30) days after Frontiers rec eipt of written notice from Customer of 
+such breach  (providing reasonable  detail ), Customer may terminate the Service which is the subject of such breach. This is Customers exclusive remedy 
+for a breach by Frontier.   
+9. Force Majeure  
+In no event will Frontier or its affiliates be liable for any delay in performance directly or indirectly caused by events be yond their control, including, but not 
+limited to: acts  or om issions  of Customer, its agents, employees or contractors; acts of God; acts of the public enemy; acts of the United States, a state or 
+Ver. 04252022    
+other political subdivision; fire, floods or other natural disasters; accidents; wars; terrorism; cyber security events;  labor disputes or shortages; and inability 
+to obtain material, power, equipment or transportation.  
+10. Assignmen t 
+This FSA may not be assigned by either party without the other partys prior written consent, which consent shall not be unreasonably withheld or delayed, 
+except that Frontier may assign this FSA to any successor to the business of Frontier by merger, consolidatio n or sale of assets or to any corporation 
+controlling, controlled by or under common control with Frontier.  Frontier may subcontract portions of the work to be perfor med hereunder  to provision 
+the Services or Equipment . 
+11. Work Site Conditions  
+a. If asbestos, or material containing asbestos, or any other hazardous or toxic materials are discovered during work pursuant t o this FSA, Frontier 
+will suspend its work for a reasonable period of time to permit Customer to engage a qualified firm to remove and dispose of the asbestos or other toxic 
+or hazardous materials from the site .  Such suspension  may result in an equitable adjustment to the charges identified in the  related Schedule , based on  
+any increase in costs  incurred by  Frontier.  
+b. Customer agrees to release, indemnify, defend and hold harmless Frontier from and against any damages, losses, claims, demand s or lawsuits 
+arising out of or relating to the presence, removal or disposal of asbestos or any other hazardous or toxic material from the Customers premises  or location 
+where Services or Equipment will be installed . 
+12. Title and Risk of Loss  
+a. Risk of loss or damage for Frontier Network elements installed at a Customer designated service location  shall pass to Customer at time of 
+delive ry to Customer.  
+b. Any Frontier Network elements or Equipment  installe d at Customers premises  or location where Services or Equipment will be installed  (which 
+is leased or for which title has not transferred to Customer) remain  the personal property of Frontier or Frontiers assignee, notwithstanding that it may be 
+or become attached to or embedded in realty, and upon termination of this FSA or any Schedu le (in whole or in part), all Frontier property  shall be returned 
+to Frontier in the same condition as installed, normal wear and tear excepted.  Customer will not tamper with, remove or conceal any Frontier identifying 
+plates, tags or labels. In the event  Frontier property is not returned to Frontier in accordance  with this Section , Customer will be billed for and pay to 
+Frontier an amount equal to the retail value of the Frontier property , except to the extent such failure is caused by  the negligence or willful misconduct of 
+Frontier or its agents.   
+13. Competition  
+Customer recognizes the availability of competitive alternatives for receiving the Services and Equipment provided under this FSA, and has freely elected 
+to enter into this FSA in order to receive the benefits it offers.  
+14. Government Regulation    
+To the extent that any Service(s) provided hereunder are subject to the jurisdiction of the Federal Communications Commission (FCC ) or any state  public 
+utilities commission or other regulatory agency , this FSA shall at all times be subject to changes, modifications , orders and rulings by the FCC  and/or state 
+public utilities commission  or other regulatory agency.  Frontier reserves the right to su spend, modify or terminate any Service without liability where any 
+statute, regulation and/or ruling, including modifications thereto, by any regulatory agency (including the FCC), legislative  body or court of competent 
+jurisdiction, (i) prohibits, restric ts or otherwise prevents Frontier from furnishing such Service, or (ii) has a material negative impact on Frontiers 
+performance hereunder or the benefits provided by this FSA. If provision of any Service pursuant to this FSA is subject to advance approval  of the FCC 
+and/or any state public utilities commission , this FSA shall not become effective with respect to such Service until after receipt by Frontier of written notice 
+of such approval.   
+15. Governing Law  
+This FSA shall be governed by and construed according to the laws of the State in which Services  or Equipment  are being provided hereunder without 
+regard to its conflicts of laws provisions.  Any related litigation may be brought in any State or Federal courts of competent jurisdiction within such State.  
+Customer and Frontier consent to personal jurisdiction in such courts.  
+16. No Waive r 
+If either party fails, at any time, to enforce any right or remedy available to it under this FSA, that failure shall not be construed to be a waiver of the right 
+or remedy with respect to any other breach or failure by the other party.  
+17. Severability  
+A declaration by any court, or other binding legal source, that any provision of this FSA or any Sched ule is illegal and void, will not affect the legality and 
+enforceability of any other provisions of this FSA, unless the provisions are mutually dependent.  
+18. Notice    
+All notices provided pursuant to this FSA will be in writing and delivered by registered or certified US Mail, postage prepaid, or by commercial overnight 
+delivery service, or by facsimile, or by regular mail and shall be deemed delivered either on the date of return receipt ackn owledgment (in th e case of 
+certified US Mail), or on the next day after the sending of the notice if sent overnight mail, or three (3) days after mailin g if by regular mail to the address 
+of the party designated to receive such notice.  
+19. Independent Relatio nship   
+Ver. 04252022    
+Each party  understands and agrees that it and its personnel are not employees of the other party, and that each party is an independent contractor 
+hereunder for all purposes and at all times.   
+20. Dispute Resolution  
+Except as otherwise specifically provided in or permitted by this FSA, all disputes arising in connection with this FSA shall first be resolved through good 
+faith negotiation.  If, after negotiating in good faith for a period of ninety  (90) calendar days  or any agreed further period, the parties are unable to resolve 
+the dispute, then each party  may seek resolution by exercising any rights or remedies available at law or in equity.  Customer and Frontier agree that each  
+may only bring claims against the other in an individual capacity and not as a plaintiff or class member in any purported class, representative, or private 
+attorney general proceeding.  
+21. Authorization and Entire Agreement  
+Each party  represents that the person executing  this FSA is authorized to enter into this FSA on its behalf. This FSA and any Schedule s executed by the 
+parties constitute  the entire agreement between the parties pertaining to the subject matter herein and supersedes all prior oral and written pr oposals, 
+corresp ondence and memoranda with respect thereto. This FSA may not be modified, amended or supplemented except by written agreement signed by 
+an authoriz ed representative of eac h party.  Notwithstanding anything otherwise stated, a Customer purchase order documen t (whether signed by one or 
+both parties) shall be construed solely as evidence of Customers internal business processes, and the terms and conditions c ontained thereon shall be 
+void and of no effect or application toward this FSA. 
+Frontier Communications of America, Inc.  
+ Southeastern Paper Group  
+Signature:  {{Sig2_es_:signer2:signature}}  Signature:  {{Sig1_es_:signer1:signature}}  
+Printed Name:  {{Name2_es_:signer2:fullname}}  Printed Name:  {{Name1_es_:signer1:fullname}}  
+Title:  {{Ttl2_es_:signer2:title}}  Title:  {{Ttl1_es_:signer1:title}}  
+Date:  {{Dte2_es_:signer2:date}}  Date:  {{Dte1_es_:signer1:date}}  
+Contractual 
+Notice:  Frontier Communications  
+111 Field Street  
+Rochester, NY 14620  
+Attn: Legal Department   Contractual 
+Notice:  7080 Havertys Way, Lakeland, Florida, 
+33805  
+Attn:  Legal Department  
+6/28/2023
+Robyn Conner
+Regional Controller

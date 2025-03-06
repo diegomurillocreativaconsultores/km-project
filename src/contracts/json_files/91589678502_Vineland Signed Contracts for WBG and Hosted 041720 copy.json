@@ -1,0 +1,25 @@
+{
+  "Agreement Name": "Addendum to Master Services Agreement",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "Tipco Technologies, Inc.",
+  "Party2 Role": "customer",
+  "Effective Date": "April ___, 2020",
+  "Signature Date": "Not specified",
+  "Term": "thirty-six (36) months",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "$457.40",
+  "Nonrecurring Charges": "$2,345.98",
+  "Services": [
+    "Hosted Voice Solutions",
+    "Sierra Wireless Fixed Cellular (Internet Access)"
+  ],
+  "Locations": [
+    "1880 North Delsea Drive, Suite T14, Vineland, NJ 08360"
+  ],
+  "Payment Terms": "Invoices are payable monthly in advance at the beginning of each month, net thirty (30) days from the date of the invoice.",
+  "effective_date": "Not specified",
+  "signature_date": "Not specified"
+}

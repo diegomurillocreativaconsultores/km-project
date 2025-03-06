@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "ACC Business Multi-Service Agreement",
+  "Agreement Classification": "Master Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "AT&T Corp. d/b/a ACC Business",
+  "Party1 Role": "provider",
+  "Party2 Name": "Peterbilt of Knoxville, Inc dba The Peterbilt Store of Columbia",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified",
+  "Signature Date": "6/15/2020",
+  "Term": "2 Years",
+  "Renewal Term": "Not specified",
+  "Recurring Monthly Charges": "$884",
+  "Nonrecurring Charges": "$1,500",
+  "Services": "AT&T Dedicated Internet Service",
+  "Locations": "West Columbia, SC 29172",
+  "Payment Terms": "Minimum retention period is 12 months for all service components",
+  "effective_date": "06/15/2020",
+  "signature_date": "06/30/2020"
+}

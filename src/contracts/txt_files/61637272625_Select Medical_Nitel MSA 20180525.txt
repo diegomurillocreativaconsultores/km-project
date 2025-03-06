@@ -1,0 +1,124 @@
+Master Service Agreement
+This Master Service Agreement (Agreement) is entered into on the date of the last signature below (Effective Date") by and between
+NITEL INC. (NITEL) and Select Medical Corporation, a Delaware Corporation, having an address of 4714 Gettysburg Road,
+Mechanicsburg, PA 17055, for the benefit of itself and its subsidiaries, affiliates, joint ventures, partnerships, managed and contracted
+entities (hereinafter referred to collectively as the Customer). This Agreement sets forth the general terms and conditions applicable to
+Customer's purchase of communications services (Service(s)") from NITEL. This Agreement consists of the general terms and
+conditions stated herein; the NITEL Service Guide located at http://serviceguide.nitelusa.com (Service Guide); the Service Level
+Agreements located at http:/Avww,nitelusa.com/sla.htm (collectively referred to as the "SLA); and the NITEL Acceptable Use Policy
+located at http://www.nitelusa.com/aup.htm (AUP). NITEL reserves the right to modify the Service Guide, the SLA, and the AUP at any
+time. In such an event, NITEL will provide a thirty (30) day email notice of any changes to Customer's email address on record. If there
+is a conflict, the order of priority shall be the Service Order, the General Terms and Conditions, the Service Guide, and then the SLA.
+GENERAL TERM AND CONDITIONS
+4. Service Orders & Term. Customer must submit requests for Service in a manner and on a form designated by NITEL (Service
+Order). Each Service Order will state the term for which Service is requested (the Initial Service Term) and the pricing for the Service.
+Upon expiration of the Initial Service Term, the Service will renew for a period equal to the Initial Service Term ("Renewal Term) unless
+terminated by Customer or NITEL. In order to terminate the Service, prior to renewal, Customer must provide Nitel with written notice
+forty-five (45) days prior to the Initial Service Term (or any subsequent Renewal Term), The Initial Service Term and any Renewal Term
+are collectively referred to herein as Term. If Customer wishes to terminate (disconnect) a Service for any reason, Customer is required
+to follow the disconnection process set forth in the Service Guide. After the Initial Service Term, NITEL may modify the rate for a Service
+upon thirty (30) days prior written notice to Customer.
+2. Service Installation and Acceptance.
+a, Nitel will issue Firm Order Commitment (the "FOC") date for a Service to the Customer. Customer acknowledges that FOC dates can
+change from time to time for various reasons. If Nitel changes the FOC date, NITEL will provide Customer with the updated FOC date.
+NITELs inability or failure to deliver any ordered Service by the FOC Date will not be a default under the Agreement, and NITEL will not
+be liable to Customer as a result of NITELs inability or failure to deliver the Service. If Nitel fails to deliver the Service within thirty (30)
+days after the FOC, Customer may terminate the affected Service without liability.
+b. NITEL will attempt to provide Service by the requested installation date, but will not be liable for any delays in Service delivery. The
+"Start of Service Date refers to the date that the Service is available for use by Customer, subject to the following Service acceptance
+process. After NITEL notifies Customer that a Service is available, Customer may test the Service to determine if the Service is operating
+in accordance with the technical specifications set forth in the applicable SLA. If Customer provides NITEL with written notice that a
+Service is in material non-compliance with the applicable SLA within two (2) business days after NITEL notifies Customer that the Service
+is available, then NITEL will promptly take such reasonable action as is necessary to correct any such non-compliance in the Service and
+shall, upon correction, notify Customer of a new Start of Service Date. Any non-compliance notice must contain information describing
+the nature of the material non-compliance with the technical specifications for the Service(s) in question. If Customer does not deliver
+such a non-compliance notice within the two (2) business day period, Customer shall be deemed to have accepted the Service, and
+billing will commence on the original Start of Service Date.
+3. Service Cancellation. If a Service is cancelled prior to the Start of Service Date, Customer will pay to NITEL a charge equal to any
+charges incurred by NITEL from the underlying service providers, in addition to any cancellation charges listed in the Service Guide.
+4. Service Disconnection. In order to disconnect a Service, Customer must complete the NITEL Customer Disconnect Request Form
+located at www.nitelusa.com/disconnects. Such termination is effective forty-five (45) days after NITEL's receipt of the notice, unless
+otherwise agreed upon by Nitel and Customer.
+5, Credit Review & Deposits. Provision of Services is subject to NITEL's credit approval of Customer. Based on the credit check, NITEL
+may, in its sole discretion, require that Customer provide a deposit as a condition of purchasing Services. Additionally, during the Term,
+if Customer fails to make timely payment for Services, NITEL may require adequate assurance of future payment (e.g., a deposit or other
+acceptable form of security) as a condition of continuing NITELs Services. Customer's failure to provide adequate assurances required
+by NITEL is a material breach of the Agreement..
+6. Invoices and Disputes. Customer must pay all applicable Monthly Recurring Charges (MRCs) and Non-recurring Charges (NRCs)
+set forth in the applicable Service Order or pricing attachment. Invoices are delivered monthly and payment is due 30 days after the
+invoice date (the "Due Date). Fixed charges are billed in advance and usage-based charges are billed in arrears. Billing for partial
+months is prorated. Past due amounts bear interest at 1.5% per month or the highest rate allowed by law, whichever is less (Late Fee).
+Customer is responsible for all Service charges, even if incurred as the result of unauthorized use. If Customer reasonably disputes an
+invoice, Customer must pay the undisputed amount by the Due Date and submit written notice of the disputed amount (detailing the
+nature of the dispute, the Services and invoice(s) disputed). Customer must submit disputes in writing within sixty (60) days of the date
+of the invoice or the right to dispute is waived. If a dispute is resolved against Customer, Customer will pay the disputed amounts within
+ten (10) business days. Customer will be liable to NITEL for ail costs and expenses incurred in collecting amounts due to NITEL, including
+reasonable legal fees.
+7. Taxes and Fees. Except for taxes based on NITEL's net income, Customer will be responsible for all taxes and fees arising in any
+jurisdiction, including but in no way limited to value added, consumption, sales, use, gross receipts, foreign withholding (which will be
+Page ¢ of 4 Proprietary and Confidential
+not agree to any settlement or consent to any decree, order or judgment without obtaining the consent of the indemnified party, which
+consent shall not be unreasonably withheld.
+d. INNO EVENT SHALL EITHER PARTY'S LIABILITY HEREUNDER TO THE OTHER PARTY EXCEED THE AMOUNT OF SERVICE
+CHARGES PAID BY THE CUSTOMER DURING THE TWELVE (12) MONTH PERIOD PRIOR TO THE ACCRUAL OF THE MOST
+RECENT CLAIM. IN NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY DAMAGES WHATSOEVER FOR LOST PROFITS,
+LOST REVENUES, LOSS OF GOODWILL, LOSS OF ANTICIPATED SAVINGS, LOSS OF DATA, THE COST OF PURCHASING
+REPLACEMENT SERVICES, OR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE
+DAMAGES ARISING OUT OF THE PERFORMANCE OR FAILURE TO PERFORM UNDER THIS AGREEMENT OR ANY ORDER.
+NITEL WILL HAVE NO LIABILITY FOR ANY CLAIM AGAINST CUSTOMER BY A THIRD PARTY IN CONNECTION WITH OR FOR
+RESPONDING TO EMERGENCY 911 OR OTHER EMERGENCY REFERRAL CALLS. NOTWITHSTANDING THE FOREGOING
+LIMITS OF LIABILITY, A PARTY'S LIABILITY WILL NOT BE LIMITED WITH RESPECT TO CLAIMS ARISING FROM (1) A PARTYS
+PAYMENT OBLIGATIONS, INCLUDING EARLY TERMINATION CHARGES; (2) A PARTYS INDEMNIFICATION OBLIGATIONS.
+e. CUSTOMER AGREES THAT THE LIMITATIONS OF LIABILITY SET OUT IN THIS SECTION ARE FAIR AND REASONABLE IN
+THE CIRCUMSTANCES OF THIS AGREEMENT AND THAT NITEL WOULD NOT HAVE ENTERED INTO THIS AGREEMENT BUT
+FOR CUSTOMERS AGREEMENT TO LIMIT NITELS LIABILITY IN THE MANNER AND TO THE EXTENT PROVIDED FOR IN THIS
+SECTION.
+45. Force Majeure. Neither party will be liable, nor will any remedy provided by this Agreement be available, for any failure of Service
+due to causes beyond such party's reasonable control ("Force Majeure). Customer will not be obligated to pay NITEL for Service not
+delivered as the result of Force Majeure.
+16. Assignment. Neither party may assign its rights and obligations, whether by operation of law or otherwise, without the prior written
+consent of the other party, not to be unreasonably withheld. Notwithstanding the foregoing, either party, in connection with a merger,
+reorganization, or sale of all or substantially all of the assets or equity of such party, may assign this Agreement in its entirety to such
+partys successor without the other partys consent. This Agreement shall bind and inure to the benefit of the parties, their respective
+successors and permitted assigns.
+17. Warranties. NITEL MAKES NO WARRANTIES OR REPRESENTATIONS, EXPRESS OR IMPLIED, IN FACT OR BY OPERATION
+OF LAW, STATUTORY OR OTHERWISE, RESPECTING THE SERVICE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+18. Confidentiality. The terms of this Agreement and all knowledge and information of a proprietary nature acquired in performing this
+Agreement are confidential. Each party and its agents will keep such information confidential and not disclose such information to third
+parties, other than to its affiliates.
+19, Notices. Except as otherwise specifically provided herein, any notices required or permitted to be given under this Agreement
+shail be given in writing and shall be delivered (a) in person; (b) by certified mail, postage prepaid, return receipt requested; (c) by a
+commercial overnight courier that guarantees next day delivery and provides a receipt; (d) by electronic mail to Customer at Customer's
+designated technical and/or billing contact, or to NITEL at notice@nitelusa.com, Customer acknowledges and agrees that NITEL may
+contact Customer via e-mail at the e-mail address provided to NITEL when Customer ordered the Service for any reason relating to the
+Service, including for purposes of providing Customer any notices required under this Agreement. Customer is responsible for providing
+NITEL with any change to its email address. It is solely Customer's responsibility to notify NITEL of any changes to Customer's email
+address for such notice. Notice provided by personal delivery, certified mail, or commercial overnight courier is to be delivered to the
+addresses listed for each party in the signature area of the Agreement, or to any such other address as either party may from time to time
+specify in writing to the other party. Notice shall be effective upon delivery (or refusal to accept delivery).
+ Proprietary and Confidential
+20. Miscellaneous. This Agreement is binding on the parties and their permitted successors and assigns, and together with any Service
+Orders and exhibits hereto (if any) constitutes the entire agreement between the parties. As a material part of the consideration for
+entering into this Agreement, each party agrees not to contest or assert any defense relating to the authority of any representative or
+employee of such party to enter into this Agreement or any Service Order issued pursuant to this Agreement. This Agreement does not
+create any agency, joint venture, or partnership between NITEL and Customer, each of which are independent business entities. No
+prior agreements, understandings, statements, proposals or representations, either oral or written, respecting the subject matter hereof
+apply. Except with regard to an agreed upon Service Order, this Agreement can be modified only in a writing signed by the parties. If
+any provision of this Agreement is held to be illegal or unenforceable, this Agreements unaffected provisions will remain in effect. If
+either party fails to enforce any right or remedy under this Agreement, such failure will not waive the right or remedy. This Agreement
+will be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws provisions.
+The federal and state courts located in Cook County, fllinois shall be the only courts with jurisdiction to hear disputes under this Agreement,
+and Customer consents to the jurisdiction of these courts. This Agreement is not binding upon NITEL until signed by an authorized NITEL
+representative. This Agreement may be executed in one or more counterparts, each of which will be deemed an original, and all of which
+when taken together will constitute one and the same instrument. This Agreement may be executed by digital signature, and any such
+digital signature shall be deemed to be an original signature and shall be binding on such party.
+NITEL INC. SELECT MEDICAL CORPORATION.
+an Illinois corporation
+a Delaware corporation LM
+by ey AK Fx
+Name Name Ral Fi-kkernor
+Title Title Vite fresh LT
+Date 6(¢/14
+Date
+ Proprietary and Confidential

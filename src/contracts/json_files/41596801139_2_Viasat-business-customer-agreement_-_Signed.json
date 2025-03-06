@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Subscriber Agreement",
+  "Agreement Classification": "Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Viasat, Inc.",
+  "Party1 Role": "Provider",
+  "Party2 Name": "Not specified.",
+  "Party2 Role": "Customer",
+  "Effective Date": "Not specified.",
+  "Signature Date": "Not specified.",
+  "Term": "24 months",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "Not specified.",
+  "Nonrecurring Charges": "Not specified.",
+  "Services": "two-way, satellite based Internet access service",
+  "Locations": "within the United States",
+  "Payment Terms": "Monthly Fee for the Internet Service each month in advance",
+  "effective_date": "Not specified",
+  "signature_date": "Not specified"
+}

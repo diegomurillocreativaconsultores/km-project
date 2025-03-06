@@ -1,0 +1,152 @@
+V.10.05.20  ADDENDUM  
+REGARDING SERVICE LEVEL AGREEMENT  
+FOR BUSINESS FIBER  PREMIUM  SERVICE  ONLY  
+(FOR INTERNET AND WIDE AREA NETWORK  ONLY ) 
+THIS ADDENDUM (the Addendum) amends and supplements the MetroNet Advanced Services 
+Agreement , Business Services Agreement  or other services agreement  (the Agreement) of the 
+Customer signing below and is dated as of the same date.    
+All capitalized  terms used herein and not otherwise defined in th is Addendum  will have the 
+meanings set forth in the Agreement.  
+The following new Section, Service Level Agreement , is added to the Terms and Conditions 
+incorporated in the Agreement:  
+SERVICE LEVEL AGREEMENT  
+1) NETWORK OPERATIONS DEFI NITIONS : 
+(a) Availability.  "Availability" is the amount of time MetroNet's Fiber Service is available 
+for use, i.e. not subject to a  total loss or interruption of transmission or signal . 
+(b) Customer Premises .  Customer Premises is the place at the Customers location where 
+the MetroNet equipment needed to provision the Fiber Service is installed by MetroNet.  
+(c) Emergency Maintenance or Repair .  Emergency Maintenance or Repair is work which, 
+if not accomplished immediately by MetroNet or third party provider, could result in a 
+serious degradation or loss of Fiber Service to the Customer.  Emergency Maintenance or 
+Repair includes emergency maintenance or repair of network, equipment and power 
+facilities.  
+(d) Excluded Outages .  Excluded Outages are  outages: (i) arising out of or related to the 
+acts or omissions of Customer or others authorized by Customer; (ii) during any period of 
+Force Majeure; (iii) arising out of or related to a breach by Customer of its obligations 
+under the Agreement or outage s during any period of Customer default; (iv) a result of 
+Planned Maintenance or Repair or other scheduled maintenance, alteration or 
+implementation; (v) arising out of or related to Customers or third partys network or 
+equipment failure; (vi) due to fai lure of power; (vii) during any period in which MetroNet 
+is not given access to the Customer or Customers end -users premise if necessary to 
+resolve an outage; (viii) when a Fiber Service, in whole or in part, is Off Net to MetroNet ; 
+and, (ix) during any  period when  the Customer chooses to delay repair and/or testing to 
+proceed.  
+(e) Force Majeure .  Force Majeure events are causes beyond MetroNets reasonable control, 
+including but not limited to acts of God, fire, explosion, vandalism, cable cuts, storms or  
+other similar catastrophes; failures, shortages or unavailability or other delay in delivery 
+by a third party supplying services, equipment, fiber, network or access rights to MetroNet; 
+any law, order, regulation, direction, action or request of the Unite d States government, or 
+of any other government, including state and local governments having jurisdiction over 
+either of the parties, or of any department, agency, commission, court, bureau, corporation 
+or other instrumentality of any one or more of said governments, or of any civil or military 
+  authority; national emergencies; insurrections, riots, wars, or strikes, lockouts, work 
+stoppages or other labor disputes or difficulties.  
+(f) Jitter.  "Jitter"  is the variation  in Latency  from  a MetroNet  Gateway  to the Customer  
+Premises.   
+(g) Latency . "Latency" is the time it takes a data packet to travel from a MetroNet Gateway 
+to the Customer Premises.  
+(h) MetroNet Gateway .  MetroNet Gateway shall be defined as a test point on MetroNets 
+network from which availability and performance objectives can be measured.  
+(i) Off Net.   Off Net means a service which is licensed by MetroNet from a third party to 
+provide , in whole or in part, a given Fiber Service to a specific Customer or end -user 
+premise or location.  
+(j) On Net .  On Net means a Fiber Service provisioned entirely on MetroNets network.  
+Notwithstanding any other provision of this Agreement, no Fiber Service shall be 
+considered On Net if a circuit associated with the Fiber Service is licensed from a third  
+party to serve a specific Customer or end user premises or location.  
+(k) Outage .  Outage shall be defined as a measure of the time that there is (i) a total loss or 
+interruption of transmission or signal (an Availability Outage), or (ii) the Service 
+Elem ents of a Fiber Service do not perform equal to or better than the Performance 
+Objectives stated below (a Performance Outage).  
+(l) Packet / Frame Loss.  "Packet/Frame Loss" is the percentage of data packets not received 
+at the Customer Premises with respect to data packets transmitted  from a MetroNet 
+Gateway to the Customer Premises.  
+(m) Planned Maintenance or Repair .  Planned Maintenance or Repair includes network 
+upgrades and repairs, equipment upgrades and repairs, cable  upgrades  and repairs , and 
+power upgrades and repairs.   Supplier will endeavor to provide Customer ten (10) 
+business days notice for Planned Mai ntenance, and Customer agrees to accept these 
+notices electronically via email or other electronic means.  
+2) SERVICE OUTAGE CREDITS : 
+(a) Fiber Service Availability and Performance Standards  shall be measured by averaging 
+performance of the relevant metric over a calendar month.  Availability and Performance 
+Standards are only applicable for valid service frames that meet the service specifications  
+of the Fiber Service purchased  by the Customer.  Example s of invalid service frames for 
+purposes of calculating monthly average  Availability and  the P erformance Standards set 
+forth below include but are not limited to : invalid (improperly marked or malformed) 
+Ethernet frames, traffic in excess of the contracted Fiber Service rate, and excessive 
+broadcast/multicast traffic.  
+  (b) Availability Outage Credits.  Customer shall be eligible to receive the following credits 
+when there is an Availability Outage:   
+Table 1: Availability  Service Outage Credits  
+Business Fiber Premium Service  ONLY  
+(99.99 % Availability)  
+Cumulative Outage  
+(in hrs:mins:secs)  Outage Credit  
+(% of MRC)  
+0:00.00 – 1:00:00  None  
+1:00:01 – 10:00:00  5% 
+10:00:01 – 12:00:00  10% 
+12:00:01 – 16:00:00  15% 
+16:00:01 – 20:00:00  20% 
+20:00:01 – 24:00:00  30% 
+24:00:01 or greater  50% 
+(b) Performance Outage Credits. Customer shall be eligible to receive the following credits 
+when there is a Performance Outage : 
+Table 2: Performance Standard  
+Business Fiber Premium Service ONLY  
+Measured from a MetroNet Gateway to the Customer Premises  
+Latency (ms) (one way)  < 10ms per 500 miles  
+Jitter (ms) (one way)  < 5ms per 500 miles  
+Packet / Frame Loss (%)  < 1% 
+Table 3: Latency/Jitter/ Packet Loss Service Outage Credits  
+Business Fiber Premium Service  ONLY  
+Cumulative Duration of 
+Service Level Failure(s)  Service Outage Credit  
+(% of MRC)  
+>2 hrs. to 4 hrs.  5% 
+>4 hrs. to 10 hrs.  5% 
+>10 hrs. to 12 hrs.  10% 
+>12 hrs. to 16 hrs.  15% 
+>16 hrs. to 20 hrs.  20% 
+>20 hrs. to 24 hrs.  30% 
+>24 hrs.  50% 
+(c) A Service Outage shall be measured from the time Customer reports to MetroNet that an 
+Outage has occurred (regardless of when the Outage actually commenced) and shall be 
+deemed to terminate upon restoration of the affected Fiber Service as evidenced by 
+appropriate network test by MetroNet.  In addition, Performance Standards  shall be 
+measured from  end-to-end as much as possible within MetroNets network;  for example, 
+from  the Customer  premises  to the most distant  MetroNet Gateway  used to provision the 
+Fiber  Service .  Customer shall, within thirty (30) days of such Outage, provide MetroNet 
+with a written demand for the credit set forth in this Section  by emailing business -
+customer -service@metron etinc.com .  If Customer  fails to provide such notice, the credit 
+shall be deemed waived. An Outage will not be deemed to have occurred in the event that 
+it arises from or relates to an Excluded Outage. The maximum credit that may be earned 
+for a particular Fiber Service in a cal endar month shall not exceed one hundred percent 
+(100%) of the monthly rate charged by MetroNet for that particular Fiber Service in that 
+month irrespective of the number or length of periods of Outage of that Fiber Service in 
+  that month. Service Outage Cr edits shall be Customers sole and exclusive remedy with 
+respect to Fiber Service outages, interruptions, delays, failures, or other defects in Fiber 
+Service.  A  Service Outage shall not be deemed a default by MetroNet.  Under no 
+circumstance shall Custom er be entitled to an Availability Service Outage Credit and a 
+Performance Outage Credit for the same Outage or during the same Outage period.  
+3) RESPONSE AND RESTORATION OBJECTIVES:   
+(a) Objective measured as an average over one (1) month.   
+Table 4: Response  and Restoration  
+Business Fiber  Premium  Service ONLY  
+Category  Objective  
+Mean Time to Respond (verbal response)  30 Minutes  
+Mean Time to Respond On Site (if needed)  2 Hours  
+Mean Time to Restore Equipment  6 Hours  
+Mean Time to Restore Services  8 Hours  
+MetroNet will use commercially reasonable efforts to respond and restore Fiber Service in 
+accordance with the above objectives, subject to events of Force Majeure.  Failure to meet any such 
+objective will not result in eligibility for a Service Outage Cred it.  Objectives shall be measured 
+from the time Customer reports to MetroNet that an Outage has occurred (regardless of when the 
+Outage actually commenced).   
+IN WITNESS WHEREOF, this Addendum is executed as of the date of the Agreement.  
+________________ _________________  
+_________________________________    
+Name : ___________________________    
+Title:  ___________________________  
+Kristina Snyder
+VP, Carrier Services

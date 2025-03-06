@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Master Services Agreement",
+  "Agreement Classification": "Master Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "Provider",
+  "Party2 Name": "Trex Company, Inc.",
+  "Party2 Role": "Customer",
+  "Effective Date": "7/10/2024",
+  "Signature Date": "7/10/2024",
+  "Term": "thirty-six (36) months",
+  "Renewal Term": "month-to-month upon the same terms and conditions",
+  "Recurring Monthly Charges": "$1,048.95",
+  "Nonrecurring Charges": "$0.00",
+  "Services": "Ten4 Assist Plus",
+  "Locations": "2500 Trex Way, Winchester, VA 22601",
+  "Payment Terms": "Invoices are payable at the beginning of each monthly billing cycle and are due net thirty (30) days from the date of the invoice.",
+  "effective_date": "Not specified",
+  "signature_date": "07/10/2024"
+}

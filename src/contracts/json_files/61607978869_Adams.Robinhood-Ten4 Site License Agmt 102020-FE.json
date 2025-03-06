@@ -1,0 +1,24 @@
+{
+  "Agreement Name": "Hosted Voice Site License Addendum",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "5109 Robinhood Village LP, LLC",
+  "Party2 Role": "customer",
+  "Effective Date": "10/29/2020",
+  "Signature Date": "10/29/2020",
+  "Term": "thirty-six (36) months",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "$270.00",
+  "Nonrecurring Charges": "$1,465.00",
+  "Services": [
+    "HOSTED VOICE SOLUTION",
+    "WIRELESS BROADBAND BACKUP (INTERNET ACCESS)",
+    "ADMINISTRATIVE SERVICES"
+  ],
+  "Locations": "5109 Robinhood Village Drive, Winston-Salem, NC 27106",
+  "Payment Terms": "Invoices are payable monthly in advance at the beginning of each month, due net thirty (30) days from the date of the invoice.",
+  "effective_date": "Not specified",
+  "signature_date": "10/29/2020"
+}

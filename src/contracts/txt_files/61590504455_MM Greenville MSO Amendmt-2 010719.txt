@@ -1,0 +1,29 @@
+Managed Services A greement  
+Amendment to Original  
+1700 Union Avenue  • Baltimore, MD 21211  • 410.464.8900  • FAX 410.464.8950  
+Date : January 7, 2019  
+The original Agreement entitled Managed Services Agreement: Bundle Options  made between Distributed Computing, Inc. (DCi), 
+THI of South Carolina at Greenville  (Client ), which was fully executed o n March 3, 2018 , shall be hereby amended as follows:  
+Term and Payment Schedule  
+MRC:  Client agrees to pay Nine Hundred Forty-Five Dollars ($9 45) per month for a Term of Fifty-One (51) months , invoiced 
+to Client on a m onthly basis, which shall  become due and payable on the first day of each month.    
+NRC:  Client agrees to pay a n additional  one-time fee of Fifteen  Dollars ($ 15) in adv ance, at the time this Amendment  is 
+signed.    
+APPENDIX  B 
+Ten4pbx & Sangoma Hosted Solutions,  Additional T&C  
+Ten4pbx Hosted Services  Sangoma Hosted Fax   
+     6  Unlimited Standard SIP Trunk       0  Low-Volume Fax Tier  
+     1  Unlimited Hosted Fax Trunk      3  High-Volume Fax Tier  
+     1  E911 Service Charge       1  4-Port FaxStation Box  
+    30  Domestic Telephone No. (DID)  
+     0  Business Hosted Extension  
+     0  Polycom VVX300  Conference Phone  
+     1  Edgemarc 2900A  and Appliance Monitoring  
+*   *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  
+THESE CHANGES HEREIN ARE THE ONLY CHANGES TO THE ORIGINAL AGREEMENT  AND ANY AMENDMENTS . THE 
+ENTIRE REMAINDER OF THE ORIGINAL AGREEMENT REMAINS IN FULL FORCE AND EFFECT. THIS AMENDMENT SHALL 
+BE EFFECTIVE ONCE SIGNED BY BOTH PARTIES.  
+THI of South Carolina at Greenville     Distributed Comp uting, Inc.  
+By:  By: Brooke L. Frank  
+Title:  Title: President  
+Date:        Date:

@@ -1,0 +1,35 @@
+© 2023 Frontier Communications Parent, Inc. All Rights Reserved.Conduit Requirements:
+Cable Extensions:Frontier build pricing is structured to the existing minimum point of entry (MPOE) /Demarc or the Right Of 
+Way at the edge of Customers property; if the MPOE/Demarc (more, specifically the required facilities) do not 
+exist, Customer shall be responsible, at its own expense, to provide external and/or internal conduit required on 
+private property for Frontier cable placement. For existing conduit to be usable, it must be empty of cables that 
+have working circuits and the available space inside needs to meet Frontier standards. Any other path or cable 
+installation adjustments(i.e., aerial delivery) must be confirmed and approved by the order site walk engineer.
+Frontier does NOT provide cabling or demarc extensions; we deliver to the designated demarc/MPOE only. The 
+customer must extend from that location as needed. The customer should review their site in advance to determine 
+where the MPOE is and what their cable extension cost will be. This is especially critical in multi-tenant buildings. 
+The circuit hand off selection may be impacted based on the distance from MPOE to where the customers 
+equipment is. The only exception is for products that may include some level of site cabling as part of the approved 
+Frontier offering. See graphic below for details.
+Customer Provided ConduitCustomer Provided
+Demarc Extension CableCustomer Building
+Frontier cable
+Frontier NIDCustomer
+Equipment
+Building MPOEOfficeOfficeDoor
+Office
+Conference 
+room
+CubliclesOfficeIT Closet
+If you need assistance or have questions on these topics, please ask to be put in touch with a Solutions Engineer.The cable needed for this extensions must be provided/installed by the customer.
+The path/conduit from the edge of the property to the MPOE must be provided by the customer. 
+Frontier will not physically build into or on private property.
+**Moving the Frontier NID from the MPOE is not supported. To do so requires and ICB request and is 
+considered creating a NEW MPOE (Standard pricing does not apply).Road
+Right Way
+Property Edge Outline
+Customer Signature: Date:
+This form requires use of the full Adobe Acrobat program (latest version) and may not work using a PDF browser plug in. Customer
+Conduit
+Agreement
+6/26/2023

@@ -1,0 +1,615 @@
+Ten4 Connect Bundle Addendum to Nosw.ged Seeieas t Z 14.
+Agreiment dosed Nevunber 8,201 (aHathed) ewe
+Customer Legal Name: Maryvale Preparatory School, Inc. Swe
+Billing Address: 11300 Falls Road, Lutherville, MD 21093
+Billing Contact and e-mail Address: (on file)
+Service Location Address: (same)
+As of the date this Ten4 Connect Bundle Addendum is signed by Customer (Effective Date), Ten4 and Customer enter into this Agreement
+and, in addition to the terms herein, agree to be bound by Ten4's Standard Terms and Conditions, which can be found at www.ten4.us/T&C and
+which are incorporated herein and constitute part of this Agreement.
+1. Service Term
+The Service Term for this Connect Bundle Agreement is thirty-six (36) months from the Effective Date. Billing for the additional services shall
+commence on the earlier of: (i) use of the Service by customer or (ii) five (5) days after delivery of the service to the Customer's service address.
+Auto Renewal: Following the Initial Service Term, the SOF shall renew automatically on a month-to-month basis upon the same terms and
+conditions, and either party eitkerparty may terminate at any time with sixty (60) days written notice.
+THR Se
+During the Service Term, Ten4 agrees to provide the following Connect Bundle components for sites listed herein:
+2. Coverage & Charges
+GRANDSTREAM TELEPHONE SYSTEM (Exhibit A)
+HOSTED VOICE & FAX SOLUTIONS (Exhibit B)
+Each of the Connect Bundle Service components selected shall be supported in the manner described in its Exhibit; however, ALL listed
+components shall additionally be supported as follows:
+Four (4) hour response time during 8x5 coverage
+Proactive monitoring and alerting
+Trouble ticket creation and resolution
+Diagnose, repair or replace any malfunctioning equipment
+Expedited replacement of equipment
+Network system inventory at Customer site, stored within Ten4s Internet-accessible portal
+MRC: Customer agrees to pay One Hundred Eighty Dollars ($180.00) per month for the Service Term, invoiced to Customer on a monthly
+basis, which shall become due and payable on the first day of each month.
+NRC: Customer agrees to pay a one-time fee of Six Hundred Forty Dollars ($640.00) in advance, at the time this Agreement is signed.
+In addition to the terms and conditions in the MSA and listed herein, CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND
+BY THE UNDERLYING SERVICE PROVIDER CONTRACTS. If primary connectivity such as Fiber, Cable or POTS is not included in this
+Agreement, it MUST be obtained separately.
+Charges may not include taxes, fees, USF charges or regulatory surcharges that may be assessed on the Services (Taxes), and Customer
+will be responsible for all such Taxes. Billing for Services shall commence as each Service is installed and shall continue on a monthly basis for
+the Term of Service.
+Billing for Services shall commence when this Agreement is signed by Customer and shall continue on a monthly basis for the Term of Service.
+3. Payments
+Payment Method (choose one):
+AUTO PAYMENT OPTION
+Please check here to pay your monthly invoices automatically via credit card or ACH. Following signature hereunder, Customer will be contacted by
+the Ten4 Billing team with instructions for securely providing payment information.
+STANDARD PAYMENT OPTION
+Please check here to pay your monthly invoices via check.
+Customer will pay all Charges as set forth in this Agreement. Ten4 invoices are payable monthly in advance at the beginning of each month and
+are due net thirty (30) days from the date of the invoice. Services may be suspended if payment is not received within thirty (30) days following
+date due.
+In the event a Service is migrated on a date that is not the first day of the month, fees shall be pro-rated for the month of migration and invoiced
+in the next subsequent full month.
+Ten4 may, during the Service Term and upon notice to Customer, pass-through to Customer any increase in Costs if Ten4s underlying third-
+party network or service providers (Underlying Service Providers) increase their charges to Ten4. If Customer's equipment is lost or stolen
+during the Service Term, Customer will be responsible for the replacement fee.
+1700 Union Avenue, Suite B » Baltimore, MD 21211 * 410-464-8900 + www.ten4.us
+If Customer disputes any portion of an invoice relating to Ten4 Charges, Customer will notify Ten4 of the dispute within fifteen (15) days of the
+date of the invoice and will include with such notice all applicable documentation supporting Customer's dispute. The parties will each designate
+an authorized representative to discuss the dispute in good faith, such discussion to occur within five (5) business days of the date of Customer's
+dispute notice. To the extent the dispute is resolved in Customer's favor, Ten4 will credit the applicable amount on Customer's next invoice; and
+to the extent the dispute is resolved in favor of Ten4, Customer will deliver payment of the disputed amount (together with applicable interest)
+within five (5) business days of the resolution decision.
+If Customer disputes any portion of an invoice relating to Underlying Service Provider charges, Customer will notify Ten4 of the dispute within
+fifteen (15) days of the date of the invoice and will include with such notice all applicable documentation supporting Customer's dispute. Ten4
+will communicate the disputed amount/s and forward all submitted documentation to the Underlying Service Provider within a reasonable time
+but Ten4 cannot and will not guarantee the nature or timeliness of a response by the Underlying Service Provider.
+If Customer does not dispute an invoice within the timeframes and otherwise in accordance with this subsection, the invoice will be payable in
+full and Customer will be deemed to have waived any right to dispute the invoice.
+4, Customer Obligations
+At the termination of this Agreement, the Customer shall, within thirty (30) days of said termination, return all rented equipment to Ten4
+undamaged and in good working order. Customer shall deinstall and ship the equipment using a shipping label provided by Ten4. Ten4 shall
+use reasonable discretion in determining the condition of the equipment upon its return. It is also agreed that the failure of the Customer to return
+any equipment, either within thirty (30) days of the termination of this Agreement or in a condition reasonably determined to be undamaged and
+in good working order, shall make the Customer liable to Ten4 in the amount of One Thousand Dollars ($1,000) as liquidated damages.
+With the extephon oF normal Wier and tear,
+Acceptance ang:
+Ten4 and Customer have caused this Agreement to be executed below by their duly authorized signatories.
+Customer: Maryvale Preparatory School, Inc. Distributed Computing, Inc. dba Ten4
+B heresa M. Rodgers 5 By: Deanna R. Kelly
+Asst. Head of School for Business Operations/CFO Title: Vice President
+y Ue 10, 2024 Date: 02/10/2021
+- PROPRIETARY & CONFIDENTIAL - ; Ten4 « Page 2
+mit
+EXHIBIT A
+Grandstream Telephone System
+Phone System Equipment Included
+Grandstream UCM6208- IP PBX Appliance, 800U Unlimited SIP
+Grandstream GXP2135- IP Phone, 8Ln 4SIP acct
+Grandstream GXP2170- IP Phone, 12Ln 6SIP acct
+Grandstream GXP2200- BLF Phone Module
+Grandstream GAC2500- Conference Room IP Phone, 6Ln 6SIP
+2. Grandstream HT814 4-Port ATA
+HP Voicemail/Remote Access PC
+HP Flat Screen Monitor
+WattBox UPS 1500 VA
+WattBox IP Power Conditioner, 5-Outlet
+7 CatSe Patch Cords
+HT
+Coverage
+In addition to the support coverages listed in the Agreement, Customer's selection of the Grandstream component shall also include all
+administrative programming services for telephone system changes (MACDs - moves, adds, changes, deletes).
+Upon expiration of the original Service Term, Customer has the right to renew: Customer shall receive a complete refresh of telephone
+system equipment, with installation and training included, for an additional sixty (60) months under the same terms and conditions as set forth
+herein (pricing may vary). A new Connect Bundle Agreement shall be signed at the time of renewal.
+INITIAL 1 mA
+- PROPRIETARY & CONFIDENTIAL - Ten4 « Page 3
+EXHIBIT B
+Hosted Voice & Fax Solutions
+Ten4pbx Hosted Services Sangoma Hosted Fax
+POTS Complete Low-Volume Fax Tier
+Unlimited Hosted Fax Trunk High-Volume Fax Tier
+Domestic Telephone No. (DID) 4-Port FaxStation Box
+Adtran 1531 Switch
+Edgemarc 2900A Router, Setup & Appliance Monitoring
+| Fl F
+E911 NOTICE
+Customer understands and accepts the requirements and limitations provided in the E911 document, which can be found
+at www.ten4.us/E911 and which are incorporated herein and constitute part of this Addendum.
+SERVICE LEVEL AGREEMENT
+Customer understands and accepts the requirements and limitations provided in the Hosted Voice Service Level Agreement, which can be
+found at www.ten4.us/hvSLA and which are incorporated herein and constitute part of this Agreement.
+inttiaL_ TMA
+- PROPRIETARY & CONFIDENTIAL - Ten4 + Page 4
+MANAGED SERVICES AGREEMENT 4.
+Date: November 8, 2019
+This Agreement is made between Distributed Computing, Inc. dba Ten4 (Tend), located at 1700 Union Avenue, Suite B, Baltimore,
+MD 21211, and Maryvale EOS: ae (Client), located at 11300 Falls Road, Lutherville, MD 21093.
+Tax !D# (FEIN: S5S2- 1/160
+EQUIPMENT LOCATION: BILLING LOCATION:
+Maryvale Preparatory School fant. i nf same"
+11300 Falls Road
+Lutherville, MD 21093
+As of the tf day of Nw EMbe5515 (Effective Date), Ten4 and Client enter into this Managed Services Agreement, wherein
+Tend agrees to provide to Client the below-selected essential managed service components. Managed Services can include but is
+not limited to proactive monitoring, managing and problem resolution for telephone system equipment, hosted solutions, fixed
+cellular (internet access), fax management and connectivity.
+The Managed Service components checked below shall be included in this Agreement:
+[x] GRANDSTREAM TELEPHONE SYSTEM (Appendix A)
+[x] VOICE & FAX HOSTED SOLUTIONS (Appendix B)
+[x] WIRELESS BROADBAND (FIXED CELLULAR INTERNET ACCESS) (Appendix C)
+[x] CONNECTIVITY & SITE SERVICES ADMINISTRATION (Appendix D)
+Each of the Managed Service components selected shall be supported in the manner described in its Appendix; however, ALL listed
+components shall additionally be supported as follows:
+Four (4) hour response time during 8x5 coverage
+Proactive monitoring and alerting
+Trouble ticket creation and resolution
+Diagnose, repair or replace any malfunctioning equipment
+Expedited replacement of equipment
+Network system inventory at Client site, stored within Ten4's Internet-accessible portal
+Coverage
+Coverage shall be during the business day (8am-5pm, EST), five days per week (Monday-Friday), excluding major holidays.
+Client expressly and explicitly agrees to be bound by any and all underlying carrier contracts. If primary connectivity such as Fiber,
+Cable or POTS is not included in this Agreement, it MUST be obtained separately.
+Term and Payment Schedule
+MRC; Client agrees to pay One Thousand Three Hundred Thirty Dollars ($1,330.00)* per month for a Term of sixty (60)
+months, invoiced to Client on a monthly basis, which shall become due and payable on the first day of each month.
+* Customer's existing Verizon bills (acct #000011213175 and acct #000998527952) ta be added and managed; Actual
+additional cost will be determined upon completion of hosted conversion.
+NRC: Client agrees to pay a one-time fee of Sixtee! ht Hi ed Dol 16,800.00), of which Ten Thousand
+Dollars ($10,000.00) will be paid in advance at the time this Agreement is signed and Six Thousand Eight Hundred Dollars
+($6,800.00) will be paid upon completion of the phone system installation,
+Sales taénd USF Charges may be added. Services may be suspended if MRC payment is not received within thirty (30) days
+following date due.
+Itis understood that any and all Services requested by Client that fall outside of the terms of this Agreement will be considered new
+Projects, and will be quoted and billed as separate, individual Services.
+Ten4 owns and shall continue to own any and all Equipment included herein for the entire term of the Agreement, including any
+renewals. There is no end-of-term purchase option. Client is required to provide and maintain insurance related to the equipment
+and shall pay all appropriate taxes.
+If the Grandstream option is selected and upon expiration of the original Service Term, this Agreement may continue month-to-
+month with a fifty percent (50%) reduction in the MRC payment and either Party may terminate at any time with thirty (30) days
+written notification. if Client has and accepts the option to refresh Grandstream equipment, as described in Appendix A, MRC
+renewal rate will be determined at the time of renewal and a new Agreement shall be signed.
+1700 Union Avenue, Suite B + Baltimore, MD 21211 » 410.464.8900 + www.ten4.us
+Harnprale io sas try arearnph, Su addundune .
+Ladundum us untorprradecLoo Ypinkos Ye ooertone. 14 ¢
+Syte_.
+T™me
+In the event that Client fails to pay as agreed upon, Ten4 reserves the right to recover all costs of collection, including but not limited
+to attorneys fees and court costs.
+Client Obligations
+Client agrees to complete In full all reasonably requested forms, including but not limited to Service Order Forms and Letters of
+Agency, as may be needed. Ten4 shall follow its standard and customary procedures. In processing service orders under this
+Agreement. Services may be provided by Ten4 through one or more of its affiliates.
+Client agrees to provide Ten4 all necessary access to Client's physical and network infrastructure, In order that service may be
+performed as set forth herein. in the event that said access is not provided as requested, Client is aware that monitoring and trouble
+ticketing may be jeopardized.
+Support and Escalation
+Ten4 will respond to Client's Trouble Tickets under the provisions of Schedule A, and with best effort after hours or on
+holidays. Trouble Tickets must be opened by Client's designated |.T. Contact Person, by email to our Help Desk or by phone if
+email is unavailable. Each call will be assigned a Trouble Ticket number for tracking. Our escalation process is detailed in
+Schedule A.
+Termination
+This Agreement may be terminated by either Party upon thirty (30) days written notice if the other Party breaches or fails to fulfill in
+any material respect its obligations under this Agreement and does not cure such failure within thirty (30) days of receipt of such
+written notice.
+\f a phone system option is taken and this Agreement is terminated for convenience within ninety (90) days from the phone system
+installation, Client has the option to return the equipment to Ten4 undamaged and in good working order. Ten4 shall then
+reimburse Client fifty percent (50%) of the NRC paid to Ten4.
+Should Client terminate any Services following the ninety (90) day options but prior to the expiration of the Service Term, Client shall
+pay Ten4 an early termination fee equal to fifty percent (50%) of the remaining (MRC) contract value. Except as defined in the
+above option to return, in no event shail Client be entitled to any refund of already paid charges (MRC or NRC) if this Agreement is
+terminated.
+At the termination of this Agreement, the Client shall, within thirty (30) days of said termination, return all equipment to Ten4
+undamaged and in good working order. Client shall deinstall and ship the equipment using a shipping label provided by Ten4. Ten4
+shall use reasonable discretion in determining the condition of the equipment upon its return. It is also agreed that the failure of the
+Client to return any equipment, either within thirty (30) days of the termination of this Agreement or in a condition reasonably
+determined to be undamaged and in good working order, shall make the Client liable to Ten4 in the amount of One Thousand
+Dollars ($1,000) as liquidated damages,
+Warranty
+All equipment received from Ten4 will be covered under warranty for the full term of this Agreement. With regard to services
+provided or installed by anyone other than Ten4 or its representatives, affiliates or subcontractors, Ten4 makes no warranties,
+express or implied, and specifically disclaims any warranty of fitness for a particular purpose. Performance of any service or
+maintenance work by anyone other than Ten4 or its representatives, affiliates or subcontractors during the warranty period
+described herein shall cause this warranty to be void and terminated.
+Exclusion
+This Agreement does not cover the repair or replacement of equipment that is lost, stolen or damaged by negligence, tampering,
+misuse, accident or resulting from electrical storm, lightning or other violent weather or causes other than ordinary use, nor the labor
+associated with the repair or replacement thereof. Further, this Agreement does not include labor and material costs for additions,
+relocation or removal of equipment. Ten4 shall not be liable for any costs or fees associated with repairs or other work required or
+performed by any non-approved third-party vendors or service providers.
+Limitation of Liability
+Daily usage and operation of installed equipment is the responsibility of the Client. It is agreed that Ten4 is not an insurer and will
+not be liable for, and Client agrees to indemnify and hold harmless Ten4, Sierra Wireless, Sangoma and each of their respective
+officers, employees and agents, any and all claims regarding injury or damage to persons or property that may arise through the
+performance of services under this Agreement, or the operation or maintenance of the equipment or lack or failure thereof, unless
+caused by Ten4's gross negligence or willful misconduct. In no event will Ten4 be liable to the Client for any indirect, special,
+incidental, exemplary or consequential damages, including but not limited to damages for loss of business, loss of use, loss of
+revenue, loss of profits, loss of clients or loss of life arising in any manner from this Agreement and/or the performance or
+nonperformance hereunder.
+Force Majeure
+Neither party shall be responsible for any loss, harm, damage, or failure to comply with any obligation hereunder resulting from
+conditions commonly referred to as Force Majeure events that are not within the control of the non-performing party, including, but
+not limited to fire, flood, war, strikes, cable cuts, acts of terrorism, explosions, communication line failures, power failure, the
+infrastructure of the Internet, governmental restrictions, acts of third parties that are illegal under either federal or state law, or acts
+of God."
+- CONFIDENTIAL - Ten4 « Page 2
+Bevail
+Subcontracting
+Ten4 may subcontract work to be performed under this Agreement but shall retain responsibility for the work.
+Assignment
+Neither party may assign its rights and obligations, whether by operation of law or otherwise, without the prior written consent of the
+other party, not to be unreasonably withheld. Notwithstanding the foregoing, either party, in connection with a merger,
+reorganization, or sale of all or substantially all of the assets or equity of such party, may assign this Agreement in its entirety to
+such party's successor without the other partys consent. This Agreement shall bind and inure to the benefit of the parties, their
+respective successors and permitted assigns.
+Dispute Resolution
+In the event of a dispute between the parties arising under this Agreement, the parties shall submit to binding arbitration before a
+single arbitrator under the Commercial Arbitration Rules of the American Arbitration Association. The decision of the arbitrator shall
+be final and binding with respect to the dispute subject to arbitration and shall be enforceable in any court of competent jurisdiction.
+Each party shall bear its own expenses and costs incurred in such arbitration but those related to the compensation of the mediator
+shall be borne equally. The parties, their representatives, other participants and the arbitrator shall hold the existence, content and
+result of arbitration in confidence. The parties further agree that the mediation and arbitration, if required, shall take place In the area
+of Baltimore, Maryland. Nothing in this paragraph shall derogate from the rights of the parties to seek preliminary injunctive relief to
+preserve the status quo.
+Notification
+Any notices, requests, consents and other communication under this Agreement shall be in writing and shall be deemed to have
+been delivered on the date (a) personally delivered, (b) mailed, postage prepaid, by certified mail with return receipt requested, or
+(c) electronically mailed and confirmed. All communications under this section shall be addressed to the respective parties hereto
+as follows:
+Maryvale Preparatory Sthel , nc,
+Iftoclient:  Adtyshén: Theresa. Rodgers IftoTen4: Ten4
+Asastant o€S thool Far Bushs |a@o 1700 Union Avenue, Suite B
+a a Road Baltimore, MD 21211
+ther vi Dg Attn: Legal Dept.
+fod.ge rstOmaryvale .¢ AND email: dkelly@ten4.us
+Governing Law
+This Agreement shall be construed and enforced under and in accordance with and governed by the laws of the State of Maryland
+exclusive of conflict or choice of law rules, If any provision of this Agreement shall be held to be invalid or unenforceable, said
+provision shall not affect in any respect the validity or enforceability of the remainder of this Agreement.
+Entire Agreement
+This Agreement, including all schedules and appendices referenced herein, constitutes the entire agreement between the parties
+and supersedes all prior or contemporaneous oral and written agreements, commitments, or understandings with respect to the
+matters provided for herein. This Agreement may not be modified, except by a writing signed by both parties.
+Acceptance
+| have read and understood the terms and conditions of the above Managed Services Agreement and have had the opportunity to
+consult legal counsel if so desired. By my signature hereunder, | indicate that | am authorized to bind the Client and that Client
+agrees to the terms and conditions herein.
+Maryvale Preparatory School me. Distributed Computing, inc. dba Ten4
+QL AO
+ THR ESO ™. BA By: Deanna R. Kelly
+tite: Assistant Hea a, | fac Title: Vice-President
+. . Date: 11/15/19
+Gasineés Oprratiors) CFo
+N r4}a0 19
+- CONFIDENTIAL - Ten4 « Page 3
+30f @
+™eR
+MRC Payments
+eR RR RR RR RR eR RR OR RR RR OR RR OR OR RR Rk Rk Re
+CREDIT CARD Authorization
+Card No.
+N[f
+Name on Card/ Billing Address:
+Exp. Date,
+Code.
+Signature:
+Billing Email:
+kok Re KR RR eR ROR RR OR RR OR RR RR OR ROR OR OR OR OR RR OR Oe RR oe RR Oe
+- CONFIDENTIAL -
+Ten4 « Page 4
+40g 9
+APPENDIX A
+Grandstream Telephone System, Additional T&C
+Phone System Equipment Included
+4 Grandstream UCM6208- IP PBX Appliance, 800U 50SIP
+Grandstream GXW4224- 24-Port Analog VoIP Gateway
+Grandstream GXP2170- IP Phone, 12Ln 6SIP acct
+Grandstream GXP2200- BLF Phone Module
+Grandstream GXP2135- IP Phone, 8Ln 4SIP acct
+Grandstream GXP1615- Basic IP Phone, 1Ln
+Grandstream GAC2500- Conference Room IP Phone, 6Ln 6SIP-
+Grandstream DP750 DECT- DECT VoIP Base Station
+Grandstream DP720 DECT- DECT Cordless HD Handset
+SanDisk 32GB Memory Card
+HP ProDesk 700 G3 Voicemail PC with HP Flat Screen Monitor
+WattBox UPS 1500 VA
+WattBox UPS 825 VA
+WattBox IP Power Conditioner, 5-Outlet
+Cisco SG350-28P- 28-port GB PoE Managed Switch
+io
+EER PEP EEL
+io
+Pt
+Cabling Included
+Cat5e cabling installation in Middle School classrooms
+24-port Cat5e Patch Panel
+RMS to Castle on third floor
+the
+Coverage
+In addition to the support coverages listed in the Agreement, Client's selection of the Grandstream component shall also include all
+administrative programming services for telephone system changes (MACDs - moves, adds, changes, deletes).
+Upon expiration of the original Service Term, Client has the right to renew: Client shall receive a complete refresh of telephone
+system equipment, with installation and training included, for an additional sixty (60) months under the same terms and conditions
+as set forth herein (pricing may vary). A new Managed Services Agreement shall be signed at the time of renewal.
+INITIAL mmR Sy 2
+- CONFIDENTIAL - Ten4 « Page 5
+5 ok$
+APPENDIX B
+Voice & Fax Hosted Solutions, Additional T&C
+Ten4 Hosted Voice Services Sangoma Hosted Fax
+SIP Trunk Bundle (Small) 5 Low-Volume Fax Tier
+SIP Trunk Bundle (Medium) i} High-Volume Fax Tier
+SIP Trunk Bundle (Large) 2 4-Port FaxStation Box
+Unlimited SIP Trunks
+Unlimited Hosted Fax Trunk
+E911 Service Charge
+Domestic Telephone No. (DID)
+Business Hosted Extension
+Polycom VVX300 Conference Phone
+Edgemarc 2900A Router, Setup & Appliance Monitoring
+HPPRE FR PPP
+£911 NOTICE
+Client understands and acknowledges that the SIP and/or VoIP connectivity services (Service) subscribed to and supplied
+throughTen4pbx.com (TEN4) may have the E911 limitations specified below:
+¢ In order for 911 calls to be properly directed to emergency services using Service, TEN4 must have the correct service
+address for the Client. If Service is moved to a different location without TEN4s approval, 911 calls may be directed to the
+wrong emergency authority, may transmit the wrong address and/or Service (including 911) may fail altogether.
+e — Service uses electrical power in the Client's premises. If there is an electrical power outage, 911 calling may be
+interrupted if the battery back-up in the associated multimedia terminal adapter is not installed, fails or is exhausted after
+several hours.
+e Service, including calls to 911, may not be completed if there is a problem with network facilities, including network
+congestion, network/equipment/power failure, or another technical problem.
+¢  TEN4 will need several business days to update a Client service address in the E911 system. All change requests and
+questions should be directed to 1-866-324-8555 USE OF SERVICE AFTER DELIVERY OF THIS DOCUMENT
+CONSTITIUES CLIENT ACKNOWLEDGEMENT OF THE E911 NOTICE HEREIN.
+Neither TEN4 nor its officers or employees may be held dialing liable for any claim, damage or loss, and Client hereby waives and
+all such claims or causes of action arising from or relating to 911-type dialing. Client agrees to indemnify and hold harmless TEN4
+from any claim or action arising out of misroutes of 911-type calls, including but not limited to Client's failure to provide correct
+information herewith.
+In addition to the terms and conditions listed herein, CLIENT EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND BY THE
+UNDERLYING CARRIER CONTRACT, INCLUDING TERMS & CONTITIONS.
+INITIAL IMB 1, 2
+- CONFIDENTIAL - Ten4 « Page 6
+Us 8
+APPENDIX C
+Wireless Broadband, Additional T&C
+Wireless Broadband (Fixed Cellular) Internet Services
+4 Wireless Broadband, 5GB per month, Includes:
+1 AN-20 Antenna and LTE Modem
+1 Pro-Installation and Standard Shipping
+Ten4 reserves the right to increase Client's Bundled Service plan, based on monthly usage over thirty percent (30%), upon thirty
+(30) days written notice to Client.
+Indoor vs. Outdoor installation selection based on preliminary evaluation; final determination and rates will be based on actual
+Installation.
+One-time Pro-Install fee requires that site be accessible and local contact be available to service technician. Additional fees may
+apply for subsequent visits or cancellations,
+Sales taxes will be applied on the final invoice based on the jurisdiction's applicable rates at the service location.
+In the event that a Client site is deemed Technically Not Feasible (TNF), meaning it does not meet the minimum data rate of 150ms
+latency and 6Mbps/2Mbps over a 24-hour period, Client may terminate its obligation for the remainder of the Term of the SOF with
+no early termination fees, provided such termination is exercised within thirty (30) days of commencement of the Services. Ten4
+shall provide a shipping label for return of equipment.
+INITIAL _T MR Sy 2
+- CONFIDENTIAL - Ten4 « Page 7
+Mog. §
+APPENDIX D
+Site Services Administration
+Services Administration Options
+4 Connectivity (Fiber) Order: *Remaining Verizon costs to be added to MRC upon completion of hosted conversion
+0 Connectivity (Coax) Order: N/A
+4 Connectivity Monitoring and Trouble-ticketing
+4 Connectivity Billing Aggregation
+At the time this Agreement becomes effective, Client agrees to execute referenced connectivity order with underlying carrier OR
+Client will execute a LOA, allowing Ten4 to purchase connectivity services for this site as agreed to by the Parties and described
+herein above.
+Upon selection of the Site Services Administration option, Ten4 agrees to provide the following:
+e Aggregate billing in single Invoice
+e Advance payments to carrier for fiber
+e — Monthly billing reviews
+It is agreed that the Client end user will call Ten4s help desk with any network issue, or via other mutually agreed upon method.
+CLIENT EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND BY THE UNDERLYING FIBER CARRIER CONTRACT/S. This
+includes but is not limited to carrier resolution of issues. Ten4 shall promptly contact carrier for carrier-related issues but Ten4 is not
+responsible for any delay that is caused solely by the carrier in resolving such carrier-related issues.
+inmian TMB Sy
+- CONFIDENTIAL - Ten4 « Page 8
+8%
+Addendum to Contract Dated November 14, 2019 between Distributed
+Computing, Inc., dba Ten4 (Contractor) and Maryvale Preparatory
+School, Inc. (Purchaser) for
+1.) Grandstream Telephone System
+2.) Voice and Fax Hosted Solutions
+3.) Wireless Broadband (Fixed Cellular Internet Access)
+4.) Connectivity & Site Services Administration
+1. Time being of the essence, the installation work is to be completed by Contractor
+no later than January 6, 2020.
+2. Any services outside of the original contract made by Contractor, which will be
+billed in addition to the monthly fees listed in this agreement, must be provided
+to and agreed upon by the Purchaser in advance of the work being performed.
+Any additional work performed by The Contractor that does not have a Purchaser-
+approved change, Purchaser will not be liable to pay any additional costs incurred
+by The Contractor.
+3. Purchaser is a non-profit, religious entity and is exempt from Maryland state sales
+tax. The Contractor shall act as Purchasers agent in purchasing the materials for
+the proposed work and will be responsible for ensuring that sales tax is not
+charged on such materials. Purchaser will provide a Maryland state sales tax
+exempt certificate to The Contractor.
+4. The Contractor shall take all reasonable precautions to provide for the safety of
+and to prevent damage, injury or loss to (a) The Contractors employees and all
+other persons who may be affected by the above described work; (b) the property
+of Purchaser and any adjoining property to Purchaser and (c) the above described
+work including the materials and equipment used and incorporated therein.
+5. Access to campus, buildings and rooms will be provided to The Contractor by
+Purchasers designated personnel (IT, Facilities or Security). Before
+commencement of work, the Contractor and its affiliates, subcontractors,
+inspectors, etc. must check-in with Heather Andrew, Purchasers Director of
+Information Services.
+6. If work is being performed on a weekday, the Contractor and its affiliates,
+subcontractors, inspectors, etc. must check-in with the receptionist at the main
+WY nitials (Purchaser)
+Su Initials (Contractor)
+office located in the Rodriguez building. The visitor's badge provided must always
+be visibly worn by The Contractor and its affiliates when working on campus. If
+work is being performed on the weekend or at night (after hours), check-in is
+required with Heather Andrew.
+7. The Contractors personnel will wear appropriate identification and uniforms
+identifying them as The Contractors employees. The Contractor will provide only
+technicians who are skilled and trained to perform the work required. The
+Contractor shall be responsible for initiating, maintaining and supervising all
+safety precautions and programs in connection with the performance of the work
+and The Contractor shall take reasonable precautions for safety of and shall
+provide reasonable protection to prevent damage, injury or loss to employees of
+The Contractor, its subcontractors and to the public.
+8. It is understood and agreed that The Contractors employees, representatives,
+agents, subcontractors and affiliates shall conduct themselves in a professional,
+workmanlike and appropriate manner at all times while present on or about
+Purchaser's property. Without limiting the generality of the foregoing, The
+Contractors employees, representatives, agents, subcontractors and affiliates
+shall: (1) dress in appropriate attire (and shall not be permitted to remove shirts
+or other such articles of clothing while on Purchasers property); (2) refrain from
+the use of vulgar, offensive or otherwise objectionable language; (3) refrain from
+playing any loud music and shall keep all conversation or other noise that is not
+essential to the work described herein to a reasonable level; (4) at all times, be
+mindful and respectful of Purchasers and its adjacent neighbors property and
+shall not interrupt or interfere with the same, except where such interruption or
+interference is essential to the completion of the work and Purchaser has
+consented, in advance, to the particular interruption or interference. Purchaser
+shall have the right to request The Contractor to remove any one or more of The
+Contractors employee(s), representative(s), agent(s), subcontractors(s) or
+affiliate(s) from Purchaser's property and prohibit the same from returning
+thereto, if, in Purchaser's sole and absolute discretion, any such employee(s),
+representative(s), agent(s), subcontractor(s) or affiliate(s) shall be deemed to have
+violated any of the terms of this Section. In the event that Purchaser shall make
+such a request, in accordance with this provision, The Contractor shall remove the
+particular employee(s), representative(s), agent(s), subcontractor(s) or affiliate(s)
+of The Contractor. It is understood and agreed that Purchaser shall not be
+responsible for the payment of any costs incurred by The Contractor as a result of
+such removal, and The Contractor shall remain obligated to complete the work
+within the timeframe set forth herein.
+v
+NW initials (Purchaser)
+yl ainitials (Contractor)
+9. The Contractor will obtain, at its own expense, any licenses or permits necessary
+to properly perform the work.
+10. The Contractor shall save, defend, indemnify and hold Purchaser harmless from
+and against claims, damages, losses and expenses arising out of its performance
+of the work on this project, except to the extent that any such claims, damages,
+losses and expenses rise out of or result from Purchasers intentional misconduct
+or negligent acts or omissions.
+11. The Contractor shall guarantee that the work shall remain in compliance with any
+and all safety levels as prescribed by all applicable laws, rules, regulations and
+ordinances. The Contractor shall give all notices and comply with all laws,
+ordinances, rules and regulations bearing on the conduct of the work as shown
+or specified.
+12. The Contractor shall provide a Certificate of Insurance (CO!) (Exbibit A) naming
+Maryvale Preparatory School, Inc. and its Trustees, employees, officers and agents
+as additional insureds providing coverages in the minimum amounts set forth in
+the form of Certificate of Insurance attached as Exhibit A hereto. The Contractor
+shall furnish the insurance coverages set forth in Exhibit A for the duration of the
+agreement. The Contractor hereby waives the right of subrogation.
+13. The Contractor certifies that its work under this Agreement may involve
+substantial contact with individuals under the age of 18 (Minors). Substantial
+contact with Minors means contact in which the duration and scope in both time
+and exposure to Minors is neither rare nor limited and may occur on a routine
+and/or ongoing basis. Substantial contact also includes any direct, unsupervised,
+and uncontrolled access to Minors and any overnight activities with Minors. The
+Contractor represents, warrants, verifies and agrees that all of The Contractors
+current and future employees, agents, volunteers, subcontractors, and
+subcontractors employees who will be present at Purchasers premises will have
+undergone a criminal background check which revealed no incidents of abuse,
+neglect, misconduct with Minors, or other criminal activity that would render
+them unsafe to have contact with Minors prior to being present at the School
+premises. Such criminal activity includes any conviction for a sex offense in any
+degree, for child sexual abuse, and for any crime of violence as defined in
+Section 14-101 of the Criminal Law Article of the Annotated Code of Maryland.
+Any costs associated with background checks under this paragraph shall be the
+responsibility of The Contractor (or its subcontractors) and not of Purchaser. Upon
+request of Purchaser, The Contractor shall provide additional written verification
+that all of The Contractor's employees, agents, volunteers, subcontractors, and
+" Initials (Purchaser)
+uz Initials (Contractor)
+subcontractors employees who are or will be present at Purchasers premises
+have undergone a criminal background check which revealed no incidents of
+abuse, neglect, misconduct with Minors, or other criminal activity that would
+render them unsafe to have contact with Minors. The Contractor acknowledges
+that it constitutes a contracting agency pursuant to Section 6-113.2 of the
+Education Law Article of the Annotated Code of Maryland and agrees that it is
+required to comply with all screening obligations required under that law at its
+own expense. On request from Purchaser, The Contractor shall provide access to
+records for any of The Contractor's employees or other persons having direct
+contact with minors pursuant to this Agreement. Before assigning such a person
+to perform work involving direct contact with minors, The Contractor shall provide
+notice to Purchaser of any affirmative responses to the child abuse or sexual
+misconduct questions required under subsection (b)(3) of Section 6-113.2. The
+Contractor may not assign any person to perform work for Purchaser in a position
+involving direct contact with minors if Purchaser objects to the assignment after
+receiving the notice required in the prior sentence.
+Theresa M. Rodgers Deanna R. Kelly
+Assistant Head of School for Business Vice President
+Operations/CFO
+Maryvale Preparatory School, Inc Distributed Computing, Inc., dba Ten 4
+Date: Il hha Date:__ 11/15/19
+End of Document
+(ey
+initials (Purchaser)
+2 Initials (Contractor)
+EXHIBIT A
+INSURANCE REQUIREMENTS
+All Contractors and/or subcontractors providing service to Maryvale Preparatory School are required to
+provide a CERTIFICATE OF INSURANCE (COI). All insurance policies shall be in form, amounts and with
+such companies that are reasonably acceptable to Maryvale Preparatory School.
+COMMERCIAL GENERAL LIABILITY:
+The Contractor shall maintain Comprehensive General Bodily Injury and Broad Form Property Damage
+Liability induding but not limited to Premises / Operations, Product & Completed Operations, Contractual
+Liability and Personal Injury Liability. The XCU Exclusion should be deleted. The policy must include the
+CGL Broadening Endorsement and be written on a per occurrence basis.
+Minimum coverage limits:
+Bodily Injury/Property Damage Liability $1,000,000
+Per Occurrence/Aggregate $3,000,000
+COMPREHENSIVE BUSINESS AUTOMOBILE:
+Contractor shall maintain Comprehensive Business Automobile Liability insurance including Bodily Injury
+and Property Damage Liability with owned, hired and non-owned vehicle coverage. The policy shall also
+include coverage for upset and/or overtum.
+Minimum coverage limits:
+Bodily Injury/Property Damage Liability
+Per Occurrence $1,000,000
+EXCESS/UMBRELLA LIABILITY:
+The Contractor shall maintain an Excess/Umbrella Liability policy providing coverage in excess of the
+primary limits for CGL, Auto Liability and Workers Compensation Employers Liability.
+Minimum coverage limits:
+Bodily Injury/Property Damage Liability
+Each Occurrence $5,000,000
+Whiitials (Purchaser)
+Initials (Contractor)
+The following endorsements are required and applicable to all policies listed above:
+e Maryvale to be additional insured
+e Coverage to be Primary & Noncontributory
+e Waiver of Subrogation in favor of Maryvale
+WORKERS COMPENSATION AND EMPLOYERS LIABILITY:
+The Contractor shall maintain Workers' Compensation insurance with statutory coverage as set forth by
+the State of Maryland including the All States and Voluntary Compensation endorsements.
+Employer Liability Limits:
+Each Accident $500,000
+Disease - Policy Limit $500,000
+Disease - Each Employee $500,000
+ADDITIONAL INSURED CLAUSE:
+The Contractor shall name Maryvale Preparatory School, Inc. as an Additional Insured with respect to
+the services performed by the Named Insured.
+CANCELLATION CLAUSE AMENDED:
+Should any of the above described polices be canceled, non-renewed or materially altered before the
+expiration date, the issuing company will mail 30 days written notice to the Certificate Holder named
+herein.
+The Certificate Holder is:
+Maryvale Preparatory School, Inc.
+11300 Falls Road
+Lutherville, Maryland 21093
+An original certificate must be on file with Purchaser prior to the execution of the contract. The
+Contractor shall notify Purchaser immediately in the event that its insurance coverage is terminated or
+substantially modified for any reason. The Contractor shall provide Purchaser with a renewal certificate
+within ten (10) days of the lapse of insurance.
+ve
+* Initials (Purchaser)
+S1.2initials (Contractor)
+The Contractor's policies required by this Agreement shall be primary insurance for all claims related to
+this Agreement, it being understood and agreed that Purchasers policies are secondary and non-
+contributory. The Contractor expressly waives all rights of recovery against Purchaser for claims covered
+by The Contractors policies. The Contractor will ensure that its consultants also waive claims covered by
+their policies and those claims covered by The Contractors policies required under this Agreement.
+x ities (Purchaser)
+Suz Initials (Contractor)

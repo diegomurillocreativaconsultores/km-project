@@ -1,0 +1,97 @@
+MASTER SERVICES AGREEMENT (UNITED STATES)   1  JANUARY 2021  
+CONFIDENTIAL INFORMATION   
+MASTER SERVICES AGREEMENT  (UNITED STATES)  
+This Master Services Agreement (United States)  (MSA (US) ) is made  by the undersigned customer (Customer ) and the undersigned  
+representative of Digital Realty  as of the date below . Digital Realty  means the entity that signs an Order and is an Affiliate of the entity signing 
+this Country MSA for Digital Realty . The parties agree as follows:    
+1. General . This MSA (US) incorporates by reference the Global  Terms and Conditions  by Customer or its Affiliate and Digital Realty  dated 
+________________ , and is a Country MSA . Capitalized terms used, but not defined, in this M SA (US) have the meaning ascribed to them 
+in the Globa l Terms and Conditions . Under the Global  Terms and Conditions , Orders may be entered into between Customer  and Digital 
+Realty . The terms of this MSA  (US) (which incorporates the terms of the Global  Terms and Conditions)  are hereby incorporated into each  
+Order for Services provided by Digital Realty  in the United States . 
+2. Term . The initial term of this MSA  (US) shall be 39 months (Initial Term ) commencing on the Commencement Date for the first Services 
+provided hereunder (the  Initial Commencement Date ). Unless otherwise specified in such Order, e ach Order for Services provided by 
+Digital Realty in the United States will be coterminous with this Country MSA, such that each such Order  will commence on its respective 
+Commencement Date and continue for the duration of the Term of this Country MSA, unless earlier terminated as provided herein .  
+3. Security Deposit.   Customer wil l provide a Security Deposit equal to 1 months MRC.  
+4. Common Carrier .  Customer agrees that it shall not assert, nor shall it permit any other party to assert, any rights or benefits that Customer 
+or such other party may have or hereafter have as a utility or common carrier or status of similar import, including any de fense Customer 
+may have under any legal requirement that conflicts with or would act to modify any rights of Owner or the respective rights, benefits or 
+obligations of Digital Realty and Customer hereunder.  
+5. Termination of Data Center Lease .  Notwithstanding anything  in the Agreement  to the contrary, the Agreement, as it pertains to the Data 
+Center in the Building, shall, if applicable, terminate automatically upon the expiration or earlier termination of the lease  between Digital 
+Realty and th e Owner of the Building (the  Lease ), unless Owner, at Owners option, demands that Customer attorn to Owner or Owners 
+designee as set forth herein. In the event of the termination, re -entry or dispossess of Digital Realty by Owner under the Lease, Custo mer 
+upon such Owners request shall promptly provide to Owner a copy of all documentation and agreements pertaining to Customers  presence 
+in the Building. Owner may, at its option, take over (or designate a designee of Owner to take over) all of the right , title and interest of Digital 
+Realty, as licensor under this Agreement, with respect to the Data Center at the Building. In the event that Owner so elects to take over (or 
+have a designee take over) such right, title and interest of Digital Realty , then Customer shall, at Owners option, attorn to Owner or at 
+Owners further option, to Owners designee pursuant to the then executory provisions of this Agreement to the extent the sam e relate to the 
+Building, except that (1) neither Owner nor Owners design ee shall (i) be liable for any act or omission of Digital Realty under this Agreement 
+prior to such attornment, (ii) be subject to any offset which accrued to Customer against Digital Realty , (iii) be bound by any prepayment of 
+more than one months MRCs o r NRCs or other sums due hereunder unless such prepayment was previously approved by such Owner, nor 
+(iv) be bound by any covenant to undertake or complete any construction of, or related to, the Data Center , or perform any work for Customer, 
+(2) Owner or Owners designee, as licensor , may require reasonable modifications of Customers insurance requirements, consistent with 
+owners of other first class Buildings in the vicinity of the Building  of a similar nature , and (3) neither Owner nor Owners designee shall be 
+bound for any of the terms and conditions that relate to any premises other than the Data Center in the Building (and any such provisions 
+shall be deemed excluded from this Agreement). Upon request, Customer shall execute any agreement requested t o confirm such 
+attornment.  
+6. Repairs & Maintenance.  Digital Realty shall use its good -faith efforts to provide Customer (except in the case of emergency, in which event 
+Digital Realty shall use reasonable efforts, but shall not be required, to provide Customer with prior notice) not less than 24 hours prior notice 
+of Digital Realty s intent to conduct facility maintenance services and planned repairs (including, but not limited to elect rical, mechanical or 
+plumbing work) that may disrupt access to or use of the Customer Area or the provision of Services to Customer. In the event such work will 
+materially disrupt and/or interfere with the business of Customer , Digital Realty  and Customer will cooperate to determine an appropriate 
+maintenanc e window to conduct such work. I n emergency situations , Digital Realty shall use reasonable care and precaution in order to 
+minimize the disruption in Customers business without the creation of a mainte nance window.  
+7. Governing Law . The parties agre e that any Agreement  in the United States  including the MSA (US) will be governed in all respects  by the 
+laws of the State of California  and of the United States, without giving effect to the principles of California law relating to the conflict or choice 
+of laws, and they submit to the exclusive jurisdiction of the courts of the State of California or the United States federal district court of the 
+Northern District of California to resolve  any dispute that may arise out of or in connection with any such Agreement  including the MSA (US) . 
+THE PARTIES HEREBY IRREVOCABLY WAIVE, TO THE FULLEST EXTENT PERMITTED BY LAW, ALL RIGHTS TO TRIAL BY JURY 
+IN ANY ACTION, PROCEEDING, OR COUNTERCLAIM RELATING TO ANY AGREEMENT, ORDER, CUSTOMER AREA OR SERVICES 
+PERTAINING TO THIS MSA (US).  
+MASTER SERVICES AGREEMENT (UNITED STATES)   2  JANUARY 2021  
+CONFIDENTIAL INFORMATION    
+The part y signing this MSA (US) for Digital Realty is an affiliate of the Digital Realty parties signing Orders hereunder and is authorized to execute 
+this MSA  (US) on behalf of Digital Realty. The Digital Realty affiliate  signing this MSA  (US) does so for the sole purpose of acknowledging  the 
+terms of this MSA  (US) as incorporated into each a pplicable Order and shall not be deemed to be Digital Realty as that term is used in this 
+Agreement . 
+For Digital Realty   
+Customer :   HI-Link Technology Group, LLC  
+Digital Realty Holdings US, LLC  
+By: ____________________________________  
+Name: __________________________________  
+By: ____________________________________  
+Name: __________________________________  
+Date: _________________________________  
+Digital Realty Notice Information:  
+Digital Realty  
+2323 Bryan Street , Suite 1800  
+Dallas, Texas 75201  
+Attention: Lease Administration  
+With a Copy to:  
+Digital Realty  
+1 State Street, 21st Floor  
+New York, New York 100 04 
+Attention: Legal Department  
+Email: legalnotice@digitalrealty.com  Customer Notice Information:  
+Customer Address  (street /city/state/zip ):   
+60 Long Ridge Road , Suite 205  
+Stamford, CT 069 02  
+Customer Telephone #:  203-388-7136   
+Customer E -Mail Address: vip@hi -link.com   
+Customer Billing Information ( if different from Notice 
+Information above) : 
+Customer Billing Address  (street/city/state/zip ):  
+60 Long Ridge Road, Suite 205  
+Stamford, CT 06902  
+Customer Billing Contact: Attn: Vasim Limbadiya  
+Customer Billing Telephone #:  203-388-7136  
+Customer Billing E -Mail Address: vip@hi -link.com   
+Customer Tax Exempt? (Yes or No) _ Yes____  
+           (If yes, attach certificate(s))  
+Does Customer Require Invoices to Include P.O. #?  
+       (Yes or No) _______  
+ If Yes, Customer E-Mail Address for Contact  Providing P.O. #s:  
+_____________________ ____ ________ _______________  
+Vasim Limbadiya

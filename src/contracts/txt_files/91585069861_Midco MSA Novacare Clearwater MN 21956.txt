@@ -1,0 +1,709 @@
+000 mipco
+MASTER SERVICE AGREEMENT
+General Terms and Conditions
+These General Terms and Conditions along with any Exhibits, Attachments and Service Orders and Addendums together constitute the Master Service
+Agreement (Agreement) is made by and between Midcontinent Communications®, a South Dakota General Partnership (Midco®), with a principal
+place of business at 3901 N Louise Ave Sioux Falls SD 57107, and NovaCare Rehab, with a principal place of business at 600 COUNTY ROAD 75 NW
+CLEARWATER, MN on behalf of itself and its affiliates (Customer); each a Party and, collectively, the Parties.
+TERMS AND CONDITIONS APPLICABLE TO ALL SERVICES
+Service. Subject to the terms and conditions contained herein,
+Tariffs on file in each state and Federal Communications
+Commission (FCC), and the applicable usage policies as posted on
+www.midcocomm.com, Midco agrees to provide to Customer the
+service or services identified in the accepted Business Solutions
+Service Order(s) (collectively, the Service). Except as required by
+law, Service is for end-use only and may not be resold by Customer.
+Customer is responsible for security and all usage of Service.
+Service Order. Customer may purchase Services during the Term
+of this Agreement by completing a Service Order. Customer shall
+contact Midco to determine the availability of Service. As part of
+the Service Order, Customer may be asked to identify the location
+of Service, term of Service, type of Service requested, desired
+installation date, and any other information reasonably requested by
+Midco to determine the availability of Service. Upon receipt of
+Customers properly completed Service Order, Midco will review
+and respond to Customer within a commercially reasonable amount
+of time of Midcos receipt of a Service Order and either accept such
+proposed Service in writing or email, or respond to Customer
+declining to provide the requested Service. By executing a Service
+Order, Customer represents and warrants that Customer: (a) either
+owns the Service Location or has received permission from the legal
+owner and/or any other necessary party of the Service Location to
+make any changes to the interior and/or exterior necessary to install
+Midco Equipment (as defined in Section 17); (b) is legally
+authorized to purchase and receive the Service and Midco
+Equipment (if applicable) and fulfill its obligations under this
+Agreement; and (c) affirms that the information Customer supplies
+to Midco is correct, accurate and complete. Upon acceptance by
+Midco, the executed Service Order shall be incorporated into and
+subject to the terms of this Agreement. (For purposes of
+clarification, throughout the remainder of this Agreement,
+references to Service Order shall mean a Service Order that has been
+accepted by Midco.)
+Service Upgrade. At Customer's election and subject to Midcos
+approval and acceptance thereof, the Parties may amend this
+Agreement by executing a Service Order for additional quantities of
+or functionality enhanced versions of Service. The Service Order
+shall specifically reference, in addition to any other information
+required to be set forth in a Service Order, the additional quantities
+and/or functionality enhanced versions of Service desired by
+Customer to be provided by Midco thereunder.
+Engineering Review. Each Service Order submitted by Customer
+shall be subject to an Engineering Review by Midco. Midco will
+provide Customer written notification in the event Service
+installation at any Service Location will require any additional fees.
+Customer will have five (5) business days from receipt of such
+notice to reject the new fees and terminate, without further liability,
+the Service Order with respect to the affected Service Location.
+MSA 0416
+5.
+Installation Schedule. Midco shall provide Customer with an
+estimated availability date for each Service and Service Order.
+Midco shall use commercially reasonable efforts to provide the
+Service on or before the estimated availability date: provided,
+however, that Midcos failure to provide the Service by said date
+shall not constitute a breach of this Agreement. Requests to expedite
+the installation schedule and availability date will be reviewed and
+accepted at Midcos discretion and may be subject to additional fees.
+Expedite requests will also be subject to any and all fees billed to
+Midco by other vendors in the support of the expedite request.
+Midco shall use commercially reasonable efforts to fulfill the
+expedite request, but does not warrant or represent that Service
+expedites requests will actually expedite delivery of Service.
+Customer shall be subject to any and all expedite fees regardless of
+the outcome of the expedite request. Once the Parties have agreed
+to a service availability date, Customer may request to change the
+date; provided however, Customer will incur a fee of two hundred
+fifty dollars ($250.00) if the request is made within five (5) business
+days of the service availability date
+Additional Service Location. The location(s) where Service is to
+be initially provided will be identified in a Service Order (Service
+Location). Additional locations may be added by submitting a
+Service Order for the new Service Location. The new Service
+Location will be subject to the terms of this Agreement upon
+Midcos acceptance and approval of the Service Order.
+Replacement Service. The installation and Customer's use of the
+Service is location-specific to the Service Location indicated in this
+Agreement and any Service Order. Customer may terminate Service
+at an existing Service Location without incurring Termination Fees
+provided that Customer orders and Midco accepts the order for a
+Replacement Service. The Replacement Service (a) must have a
+Term equal to or greater than the remaining Term of the existing
+Service; and (b) must have monthly recurring charges equal to or
+greater than the monthly recurring charg: for the existing Service.
+In addition, Customer must (a) submit a ce Order to Midco for
+the Replacement Service at least ninety (90) days prior to
+terminating the existing Service; (b) reimburse Midco for any and
+all installation charges that were waived with respect to the existing
+Service; and (c) pay the actual costs incurred by Midco in installing
+and provisioning the Replacement Service.
+Service Commencement Date. Midco shall inform Customer
+when Service is available and performing to the specifications in the
+Service Order (Availability Notification). The term for Service
+shall commence and charges for Service shall begin to accrue as of
+the Service Commencement Date. The Service Commencement
+Date shall be the earliest of: (a) the date on which Customer
+confirms receipt of and concurrence with the Availability
+Notification; (b) five (5) business days following the date of the
+Availability Notification, if Customer fails to notify Midco that the
+Service does not comply materially with the specifications set forth
+in the Service Order; or (c) the date on which Customer first uses
+the Service. The Service Commencement Date will not be delayed
+Or_postponed duc to problems with Custon equipment. or
+()
+000 mipco
+MASTER SERVICE AGREEMENT
+General Terms and Conditions
+10.
+Il.
+Customers lack of readiness to accept or use Service. However, if
+Customer has an account balance that is more than sixty (60) days
+past due, Midco at its sole discretion may postpone Service
+activation until payment is received. A single Service Order
+containing multiple Service Locations or Services may have
+multiple Service Commencement Dates.
+Term. This Agreement shall be effective upon the signature of the
+Parties and Midcos acceptance of this Agreement. This Master
+Service Agreement shall remain in effect until the expiration or
+termination of the Term (initial or any renewal) of the last Service
+Order executed pursuant to this Agreement. The Term for Service
+shall be specified in the Service Order and will commence upon the
+Service Commencement Date. If multiple Service Orders are
+executed for different Services at one Service Location, the Term
+for Service will commence upon the Service Commencement and
+shall remain in effect until the expiration of any Service at that
+Service Location. The Term of Service at one Service Location does
+not affect the Term of Service at any other Service Location.
+Service Order Renewal. Upon the expiration of the Initial Term.
+this Agreement will renew for two (2) successive one (1) year terms
+at the rate charged for service(s) during the initial term. If a new
+Agreement is not signed by the end of the second renewal term, the
+Agreement will auto-renew for a third one (1) year term at the then
+current Month to Month rate for like service(s).
+Charges & Payments.
+a. Customer shall pay the monthly recurring charges (MRC)
+associated with Service as specified in the Service Order in
+advance of the month in which Service is provided. Any
+applicable surcharge. federal, state, local use. excise, franchise
+fee, or sales tax or similar levy, chargeable to or against Midco
+because of the Service provided to Customer, shall be charged
+to and paid by Customer in addition to the Service charge and
+other charges under this Agreement. Except as otherwise
+indicated herein or in the applicable Service Order, the MRC
+for Service will not increase during the Service Term
+Provided, however, if Customer is receiving Service under a
+promotion, after the promotional period ends, regular charges
+for the Service will apply. In addition, charges may increase
+with or without notice in those cases where a third party vendor
+of resold services raises rates to Midco, or the change in price
+is related to a change in governmental or quasi-governmental
+taxes, fees, or assessments. Customer may also incur charges
+for usage based services and from third party service prov iders
+that are separate and apart from the amounts charged by Midco
+for Service. These charges may be billed monthly in arrears.
+Customer agrees that all such charges. including all applicable
+taxes, are Customer's sole responsibility.
+b. Customer is responsible for payment for all charges within
+thirty (30) days of the invoice date. Any charges not paid within
+such period will be considered past due. Customer's first
+invoice will include all non-recurring charges (NRC) and the
+MRC and may include prorated charges for use since the
+Service Commencement Date. Midco does not waive its right
+to collect the full amount due if Customers payment is late or
+remits a partial payment; even if Customer's payment includes
+the words Paid in Full or similar words on any
+correspondence or check Midco will determine how to apply
+any partial payment to the outstanding charges. Customer shall
+MSA v0416
+12.
+13.
+14,
+be subject to a late fee of ten dollars ($10.00) for any bill not
+paid within thirty (30) days of the invoice date and interest at
+the rate of one-and-a-half percent (1.5%) per month will accrue
+upon any unpaid amount commencing thirty (30) days after
+invoice date. The minimum late fee charge per month is ten
+dollars ($10.00), unless prescribed by law, in which event at
+the highest rate allowed by law. If Midco utilizes a collection
+agency or attorney to collect any amount ow ed by Customer or
+any unreturned Midco Equipment, Customer agrees to pay all
+reasonable costs of collection or other action. The remedies set
+forth herein are in addition to and not in limitation of any other
+rights and remedies available to Midco under the Agreement or
+at law or in equity. Midco reserves the right to back-bill up to
+and including the date service was initially available, to correct
+any billing errors.
+c. E-Rate. Customers applying for or receiving Schools and
+Libraries or Rural Health Care subsidies, or funds from any
+other subsidy or reimbursement program, remain responsible
+for the entire account talance. Customer must timely submit all
+information requested by and comply with all rules imposed by
+the program sponsor: for example. USAC. Notwithstanding
+Section 11b, Customer must pay its anticipated portion of any
+invoice within sixty (60) days of the invoice date to avoid
+incurring any late payment charges.
+d. This provisioning of Service to Customer is predicated on
+Customer's credit verification and approval by Midco.
+Customer authorizes Midco to receive information about
+Customers credit history from others and enter that into
+Midcos records. Midco may, in its sole discretion, deny
+Service to Customer. or, at its sole discretion, require a deposit
+or some other form of security to ensure payment for Service
+Disputed Charges. In the event Customer disputes any portion of
+a Midco invoice, Customer shall pay the undisputed portion of the
+invoice by the due date, and shall submit to Midco a written claim
+for the disputed amount, which claim shall set forth with specificity
+Customer's grounds for such dispute. All disputes must be raised
+and claims submitted to Midco within sixty (60) days of the date of
+the invoice such claims shall be deemed waived and invoices shall
+be deemed correct. In the event the dispute is resolved against
+Customer, Customer shall pay such amounts plus interest at the rate
+referenced and calculated in accordance with Section 11b. If the
+Parties are unable to resolve any dispute timely brought by
+Customer, either Party may pursue legal or equitable remedies
+available,
+Credits. Any credits granted to Customer for any reason will be
+applied towards the account balance. If the credit exceeds the
+current account balance, the credit will be carried over to apply to
+the next invoice(s) until the credit is fully applied. Under no
+circumstances (except for end of service credits) will Midco issue a
+check to Customer for payment on any type of credit
+Termination; Termination Fee. If Customer cancels any Service
+(other than as a result of Midcos default under Section 15) or if
+Midco terminates any Service pursuant to this Section, Section 15
+or Section 25, then Customer shall pay Mideo a Termination Fee in
+the amount of the service charges payable during the remainder of
+the term plus construction and other actual expenses incurred by
+Mideo to enable the delivery of Service, any installation charges
+waived, and any discounts or credits issued under this Agreement
+of 7)
+000 mipco:
+MASTER SERVICE AGREEMENT
+General Terms and Conditions
+If Customer is subject to early termination fees and has multiple
+Service Locations. the early termination fee is applicable only to the
+Service Location(s) discontinuing Service(s). Either Party may
+cancel this Agreement without liability if Midco is prohibited from
+furnishing Service, or if any material rate or term contained herein
+is substantially changed by final order of a court, administrative
+agency, or other tribunal of competent jurisdiction. Customer is
+responsible for all fees that Midco incurs from third party vendors
+as a part of the termination of Service. The Parties agree that the
+Termination Fee is not a penalty, but rather the Parties best estimate
+of the actual losses to be incurred by Midco as a result of such early
+termination. A WAIVER BY MIDCO OF ANY PART OF AN
+EARLY TERMINATION FEE SHALL NOT BE CONSIDERED
+AS A WAIVER OF ANY OTHER TERMINATION FEE
+ASSESSED AT A LATER DATE.
+15. Suspension or Termination.
+a. Midco may immediately suspend or terminate Service if: (i)
+Customer fails to pay all delinquent charges within seven (7)
+days after written notice thereof is given by Midco, or (ii)
+Customer fails to pay any sum due to Midco for more than
+thirty (30) days, or (iii) Customer fails, within thirty (30) days
+after written notice, to comply with this Agreement or any
+applicable tariff, or (iv) a violation of any regulation, rule or
+law of any governmental authority has occurred or is occurring,
+or (v) Midco suspects fraudulent usage. or (vi) Customer is in
+default under any other agreement with or obligation to Midco
+and has not cured such default within any applicable cure
+period. If Customers service is suspended for nonpayment and
+Customer brings the account charges current within thirty (30)
+days of suspension, Customer's payment will be considered as
+a reaffirmation of any active Service Orders. Customer may
+terminate Service if Midco fails, within thirty (30) days after
+written notice is received by Midco, to comply with any
+material provision of this Agreement. In addition, either Party
+may terminate Service or this Agreement if the other Party (a)
+files a voluntary petition for bankruptcy. (b) an involuntary
+petition for bankruptcy is filed against it and not dismissed
+within sixty (60) days, or (c) makes an assignment for the
+benefit of creditors.
+b. _ Either party may terminate this Agreement if there is a material
+breach by the other party, which breach continues despite
+written notice and fifteen (15) days opportunity to cure such
+default. In the case of a default by Customer related to the
+improper or unlawful use of Midco Hardware, Midco Software,
+or the Customer Equipment, Client shall have not less than two
+(2) hours to cure the default after written notice from Midco,
+unless otherwise required by law.
+c. Midco reserves the right to delete Customer's voicemail, call
+detail, data, email, files or any other information of Customer
+on the Midco servers or systems thirty (30) days after Customer
+no longer receives Service from Midco.
+d. The rights and remedies granted to a nondefaulting party
+pursuant to this Section 15 shall be in addition to all other rights
+and remedies such nondefaulting party may have at law or in
+equity. Failure or delay by a party in exercising a right or
+remedy shall not preclude the later exercise thereof. The
+defaulting party shall be responsible for the reasonable legal
+fees and expenses incurred by the nondefaulting party in
+exercising its rights and remedies.
+16.
+17.
+Customer Equipment. Midco Technical Support is not responsible
+for end-user support of issues not directly related to Service. This
+includes, but is not limited to, Customer operating systems,
+Customer provided equipment or Customer application support.
+Equipment and services on Customers side of the Demarcation
+Point are the responsibility of Customer. Midco shall not be
+responsible for the operation, support or maintenance of any
+Customer provided equipment, nor shall Midco have any liability
+whatsoever for the configuration, management, or performance of
+Customer provided equipment. All Customer provided equipment
+and wiring that Customer used in connection with the Service must
+be fully compatible with the Service. If changes in technology occur
+that make Service obsolete without Customer upgrading its
+equipment and/or wiring. and Customer is unable for any reason to
+upgrade, Midco has the right, but not the obligation, to terminate
+this Agreement and/or any affected Service Order upon sixty (60)
+days notice.
+Midco Equipment. Midco Equipment is defined as any equipment
+that is owned by Midco or by a third party which has been
+provisioned by Midco to Customer. This equipment includes all
+transmission equipment, wiring and lines installed by Midco (or its
+contractor) and located on the Property of Customer. Midco
+Equipment shall not become a fixture of the property or part of the
+premises. Customer shal! not, and shall not permit others, without
+the prior written consent of Midco, to (a) rearrange, disconnect,
+remove, attempt to repair, or otherwise tamper with any Midco
+Equipment. (b) use any Midco Equipment for any purpose other
+than that for which Midco provides them, or (c) take any action that
+causes the imposition of any lien or encumbrance on the Midco
+Equipment. In no event shall Midco be liable to Customer or any
+other person for interruption of Service or any other loss, cost or
+damage caused by or related to improper use or maintenance of the
+Midco Equipment by Customer or third parties provided access to
+the Midco Equipment by Customer in violation of this Section.
+Customer shall be responsible for any damage to Midco Equipment
+to the extent arising from the improper use or maintenance thereof
+by Customer or third parties provided access to Midco Equipment
+by Customer. Customer agrees to allow Midco to remove the Midco
+Equipment from Customer's premises after termination, expiration
+or cancellation of the Service in connection with which the Midco
+Equipment was used, and for maintenance, repair, replacement or
+otherwise as Midco may determine is necessary or desirable from
+time to time. If Customer fails to permit such retrieval or if the
+retrieved Midco Equipment has been damaged and/or destroyed
+other than by Midco or its agents, normal wear and tear excepted,
+Midco may invoice Customer for the replenishment cost of the
+relevant Midco Equipment, or in the event of minor damage to the
+retrieved Midco Equipment, the cost of repair, which amounts shall
+be immediately due and payable. Midco retains the right to remove
+the Midco Equipment for a period of three (3) months following
+Midcos discontinuance of Service to the Service Location.
+Facilities. Customer shall allow Midco access to the Service
+Location to the extent reasonably necessary for the Service.
+Customer shall provide and maintain facilities at the Service
+Location suitable for the provisioning of the Service. Proper
+facilities shall include, but may not be limited to, adequate space,
+sufficient electrical power and proper operating environment,
+including heating, cooling, and air quality, for the necessary
+equipment. Customer will ensure Midco has the right and, with
+MSA OA16 >
+{Page Sot 7)
+000 mipco
+MASTER SERVICE AGREEMENT
+General Terms and Conditions
+19.
+20.
+21.
+reasonable notice, ability to access the facility space, building
+conduits and wiring for installation, inspection. maintenance.
+operation and removal of all Midco Equipment related to the
+Service. Customer shall also ensure the Service Location is secure
+and safe from hazards to the facilities. Midco Equipment and to
+Mideos employees. agents and contractors. Midco shall be
+responsible for any damage to the Service Location to the extent
+arising from the improper use of the facilities by Midco or third
+party agents or contractors acting on Midcos behalf during such
+installation. inspection or maintenance activities.
+Access. Customer will take the steps necessary to ensure Midco. its
+agents and assigns. have the right to access the Service Location
+property during the term of this Agreement to install, operate. repair
+and replace such cable. conduit and equipment as may be necessary
+to provide Service. The installed cable, conduit and equipment will
+remain the property of Midco and use by Midco will not be
+interfered with. Midco will exercise due care in the performance of
+its activities on the property and will repair all damage to the
+property caused by the activities. Customer is responsible for
+locating and clearly marking all private utilities on the property.
+Midco is not liable for any damages or fees incurred as a result of
+striking private utilities that were not conspicuously and accurately
+marked.
+Disruption of Service. Midco does not warrant that the Service or
+Midco Equipment will be uninterrupted, error-free. or free of
+latency or delay, or that the Service or Midco Equipment will meet
+Customer's requirements. The Service is not fail-safe and is not
+designed or intended for use in situations requiring fail-safe
+performance or in which an error or interruption in the Service could
+lead to severe injury to business, persons, property or environment
+("High Risk Activities"), These High Risk Activities may include,
+without limitation, vital business or personal communications, or
+activities where absolutely accurate data or information is required.
+Midco may. in its own discretion, temporarily suspend Services for
+the purpose of repair, maintenance or improvement of any of Midco
+Hardware, Software or Customer Equipment (if applicable). Midco
+shall provide prior notice where it is reasonably practical under the
+circumstances, and Midco shall restore service as soon as it is
+reasonably practical.
+Limit of Liability.
+a. Midco shall not be liable for and credit shal not be given for
+any failure or interruption of Service caused by acts of God,
+strikes, emergencies, mechanical failure, cable cut, regulatory
+or other governmental action, action or inactions by Customer,
+its employees, agents, invitees, a breach of this Agreement by
+Customer or any other cause beyond Midcos control.
+b. INNOEVENT SHALL MIDCO BE LIABLE FOR SPECIAL
+OR CONSEQUENTIAL DAMAGES. MIDCO HEREBY
+DISCLAIMS ALL OTHER WARRANTIES, EXPLICIT OR
+IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE. LIABILITY OF MIDCO UNDER THIS
+AGREEMENT SHALL BE LIMITED TO THE TOTAL
+AMOUNT ACTUALLY PAID TO MIDCO BY CUSTOMER
+FOR SERVICES HEREUNDER AT A SPECIFIC
+LOCATION DURING THE PRECEDING TWELVE (12)
+MONTHS
+c. IN NO EVENT SHALL MIDCO, OR ITS ASSOCIATED
+PARTIES, SUPPLIERS, CONTRACTORS OR LICENSORS
+BE LIABLE FOR ANY LOSS, DAMAGE OR CLAIM
+ARISING OUT OF OR RELATED TO: (i) STORED.
+TRANSMITTED. OR RECORDED DATA, FILES. OR
+SOFTWARE: (ii) ANY ACT OR OMISSION OF
+CUSTOMER, ITS USERS OR THIRD PARTIES: (iii)
+INTEROPERABILITY. INTERACTION OR
+INTERCONNECTION OF THE SERVICE WITH
+APPLICATIONS, EQUIPMENT. SERVICES OR
+NETWORKS PROVIDED BY CUSTOMER OR THIRD
+PARTIES: OR (iv) LOSS OR DESTRUCTION OF ANY
+CUSTOMER HARDWARE, SOFTWARE, FILES. OR
+DATA RESULTING FROM ANY VIRUS OR OTHER
+HARMFUL FEATURE OR FROM AN ATTEMPT TO
+REMOVE IT.
+22. Indemnification.
+a
+Customer agrees, at its own expense, to indemnify, defend and
+hold harmless Midco and its directors. employees.
+representatives, officers and agents, (the Midco Indemnified
+Parties) against any and all third party claims, liabilities.
+lawsuits, damages, losses. judgments, costs. fees and expenses,
+including but not limited to. reasonable attorneys fees and
+court costs, (collectively, Claims) incurred by and/or brought
+against Midco Indemnified Parties. to the full extent that such
+Claims arise from: (i) Customers noncompliance with the
+terms of this Agreement and/or any or all Service Orders; (it)
+Customer's or their users failure to comply with applicable
+laws or violation or infringement upon the rights of any other
+party, including, without limitation, contractual rights,
+intellectual property rights, publicity and privacy rights and the
+rights against libel, defamation and slander; (iti) Customer's
+use or misuse of the Service. including claims resulting from
+use/misuse of the Service by Customer's users and/or the
+content of any communications transmitted via the Service: (iv)
+Customers willful misconduct; and/or (v) physical damage to
+personal or real property or bodily injury. including death.
+caused by the negligent or willful misconduct of Customer or
+Customers users, its employees or contractors, at the Service
+Location during the installation or maintenance of equipment
+in connection with Service. Customer shall have full authority
+to settle any such Claims: provided, however, that it may not
+enter into any settlement without Midcos advance written
+consent in which a full and final release of such Claim in favor
+of Midco Indemnified Parties is not obtained as a result of the
+settlement, or any admission or affirmative obligation is
+required or placed upon Midco Indemnified Parties.
+Midco agrees, at its own expense, to indemnify, defend and
+hold harmless Customer, its directors, officers, employees,
+agents and/or representatives (Customer Indemnified
+Parties) from and against any and all third party Claims
+incurred by and/or brought against Customer Indemnified
+Parties to the full extent that such Claims arise from: (i)
+physical damage to personal or real property or bodily injury,
+including death, caused by the negligent or willful misconduct
+of Midco, its employees or contractors, at the Service Location
+as a direct result from Midcos installation, removal or
+maintenance at the Service Location of the Midco Equipment;
+and/or (ii) Midcos failure to comply with applicable laws;
+and/or (iii) Midcos willful misconduct. Midco shall have full
+authority to settle any such Claims; provided, however, that it
+MSA_vO416
+()
+000 mipco
+MASTER SERVICE AGREEMENT
+23.
+24.
+25.
+26.
+General Terms and Conditions
+may not enter into any settlement without Customer's advance
+written consent in which a full and final release of such Claim
+in favor of Customer Indemnified Parties is not obtained as a
+result of the settlement, or any admission or affirmative
+obligation is required or placed upon Customer Indemnified
+Parties.
+Content. Midco does not operate or control the content transported
+over the Service. Midco shall have no liability or responsibility for
+Customer created content or any communication transmitted via the
+Service hereunder. Customer shall defend, indemnify and hold
+harmless Midco from any and all third party claims (including
+claims by governmental entities seeking to impose penal sanctions)
+related to such content, and from any and all third party claims
+relating to Customer's use of Service hereunder. Customer shall
+make no claim against Midco regarding said content, or respecting
+any information, product, service, software or other item(s) ordered
+through or provided by virtue of the Service.
+Public Performance of Copyrighted Works. Midco has no
+authority to grant any license for the public performance of
+copyrighted works. If Customer intends to play publicly any audio
+or visual content provided via the Service, Customer is advised that
+additional fees may be owed to copyright holders or public
+performance licensing organization such as ASCAP, SEASAC, or
+BML in certain situations.
+Legal Application. This Agreement will be governed by the laws
+of the state of South Dakota and any claims hereunder shall be
+brought in the state or federal courts located in Minnehaha County,
+South Dakota. No term or provision of this Agreement shall be
+deemed waived and no breach excused unless such waiver or
+consent is in writing and signed by the Party claimed to have waived
+or consented. This document, Exhibits, Attachments, Service
+Orders, and Midcos Acceptable Use Policy (as presented on
+www.midco.com) represent the entire Agreement between the
+Parties and supersedes all prior conversations, representations,
+promises, and warranties (expressed or implied) made prior to or at
+the time of the signing of this document. This Agreement may be
+amended only in writing signed by an authorized representative of
+each Party. If any action at law or equity is necessary to enforce the
+terms of this Agreement, the prevailing Party shall be entitled to
+reasonable attorneys fees, costs, and expenses, in addition to any
+other relief to which it may be entitled. Each of Midcos rights and
+remedies under this Agreement shall be cumulative and additional
+to any other or further rights or remedies provided in law or equity
+or otherwise
+Assignment. This Agreement is binding upon the heirs, devisees,
+successors, and assigns of each Party. Provided, however, Customer
+shall not assign or transfer its rights or obligations under this
+Agreement without prior written consent of Midco, which consent
+shall not be unreasonably withheld, and further provided that any
+assignment or transfer without such consent shall entitle Midco to
+terminate the Service at its option upon ten (10) days prior written
+notice. In the event Customer changes ownership, if the remaining
+term of this Agreement is not assumed by the new owner, or ifa new
+Agreement is not signed with Midco for like services by the new
+owner, Customer will be held accountable for any applicable
+Termination Fees as defined in Section 14 of this Agreement. Midco
+may assign this Agreement without consent to any affiliated entity
+27.
+28.
+29.
+or to any successor in interest whether by merger, reorganization or
+transfer of all or substantially all of its assets or otherwise.
+Confidential Information. Confidential Information includes
+but is not limited to any and all business. technical, or third party
+information (including but not limited to rate information, discounts,
+network information, trade secrets, marketing plans, financial data,
+specifications, drawings, and documentation) provided, disclosed,
+or made available to one party (the Disclosing Party) to the other
+(the Receiving Party) under this Agreement that is either
+identified as, or reasonably understood to be, confidential or
+proprietary. The Receiving Party will: (a) not use Confidential
+Information of the Disclosing Party for any purpose other than the
+fulfillment of its obligations under this Agreement; and (b) protect
+and treat all Confidential Information of the Disclosing Party with
+the same degree of care as it uses to protect its own Confidential
+Information of like importance, but in no event with less than
+reasonable care. In the event the Receiving Party is required to
+disclose Confidential Information of the Disclosing Party pursuant
+to law, the Receiving Party will notify the Disclosing Party of the
+required disclosure, if permitted, with sufficient time for the
+Disclosing Party to seek relief, will cooperate with the Disclosing
+Party in taking appropriate protective measures, and will make any
+such disclosure in a fashion that maximizes protection of the
+Confidential Information from further disclosure. Confidential
+Information also includes the terms and conditions of this
+Agreement. Confidential Information does not include information
+that the Receiving Party can clearly establish by written evidence:
+(a) is or becomes known to the Receiving Party from a third party
+without an obligation to maintain its confidentiality; or (b) is or
+becomes generally known to the public through no act or omission
+of the Receiving Party; or (c) is independently developed by the
+Receiving Party without the use of Confidential Information of the
+Disclosing Party.
+No Third Party Beneficiaries. This Agreement shall be binding
+upon, enforceable by, and inure solely to the benefit of each Panty
+hereto as well as their successors and assigns. Nothing in this
+Agreement, express or implied, is intended to or shall confer upon
+any third party any right, benefit, or remedy of any nature under or
+by reason of this Agreement.
+Notice. Any notice required or permitted to be given hereunder
+shall be (a) in writing, (b) effective upon the earlier of receipt or five
+(5) days after deposit with the respective courier or United States
+Postal Service, and (c) delivered by one of the following means: (i)
+by prepaid, nationally recognized. overnight package delivery or
+courier service; or (ii) by the United States Postal Service, first class,
+certified mail, return receipt requested. postage prepaid. In addition
+to actual receipt by a Party, the following shall constitute receipt: (a)
+a Party's rejection or other refusal to accept notice, and (b) the
+inability to deliver notice to a Party because of a changed address of
+which no notice has been provided in accordance with this Section
+and received by the other Party. All notices given under the
+Agreement shall be addressed to the following addresses of the
+Parties: with respect to Customer, to the address set forth in a
+Service Order. or with respect to Midco, to: Midco, Attn: Vice
+President of Business Solutions, 390! North Louise Avenue, Sioux
+Falls, SD 57107. Each Party may change its respective address(es)
+for legal notice by providing notice to the other Party.
+MSA_v0416
+(Page § of 7)
+000 mipco
+MASTER SERVICE AGREEMENT
+General Terms and Conditions
+30.
+31.
+32.
+33.
+34.
+35,
+36.
+Authority. Each signatory to this Agreement does hereby represent
+and warrant that he/she has the authority to execute this Agreement
+on behalf of the Party to this Agreement for whom he/she is
+executing this Agreement.
+Customer Representatives. Following the — Service
+Commencement Date, someone seeking support of, or desiring to
+make non-material changes to Service on behalf of Customer will
+be qualified by Midco. If the individual can meet cursory
+qualification criteria, or if the person Is listed as an authorized user
+or authorized vendor on the Service Order, Midco may assume the
+individual is an authorized user on the account and will follow that
+individuals direction. Alternately, Customer may provide to Midco
+a list of authorized users. Customer will be responsible for the
+maintenance of this list. Someone desiring to make a material
+change to Service must be noted on Customers account as an
+authorized user. Midco will not be held liable for following the
+direction of qualified or authorized users.
+Electronic Signature. This Agreement may be executed by the
+Parties by electronic signature. The Parties agree that an electronic
+signature is the legal equivalent of a manual printed signature on the
+Agreement; thus, an electronic signature is also a valid consent to
+be legally bound by this Agreement's terms and conditions. The
+Parties also agree that no certification authority or other third party
+verification is necessary to validate an electronic signature and that
+the lack of such certification or third party verification will not in
+any way affect the enforceability of an electronic signature or any
+resulting Agreement between the parties.
+Survival. The provisions of Sections 11, 12. 14, 15, 17, 21, 22, 25
+and 27, together with any provisions of this Agreement that by their
+nature are meant to survive, shall survive the termination or
+expiration of this Agreement.
+Severability. Any provision of this Agreement held or determined
+by a court (or other legal authority) of competent jurisdiction to be
+illegal, invalid or unenforceable in any jurisdiction shall be deemed
+separate, distinct and independent, and shall be ineffective only to
+the extent of such holding or determination without (a) invalidating
+the remaining provisions of the Agreement in that jurisdiction or (b)
+affecting the legality, validity or enforceability of such provision in
+any other jurisdiction
+Relationship of Parties. Nothing in this Agreement shall be
+construed as creating a joint venture or partnership between the
+Parties hereto. Neither Party has or shall have any authority to bind,
+assume any obligation for or incur any debt on behalf of the other
+Party in any respect whatsoever.
+General Terms. Customer's use of Midcos Services is specifically
+subject to this Agreement, and Customer's agreement to: (a) the
+legal notices found at www.midco.com/legal (the Legal Notices),
+which may be modified by Midco from time to time in accordance
+with the Legal Notices and applicable law, and which are
+incorporated herein by reference and made part of this Agreement;
+and (b) applicable Midco tariffs on file with the appropriate
+regulatory body.
+MSA vO416
+37. Order of Precedence. In the event of a conflict or inconsistency
+between any Service Order and the remaining terms and conditions
+of this Agreement, the following is the order of precedence: 1) the
+applicable Service Order: 2) the Agreement General Terms and
+Conditions; and 3) any applicable and executed Exhibits or
+Attachments. To the extent that this Agreement is inconsistent with
+the terms of Midcos tariffs, the terms of the tariffs shall prevail.
+()
+000 mipco
+MASTER SERVICE AGREEMENT
+General Terms and Conditions
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed by their duly respective authorized representatives
+as of the Effective Date.
+: USTOMER aaa SIGNATURE
+Kristina Jumper
+NAME (PLEASE PRINT)
+Vice President
+TITLE
+DATE :
+MIDCO AUTHORIZED SIGNATURE
+Seth Bjordal
+NAME (PLEASE PRINT)
+Business Inbound Sales
+TITLE
+DATE
+Midco is an Equal Opportunity Employer/ Disabled Veterans
+© Midcontinent Communications. All rights reserved, ~ Confidential
+Midco Internal Use: MSA # 201905-340
+MSA_ v0416,

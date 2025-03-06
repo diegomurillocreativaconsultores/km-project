@@ -1,0 +1,551 @@
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+ U.S. Services Agreement
+Master Service Order Form
+TREX COMPANY, INC (Customer)Verizon Business Network Services LLC on 
+behalf of affiliates identified in this Agreement 
+or in the online Service Publication and Price 
+Guide (individually and collectively Verizon 
+Providers of U.S. Services) (Verizon)
+Customer Signature: 
+{{s1_es_:signer1:signature}}Verizon Signature:
+{{se_es_:sender:signature}}
+Name: Bill Berson{{$F1}}Name: Anthony Recine
+Title: CIO{{$T1}}Title: Senior Vice President
+Date:  {{d1_es_:signer1:date}} Date:  {{sd_es_:sender:date}}
+Email: bberson@trex.com{{$E1}}
+Valid if signed and submitted to Verizon by 07-Aug-2022.
+MASTER TERMS
+This U.S. Services Agreement (Agreement) is entered into pursuant to and includes the online Master 
+Terms found at www.verizon.com/business/service_guide/reg/g-omt-us-toc-2021MAR01.htm (as modified 
+by the part of this document labeled Master Terms), as well as the Service Attachment(s) and pricing 
+(including promotions) set out in the parts of this document labeled Service Terms and Pricing.  Customer 
+agrees that all future Orders will be subject to the terms of the Agreement. This Agreement is binding on the 
+Commencement Date.
+Customer understands that the online Master Terms and Service Attachments include service descriptions, 
+requirements, service level agreements (where applicable), payment terms and other terms and conditions, 
+which materially affect the rights, obligations and remedies of all Parties. 
+Verizon may change the Master Terms and Service Terms from time to time, effective upon 15 days posting 
+or other notice.  By continuing to use Service(s) after a change becomes effective, you agree to be bound 
+by the changed terms, which apply to new and previously-ordered Services.   It is Customers responsibility 
+to check the online Master Terms and Service Terms regularly for changes. 
+The Parties acknowledge the Agreement includes consent to use CPNI to market new Services.  
+Parties
+Customer: TREX COMPANY, INC Verizon: Verizon Business Network Services 
+LLC on behalf of affiliates identified in this 
+Agreement or in the online Service Publication 
+and Price Guide (individually and collectively 
+Verizon Providers of U.S. Services)
+6/30/2022
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+Registered Office Address:
+160 EXETER DR
+WINCHESTER, VA 22603-8614
+USARegistered Office Address: 
+One Verizon Way
+Basking Ridge, NJ 07920
+USA
+Registered No., ABN or CIN (if applicable): 
+N/ARegistered No. or ABN (if applicable): 
+Not applicable
+VAT/GST/Consumption Tax Number (if 
+applicable):
+541910453VAT/GST/Consumption Tax Number (if 
+applicable):
+N/A
+Additional Legal Entity Information (if 
+applicable): Additional Legal Entity Information (if applicable):
+Not applicable
+Address for Notices: 
+1700 UNION AVE
+BALTIMORE, MD 21211-1417
+USA
+carrierbills@ten4.usAddress for Notices: 
+Verizon Business Services
+10000 Park Meadows Drive
+Lone Tree, CO 80124
+Attn:  Customer Service
+Email:  notice@verizon.com
+With a subject of OFFICIAL LEGAL NOTICE
+SERVICE TERMS
+The "+" following the Service name indicates it is an Optimized Service; it is not a part of the Service name. 
+The absence of a "+" following the service name indicates it is a non-Optimized Service.
+New Services
+1.Access (Interstate) / Access +; terms are located at 
+www.verizon.com/business/service_guide/reg/access-plus-toc-2022MAR15.htm.
+2.Internet Dedicated / Internet Dedicated +; terms are located at 
+www.verizon.com/business/service_guide/reg/ids-plus-toc-2022APR01.htm.
+ PRICING
+Service Details
+1.SERVICES PROMOTIONS
+Internet Dedicated +
+Optimized Service Promotion Name Promotional Terms
+Internet Dedicated Value v2www.verizon.com/business/service_guide/reg/pr-
+internet-dedicated-value-v2-promo.pdf
+Verizon Services 90 Day Satisfaction Guarantee 
+for Servicehttps://enterprise.verizon.com/service_guide/reg/p
+r_verizon_services_90_day_satisfaction_guarante
+e_for_service_promotion_v2.pdf
+Access +
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+Optimized Service Promotion Name Promotional Terms
+Internet Dedicated Value v2www.verizon.com/business/service_guide/reg/pr-
+internet-dedicated-value-v2-promo.pdf
+Verizon Services 90 Day Satisfaction Guarantee 
+for Servicehttps://enterprise.verizon.com/service_guide/reg/p
+r_verizon_services_90_day_satisfaction_guarante
+e_for_service_promotion_v2.pdf
+NEW SERVICE(S)
+1.ACCESS + (OPTIMIZED)
+1.1Service Charges
+Charges
+Order-based pricing is provided in the Service Order Form.
+1.2Promotions Related to Service Charges. The following promotions will be applied to Optimized 
+Services as indicated below.
+Optimized Service Promotion Name Promotional Terms
+Internet Dedicated Value v2www.verizon.com/business/service_guide/reg/pr-
+internet-dedicated-value-v2-promo.pdf
+Verizon Services 90 Day Satisfaction Guarantee 
+for Servicehttps://enterprise.verizon.com/service_guide/reg/p
+r_verizon_services_90_day_satisfaction_guarante
+e_for_service_promotion_v2.pdf
+2.INTERNET DEDICATED + (OPTIMIZED)
+2.1Service Charges
+Charges
+Order-based pricing is provided in the Service Order Form.
+2.2Promotions Related to Service Charges. The following promotions will be applied to Optimized 
+Services as indicated below.
+Optimized Service Promotion Name Promotional Terms
+Internet Dedicated Value v2www.verizon.com/business/service_guide/reg/pr-
+internet-dedicated-value-v2-promo.pdf
+Verizon Services 90 Day Satisfaction Guarantee 
+for Servicehttps://enterprise.verizon.com/service_guide/reg/p
+r_verizon_services_90_day_satisfaction_guarante
+e_for_service_promotion_v2.pdf
+SERVICE ORDER FORM (OPTIMIZED SERVICES)
+Quote ID 209323675
+Quote Version # 3
+Order Section # 1731683
+Order Summary by Location: 
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+Location ID Location Address Service Provided by Currency MRC NRC
+2075965C160 EXETER DR, 
+WINCHESTER, VA 22603-
+8614, United StatesMCI Communications 
+Services LLC d/b/a 
+Verizon Business 
+ServicesUSD 975.00 0.00
+7955647C181 BATTAILE DR, 
+WINCHESTER, VA 22601-
+4293, United StatesMCI Communications 
+Services LLC d/b/a 
+Verizon Business 
+ServicesUSD 975.00 0.00
+44332981C331 APPLE VALLEY RD, 
+WINCHESTER, VA 22602-
+2408, United StatesMCI Communications 
+Services LLC d/b/a 
+Verizon Business 
+ServicesUSD 450.00 0.00
+106239547
+C3257 VALLEY PIKE, 
+WINCHESTER, VA 22602-
+5303, United StatesMCI Communications 
+Services LLC d/b/a 
+Verizon Business 
+ServicesUSD 450.00 0.00
+106239549
+C385 BATTAILE DR, 
+WINCHESTER, VA 22601-
+4262, United StatesMCI Communications 
+Services LLC d/b/a 
+Verizon Business 
+ServicesUSD 450.00 0.00
+106239551
+C184 CAPITOL LN, 
+WINCHESTER, VA 22602-
+2437, United StatesMCI Communications 
+Services LLC d/b/a 
+Verizon Business 
+ServicesUSD 1,664.00 0.00
+106239625
+C351 APPLE VALLEY RD, 
+WINCHESTER, VA 22602-
+2408, United StatesMCI Communications 
+Services LLC d/b/a 
+Verizon Business 
+ServicesUSD 899.00 0.00
+Total excluding Taxes (as defined in the Contract) USD 5,863.00 0.00
+Service Order Details: All Services provided by MCI Communications Services LLC d/b/a Verizon Business Services 
+unless otherwise specified.  The invoice will be based on service configuration at time of invoice reflective of any changes 
+made by the Customer.
+1.Service Delivered to:
+Location ID: 2075965C
+160 EXETER DR, WINCHESTER, VA 22603-8614, United States
+Service SummaryMRC
+(USD)NRC
+(USD)
+Access + 513.00 0.00
+Internet Dedicated + 462.00 0.00
+Total (USD) excluding Taxes (as defined in the Contract) 975.00 0.00
+Service Detail for Location ID(s): 2075965C
+(See Appendix and Contract for any additional charges)Activity 
+TypeQuantityMRC
+(USD)NRC
+(USD)
+Access +, Service ID: 1483295117
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Local Access - Op/App Performance: Gold / Silver - 1 
+Gbps - UNI Speed: 1 Gbps (GigE) - TPV UNI Speed: 1 
+Gbps (GigE) 1ADDED N/A 513.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Internet Dedicated +, Service ID: 1483295121
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Internet Dedicated Port - Tiered - 1 Gbps ADDED N/A 462.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Total (USD) excluding Taxes (as defined in the Contract) 975.00 0.00
+Additional Information:
+1 Taxes are not included, may vary from month to month and are subject to change.
+2.Service Delivered to:
+Location ID: 7955647C
+181 BATTAILE DR, WINCHESTER, VA 22601-4293, United States
+Service SummaryMRC
+(USD)NRC
+(USD)
+Access + 513.00 0.00
+Internet Dedicated + 462.00 0.00
+Total (USD) excluding Taxes (as defined in the Contract) 975.00 0.00
+Service Detail for Location ID(s): 7955647C
+(See Appendix and Contract for any additional charges)Activity 
+TypeQuantityMRC
+(USD)NRC
+(USD)
+Access +, Service ID: 1483295129
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Local Access - Op/App Performance: Gold / Silver - 1 
+Gbps - UNI Speed: 1 Gbps (GigE) - TPV UNI Speed: 1 
+Gbps (GigE) 1ADDED N/A 513.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Internet Dedicated +, Service ID: 1483295133
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Internet Dedicated Port - Tiered - 1 Gbps ADDED N/A 462.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Total (USD) excluding Taxes (as defined in the Contract) 975.00 0.00
+Additional Information:
+1 Taxes are not included, may vary from month to month and are subject to change.
+3.Service Delivered to:
+Location ID: 44332981C
+331 APPLE VALLEY RD, WINCHESTER, VA 22602-2408, United States
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+Service SummaryMRC
+(USD)NRC
+(USD)
+Access + 360.00 0.00
+Internet Dedicated + 90.00 0.00
+Total (USD) excluding Taxes (as defined in the Contract) 450.00 0.00
+Service Detail for Location ID(s): 44332981C
+(See Appendix and Contract for any additional charges)Activity 
+TypeQuantityMRC
+(USD)NRC
+(USD)
+Access +, Service ID: 1483295123
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Local Access - Op/App Performance: Gold / Silver - 50 
+Mbps - UNI Speed: 100 Mbps (FastE) - TPV UNI Speed: 
+100 Mbps (FastE) 1ADDED N/A 360.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Internet Dedicated +, Service ID: 1483295127
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Internet Dedicated Port - Tiered - 50 Mbps ADDED N/A 90.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Total (USD) excluding Taxes (as defined in the Contract) 450.00 0.00
+Additional Information:
+1 Taxes are not included, may vary from month to month and are subject to change.
+4.Service Delivered to:
+Location ID: 106239547C
+3257 VALLEY PIKE, WINCHESTER, VA 22602-5303, United States
+Service SummaryMRC
+(USD)NRC
+(USD)
+Access + 360.00 0.00
+Internet Dedicated + 90.00 0.00
+Total (USD) excluding Taxes (as defined in the Contract) 450.00 0.00
+Service Detail for Location ID(s): 106239547C
+(See Appendix and Contract for any additional charges)Activity 
+TypeQuantityMRC
+(USD)NRC
+(USD)
+Access +, Service ID: 1483295087
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Local Access - Op/App Performance: Gold / Silver - 50 
+Mbps - UNI Speed: 100 Mbps (FastE) - TPV UNI Speed: 
+100 Mbps (FastE) 1ADDED N/A 360.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Internet Dedicated +, Service ID: 1483295091
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Internet Dedicated Port - Tiered - 50 Mbps ADDED N/A 90.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Total (USD) excluding Taxes (as defined in the Contract) 450.00 0.00
+Additional Information:
+1 Taxes are not included, may vary from month to month and are subject to change.
+5.Service Delivered to:
+Location ID: 106239549C
+385 BATTAILE DR, WINCHESTER, VA 22601-4262, United States
+Service SummaryMRC
+(USD)NRC
+(USD)
+Access + 360.00 0.00
+Internet Dedicated + 90.00 0.00
+Total (USD) excluding Taxes (as defined in the Contract) 450.00 0.00
+Service Detail for Location ID(s): 106239549C
+(See Appendix and Contract for any additional charges)Activity 
+TypeQuantityMRC
+(USD)NRC
+(USD)
+Access +, Service ID: 1483295093
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Local Access - Op/App Performance: Gold / Silver - 50 
+Mbps - UNI Speed: 100 Mbps (FastE) - TPV UNI Speed: 
+100 Mbps (FastE) 1ADDED N/A 360.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Internet Dedicated +, Service ID: 1483295097
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Internet Dedicated Port - Tiered - 50 Mbps ADDED N/A 90.00 0.00
+Promotion: Internet Dedicated Value v2 0.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Total (USD) excluding Taxes (as defined in the Contract) 450.00 0.00
+Additional Information:
+1 Taxes are not included, may vary from month to month and are subject to change.
+6.Service Delivered to:
+Location ID: 106239551C
+184 CAPITOL LN, WINCHESTER, VA 22602-2437, United States
+Service SummaryMRC
+(USD)NRC
+(USD)
+Access + 1,170.00 0.00
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+Internet Dedicated + 494.00 0.00
+Total (USD) excluding Taxes (as defined in the Contract) 1,664.00 0.00
+Service Detail for Location ID(s): 106239551C
+(See Appendix and Contract for any additional charges)Activity 
+TypeQuantityMRC
+(USD)NRC
+(USD)
+Access +, Service ID: 1483295099
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Local Access - Op/App Performance: Gold / Silver - 500 
+Mbps - UNI Speed: 1 Gbps (GigE) - TPV UNI Speed: 1 
+Gbps (GigE) 1ADDED N/A 1,170.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Internet Dedicated +, Service ID: 1483295103
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Internet Dedicated Port - Tiered - 500 Mbps ADDED N/A 494.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Total (USD) excluding Taxes (as defined in the Contract) 1,664.00 0.00
+Additional Information:
+1 Taxes are not included, may vary from month to month and are subject to change.
+7.Service Delivered to:
+Location ID: 106239625C
+351 APPLE VALLEY RD, WINCHESTER, VA 22602-2408, United States
+Service SummaryMRC
+(USD)NRC
+(USD)
+Access + 730.00 0.00
+Internet Dedicated + 169.00 0.00
+Total (USD) excluding Taxes (as defined in the Contract) 899.00 0.00
+Service Detail for Location ID(s): 106239625C
+(See Appendix and Contract for any additional charges)Activity 
+TypeQuantityMRC
+(USD)NRC
+(USD)
+Access +, Service ID: 1483295105
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Local Access - Op/App Performance: Gold / Silver - 50 
+Mbps - UNI Speed: 100 Mbps (FastE) - TPV UNI Speed: 
+100 Mbps (FastE) 1ADDED N/A 730.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Internet Dedicated +, Service ID: 1483295109
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Internet Dedicated Port - Tiered - 50 Mbps ADDED N/A 169.00 0.00
+Additional Promotions included: 
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Total (USD) excluding Taxes (as defined in the Contract) 899.00 0.00
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+Additional Information:
+1 Taxes are not included, may vary from month to month and are subject to change.
+ Appendix 
+ To Service Order Details 
+Appendix Summary:
+1. Internet Dedicated +
+1. Internet Dedicated + - Other Charges
+Dynamic Network Manager 
+Applies to Location ID/Service ID(s): 2075965C / 1483295121
+Internet Dedicated Dynamic Port Pricing Internet Dedicated Dynamic Port Pricing
+Port SpeedMRC
+(USD)Port SpeedMRC
+(USD)
+2 Mbps 91.00 70 Mbps 215.28
+3 Mbps 91.00 80 Mbps 215.28
+4 Mbps 91.00 100 Mbps 215.00
+5 Mbps 91.00 150 Mbps 390.00
+6 Mbps 96.20 200 Mbps 390.00
+8 Mbps 96.20 300 Mbps 494.00
+10 Mbps 96.20 400 Mbps 494.00
+20 Mbps 130.00 500 Mbps 494.00
+30 Mbps 169.00 600 Mbps 572.00
+40 Mbps 169.00 700 Mbps 572.00
+50 Mbps 90.00 800 Mbps 572.00
+60 Mbps 215.28 1 Gbps 462.00
+Dynamic Network Manager 
+Applies to Location ID/Service ID(s): 7955647C / 1483295133
+Internet Dedicated Dynamic Port Pricing Internet Dedicated Dynamic Port Pricing
+Port SpeedMRC
+(USD)Port SpeedMRC
+(USD)
+2 Mbps 91.00 70 Mbps 215.28
+3 Mbps 91.00 80 Mbps 215.28
+4 Mbps 91.00 100 Mbps 215.00
+5 Mbps 91.00 150 Mbps 390.00
+6 Mbps 96.20 200 Mbps 390.00
+8 Mbps 96.20 300 Mbps 494.00
+10 Mbps 96.20 400 Mbps 494.00
+20 Mbps 130.00 500 Mbps 494.00
+30 Mbps 169.00 600 Mbps 572.00
+40 Mbps 169.00 700 Mbps 572.00
+50 Mbps 90.00 800 Mbps 572.00
+60 Mbps 215.28 1 Gbps 462.00
+Dynamic Network Manager 
+Applies to Location ID/Service ID(s): 44332981C / 1483295127
+Internet Dedicated Dynamic Port Pricing Internet Dedicated Dynamic Port Pricing
+Port Speed MRC Port Speed MRC
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+(USD) (USD)
+2 Mbps 91.00 10 Mbps 96.20
+3 Mbps 91.00 20 Mbps 130.00
+4 Mbps 91.00 30 Mbps 169.00
+5 Mbps 91.00 40 Mbps 169.00
+6 Mbps 96.20 50 Mbps 90.00
+8 Mbps 96.20
+Dynamic Network Manager 
+Applies to Location ID/Service ID(s): 106239547C / 1483295091
+Internet Dedicated Dynamic Port Pricing Internet Dedicated Dynamic Port Pricing
+Port SpeedMRC
+(USD)Port SpeedMRC
+(USD)
+2 Mbps 91.00 10 Mbps 96.20
+3 Mbps 91.00 20 Mbps 130.00
+4 Mbps 91.00 30 Mbps 169.00
+5 Mbps 91.00 40 Mbps 169.00
+6 Mbps 96.20 50 Mbps 90.00
+8 Mbps 96.20
+Dynamic Network Manager 
+Applies to Location ID/Service ID(s): 106239549C / 1483295097
+Internet Dedicated Dynamic Port Pricing Internet Dedicated Dynamic Port Pricing
+Port SpeedMRC
+(USD)Port SpeedMRC
+(USD)
+2 Mbps 91.00 10 Mbps 96.20
+3 Mbps 91.00 20 Mbps 130.00
+4 Mbps 91.00 30 Mbps 169.00
+5 Mbps 91.00 40 Mbps 169.00
+6 Mbps 96.20 50 Mbps 90.00
+8 Mbps 96.20
+Dynamic Network Manager 
+Applies to Location ID/Service ID(s): 106239551C / 1483295103
+Internet Dedicated Dynamic Port Pricing Internet Dedicated Dynamic Port Pricing
+Port SpeedMRC
+(USD)Port SpeedMRC
+(USD)
+2 Mbps 91.00 50 Mbps 169.00
+3 Mbps 91.00 60 Mbps 215.28
+4 Mbps 91.00 70 Mbps 215.28
+5 Mbps 91.00 80 Mbps 215.28
+6 Mbps 96.20 100 Mbps 215.28
+8 Mbps 96.20 150 Mbps 390.00
+10 Mbps 96.20 200 Mbps 390.00
+20 Mbps 130.00 300 Mbps 494.00
+30 Mbps 169.00 400 Mbps 494.00
+40 Mbps 169.00 500 Mbps 494.00
+Dynamic Network Manager 
+Applies to Location ID/Service ID(s): 106239625C / 1483295109
+Internet Dedicated Dynamic Port Pricing Internet Dedicated Dynamic Port Pricing
+Port SpeedMRC
+(USD)Port SpeedMRC
+(USD)
+Contract ID: I96913-01 - Ts&Cs+Pricing
+Reference ID: 7059
+Routing Code: U-U-E
+-  - Verizon CONFIDENTIAL
+2 Mbps 91.00 10 Mbps 96.20
+3 Mbps 91.00 20 Mbps 130.00
+4 Mbps 91.00 30 Mbps 169.00
+5 Mbps 91.00 40 Mbps 169.00
+6 Mbps 96.20 50 Mbps 169.00
+8 Mbps 96.20

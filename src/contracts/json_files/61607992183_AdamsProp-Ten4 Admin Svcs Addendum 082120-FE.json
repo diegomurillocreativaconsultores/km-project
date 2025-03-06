@@ -1,0 +1,38 @@
+{
+  "Agreement Name": "Administration Services Addendum",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "Adams Property Group",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified.",
+  "Signature Date": "08/21/2020",
+  "Term": "36 months",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "$450.00",
+  "Nonrecurring Charges": "NONE",
+  "Services": [
+    "Billing Aggregation",
+    "NOC Services"
+  ],
+  "Locations": [
+    "670 E Pine Log Road, Aiken, SC 29803",
+    "1402 Brevard Road, Asheville, NC 28806",
+    "159 Cooper Drive, Augusta, GA 30907",
+    "128 Highway 96, Bonaire, GA 31005",
+    "4731 Washington Road, Evans, GA 30809",
+    "2077 Calhoun Road, Greenwood, SC 29649",
+    "5751 Beach Blvd., Jacksonville, FL 32207",
+    "2965 N Orange Blossom Trail, Kissimmee, FL 34744",
+    "760 Travelers Blvd., Summerville, SC 29485",
+    "6606 Ocean Highway West, Ocean Isle Beach, NC 28469",
+    "365 Keowee School Road, Seneca, SC 29672",
+    "1758 St. Matthews Road, Orangeburg, SC 29118",
+    "1176 Clements Ferry Road, Wando, SC 29492",
+    "2254 Sandifer Blvd., Westminster, SC 29693"
+  ],
+  "Payment Terms": "Invoices are payable monthly in advance at the beginning of each month, due net thirty (30) days from the date of the invoice.",
+  "effective_date": "Not specified",
+  "signature_date": "08/21/2020"
+}

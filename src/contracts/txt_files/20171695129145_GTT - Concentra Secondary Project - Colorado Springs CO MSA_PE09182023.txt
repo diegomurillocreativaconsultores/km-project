@@ -1,0 +1,528 @@
+Proprietary and Confidential  1 GTT MSA Americas v.1 Dec. 2022   7900 Tysons One Place, Suite 1450  
+McLean, Virginia 22102  
+(v) 703 -442-5500  
+(f) 703 -442-5501  
+www.gtt.net  
+MASTER SERVICE AGREEMENT  
+Client Name (and #):  
+ Concentra Health Services Inc.  (Client 
+ID: 65929 ) Contact:  Paul Finkbeiner  
+Address:  
+ 5080 Spectrum Drive  Title:  Vice President of IT  
+Addison, TX 75001  Email:  carrierorders@selectmedical.com  
+Country:  
+ USA Phone:  410.464.8970  
+This Master Service Agreement ( MSA ) has been made and entered into as of the latest date of signature below (the  Effective Date ) by and 
+between:  
+1. GTT Americas, LLC  and its Affiliates (to the extent designated on a Service Order Form) (the providing entity being  GTT); and  
+2. Client  (named above) and its Affiliates (to the extent designated on a Service Order Form),  
+for the purpose of GTT providing Client with any one or combination of GTTs services (Service(s)) as set forth in one or m ore orders for Service 
+(Service Order Form(s)  or  SOF), which shall be deemed incorporated by reference and made part of this MSA.  A Service Order Form may 
+contain multiple Services.   
+GTT and Client may be referred to in this MSA individually as a  Party  and/or collectively as the  Parties .  
+TABLE OF CONTENTS  
+1. DEFINITIONS AND ABBREVIATIONS.  ................................ ................................ ................................ ................................ ......................  2 
+2. ORDERING AND PROVISION OF THE SERVICE(S); AFFILIATES.  ................................ ................................ ................................ ..........  3 
+3. MSA TERM AND SERVICE TERM; COMMITMENTS.  ................................ ................................ ................................ ...............................  3 
+4. SERVICE ACTIVATION. ................................ ................................ ................................ ................................ ................................ .............  3 
+5. BILLING; TAXES; CHARGES.  ................................ ................................ ................................ ................................ ................................ .... 4 
+6. PAYMENT.  ................................ ................................ ................................ ................................ ................................ ................................ . 4 
+7. CREDIT.  ................................ ................................ ................................ ................................ ................................ ................................ ..... 4 
+8. DISPUTES.  ................................ ................................ ................................ ................................ ................................ ................................  5 
+9. TERMINATION AND SUSPENSION.  ................................ ................................ ................................ ................................ .........................  5 
+10. SERVICE PERFORMANCE; MAINTENANCE.  ................................ ................................ ................................ ................................ ...........  6 
+11. FORCE MAJEURE.  ................................ ................................ ................................ ................................ ................................ ....................  6 
+12. LIMITATION OF LIABILITY AND DISCLAIMER OF WARRANTIES; INDEMNITY.  ................................ ................................ .....................  6 
+13. CLIENTS RESPONSIBILITIES; RESALE OF THE SERVICES.  ................................ ................................ ................................ .................  7 
+14. EQUIPMENT AND LOCATION.  ................................ ................................ ................................ ................................ ................................ .. 8 
+15. THIRD -PARTY SOFTWARE LICENSE. ................................ ................................ ................................ ................................ ......................  8 
+16. CANCELLATION OF SERVICE; DISCONNECTION.  ................................ ................................ ................................ ................................ . 8 
+17. GENERAL.  ................................ ................................ ................................ ................................ ................................ ................................ . 8 
+Proprietary and Confidential  2 GTT MSA Americas v.1 Dec. 2022  The following terms and conditions govern this MSA between the Parties:  
+1. DEFINITIONS AND ABBREVIATIONS.  
+1.1. Affiliate , except for the purposes of Subsection 17.6 below, it means any entity which directly or indirectly controls, is controlled  
+by, or is under common Control with a Party.  
+1.2. AUP  is GTTs Acceptable Use Policy  
+1.3. Confidential Information  is as defined in Subsection 17.4 of the MSA.  
+1.4. Control  means direct or indirect ownership or control of more than fifty percent (50%) of the voting interests of the subject entit y.  
+1.5. CPE is Client Premises Equipment  
+1.6. Credit Hold  means that GTT will not accept SOFs for  new Services from Client, all activity for Services being provisioned but not 
+active shall be suspended until the Clients account is released from Credit Hold by GTT in line with Subsection 7.2 of the M SA. 
+1.7. Disclosing Party  is as referenced in Subsecti on 17.4 of the MSA.  
+1.8. Force Majeure  is as defined in Section 11 of the MSA.   
+1.9. Initial Service Term  is as defined in Subsection 3.2 of the MSA.  
+1.10.  Minimum Commitment  is as defined in Subsection 3.4 of the MSA.  
+1.11.  Master Service Order Form  or Master SOF  is as defined in Subsection 2.3 of the MSA.  
+1.12.  Member State " is as defined in Subsection 17.6 of the MSA.  
+1.13.  Monthly Recurring  Rate (MRR) charge(s)  is the monthly rate charge, specified in the SOF or other applicable contract document, 
+that GTT invoices Client for the specific Service for the duration of the Service Term.  
+1.14.  MSA Term  is as defined in Subsection 3.1 of the MSA.  
+1.15.  Non-Recurring Rate (NRR) charge(s)  is any one -time charge, specified in the SOF or other applicable contract document,  that 
+GTT invoices Client for the initial provision of the specific Service   
+1.16.  Payment Date  is as defined in Subsection 6.2 of the MSA.  
+1.17.  Receiving Party  is as referenced in Subsection 17.4 of the MSA.  
+1.18.  Relevant End -use" is as defined in Subsection 17.6  of the MSA.  
+1.19.  Renewal Service Term  is as defined in Subsection 3.2 of the MSA.  
+1.20.  Restrictive Sanctions  is as defined in Subsection 17.6 of the MSA.  
+1.21.  RMA  is GTTs return merchandise authorization.  
+1.22.  Service Outage  is as defined in Subsection 10.2 of the MSA.  
+1.23.  Service Schedule " is as defined in Subsection 17.10 of the MSA.  
+1.24.   Service Term  is defined as the Initial Service Term and Renewal Service Term, collectively.  
+1.25.  Shortfall  is as defined in Subsection 3.4 of the MSA.  
+1.26.  SOW " is as defined in Subsection 17.10 of the MSA.  
+1.27.  Start of Service  Date  is as defined in Subsection 4.1 of the MSA.  
+1.28.  Start of Service  Letter  is as defined in Subsection 4.1 of the MSA.  
+1.29.  Taxes  Subsection 5.1 of the MSA.  
+Proprietary and Confidential  3 GTT MSA Americas v.1 Dec. 2022  2. ORDERING AND PROVISION OF THE SERVICE(S); AFFILIA TES.   
+2.1. Services may be ordered by Client or an Affiliate of Client under this MSA.  The Client or the purchasing Affiliate of Client  shall be 
+specified on the SOF and shall be jointly and severally liable with Client under the SOF.   
+2.2. Each SOF, regardless of the purchasing Client or Client Affiliate or providing GTT or GTT Affiliate, shall be governed by this MSA.  
+2.3. A SOF may contain multiple Services and in such case, it may be referred to as  Master Service Order Form  or Master SOF .  
+2.4. Prior to the Start of Service Date (defined below), GTT reserves the right to reject or cancel any Service in its commerciall y 
+reasonable discretion.   
+2.5. GTTs provision of the Services is subject to the continuing availability of capacity and facilities an d any end -of-life discontinuance.  
+3. MSA TERM AND SERVICE TERM; COMMITMENTS.   
+3.1. The term of this MSA shall commence as of the Effective Date and shall remain in effect until terminated as set forth herein (the 
+MSA Term ). 
+3.2. Subject to Section 9 below, a Se rvice shall be provided as of its Start of Service Date and for the term specified in the related SOF 
+(Initial Service Term ).  Unless one of the Parties provides written notice of termination to the other Party on or before thirty (30)  
+days prior to the expiration of a Service Term, the term of the related Service shall automatically continue in full force thereafter 
+on an month -to-month basis  (each a  Renewal Service Term ), until a Party provides written notice of termination in accordance 
+with this Sec tion 3 or Section 9 below.   
+3.3. Any Service being provided at the time of termination of this MSA shall continue upon the terms and conditions of this MSA un til 
+the end of the applicable Service Term.   
+3.4. If a minimum aggregate volume or revenue commitment ap plies, whether it be monthly, annual or as otherwise agreed ( Minimum 
+Commitment ), Client agrees to pay any shortfall in achieving the applicable Minimum Commitment equal to the difference between 
+the MRRs actually billed and the sum of the Minimum Commit ment during the applicable commitment period ( Shortfall ). 
+4. SERVICE ACTIVATION.  
+4.1. Start of Service Date.   After GTT has determined that a delivered Service conforms to the relevant Service specifications, GTT will 
+notify Client (in writing or electronically) that the Service is activated and is available for use ( Start of Service Letter ).  GTT may 
+incrementally deliver individual Services or locations specified in a SOF, when ready, which may result in different Start of  Service 
+Dates for each incrementally delivered Service or location.  Client shall have two (2) business days to notify GTT that it  is rejecting 
+the Service as a result of its failure to meet the applicable Service specifications.   The  Start of Service Date  shall be the earlier 
+of (i) the date that Client begins using the Service for any purpose other than testing or (ii) the date o f the Start of Service Letter.  
+The Clients failure to test or delay in testing the Service or failure to utilize or delay in utilizing the Service on or af ter the Start of 
+Service Letter date shall not prevent GTT from billing the Client for the Service.  
+4.2. Client Readiness .  If the Start of Service Date is delayed as a result of:  
+4.2.1.  Clients failure to:  
+(i) timely complete and submit to GTT the related GTT Provisioning Document (including, without limitation, 
+the Technical Architecture Document (TAD)) or timely  meet GTTs product deployment requirements as 
+described in the applicable product Client Engagement Guide(s) or other authorizations, or  
+(ii) meet its responsibilities under the MSA,  applicable Service Schedule, SOF or another relevant contract 
+document, or  
+(iii) have ready the necessary interconnection facilities and equipment for GTT to deliver a Service or for Client 
+to test and turnup a delivered Service; or  
+4.2.2.  any other action or inaction of Client which prevents GTT from installing or delivering Service, pro vided that in each 
+of the following cases GTT has informed the Client of such delay, then if Client fails to cure such failure within fourteen 
+(14) days,  
+GTT may deem the Service cancelled and Client shall pay to GTT the related early termination charge.  
+Proprietary and Confidential  4 GTT MSA Americas v.1 Dec. 2022  5. BILLING; TAXES; CHARGES.  
+5.1. GTT charges Client for each Service commencing on the Start of Service Date.  GTT may invoice Client for a NRR charge(s) for 
+Services prior to the Start of Service Date.  GTT shall invoice Client via electronic delivery, and Client shall pay in advanc e on a 
+monthly basis for all Services, the MRR charges set forth in the SOF, any unpaid NRR charge(s), and all applicable excise, s ales, 
+use, VAT, customs and import taxes or other taxes, fees, surcharges, and/or recovery charges, however designated, imposed upo n 
+or authorized as a result of GTTs sale of the Services (collectively,  Taxes ).  Usage based charges or professional fee c harges 
+will be invoiced in the billing period after such Services have been provided.  All payments made by Client under this MSA sh all be 
+made without any deduction or withholding for or on account of any Taxes.   GTT may adjust charges during a Renewal Se rvice 
+Term, upon thirty (30) days written notice to Client.  
+5.2. To the extent that any deduction or withholding of Taxes is required, at any time, by applicable law, Client shall increase t he amount 
+of such payment to ensure that GTT receives the amount it wo uld have received had no deduction or withholding been required 
+and indemnify and hold GTT harmless on an after -tax basis from and against any such withholding, interest or penalties levied or 
+asserted against GTT in connection therewith.  If Client provid es GTT with a valid direct payment permit, sale for resale exemption 
+certificate, sales tax exemption certificate or other applicable exemption certificate acceptable to GTT, then following GTT s receipt 
+of such exemption certificate and proof on an annual  or other basis of continued exemption from time to time, GTT will not invoice 
+the Taxes covered by the exemption certificate(s), if such exemption certificate is applicable to the Services provided.  A t ax 
+exemption certificate or resale certificate is no t applicable to certain surcharges.  
+5.3. Twelve (12) months from the Start of Service Date of a Service and annually thereafter, GTT reserves the right to review the related 
+charges and may increase such charges by the lesser of (i) ten percent (10%) or (ii) t he percentage increase, for the previous twelve 
+(12) month period, in the applicable local inflation index of the country where the GTT billing Affiliate is registered.  
+6. PAYMENT.   
+6.1. All invoices are due upon receipt, payable by company check or electronic  transfer in available funds.    
+6.2. If any undisputed amount due on any invoice is not received by GTT within thirty (30) days of the invoice date ( Payment Date ), 
+then, in addition to any other remedies available to GTT (including, but not limited to, those  set forth in Section 9), GTT may in its 
+sole discretion:  
+6.2.1.  charge interest, at the rate of the lesser of one and one -half percent (1.5%) per month or the maximum rate allowable 
+under law, commencing as of the Payment Date through the date of GTTs receipt of payment; and/or  
+6.2.2.  place Clients account on a Credit Hol d in accordance with Subsection 7.2 below.   
+6.3. Except for bona fide disputes submitted in accordance with Section 8 of this MSA, payments due are not subject to reduction, set-
+off, or adjustment of any nature by Client.   
+6.4. If GTT initiates legal action to p ursue collection of any undisputed amount due under this MSA or any SOF, Client shall be 
+responsible for and agrees to pay for any and all reasonable attorneys fees and expenses incurred by GTT.  
+7. CREDIT.   
+7.1. GTT reserves the right to conduct a review of C lients credit rating, credit history, and payment history at any time.   
+7.2. GTT may, as a condition of providing new Services or continuing to provide active Services, place Clients account on a Credi t Hold 
+if: 
+7.2.1.  there has been a materially adverse change in Clients financial condition; or  
+7.2.2.  Client has been late in paying its undisputed charges on invoices by the Payment Date; or  
+7.2.3.  Client does not timely respond to GTTs communications and/or propose a repayment p lan acceptable to GTT, in its 
+commercially reasonable discretion, regarding unpaid disputed charges.   
+7.3. GTT will provide Client at least thirty (30) days advance written notice prior to placing Clients account on Credit Hold.  During those 
+thirty (30) days, GTT will use commercially reasonable efforts to work with Client to reach a mutually agreeable repay ment plan 
+prior to instituting the Credit Hold.   
+Proprietary and Confidential  5 GTT MSA Americas v.1 Dec. 2022  8. DISPUTES.   
+8.1. If Client reasonably and in good faith disputes any portion of GTTs invoice, Client shall, within thirty (30) days of the in voice date, 
+submit written notice to GTT of such dispute, identi fying in specific detail the reason for the dispute and the amount being disputed.  
+If Client does not deliver such written notice within thirty (30) days of the invoice date, the invoice and all charges there on will be 
+deemed correct, and Client shall hav e waived its rights to dispute the invoice.   
+8.2. Clients dispute as to any portion of the invoice shall not excuse Clients obligation to pay the undisputed portion of the i nvoice by 
+the Payment Date.   
+8.3. The Parties shall negotiate in good faith to resolve any disputes within fifteen (15) days following GTTs receipt of Clients timely 
+written notice.   
+8.4. Any amounts that GTT determines to be in error shall be adjusted on Clients next invoice.  Any disputed amounts that GTT 
+determines to be correct as billed  shall be due and payable by Client, upon notification and demand by GTT, along with any charges 
+that GTT may impose pursuant to Section 6 above.  
+9. TERMINATION AND SUSPENSION.  
+9.1. By GTT.   GTT may terminate this MSA or cancel or terminate any and all SOFs, in  whole or in part, or suspend Services without 
+any liability at any time upon:  
+9.1.1.  any failure of Client to timely pay any and all undisputed amounts due hereunder if Client fails to cure such non -
+payment within ten (10) calendar days after receiving written notice of such non -payment from GTT; or  
+9.1.2.  immediately upon a violation of AUP or any incurable material breach by Client of any provision of this MSA (including 
+without limitation, Subsection 17.6 (Sanctions Compliance), any SOF, or any ot her applicable contract document or 
+in case the material breach is curable - if Client fails to cure such breach within thirty (30) calendar days after receiving 
+such written notice of such breach from GTT; or  
+9.1.3.  any insolvency, bankruptcy, assignment for the  benefit of creditors, appointment of a trustee or receiver or similar 
+event with respect to Client; or  
+9.1.4.  any governmental prohibition or required alteration of the Service provided hereunder necessitating such termination.   
+9.2. By Client for Cause .  Client may cancel or terminate the affected Service(s) for cause that are materially breached, without any 
+liability at any time upon:  
+9.2.1.  immediately upon any incurable material breach by GTT of any provision of this MSA, any SOF, or any other 
+applicable contract document or in case the material breach is curable if GTT fails to cure such breach within thirty 
+(30) days after receiving written notice thereof from Client; or  
+9.2.2.  any insolvency, bankruptcy, assignment for the benefit of creditors, appointment of a truste e or receiver or similar 
+event with respect to GTT; or  
+9.2.3.  any governmental prohibition or required alteration of the Service provided hereunder necessitating such termination.    
+9.3. If (1) Client cancels or terminates a Service prior to the end of the Service  Term without cause (as specified above in Subsection 
+9.2.) or for convenience; or (2) GTT terminates this MSA and/or any Service(s) prior to the end of the Service Term pursuant to 
+Subsections 9.1.1, 9.1.2 or 9.1.3, then in addition to any other rights or  remedies available to GTT hereunder, at law, or in equity, 
+Client shall provide GTT with at least thirty (30) days written notice of termination and pay GTT an early termination charg e (as 
+liquidated damages and not as a penalty) equal to:   
+9.3.1.  all unpaid, waived, discounted and/or amortized NRR charges associated with the terminated Service(s) and, if 
+applicable, unpaid Shortfalls; plus  
+9.3.2.  all MRR charges specified for the terminated Service for all remaining months of the unexpired balance of th e related 
+Service Term of the terminated Service; plus  
+9.3.3.  to the extent greater than the amount in Subsection 9.4.2 above, the aggregate fees, charges, expenses, and taxes 
+payable by GTT (including, but not limited to, liquidated damages, and disconnection,  early cancellation or termination 
+charges payable to third parties) in connection with the cancelled or terminated Service(s), provided that such amount 
+does not exceed the remaining unpaid MRR charges of the terminated Service.  
+Proprietary and Confidential  6 GTT MSA Americas v.1 Dec. 2022  9.4. Clients obligation to pay the related service charge shall not be relieved, if Service is suspended by GTT because of any non -
+payment or other breach of this MSA by Client and no Service Outage (defined under Subsection 10.2 below) shall be deemed to 
+have occurred  as a result of such suspension.  
+9.5. Upon expiration or termination, neither Party shall owe the other any further duties, obligations, or consideration; provided , however, 
+that expiration or termination of this MSA shall not affect the rights or obligations of either Party that have arisen before the date of 
+expiration or termination, nor shall Client or GTT be relieved of any liabilities arising prior to such termination.   
+9.6. GTT will process any request for disconnection or early termination by Client within  thirty (30) days or less, subject to Clients 
+payment of early termination charge.  Client must pay for Services until actual disconnection if any delay in disconnection i s due to 
+the actions of a third -party provider.  
+10. SERVICE PERFORMANCE; MAINTENANCE.  
+10.1.  Services will be activated, provided and provisioned in accordance with the delivery, availability, reporting, response time,  
+restoration and maintenance objectives of the applicable Service Schedule(s).   
+10.2.  In the event of a failure to perform in accordance with objectives of the applicable Service Schedule(s) or interruption in the Service 
+(Service Outage ), Client shall be entitled to a service credit and/or termination right pursuant to the applicable Service 
+Schedule(s).  Credit and terminatio n right allowances shall be measured only after GTTs receipt of written notice of a Service 
+Outage from Client and will be provided via credit note only if Client provides written notice with respect to obtaining such  credit 
+and/or termination right withi n thirty (30) days of the Service Outage occurring.  Under no circumstance shall a Service Outage be 
+deemed a breach under this MSA, any Service Schedule or any SOF.  Clients sole remedy for the failure or non -performance of 
+the Service or equipment to me et the performance and Service levels of the applicable Service Schedule shall be to receive a credit 
+or cancel the affected Service as set forth in applicable Service Schedule.   
+10.3.  Service availability, and Service Outages, are subject to the following exc lusions: a Service Outage will be deemed to have occurred 
+only if the Service becomes unusable to Client as a result of the inability of GTTs facilities, equipment or personnel to pr ovide the 
+Service, and only when the Service Outage is not the result of:  (1) fault or negligence of Client or its contractors, agents, 
+representatives, or users; (2) the failure of interconnecting facilities or other equipment not part of GTTs Service or facilities or not 
+within GTTs reasonable control; (3) any planned inter ruption, emergency maintenance or routine maintenance; or (4) other 
+circumstances beyond the reasonable control of GTT.  
+10.4.  GTT shall use commercially reasonable efforts to perform routine maintenance at mutually agreeable times.   
+10.5.  In the event GTT dispatche s a technician to a site for troubleshooting and determines that the cause resulted from a factor caused 
+by Client or on Clients side of the Service demarcation point, GTT may charge its standard rates and charges for such dispat ch.   
+11. FORCE MAJEURE.   
+Neither Party will be in default or otherwise liable for any Service Outage, delay, or failure of its performance under this MSA or any SOF to 
+the extent such Service Outage, delay, or failure to perform arises by reason of any cause or circumstance beyond  the reasonable control 
+of the affected Party, including but not limited to, reason of act of God, the elements, adverse weather conditions, fire, fl ood, riots, strikes, 
+accident, war, governmental requirement or any action of government in its sovereign c apacity, act of civil or military authority, action or 
+inaction of a supplier or other third party (including but not limited to failure of an underlying third party provider to ti mely process an 
+application), fiber or cable cut, subsea fiber damage, inabi lity to secure materials, labor or transportation, epidemic or catastrophe (each 
+constituting a  Force Majeure ).   
+12. LIMITATION OF LIABILITY AND DISCLAIMER OF WARRANTIES; INDEMNITY.  
+12.1.  Except as expressly set forth in this MSA, Service Schedule, a SOF and t o the extent permissible under applicable law, GTT does 
+not make, and expressly disclaims and excludes to the fullest extent, any warranties, conditions, representations or other 
+agreements, express or implied (either in fact or by operation of law, statut ory or otherwise), to Client or any third party with respect 
+to the Service or equipment, including, without limitation, any conditions or warranties of merchantability, satisfactory qua lity or 
+fitness for a particular purpose or otherwise.  GTT shall prov ide and maintain the Service to Client as specified herein.   
+12.2.  In no event shall a Party be liable to the other Party under any circumstances, howsoever arising out of, or in connection wi th, this 
+MSA for: (i) any loss of actual or anticipated profit, (ii)  loss of income or revenue, (iii) loss of goodwill, opportunity, business or 
+contract, (iv) loss, destruction or corruption of data or technology, (v) business interruption, downtime costs, or any waste d 
+expenditure or time, (vi) loss of anticipated saving s, (vii) loss of use of any property, (ix) cost of substitute performance, equipment 
+or services, in each of the foregoing cases, whether such loss or cost is direct, indirect or consequential; or any indirect,  special, 
+incidental, exemplary, punitive or c onsequential losses or damages.  The exclusions in this Subsection 12.2 shall apply whether or 
+not the costs, losses or damages were caused by the acts or omissions of a Partys employees or agents, and regardless of whe ther 
+it has been informed of, or cou ld have foreseen, the possibility or likelihood of such losses.   
+Proprietary and Confidential  7 GTT MSA Americas v.1 Dec. 2022   
+12.3.  A Partys entire liability to the other Party for any claim, loss, cost, expense, or damages under this MSA or any SOF shall in no 
+event exceed the sum actually paid by Client to GTT for the affected Service during the twelve (12) month period preceding th e 
+date such claim first arose.   
+12.4.  The foregoing exclusions and limitations apply to all causes of action and claims of any kind arising out of or related to th is MSA or 
+any SOF including, without limitation, breach of contract, breach of warranty or condit ion, under an indemnity or otherwise (unless 
+expressly provided), strict liability, breach of statutory duty, negligence, misrepresentation, or any other tort. Client ack nowledges 
+and accepts the reasonableness of the foregoing disclaimers and limitations of liability.  For purposes of this Section 12, all 
+references to a Party shall include its affiliates, agents, suppliers, officers, directors, shareholders, and employees. In n o event shall 
+GTT's third -party suppliers be directly liable to Client or any o ther party for any loss or damage arising out of the provision of Services 
+or equipment hereunder.   
+12.5.  Each Party shall protect, defend and indemnify, and hold harmless the other Party, its officers, employees, contractors, and agents, 
+from and against any and all liabilities, allegations, claims, losses, damages, expenses, judgements and causes of action arising 
+from or in connection with damage to property caused by the gross negligence or willful misconduct of the indemnifying Party,  or its 
+employees, aff iliates, representatives, agents or contractors in the performance of the indemnifying Partys obligation hereunder, 
+except those damages, costs, expenses and liabilities arising from the negligence or willful misconduct of the indemnified Pa rty.   
+12.6.  Nothin g in this MSA shall exclude or limit a Partys liability:  
+12.6.1.  for willful misconduct;  
+12.6.2.  for death or personal injury caused by a Partys gross negligence;  
+12.6.3.  to pay charges (including any Shortfall, cancellation charges or other early termination charges) which have already 
+become due; or (iv) in respect of any other liability which cannot be excluded or limited by applicable law.    
+12.7.  The Parties shall use best endeavors to mitigate any losses that may arise from any SOF under this MSA.   
+13. CLIENTS RESPONSIBILITIES; RESALE OF THE SERVICES.  
+13.1.  Client acknowledges and agrees that:  
+13.1.1.  Client is solely responsible for obtaining all licenses, approvals, and regulatory authority for its operation and the 
+provision of Clients services which incorpor ate GTTs Services to its end user and/or other customers; and  
+13.1.2.  Client is solely responsible for obtaining all local permits, landlord consents, access licenses and permissions, and 
+other consents and waivers necessary for installation of facilities and e quipment to allow GTT to provide the Service 
+and make use of the Service.   
+13.2.  Equipment used by Client or Clients customers, suppliers, agents, employees or end users in connection with any GTT Service 
+shall not:  
+13.2.1.  interfere with or impair service over any  facilities and equipment of GTT and its suppliers; or  
+13.2.2.  impair the privacy of any communications carried over GTT's Services; or  
+13.2.3.  create hazards to the employees of GTT or the public.   
+13.3.  In addition to any other remedies available hereunder, GTT may, in its sole discretion, suspend Service upon the provision of notice 
+if Client does not comply with the terms and conditions of this Section 13.  GTT shall have no liability to Clients end user , suppliers 
+and/or customers arising from or relating to this MSA  or any SOF.  
+13.4.  Clients obligations to GTT under this MSA and all SOFs including, without limitation, its payment obligations, are independe nt 
+covenants from Clients ability to collect payment from its end user and/or carrier customers.  GTT shall have no obligation to interact 
+with Clients end users or customers for any reason or purpose.  
+13.5.  GTT shall not be liable for any fraudulent use of the Services by Client or any third party, including, but not limited to, f raudulent 
+calls.   GTT has no obligation to investigate t he authenticity of any use of the Services charged to Client's account.    
+13.6.  Client shall protect, defend, indemnify, and hold harmless GTT, its officers, directors, employees, contractors, and agents, from and 
+against any and all liabilities, allegations, c laims, losses, damages, expenses (including reasonable attorneys fees and costs), 
+judgments, and causes of action arising from or related to any claim made by any of Clients customers or other third parties  relating 
+to or arising from this Section 13.  
+Proprietary and Confidential  8 GTT MSA Americas v.1 Dec. 2022   
+14. EQUIPMENT AND LOCATION.   
+14.1.  Client will grant GTT, its agents and contractors, access to and use of Clients facilities to the extent reasonably necessar y for the 
+installation, connection, removal, and maintenance of equipment, facilities, and systems relat ing to Services.   
+14.2.  Client will not allow or cause any service, facility, or equipment of GTT or its suppliers to be rearranged, moved, modified,  repaired 
+or relocated without GTTs written consent.   
+14.3.  Client will not create or allow any liens or other enc umbrances to be placed on any such facilities or equipment of GTT or its 
+suppliers.   
+14.4.  If Client relocates or changes the place of the Service provided under any SOF, Client will pay all additional installation a nd related 
+charges associated with such relo cation.   
+14.5.  GTT may require Client, as a condition to receiving Service, to use the CPE , supplied by GTT.  Unless agreed otherwise between 
+the Parties, all CPE shall remain the exclusive property of GTT.   
+14.6.  Client will return disconnected or faulty CPE in a ccordance with the RMA process which includes completing the necessary forms 
+and using the shipping label provided by GTT, if applicable.  Client will pay GTT the associated non -return fee for CPE specified in 
+the related SOF (or if no non -return fee is sp ecified, the manufacturers suggested retail price as of the date of the related SOF) 
+that is (i) not returned to GTT within fifteen (15) days of the disconnection date or the date that Client receives new CPE t o replace 
+faulty CPE or (ii) damaged during r eturn shipping to GTT.  
+14.7.  If Client takes ownership of CPE, Client will assist GTT with all administrative requirements associated with such ownership.   
+15. THIRD -PARTY SOFTWARE LICENSE.  
+15.1.  If and to the extent that the Client requires the use of licensed software in order to use the Services, the Client will be provided with 
+a non -exclusive non -transferable license for the Service Term to use such third -party licensed software solely for its internal 
+purposes and solely to the extent required to use the Services.  To the extent su ch licensed software is sourced from a third -party 
+provider, such license shall be subject to the terms of the applicable software license embedded in the relevant software.  
+15.2.  Client will not, and shall use all its reasonable endeavors to ensure that others  do not:  
+15.2.1.  obtain or claim any ownership in any licensed software (or in any derivation thereto or improvement thereof);  
+15.2.2.  copy the licensed software except as agreed in writing by GTT and in accordance with the terms of the applicable 
+software license;  
+15.2.3.  save as permitted by law, reverse engineer, decompile or disassemble licensed software;  
+15.2.4.  sell, lease, license or sublicence the licensed software;  
+15.2.5.  create, write or develop any derivative software or any other software based on the licensed software; or  
+15.2.6.   take any action prohibited by the applicable software license.  
+16. CANCELLATION OF SERVICE; DISCONNECTION.   
+All Clients requests to disconnect a Service must be submitted through the GTT Client Portal. Any alternative forms of disco nnection requests 
+must be approved by GTT in writing.  For purposes of clarification, any cancellations by Client prior to or on or after the Start of Service Date 
+for a Service shall be subject to the charges set forth in Section 9 of this MSA.  
+17. GENERAL.  
+17.1.  Assignment .   
+17.1.1.  Either  Party may assign this MSA, along with any SOF, to any Affiliate, or to a successor company pursuant to any 
+reorganization or merger of its business, or to any successor pursuant to any sale or transfer of all or substantially all 
+of its assets.  
+Proprietary and Confidential  9 GTT MSA Americas v.1 Dec. 2022  17.1.2.  No other assignment by either Party will be permitted without the prior written consent of the other Party, which 
+consent will not be unreasonably withheld or denied.  
+17.1.3.  The rights and obligations under this MSA shall survive any merger or sale of either Party and sh all be binding upon 
+the successors and permitted assignees of each Party.   
+17.2.  Governing Law.   This MSA and all SOFs, or any other applicable contract document that incorporates by reference the terms of 
+this MSA or SOFs, and any dispute or claim arising the reto shall be governed by and construed in accordance with the law of the 
+state of Virginia  and the Parties further consent to exclusive jurisdiction and venue in the courts of Virginias.  
+17.3.  Construction; Severability; Waiver.    
+17.3.1.  Each Party acknowledges that this MSA has been jointly drafted by the Parties and that it has not been induced to 
+enter into this MSA by any statement, representation, assurance or warranty (whether made innocently or negligently) 
+that is not set out in this MSA and agrees that it shall have no remedy in respect of the same.  
+17.3.2.  In the event that any provision of this MSA conflicts with the law under which this MSA is to be construed or if any 
+provision is declared invalid by a court with jurisdiction over the Parties to  this MSA, such provision shall be deemed 
+to be restated to reflect as nearly as possible the original intentions of the Parties in accordance with applicable law.   
+17.3.3.  Each provision of this MSA is severable from the whole, and if one provision is declared invalid, the other provisions 
+shall remain in full force and effect.   
+17.3.4.  Failure of either Party to enforce any of the provisions of or its rights under this MSA, or the waiver thereof in any 
+instance, shall not be construed as a general waiver or relinquis hment of any rights.  
+17.4.  Confidentiality.    
+17.4.1.  Neither Party shall disclose to any third party during the term of this MSA and for two (2) years following the expiration 
+or termination of this MSA, any of the terms of this MSA or any SOF, including any rate inf ormation, unless such 
+disclosure is required by any state or federal governmental agency, is otherwise required by law, or is necessary in 
+any proceeding establishing or applying rights or obligations under this MSA.    
+17.4.2.  By virtue of this MSA, each Party (t he Receiving Party ) shall have access to or may learn certain confidential or 
+proprietary technical, business, scientific, strategic, financial, legal (including intellectual property), commercial, 
+regulatory, organizational, and/or operational informati on and data of the other Party (the  Disclosing Party ), 
+including the existence of this MSA and the terms of any supplemental document, work order, SOF or statement of 
+work, whether disclosed by or on behalf of the Disclosing Party and in any form of disc losure whether or not expressly 
+identified as confidential (" Confidential Information ").   
+17.4.3.  Each Party shall, both during the Term of this MSA and for a period of two (2) years after expiration or termination of 
+this MSA, hold the Confidential Information in confidence.   
+17.4.4.  Each Party shall not make the Confidential Information available in any form to any third party or use the Confidential 
+Information for any purpose other than the implementation of this MSA.   
+17.4.5.  Each Party shall take all reasonable steps to ensure that Conf idential Information is not disclosed or distributed to 
+any other individual or entity in violation of the provisions of this MSA.   
+17.4.6.  Each Party shall disclose the Confidential Information only to those employees, directors, officers, agents, 
+professional advisers or consultants who need to know the Confidential Information for the purpose of MSA or any 
+business interaction between the Parties and who are bound in writing to observe terms and conditions comparable 
+to this Subsection 17.4.   
+17.4.7.  Confidential In formation shall not include:  
+(i) information that is publicly available as of the Effective Date or subsequently becomes publicly available 
+through no fault or act of such Receiving Party or representative of such Receiving Party; provided that 
+such informat ion shall not be deemed to be publicly available merely because more general information 
+may be publicly available;  
+(ii) information that is known to such Receiving Party prior to disclosure from the Disclosing Party as evidenced 
+by such Receiving Party; provi ded that such information is not known by such Receiving Party to have been 
+received in violation of any obligation to the Disclosing Party to keep such information confidential;  
+(iii) information that such Receiving Party receives from any third party not und er any obligation to the 
+Disclosing Party to keep such information confidential; and  
+Proprietary and Confidential  10 GTT MSA Americas v.1 Dec. 2022  (iv) information that is independently developed by such Receiving Party or its representatives without reliance 
+upon or use of the Confidential Information of the Disclosing  Party.   
+17.4.8.  For purposes of clarification, under no circumstances shall either Party utilize any information obtained in connection 
+with this MSA to contract directly with any vendors, contractors, or customers of the other Party with respect to that 
+specif ic Service or a replacement or substitute for that Service; provided, however, that nothing in this MSA shall be 
+construed to preclude either Party from purchasing, selling or utilizing any other telecommunications, information, or 
+ancillary services from or to any other entity or from using information independently developed to purchase, sell, or 
+utilize such services.  
+17.5.  Third -Party Beneficiaries.    
+17.5.1.  The representations, covenants, obligations, rights, and agreements of the Parties set forth in this MSA are not 
+intended for, nor shall they be for the benefit of or enforceable by, any third party or person not a Party to this MSA 
+including, without limi tation, Clients end user, suppliers and/or carrier customers.   
+17.5.2.  Under this MSA, GTT shall have no relationship with the customers to which Client may provide service.   
+17.5.3.  Client acknowledges and agrees that no fiduciary relationship arises under this MSA or any SOF and shall indemnify 
+GTT from any third -party claims.  
+17.6.  Sanctions Compliance.   
+17.6.1.  For the purposes of this Subsection 17.6, the following terms will bear the meaning below:  
+(i) Affiliate  means in relation to any person or body corporate, a person or body corporate that, directly or 
+indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, 
+the first mentioned person or body corporate;   
+(ii) Client  means, Client, including any officer, director, employee , successor and/or Affiliate of Client;  
+(iii) Restrictive Sanctions  means applicable measures, resolutions, laws, rules, regulations, and executive 
+orders adopted by the United Nations or implemented by the European Union, a European Union Member 
+State (" Mem ber State "), the United Kingdom, or the United States, including laws, regulations, and 
+Executive Orders administered or enforced by the U.S. Department of Treasurys Office of Foreign Assets 
+Control ( OFAC ) or the U.S. Department of Commerces Bureau of Industry and Security ( BIS);  
+(iv) Relevant End -use" means military use; use in connection with chemical, biological or nuclear weapons 
+or other nuclear explosive devices or the development, production, maintenance or storage of missiles 
+capable of deliveri ng such weapons; or use in connection with Iran's enrichment -related, reprocessing, or 
+heavy water -related activities.  
+17.6.2.  Client warrants and represents to GTT that:  
+(i) Client shall not, and shall not permit any third parties to, directly or indirectly, export, reexport, or release 
+any products (including any software, documentation, and any related technical data included with, or 
+contained in, such products, and any pro ducts utilizing any such products, software, documentation, or 
+technical data), goods, works, or services provided by GTT to any jurisdiction or country to which, or any 
+party to whom, the export, reexport, or release of any such goods, works or services i s prohibited by 
+applicable federal or foreign law, regulation, or rule, including Restrictive Sanctions;  
+(ii) the performance of Clients duties under this MSA will not result in any funds, economic resources, 
+products, goods, works, services, or wider benefi ts being made available, directly or indirectly, to any 
+individual, entity, or body designated under Restrictive Sanctions measures adopted by the United Nations 
+or implemented by the European Union, a Member State, United Kingdom, or the United States, or  any 
+party acting on behalf or at the direction of such an individual, entity, or body; and  
+(iii) Client will not sell, export, transfer, re -export, or re -transfer any products, goods, works, or services provided 
+by GTT which may be intended for a Relevant End -use unless prior authorization by a competent authority 
+has been granted.   
+17.6.3.  For the avoidance of doubt, and notwithstanding any other provision in this MSA, Client shall not, and shall not permit 
+any third parties to, directly or indirectly, export, reex port, or release any products, goods, works, or services provided 
+by GTT to Iran, including any person or entity located in Iran or owned or controlled by any person or entity located 
+in Iran.   
+Proprietary and Confidential  11 GTT MSA Americas v.1 Dec. 2022  17.6.4.  Cooperation with compliance: Where GTT is required by a compe tent authority to provide records and/or information, 
+Client upon request by GTT, shall promptly provide GTT with all information, pertaining to the particular end Clients, 
+the particular destinations, and the particular end use of the goods, works and ser vices provided by GTT.   
+17.6.5.  GTT shall be entitled to terminate this MSA and or any and all SOFs, in whole or in part thereunder with immediate 
+effect by giving notice in writing to Client in the event that Client breaches this Subsection 17.6 directly or indi rectly, 
+otherwise affect the ability of the Parties to perform their duties.   
+17.7.  Headings; Interpretation.   The headings used in this MSA are for convenience only and do not in any way limit or otherwise affect 
+the meaning of any terms of this MSA.  This MS A shall be construed fairly according to its terms, without regard to the drafter of 
+any provision hereof.  
+17.8.  Acceptable Use and GTT Corporate Policies.   
+17.8.1.  Client and its end users and customers shall comply with the AUP in its use of the Service(s).  Client shall indemnify, 
+defend, and hold harmless GTT from any losses, damages, costs or expenses resulting from any third -party claim or 
+allegation arising out of any alleged or actual violation of the AUP.   
+17.8.2.  The Parties acknowledge that GTT has GTT Code of Business Conduct and Ethics, Privacy Policy and a broad range 
+of corporate policies and procedures, which may be located on the companys website.  The Parties acknowledge 
+that GTT is to follow its Code of Conduct and other GTT corporate po lices and regulations.  
+17.9.  Notices.   Any notice given or made pursuant to this MSA will be effective if in writing and delivered by overnight courier, first class  
+or certified mail, or electronic delivery (email) and delivered at the address provided above, w ith regard to Client and below, with 
+regard to GTT, or such other address as may be furnished by either Party to the other.  
+GTT 
+7900 Tysons One Place, Suite 1450  
+McLean, VA  22102  
+Attn: General Counsel  
+Email: legal@gtt .net 
+17.10.  Entire Agreement .   
+17.10.1.  All Services are subject to the terms and conditions of this MSA, GTTs operational and service schedules, guides 
+and service level agreement(s) applicable to the specific Service (collectively a  Service Schedule ), the SOF, the 
+AUP, and any statement of work or other written instrument (collectively a  SOW ) between the Parties that applies 
+to Services.   
+17.10.2.  GTT will provide Client with the Services as described on any SOF issued pursuant to this MSA, which constitute the 
+entire agreement between the Parties with respect to the subject matter hereof and supersedes any and all prior 
+offers, communications, representations, understandings, and agreements, whether verbal or written, made between 
+the Parties.  GTT shall not be bound  by any provision in any purchase order, confirmation, correspondence or other 
+communication from Client which is at variance with, in addition to, seeks to define or clarify, and/or conflicts with any 
+provision of this MSA, SOW, a Service Schedule, or any  SOF, unless such variance, addition, definition/clarification, 
+or conflict is specifically identified in a written agreement signed by Client and GTT which expressly references the 
+appropriate provision of this MSA, a SOW, a Service Schedule, and/or a SOF , as applicable.   
+17.10.3.  The order of precedence in interpretation shall be: (i) any SOF; (ii) a SOW; (iii) a Service Schedule; ( iv) AUP and then 
+(v) this MSA.   
+17.11.  Signatures; Counterparts .   
+17.11.1.  Any SOF is signed by Client only.   
+17.11.2.  This MSA and any SOW may be executed in one or more counterparts, whether by original, electronic signature, 
+photocopy or facsimile, each of which shall constitute an original, but all of which shall constitute one and the same 
+instrument.  
+17.12.  Independent Contractors.   Except as specifi cally and expressly provided herein, the Parties shall be considered independent 
+contractors for the purposes of this MSA.  Except as specifically and expressly provided herein, the relationship between GTT  and 
+Client shall not be that of partners, agents,  fiduciaries or joint venturers for one another, and nothing in this MSA shall be deemed 
+to constitute a partnership, agency agreement, or joint venture between the Parties for any purpose whatsoever.     
+Proprietary and Confidential  12 GTT MSA Americas v.1 Dec. 2022  17.13.  Survival .  Provisions contained in this MSA that by their sense and context are intended to survive completion, performance, 
+termination, suspension, cancellation, or expiration of this MSA (including, but not limited to, the NDA terms and conditions  
+incorporated herein by reference) shall survive.  
+IN WITNESS WHEREOF , the Parties hereto have executed this MSA.  
+Agreed to and Accepted:  
+ Agreed to and Accepted:  
+GTT 
+ CLIENT  
+Signature:  
+ Signature:  
+Name:        
+ Name:        
+Title:       
+ Title:       
+Date:       
+ Date:       
+Paul Finkbeiner (Sep 18, 2023 07:55 EDT)Paul Finkbeiner 
+Sep 18, 2023
+Paul Finkbeiner
+Vice President, IT
+GTT - Concentra Secondary Project - Colorado
+Springs CO MSA
+Final Audit Report 2023-09-18
+Created: 2023-09-15
+By: Tonya Farling (tfarling@selectmedical.com)
+Status: Signed
+Transaction ID: CBJCHBCAABAARRfvCcEwhcGZ__spaQMjNlRg-XeKJK0d
+"GTT - Concentra Secondary Project - Colorado Springs CO MS
+A" History
+Document created by Tonya Farling (tfarling@selectmedical.com)
+2023-09-15 - 3:20:51 PM GMT- IP address: 204.90.98.254
+Document emailed to Paul Finkbeiner (pfinkbeiner@selectmedical.com) for signature
+2023-09-15 - 3:22:44 PM GMT
+Email viewed by Paul Finkbeiner (pfinkbeiner@selectmedical.com)
+2023-09-16 - 1:42:03 AM GMT- IP address: 172.226.87.103
+Document e-signed by Paul Finkbeiner (pfinkbeiner@selectmedical.com)
+Signature Date: 2023-09-18 - 11:55:53 AM GMT - Time Source: server- IP address: 204.90.98.254
+Agreement completed.
+2023-09-18 - 11:55:53 AM GMT

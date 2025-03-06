@@ -1,0 +1,104 @@
+IP Address Request Form
+Customer or Licensee Information
+Request Date: 
+Technical Contact Email: 
+Phone Number: Licensee Name: 
+Technical Contact: 
+Title: 
+Licensee Address: 
+ARIN ORG I
+D: 
+DDoS Defense Contact InformationARIN  Tech. Handle: 
+Secondary Contact
+Full Name: Full Name: 
+Phone Number: Phone Number: 
+Email Address: Email Address: 
+Instructions
+Crown Castle IPv4 Address Policy
+IP Address Space Requested
+IPv4 Addresses Requested:
+Please Note: Any prefix /28 and larger will be statically routed over a directly connected /30 or /31
+Cidr Size
+/24
+/25/26/27/28/29
+/30
+Advertising IP Blocks not assigned by Crown CastleCompany conforms to the North American IP Registry (ARIN) policies regarding IP address assignments. As part of its standard delivery process, 
+Company will only assign the amount of IP addresses that Licensee can sufficiently justify with this form for use on Licensee's local area network (LAN).  
+Company reserves the right to perform network scans across Licensee's allocations to verify compliance.  IP addresses assigned to the Licensee by Company are in conjunction with Licensee's Product hereunder.  Upon termination of the Product, the assigned IP addresses must be returned to the Company.  Company reserves the right to recall, without any liability to the Licensee, any public space not used in the fashion herein delineated.  If you have any additional questions about the IP assignment policy or process, then please review ARINs Address Assignment Policy and Procedures which 
+can be found at https://www.arin.net/policy/nrpm.html.
+Licensee MUST use 25% of the IP addresses requested on the day of installation, with a one-week grace period to cover equipment problems.
+Licensee MUST use 50% of assigned addresses within six (6) months, or the addresses will be withdrawn.
+Licensee MUST use 80% aggregate of assigned addresses before Company will issue any additional addresses.  Proof of 80% aggregate utilization with 
+detailed host break down or IP SWIP of existing space is required with the new request.
+Company will provide a maximum of one /24 equivalent space which can be discontiguous. Company will 
+only provide a contiguous /24 subnet to multi-home with BGP under ARIN NRPM 2017.4 Section 4.2.3.6, Company must be the primary connection, and as such must have no AS-Path padding or local preference setting that would prefer another path. Licensee must also have its secondary provider confirm that they are providing Licensee with service and that the respective secondary provider is not providing Licensee with routable space, only link or WAN addresses. Licensee must work with ARIN directly for any requirements not otherwise stated herein.  
+255.255.255.224
+6
+IPv6 Addresses Requested: Licensee may request a /48 for each site in its network, and any sites that will be operational within twelve 
+(12) months. A site is a discrete location that is part of a Licensee's network. A campus with multiplebuildings may be considered as one or multiple sites, based on the implementation of its networkinfrastructure. For a campus to be considered as multiple sites, Licensee must submit reasonably detailedtechnical documentation to the Company describing how the network infrastructure is implemented in amanner equivalent to multiple sites.255.255.255.252*1(1 of 2 IP addresses is allocated 
+to Company WAN Router)30
+255.255.255.240 14
+255.255.255.248255.255.255.0 254
+255.255.255.128 126
+255.255.255.192 62
+Licensee shall provide Letter(s) of Authorization (each an "LOA")  as required by the Company, in its sole 
+discretion, for any IP blocks to be advertised through the Company Network.  Licensee acknowledges and agrees that the Licensee may be required to submit multiple LOAs in the event such IP block was not allocated or assigned directly to the Licensee.  Each LOA shall be on the respective entity's company 
+letterhead providing such authorization. Company will withdraw advertisements for IP allocations revoked by the assigned owner of the respective IP block.This form must be completed by the Licensee so that the Company can properly configure and activate the Product(s) hereunder.  Please note that a new form must be completed by the Licensee and submitted to the Company each time the Licensee requests any modifications to IP address allocations, DDoS Defense, and/or BGP peering.Please provide two (2) contacts in your organization who can be reached 24 hours a day, 7 days a week, 365 days a year.
+Primary Contact
+Subnet Mask Number of usable IPv4 
+Crown Castle IP Request Form v1.1 1 of 2(*To be completed if ordering DDoS Defense)
+Chardan Capital Markets LLC
+0726/2023
+Kate Wainwright 
+ kwainwright@forgeos.co
+17 State St, 21st Floor, New York, NY 10004
+NA
+NA
+NA
+NA
+NA
+NA
+Current IP Address Allocation and Usage (List both IPv4 and IPv6 address space in use in Licensee's network from all sources)
+Date Assigned %  in U se Being renumbered to Crown Castle?
+The WAN IP Block is  for the connection from 
+Licensee's  router to the Company router
+The LAN IP Block for Licensees network  will either be statically 
+routed to the WAN IP or announced by Licensee via BGP.
+The WAN IP Block is  for the c onnection from y our router to 
+the Company  router
+The LAN IP Block for Licensees network  will either be statically 
+routed to the WAN IP or announced by Licensee via BGP.
+IP Addresses Required
+Name Title
+Licensee Signature DateIPv6 - LAN IP Block Size:
+Licensee represents and warrants that the above information is true and correct. Licensee agrees and understands that Internet Protocol Version 4 
+(IPv4)
+ address space 
+is limited and that users of the Internet are responsible for conserving address space and ensuring that address space is utilized 
+efficiently. Licensee acknowledges and agrees t
+hat the Company reserves the right, without any liability to the Licensee, to recall any address space 
+allocated to the Licensee not used after the initial six (6) months of the applicable term for the respective Product(s) hereunder. Routes to be Advertised to Crown Castle 
+Additional RemarksBased on the LAN IPv4 block selected above, please provide IP Justification for the amount of IPs that are being requested.  
+This is required for IPv4 requests larger than the default /30 allocation.IPv4 - WAN IP Block Size:
+IPv6 - WAN IP Block Size:IPv4 - LAN IP Block Size:IP Request InformationPlease complete the form below
+Please review the IP Address LOA Policy above.Network
+MD5 Key (Plain text) if Desired:Assigned B y
+Requested Advertisement:For Private BGP Peering, please write in Private in the AS Number Line. Licensee will only be able to peer with the Company under Private 
+BGP Peering. A Private AS number will be provided.
+AS Number:
+If Multihomed, please list AS's  you are 
+connected to:BGP Request InformationDescription (Routers, Firewalls, Servers, etc. Including host counts in each)
+Crown Castle IP  Request Form revised March 2020 2 of 2Block Size Route Type Description
+Direct
+Direct
+Please Select
+Please Select
+Please Select
+Please Select
+/29
+Router/ Firewall
+Please Select
+Please Select
+/29 (5 usable IPs for customer)
+CTO Adriaan Klaassen
+7/28/2023

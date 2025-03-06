@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Managed Services Agreement",
+  "Agreement Classification": "Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc.",
+  "Party1 Role": "Provider",
+  "Party2 Name": "THI of South Carolina at Greenville, LLC",
+  "Party2 Role": "Client",
+  "Effective Date": "February 27, 2018",
+  "Signature Date": "March 5, 2018",
+  "Term": "60 months",
+  "Renewal Term": "60 months",
+  "Recurring Monthly Charges": "$675",
+  "Nonrecurring Charges": "$4,197",
+  "Services": "Grandstream Telephone System, Ten4PBX Hosted Solutions, Sierra Wireless Fixed Cellular, Site Services Administration",
+  "Locations": "1700 Union Avenue, Suite B, Baltimore, MD 21211; 920 Ridgebrook Road, Greenville, SC 29601",
+  "Payment Terms": "Monthly invoicing, due on the first day of each month",
+  "effective_date": "02/27/2018",
+  "signature_date": "03/05/2018"
+}

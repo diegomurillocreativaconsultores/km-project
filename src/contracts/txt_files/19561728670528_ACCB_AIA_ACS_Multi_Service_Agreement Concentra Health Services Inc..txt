@@ -1,0 +1,177 @@
+ACC Business and Customer Proprietary           ACC Business  MSA UA  III 05/01/2024    ACC BUSINESS MULTI -SERVICE AGREEMENT  ACC Business  MA Reference No . 
+Customer  AT&T Enterprises, LLC  d/b/a ACC Business  
+    ACC Business  
+Customer Contact (for notices)  ACC Business Contact (for notices)  
+This ACC Business Multi -Service Agreement between the customer named above (Customer) and AT&T Enterprises, LLC . doing business as (d/b/a) 
+ACC Business  (ACC Business)  (each a Party)  is effective when signed by both P arties  (Effective Date) . 
+This ACC Business Multi -Service Agreement consists of the attached provisions, and the AT&T Business Services Agreement, including definitions, locat ed 
+at https://www.corp.att.com/agreement/  (BSA) (collectively the attached provisions and BSA constitute the MSA). In order for Customer to purchase 
+ACC Business Services, the Parties must execute an applicable pricing schedule, referencing this MSA, reflecting the Services , the pricing and t he pricing 
+schedule term (Pricing Schedule).  Collectively the MSA, Pricing Schedule and applicable Service Publications constitute th e Agreement for those 
+Services. A Service Publication includes Tariffs, Guidebooks, and Service Guides located at http://serviceguidenew.att.com , which reflect the product 
+descriptions, rates, terms and conditions applicable to a particular Service.  Services are further subject to the AT&T Accep table Use Policy located at 
+www.att.com/aup  (AUP).  Service Publications and the AUP may be amended by AT&T or ACC Business from time to time without notice to Custome r.  
+The order of priority of the documents that form the Agreement is: the applicable Pricing Schedule or order; the MSA; the AUP ; and then Service Publications; 
+provided, however, if applicable laws or regulations of a jurisdiction prohibits contractual modification of Tariff terms, th e Tariff will prevail.  In the event of a 
+conflict within the MSA between the attached provisions a nd the BSA, the attached provisions take precedence.  For purposes of this MSA the arbitration 
+provisions of the BSA are replaced entirely with and superseded by the following:  
+ARBITRATION:  ALL CLAIMS AND DISPUTES ARISING FROM THIS AGREEMENT SHALL BE SETTLED BY BINDING ARBITRATION ADMINISTERED 
+BY THE AMERICAN ARBITRATION ASSOCIATION UNDER ITS COMMERCIAL ARBITRATION RULES (SUBJECT TO THE REQUIREMENTS OF THE 
+FEDERAL ARBITRATION ACT). ANY JUDGM ENT ON ANY AWARD RENDERED MAY BE ENTERED AND ENFORCED IN A COURT HAVING 
+JURISDICTION. THE ARBITRATOR SHALL NOT HAVE THE AUTHORITY TO AWARD ANY DAMAGES DISCLAIMED BY THIS AGREEMENT OR IN 
+EXCESS OF THE LIABILITY LIMITATIONS IN THIS AGREEMENT, SHALL NOT HAVE THE AUTHORITY TO ORDER PRE -HEARING DEPOSITIONS 
+OR DOCUMENT DISCOVERY, BUT MAY COMPEL ATTENDANCE OF WITNESSES AND PRODUCTION OF DOCUMENTS AT THE HEARING. THE 
+PARTIES WAIVE ANY RIGHT TO TRIAL BY JURY AND WAIVE ANY RIGHT TO PARTICIPATE IN OR INITIATE CLASS AC TIONS; IF THE PARTIES 
+CANNOT WAIVE THESE RIGHTS, THIS ENTIRE PARAGRAPH IS VOID.  
+AGREED:  Custome r AGREED:  AT&T Enterprises, LLC  d/b/a ACC Business  
+By: 
+(by its authorized representation)  By: 
+(by its authorized representation)  
+Name:  
+(Typed or Printed Name) Name:   
+(Typed or Printed Name)  
+Title:  Title: 
+Date: Date: 
+Street Address: 400 West Avenue  
+City: Rochester   State/Province: NY  
+Zip Code: 14611    Country: USAName: Paul Finkbeiner
+T
+itle: VP of IT
+S
+treet Address: 15814 Midway Road
+Ci
+ty: Addison State/Province: TX
+Z
+ip Code: 75001 Country: US
+T
+elephone: 410-464-8900
+F
+ax:
+Email: carrierorders@selectmedical.comConce
+ntra Health Services Inc.
+Street Address: 21515 Soledad Canyon Road, Suite 101
+Ci
+ty: Santa Clarita State/Province: CA
+Z
+ip Code: 91350  Country: US
+Docusign Envelope ID: 81FB5A59-DE2C-4580-ABB2-9CF0522B8BF1
+10/11/2024Christina Mote
+Service Integration Coordinator
+      ACC Business and Customer Proprietary     ACC Business  MSA UA  III 05/01/2024  Services : Service or Services means all products and services 
+(including wireless, if applicable) ACC Business provides Customer 
+pursuant to this Agreement.  
+ Execution by Affiliate s: An A CC Business  or Customer Affiliate may 
+sign a Pricing Schedule in its own name .  Such Affiliate contract will be a 
+separate but associated contract incorporating the terms of this 
+Agreement.  Customer and A CC Business  will caus e respective Affiliates 
+to comply with any such separate , associated contract (s). An Affiliate of 
+a party is an entity that controls, is controlled by or is under common 
+control with such party.  
+ License and Other Terms : Software, Purchased Equipment and Third -
+Party Services (a service provided directly to Customer by a third party 
+under a separate agreement between Customer and the third party) may 
+be provided subject to the terms of a separate license or other agreement  
+between Customer and either the licensor, the third-party service provider 
+or the manufacturer. Customers execution of the Pricing Schedule for or 
+placement of an Order for Software, Purchased Equipment or Third -Party 
+Services i s Customers agreement to comply with such separate 
+agreement.  Unless a Service Publication specifies otherwise, ACC 
+Business sole responsibility with respect to Third -Party Services is to 
+place Customers orders for Third -Party Services, except that AT&T  or 
+ACC Business  may invoice and collect payment from Customer for the 
+Third -Party Services.  
+ Pricing and Pricing Schedule Term; Terms Applicable After End of 
+Pricing Schedule Term : Prices listed in a Pricing Schedule are stabilized 
+until the end of the Pricing Schedule Term, including applicable 
+extensions, (Pricing Schedule Term) and apply in lieu of corresponding 
+prices in the applicable Service Publication. No promotion s, credit s, 
+discount s or waiver s set forth in a Service Publi cation a pply. At the end 
+of the Pricing Schedule  Term, Customer may continue Service (subject 
+to any applicable no tice or other requirements in a Service Publication for 
+Customer to terminate  a Service Component) on a month -to-month basis 
+at the prices, terms and conditions in effect on the last day of the  Pricing 
+Schedule Term. ACC Business may change such prices, terms or 
+conditions on 30 days prior notice to Customer.  
+MARC : Minimum Annual Revenue Commitment (MARC) is an annual 
+revenue commitment set forth in a Pricing Schedule that Customer agrees 
+to satisfy during each 12 -month period of the Pricing Schedule Term. If 
+Customer fails to satisfy the MARC for any such period , Customer agrees 
+to pay a shortfall charge equal to the difference between the MARC and 
+the total of the applicable MARC -Eligible Charges, as defined in the 
+applicable Pricing Schedule, incurred during such period, and ACC 
+Business may withhold contra ctual credits until Customer pays the 
+shortfall charge.  
+Termination and Termination Charges : Either party may terminate for 
+material breach upon thirty (30) days prior written notice to the other party. 
+If a Service or Service Component is terminated by Customer for 
+convenience or by ACC Business for cause prior to Cutover, Customer 
+(i)agrees to pay any pre -Cutover termination or cancellation charges set
+out in a Pricing Schedule or Service Publication,  or (ii) in the absence of
+such specified charges, agrees to reimburse ACC Business for time and
+materials incurred prior to the effective date  of termination, plus any third -
+party charges resulting from the termination.  If a Service or Service
+Component is terminated by Customer for convenience or by ACC
+Business  for cause after Cutover, Customer agrees to pay applicable
+termination charges as follows: (i)  50% of any unpaid recurring charges for
+the terminated Service or Service Component attributable to the unexpired
+portion of an applicable Minimum Payment Perio d (as defined in applicable
+Pricing Schedule); (ii)  if termination occurs before the  end of an applicable
+Minimum Retention Period (as defined in applicable Pricing Schedule),
+any associated credits or waived or unpaid non -recurring charges; and (iii)any charges incurred by ACC Business  from a third -party ( i.e., not an 
+AT&T Affiliate) due to the termination. The charges set forth in  (i) and (ii) 
+do not apply if a terminated Service Component is replaced with an 
+upgraded Service Component at the same Site, but only if the Minimum 
+Payment Period or Minimum Retention Period, as applicable, ( the 
+Minimum Period) and associated charge for the replacement Service 
+Component are equal to or greater than the corresponding Minimum 
+Period and associated charge for the terminated Service Component, 
+respectively, and if the upgrade is not restricted i n the applicable Service 
+Publication.  In addition, if Customer terminates a Pricing Schedule that has 
+a MARC, Customer agrees to pay an amount equal to 50% of the 
+unsatisfied MARC for the balance of the Pricing Schedule Term.  
+Billing and Disputes : If Customer does not dispute a charge in writing 
+within 6 months after the invoice date, Customer waives the right to 
+dispute.  ACC Business must issue a bill within six (6) months after 
+charges are incurred (other than for automated or live operated assisted 
+calls) or it waives the charges.   
+At Customers request, but subject to ACC Business consent (which may 
+not be unreasonably withheld or withdrawn), Customers Affiliates may be 
+invoiced separately, and ACC Business will accept payment from such 
+Affiliates. Customer will be responsible for payment if Customers Affiliates 
+do not pay charges in accordance with this Agreement.  
+Purchased Equipment : Except as specified in a Service Publication or 
+Pricing Schedule, title to and risk of loss of equipment ACC Business sells 
+Customer (Purchased Equipment) pass to Customer on delivery to the 
+transport carrier for shipment to Customers designated locati on.  AT&T or 
+ACC Business retains a purchase money security interest in all Purchased 
+Equipment until Customer pays for it in full; Customer appoints AT&T or 
+ACC Business as Customers agent to sign and file a financing statement 
+to per fect AT&T s and ACC Business' security interest. All Purchased 
+Equipment is provided on an AS IS basis, except that AT&T or ACC 
+Business passes through to Customer any warranties available from its 
+suppliers, to the extent that AT&T or ACC Business is permitted to do so 
+under its contracts with those suppliers.  
+Privacy : Each party is responsible for complying with the privacy laws 
+applicable to its business. AT&T and ACC Business shall require its 
+personnel, agents and contractors around the world who process 
+Customer personal data to protect such information in accorda nce with the 
+data protection laws and regulations applicable to AT&Ts and ACC 
+Business business. If Customer does not want AT&T or ACC Business to 
+comprehend Customer data to which it may have access in performing 
+Services, Customer must encrypt such dat a to be unintelligible. Customer 
+is responsible for obtaining consent from and giving notice to its users, 
+employees and agents regarding Customers and AT&Ts and ACC 
+Business collection and use of the User, employee or agent information in 
+connection wi th a Service. Customer agrees to make accessible or provide 
+Customer personal data to AT&T or ACC Business only if it has legal 
+authority to do so.  
+Trademarks and Publicity : Neither party will  display or use the other 
+partys trade names, logos, trademarks, service marks or other indicia of 
+origin, or issue public statements about this agreement or the Services, 
+without the other partys prior written consent.  
+Governing Law : Unless a regulatory agency with jurisdiction over the 
+applicable Service applies a different law, this Agreement is governed by 
+the law of the State of New York, without regard to its conflict of law 
+principles.  The United Nations Convention on Contracts for International 
+Sale of Goods will not apply.  
+Docusign Envelope ID: 81FB5A59-DE2C-4580-ABB2-9CF0522B8BF1

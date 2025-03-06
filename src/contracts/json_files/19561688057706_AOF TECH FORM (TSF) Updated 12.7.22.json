@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "DIA Order Agreement",
+  "Agreement Classification": "Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Frontier Communications Parent, Inc.",
+  "Party1 Role": "Provider",
+  "Party2 Name": "Not specified.",
+  "Party2 Role": "Customer",
+  "Effective Date": "Not specified.",
+  "Signature Date": "Not specified.",
+  "Term": "Not specified.",
+  "Renewal Term": "Not specified.",
+  "Recurring Monthly Charges": "Not specified.",
+  "Nonrecurring Charges": "Not specified.",
+  "Services": "SIP Services, DIA Orders, EPL/EVPL/ELAN Orders",
+  "Locations": "Not specified.",
+  "Payment Terms": "Not specified.",
+  "effective_date": "Not specified",
+  "signature_date": "06/15/2023"
+}

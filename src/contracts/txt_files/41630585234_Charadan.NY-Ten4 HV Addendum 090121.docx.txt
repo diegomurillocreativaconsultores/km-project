@@ -1,0 +1,63 @@
+Hosted Voice Addendum     
+1700 Union Avenue, Suite B • Baltimore , MD 21211  • 410-464-8900 • www.te n4.us 
+Customer Legal Name :  Chardan Capital  Markets, LLC   
+Service Location Address :  17 State Street, New York, NY 10004   
+Billing Contact :  (on file)   
+Sales Representative :  Mary Suranofsky   
+Service Term  
+The Service Term for this Add -On is co -terminus with the original Hosted Voice  Agreement  (for the CT location)  signed by Customer 
+on 08/18/2020  (Original Agreement) and any  recurring fees described herein will be added to current  monthly  invoicing  to 
+Customer.  Billing for the additional services shall commence on the earlier of: (i) use of the Service by customer or (ii) five (5) day s 
+after delivery of the service to the Customer's service address.  
+Auto Renewal : Followi ng the Initial Servi ce Term, this  Agreement  shall renew automatically on a month -to-month basis upon the same 
+terms and conditions, and either party may terminate at any time with sixty (60) days written notice.  
+Coverage  & Cost  
+Services : During the Service Term, Ten4 agrees to provide the following additional hosted voice equipment and services at the stated 
+rates , for each site listed herein, and as may be amended hereafter in writing. Charges listed may not include taxes, fees, or regu latory 
+surcharges that may be assessed on the Services (Taxes), and Customer will be responsible for all such Taxes.  
+MONTHLY RECURRING CHARGES (MRC)  
+QUANTITY  DESCRIPTION  MONTHLY  EXTENDED  
+56 Business Pro Seat w/phone  $28.95  $1,621.20  
+3 Snom C620 Conference Phone – Upcharge  $11.47  $34.41  
+53 Yealink T57W w/pow er supply – Upcharge  $4.56  $241.68  
+3 Voicemail Transcription  $3.50  $10.50  
+1 Edgemarc C2E Licensing & Monitoring  $39.95  $39.95  
+100 Domestic Telephone Number (DID)  $0.75  $75.00  
+1 Domestic Toll-Free Number  $2.95  $2.95  
+1 Edgemarc 2900a (C2E)  $10.00  $10.00  
+3 Netgear 24 -Port PoE Switch  $12.83  $38.49  
+1 APC Battery Backup (425)  $1.95  $1.95  
+MRC SUBTOTAL  $2,076.13  
+ Pricing Excludes Taxes & Shipping   
+NON -RECURRING CHARGES (NRC)  
+QUANTITY  DESCRIPTION  PRICE  EXTENDED  
+1 On-Site Installation (full day)  $1,020.00  $1,020.00  
+101 Phone Number LP and/or Toll -Free RESPORG  $5.00  $505.00  
+1 SBC Remote Setup and Configuration  $637.50  $637.50  
+NRC SUBTOTAL  $2,162.50  
+ Pricing Excludes Taxes & Shipping    
+MRC: Customer  agrees to  pay Two Thousand Seventy -Six Dollars  and Thirteen Cents  ($2,076 .13) per month  for a Term 
+of thirty -six (36) months , invoiced to  Customer  on a monthly basis .    
+NRC:  Customer  agrees to pay a  one-time fee  of Two Thousand One Hundred Sixty -Two Dollars  and Fifty Cents  
+($2,162 .50) in advance, at the time this Agreement is signed.     
+Payment Method (choose one):  
+AUTO  PAYMENT  OPTION    STANDARD PAYMENT OPTION   
+Our team will contact you  with instructions for providing   Please check here to pay your monthly invoices via check.   
+secure  credit card or ACH payment information.   
+Customer will pay all Charges as set forth in this Agreement. Ten4 invoices are payable at the beginning of each monthly billing cycle  
+and are due net thirty (30) days from the date of the invoice.  Services may be suspended if payment is not received within thirty (30) 
+days following date due.  
+ - PROPRIETARY &  CONFIDENTIAL  - Ten4  • Page 2  
+Terms & Conditions  
+The undersigned acknowledges they have received, read, a ccepted, and agree to the Ten4 terms of s ervice and conditions 
+incorporated in the following links. www.ten4.us/hvtc ; www.ten4.us/e911 ; www.ten4.us/hvsla . 
+These terms and conditions only apply to Ten4 branded and billed services. Other managed services mentioned in this proposal 
+may have their own MRC or NRC costs and require their own contracts and terms.  
+Acceptance   
+Ten4  and Customer  have caused this Agreement to be executed below by their duly authorized signatories .  
+Customer:  Chardan Capital Markets, LLC  Distributed Computing, Inc. dba Ten4  
+By:   Adriaan Klaassen   By: Deanna Kelly  
+Title:  Chief Technology Officer   Title:  Vice President  
+Date:    Date:  
+9/1/2021
+ 9/1/2021

@@ -1,0 +1,180 @@
+Education Affiliates_100M Upgrade_AOW ADI_PS160 1 of 3
+ACC PS160 ACC SSE OTIS 170907
+For Administrative Use Only
+Master Agreement #: 3021407UA
+SECTION 1.  ACC BUSINESS REPRESENTATION
+Channel / Retention Manager A0000804
+Matthew Ellison          Associate Solution Provider Channel ID # EL004274
+Solution Provider Order Contact Additional Solution Provider Order Contact
+Liz Villar
+Solution Provider Order Contact Email Address Additional Solution Provider Order Contact Email
+lvillar@ten4.us 
+Additional Solution Provider Order Contact Phone #
+SECTION 2.  ACCOUNT INFORMATION (All fields required)
+I.  Company Name II.  Billing Company Name
+Company 5026 Campbell Blvd Billing       1 1700 Union Ave
+ Street Suite D Street        2 Suite B
+City State Zip Code City State Zip Code
+MD 21236 Baltimore MD 21211
+Contact Person Billing Contact Person
+Joe Marino Kelly Hiser
+Contact Email Address Billing Contact Email Address
+jharris@ten4.us carrierbills@ten4.us
+Phone # Billing Contact Phone #
+SECTION 3.  ADI SERVICE LOCATION INFORMATION FOR SINGLE LOCATION
+Demarc Company Name
+LCON Mobile Phone # 
+Street Demarc
+Primary Technical Customer Contact Name (required)
+Jeannine Harris
+Primary Technical Customer Contact Phone # (required)
+(410) 464-8931
+City State Zip Code Primary Technical Customer Contact Email Address (required)
+Mobile Al 36608 jharris@ten4.us
+Remarks:  
+Is this site a Carrier Hotel/Data Center?  NO If yes, who owns the Carrier Hotel/Data Center? 
+LSO NPA-NXX (INTERNAL USE ONLY)
+SECTION 4A.  ACCOUNT DETAIL INFORMATION
+New Account: NO Existing Account: YES Account Number: 1216488
+SECTION 4B.  BILLING OPTIONS
+STANDARD BILLING   (Single Account Billing) YES
+Billing Option: 
+†Charges marked by † are not stabilized for the Term, are illustrative to reflect the current Service Guide rates and will 
+vary in accordance with the corresponding charges set forth in the Service Guide.Standard - Single Location Billing (default)1st flr data room Room & Floor 
+CORPORATE BILLING†:   $6.50/mo. Administrative Fee† NO 
+Dedicated Analog Phone # (required for Included CPE)
+No Toll Free (251) 344-1203Active phone number at Demarc location (required)
+plus  $3.00/mo. each service location†Upgrade from 50m to 100M Plus, Co-termMatt Frank 
+LCON Phone #  (required) (410) 464-8931
+LCON Email Address 
+(required) jharris@ten4.usSolution Provider Channel ID #
+(410) 464-8918
+Alt LCON Phone #(required) (856) 505-4891
+ALT LCON Email Address 
+(required) mfrank@ten4.us
+ALT LCON Mobile Phone # AT&T DEDICATED INTERNET SERVICE PRICING SCHEDULE
+Education Affiliates Fortis College - Mobile
+Nottingham
+(410) 464-8931
+Telephone # of nearest neighbor/business
+7033 Airport BlvdFortis College
+On-Site Local Contact 
+Name (LCON) (required) Jeannine HarrisAlt LCON Contact Name 
+(required)(410) 464-8900Solution Provider Order Contact Phone #
+ACC Price Schedule 160 ACC Business and Customer Proprietary Updated 2/17/2020
+Education Affiliates_100M Upgrade_AOW ADI_PS160 2 of 3
+SECTION 4C.  ORDER TYPE
+Is this Order replacing or changing an existing ACC circuit? * Yes
+*If yes, list existing circuit ID and details directly below (note: for multi-location orders, enter details for each site on ADIMultiloc sheet) 
+Existing ACC circuit IDs (required):  Reason for replacement or change (Move, Upgrade/ Downgrade, Tech Migration, etc.):  
+BBEC533740ATI UPGRADE to 100M Plus, Co-term
+SECTION 5A.  PRICING SCHEDULE TERM AND PROMOTIONS
+Term:  Existing (Existing Customers Only) Promo Code(s): 
+ Other:
+SECTION 5B.  SERVICE CHARGES & RATE PLANS          (will be totaled for multiple locations)
+Applicable supporting documentation ( printout, quote letter and ICB) must be attached
+PORT SPEEDMonthly Port 
+Charges Total Number Monthly Port 
+Charges CPE Option/Install Charge 
+and Other Charges 
+allSelected
+and Other Charges Totals for a Single Location 
+Multi Locations Single Location
+Full T1 SELECT
+Fractional + Full T3 SELECT
+Ethernet 100 Mbps1 $264
+SELECT
+Hi-Cap Incr Charge/mbps
+Installation 
+Charges Amount Waived
+Total  Port Charges Single Location: 1 $264 $1,500 $1,500
+Monthly Circuit 
+Charges all  Multi 
+Locations Total Number 
+SelectedMonthly Charge 
+Per Circuit Single 
+LocationInstallation 
+Charges                
+(Renewals=$0          
+Prov. Order 
+=charges) Amount Waived
+Location
+SECTION 5C.  OPTIONAL SERVICES & CHARGES - SINGLE LOCATION
+* SELECT
+SELECT (additional Primary DNS is $100/month per 15 domains)
+SELECT (additional Secondary DNS is $100/month per 15 domains)
+COS (Class of Service) Monthly Charges One-Time Install Charges (Waived)
+COS (NxT1 ports require MLPPP) SELECT $0
+PNT (Private Network Transport) Monthly Charges One-Time Install Charges (Waived)
+PNT (NxT1 ports require MLPPP) SELECT $0
+Quantity Monthly Charges
+Type? SELECT 0 $0
+SELECT $0
+SELECT $0
+Single Location Optional Services Totals: 0 $0 $0
+SECTION 5D.  ONE-TIME MOVE CHARGES - SINGLE LOCATION
+One-Time Move Charge
+Move Charges T1, NxT1, fractional T3, T3 & OCX. SELECTSELECT ONE
+Redundant CPE (Cold Standby)?
+$0IPv6/Dual Stack requested
+Domain Name used for service:  (additional domains identified during 
+technical interview)
+Primary.     # of domains ( up to 15 included  per ADI port ): 
+Secondary. # of domains ( up to 15 included  per ADI port ): 
+One-Time Install Charges
+Choke Router/Outbound Load Balancing?Total  Local Access Charges Single $0 1 $604 $0 $0Ethernet Interface100 Base TX 
+ElectricalEthernetCircuit SpeedTotal Service 
+(default)1 $604100 MbpsLOCAL ACCESSHi-Cap Ethernet MBC  (if 
+applicable) SELECT ONESELECT ONE
+Included CPE, Tele-Install $1,500 
+(waived)  Onsite required for over 
+100MbpsUpgrade Port & Access Order Type
+128K-NxT1 (25 miles  from PoP in the 48 states)
+128K-NxT1 (On-Net, Hawaii or 
+26+ miles from PoP in the 48 
+states)SELECT(No Tele-Install over 100Mbps)
+ACC Price Schedule 160 ACC Business and Customer Proprietary Updated 2/17/2020
+Education Affiliates_100M Upgrade_AOW ADI_PS160 3 of 3
+SECTION 5E.  TOTAL ALL CHARGES BILLED WAIVED
+Total Single Location Monthly Port, Local Access, and Optional Service Charges: $868
+Total Single Location Non Recurring Port, Local Access, Optional Service, and Move Charges: $0 $1,500
+SECTION 5F.  MINIMUM PAYMENT AND MINIMUM RETENTION PERIOD
+             Minimum Payment Period  
+50%
+The minimum retention period is 12 months for all service components
+SECTION 6.  TERMINATION
+SECTION 7.  TAX EXEMPT INFORMATION
+  Tax Exempt: Certifications for all jurisdictions that apply must                        Federal NO
+  be attached: Applicable taxes will be applied to all invoices State NO
+County NO
+City NO
+SIGNATURE BELOW BY YOUR AUTHORIZED REPRESENTATIVE IS CUSTOMERS CONSENT TO THE
+TERMS AND CONDITIONS OF THIS PRICING SCHEDULE
+Customer acknowledges that the terms and conditions set forth in this ADI Pricing Schedule (Pricing Schedule) apply to
+Service for the duration of the Service Period.  Additional terms, conditions and charges can be viewed on the AT&T 
+Service Guide (Service Guide) located at 
+http://serviceguidenew.att.com/
+Customer further acknowledges that it must comply with the terms of the Acceptable Use Policy located at 
+http://www.att.com/aup/
+When service is ordered for multiple locations of a Corporate Billed account the rates in the ADI Multi Location Worksheet apply.
+NOTE:  AT&T Dedicated Internet as sold by ACC Business (ADI) (formerly known as ACC Business Managed Internet Service (MIS))
+Customer ACC Business
+Name (Printed) Name (Printed)
+Signature By (x) Signature By (x)
+Date Date
+Company Company ACC Business
+Title Title Contract Specialist IT DirectorTermination Charges in the event that ACC Business exercises its right of termination under this paragraph.   
+  until supporting tax exempt documentation is provided. 
+Joe Marino
+EDUCATION AFFILIATES INC2)       the same services provided by ACC Business having a new revenue commitment equal to or greater than the remaining revenue
+             commitment of this Pricing Schedule.
+necessary for ACC Business to provide the Service hereunder and (ii) Customer does not execute and return an AT&T Special 
+Construction Pricing Schedule within the time period designated by ACC Business.  ACC Business may also terminate this Pricing
+Schedule in the event that Customer orders On-Net access and no capacity is available.  Customer will not incur anyThe Customer may terminate service without incurring Termination Charges prior to the end of the service term, provided the Customer 
+is current in payment to ACC Business for services provided and replaces this Pricing Schedule with either:
+1)       other domestic and/or international telecommunications services provided by ACC Business  having a  new revenue commitment
+             equal to or greater than the revenue commitment set forth in this Pricing Schedule; or 
+Additionally, ACC Business may terminate this Pricing Schedule in the event that (i) AT&T determines that Special Construction is Portion of Monthly Service Fees Applicable to Service Components Minimum Payment Period
+All Service components Until end of Pricing Schedule Term, but not less than 12
+months per component (from original activation date)
+ACC Price Schedule 160 ACC Business and Customer Proprietary Updated 2/17/2020

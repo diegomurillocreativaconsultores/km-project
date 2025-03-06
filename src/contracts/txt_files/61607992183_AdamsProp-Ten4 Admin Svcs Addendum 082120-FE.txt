@@ -1,0 +1,138 @@
+Administration Services Addendum
+Customer Legal Name: Adams Property Group
+Billing Address: P.O. Box 20850, Charleston, SC 29413
+Billing Contact and e-mail Address: Shawana Blackstone, sblackstone@adamspropgroup.com
+Service Location Addresses: (see Exhibit B)
+As of the date this Administration Services Addendum is signed by Customer (Effective Date), Ten4 and Customer enter into this Agreement
+and, in addition to the terms herein, agree to be bound by Ten4s Standard Terms and Conditions, which can be found at
+www.ten4.us/standardTC and which are incorporated herein and constitute partof this Agreement.
+1. Service Term
+The Service Term for these Managed Services is thixtyesix (36) months, unless otherwise stated in writing.
+Auto Renewal: Following the Initial Service Term, this Agreement shall renew automatically on a month-to-month basis upon the same terms
+and conditions, and either party either party may terminate at any time with sixty (60) days written notice.
+2. Coverage & Charges
+During the Service Term, Ten4 agrees to provide the following components, for sites listed herein:
+BILLING AGGREGATION (Exhibit A)
+NOC SERVICES (Exhibit A)
+Coverage shall be during the business day (8am-5pm, EST/EDT), five days per week (Monday-Friday), excluding major holidays.
+In addition to the terms and conditions in the MSA and listed herein, CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE BOUND
+BY THE UNDERLYING SERVICE PROVIDER CONTRACTS. If primary connectivity such as Fiber, Cable or POTS is not included in this
+Agreement, it MUST be obtained separately.
+Billing for Services shall commence when this Agreement is signed by Customer and shall continue on a monthly basis for the Term of Service.
+3. Payments yell) MothS 6)
+MRC: Customer agrees to pay Four Hundred Fifty Dollars ($450.00) per month for a Term of thirty-eh-{36}—rrenths, invoiced
+to Customer on a monthly basis, which shall become due and payable on the first day of each month. Sie
+NRC: --NONE--
+Invoices are payable monthly in advance at the beginning of each month, unless otherwise specified in writing, and are due net thirty (30) days
+from the date of the invoice. Services may be suspended if payment is not received within thirty (30) days following date due.
+Ten4 may, during the Service Term and upon notice to Customer, pass-through to Customer any increase in Costs if Ten4s underlying third
+party network or service providers (Underlying Service Providers) increase their charges to Ten4. If Customer's equipment is lost or stolen
+during the Service Term, Customer will be responsible for the replacement fee.
+If Customer disputes any portion of an invoice relating to Ten4 Charges, Customer will notify Ten4 of the dispute within fifteen (15) days of the
+date of the invoice and will include with such notice all applicable documentation supporting Customer's dispute. The parties will each designate
+an authorized representative to discuss the dispute in good faith, such discussion to occur within five (5) business days of the date of Customer's
+dispute notice. To the extent the dispute is resolved in Customer's favor, Ten4 will credit the applicable amount on Customer's next invoice; and
+to the extent the dispute is resolved in favor of Ten4, Customer will deliver payment of the disputed amount (together with applicable interest)
+within five (5) business days of the resolution decision.
+If Customer disputes any portion of an invoice relating to Underlying Service Provider charges, Customer will notify Ten4 of the dispute within
+fifteen (15) days of the date of the invoice and will include with such notice all applicable documentation supporting Customer's dispute. Ten4
+will communicate the disputed amount/s and forward all submitted documentation to the Underlying Service Provider within a reasonable time
+but Ten4 cannot and will not guarantee the nature or timeliness of a response by the Underlying Service Provider.
+If Customer does not dispute an invoice within the timeframes and otherwise in accordance with this subsection, the invoice will be payable in
+full and Customer will be deemed to have waived any right to dispute the invoice.
+4. Customer Obligations
+Customer agrees to provide Ten4 all necessary access to Customer's physical and network infrastructure, in order that service may be performed
+as set forth herein. In the event that said access is not provided as requested, Customer is aware that monitoring and trouble ticketing may be
+jeopardized.
+At the termination of this Agreement, the Customer shall, within thirty (30) days of said termination, return all rented equipment to Ten4
+undamaged and in good working order. Customer shall deinstall and ship the equipment using a shipping label provided by Ten4. Ten4 shall
+use reasonable discretion in determining the condition of the equipment upon its return. It is also agreed that the failure of the Customer to return
+any equipment, either within thirty (30) days of the termination of this Agreement or in a condition reasonably determined to be undamaged and
+in good working order, shall make the Customer liable to Ten4 in the amount of One Thousand Dollars ($1,000) as liquidated damages.
+1700 Union Avenue, Suite B ° Baltimore, MD 21211 © 410-464-8900 « www.ten4.us
+Ten4 and Customer have caused this Agreement to be executed below by their duly authorized signatories.
+Custo! Adams Property Group Distributed Computing, Inc. dba Ten4
+as
+BY? By: Deanna R. Kel
+Title: Are, B l cclech< Title: Vice President
+Vley 08/21/2020
+~ PROPRIETARY & CONFIDENTIAL -
+Tend « Page 2
+EXHIBIT A
+Services Administration Options
+Monthly Recurring Charges (MRC)
+Qty Description
+15__| Ten4 Billing Aggregation, per circuit per site
+15 __| Ten4 NOC Services, per circuit
+BILLING AGGREGATION SERVICES
+During the Service Term, Ten4 agrees to provide aggregate billing of Customer's broadband network as listed herein, and as may be
+amended hereafter in writing. Ten4 agrees to provide the following Services:
+e — Aggregate billing in a single invoice
+e« — Payment of known bills to service providers
+° Monthly billing analysis
+e — Access to account information via Ten4 Portal
+Ten4 will not increase any specified rates during the Service Term but may, upon notice to Customer, adjust any such rates to Ten4s then-
+standard rate following the expiration of the Initial Service Term. Ten4 may, during the Service Term and upon notice to Customer, pass-
+through to Customer any increase in Costs if Ten4s underlying third party network or service providers (Underlying Providers) increase their
+charges to Ten4.
+Billing Aggregation invoices are payable monthly in advance at the beginning of each month. All Ten4 invoices are due net fifteen (15) days
+from the date of the invoice. In the event a Billing Aggregation site is migrated on a date that is not the first day of the month, fees shall be pro-
+rated for the month of migration and invoiced in the next subsequent full month. Amounts not paid when due (total Ten4 invoice, including all
+Service Provider and Ten4 charges) may accrue interest at a rate of 1.5% per month or the highest amount permitted by applicable law,
+whichever is less.
+NOC SERVICES
+During the Service Term, Ten4 agrees to provide help desk services relating to Customer's broadband network as listed herein, and as may
+be amended hereafter in writing. Ten4 agrees to provide the following Services:
+Extended helpdesk network/WAN support, including trouble ticket creation and resolution with underlying providers
+Coverage period: 12 x 6 (8am — 8pm, Mon — Sat, EST/EDT)
+Thirty (30) minute response time during coverage period
+Access to service inventory at each location on NOC Services SOF, via Ten4 Portal
+Reporting with metrics (calls/emails received, tickets opened, sites affected, tickets resolved, response times)
+Cancellation of existing services upon request
+ec cec eee
+After-hours coverage for interruption of Provider Services and/or connectivity issues is provided at an additional expense.
+If new broadband services are being ordered, Customer agrees to execute the referenced connectivity order/s with underlying carrier/s OR
+Customer will execute a Letter of Authorization ("LOA"), allowing Ten4 to purchase connectivity services for this site as agreed to by the
+Parties and described herein above.
+It is agreed that the Customer end user will call Ten4s help desk with any network issue, or via other mutually agreed upon method. Ten4 -
+shall promptly contact carrier for carrier-related issues but Ten4 is not responsible for any delay that is caused solely by the carrier in resolving
+such carrier-related issues.
+INITIAL >
+- PROPRIETARY & CONFIDENTIAL - Ten4 * Page 3
+SENnOnaPron >a
+oy Ge ee ce oe
+ARON AS
+AIKEN:
+ASHEVILLE:
+AUGUSTA:
+BONAIRE:
+EVANS:
+GRANITEVILLE:
+GREENWOOD:
+JACKSONVILLE:
+NOBT KISSIMMEE:
+. OAKBROOK:
+. OCEAN ISLE:
+. SENECA:
+ST. MATTHEWS RD:
+. WANDO:
+. WESTMINSTER:
+EXHIBIT B
+Service Location Addresses
+670 E Pine Log Road, Aiken, SC 29803
+1402 Brevard Road, Asheville, NC 28806
+159 Cooper Drive, Augusta, GA 30907
+128 Highway 96, Bonaire, GA 31005
+4731 Washington Road, Evans, GA 30809
+4731 Washington Road, Evans, GA 30809
+2077 Calhoun Road, Greenwood, SC 29649
+5751 Beach Blvd., Jacksonville, FL 32207
+2965 N Orange Blossom Trail, Kissimmee, FL 34744
+760 Travelers Blvd., Summerville, SC 29485
+6606 Ocean Highway West, Ocean Isle Beach, NC 28469
+365 Keowee School Road, Seneca, SC 29672
+1758 St. Matthews Road, Orangeburg, SC 29118
+1176 Clements Ferry Road, Wando, SC 29492
+2254 Sandifer Blvd., Westminster, SC 29693
+wna
+- PROPRIETARY & CONFIDENTIAL - Tend * Page 4

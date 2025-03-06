@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Sales Authorization and CPNI Consent Form",
+  "Agreement Classification": "Addendum to Services Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "Accent Dermatology & Aluria Medical Spa",
+  "Party2 Role": "customer",
+  "Effective Date": "July 1, 2020",
+  "Signature Date": "Not specified",
+  "Term": "five (5) years",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "$931.50",
+  "Nonrecurring Charges": "$5,698.60",
+  "Services": "Hosted Voice Services, VoIP services, equipment and features including Unlimited Inbound/Outbound Calling, IP Phone license, Voicemail to Email, Auto Attendant, Hunt Group, Music on Hold",
+  "Locations": "Suite A, Medford, NJ 08055; 1700 Union Avenue, Suite B, Baltimore, MD 21211",
+  "Payment Terms": "Monthly recurring charges due on the first day of each month; Nonrecurring charges due at the time of signing",
+  "effective_date": "7/8/2020",
+  "signature_date": "Not specified"
+}

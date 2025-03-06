@@ -1,0 +1,199 @@
+ADDENDUM to Master Services Agreement GZ | 
+Billing Address: 4
+Billing Contact and e-mail Address; Kathy Super / $$
+Service Locabon Address: 4101 Yura Street NW Washington DC 20018
+Asofthe _ dayof » 2020 (Ettective Date"), Tend and Customer enter into this Addendum to the Master Services Agrooment
+(*MSA"), Ths Addendum s mtended to be used in conjunction with the MSA, which includes the standard terms and conditions, ang any
+consttule part of ths Addendum.
+Customer Legal Name nae ee ee ee ee ee
+ANDI Yura Street NV Washington,DC 20018
+1. Service Term
+The Sersce Term for Mutiple Seevices is thirty-six (36) months, invoiced ta Customer on a monthly basis, Giling for the services shall
+commence on the earier of 0) Use of the Service by customer or (ii) five (5) days ater delivery of the service to the Customer's service
+address.
+Auto Renewal: Folowing the Intial Service Term, the SOF shal renew autematically on a month-to-month basis upon the same lerms and
+Conditions, and either party either party may terminate at any tine with sixty (60) days written notice
+2. Coverage & Cost
+Services: Ouring the Service Term, Tent agrees to provide the folowing multisle Service components, for sites Listed in the SOF. which are
+listed below:
+HOSTED VOICE & FAX SOLUTIONS (Exhibit A)
+SERVICES ADMINISTRATION OPTIONS (NOC. BRLING AGGREGATION PROJECT GAT) (Exhibit B)
+In addition to the terms and conditions in the MSA and listed herein, CUSTOMER EXPRESSLY ANO EXPLICITLY AGREES TO BE BOUND
+BY THE UNDERLYING SERVICE PROVIDER CONTRACTS. IT primary connectwty such as Fiber, Cable or POTS is not incuded in thes
+Agreement, it MUST be cbtained separately
+3. Charges and Payments
+MRC. Customer agrees to pay Two Hundred Seventy Dollars ($279.00) par month for a Term of thirty-six (26) months, invoiced
+$2 Customer on a monthly basis, which shall become due and payable on the first day of each month.
+NRC: Customer agrees to pay a one-time fee of Seven Hundred Ninety-Five Dollars ($795.00) in advance, at the time this Agrooment is
+signed
+Invoices are payable monthly in advance at the beginning of each month, except where Othersise specified herein. All Ten4 invoces are due
+nel minty (30) days from the date of the invoce, Arounis net paid when due (tatal Teng invoice, including all Undertying Service Provider and
+Ten4 charges) may accrve interest at a rate of 1 5% per month or the highest amount permitted by applicable law, whichever is less.
+Charges may not include taxes, fees, USF charges or regulatory surcharges at may be assessed on the Services (Tares"), and Custoner
+will be respons®le for all such Taxes Services may be suspended ¢ MAC payment is not recelved within thrty (30) days following Gate due
+Ten4 may, during the Service Term and upon notice to Custorner, pass-through to Customer any increase in Costs # Ten4's undertying third
+Party Network oF service providers (Underying Service Providers) increase their charges to Ten4 If Custorners equipment is lost of stolen
+during the Service Term, Custorner will be responsible for the replacement fee.
+t Customer desputes any porton of an invoice retating ta Tend Changes, Customer will notify Tend of the Gspute within fifteen (15) days of the
+Gate of the invoice and will include wth such notce all applicable documentaton supporting Customer's dispute. The parties will each designate
+an authorized representative to discuss the dispute in good faith, Such discussion to occur within five (5) Dusiness days of the Cate of Customer's
+if Custoener disputes any portion of an invcice Felating to Undertying Service Provider charges, Customer will fotify Ter of the dispute within
+Mfleen (15) days of te Gate of the invoice and wil inctuce with such notice all applicable documentation supporting Customer's dspute. Tent
+will Communicate tye disputed amounts and forward all submitied documentation to the Undenying Service Provider within a reasonable time
+but Ter cannot and will not Quarantee the nature or timeliness of a response by the Undertying Service Provider.
+K Customer does not dispute an invcice witin the timeframes and otherwise in accomdance with ths subsection, the invoice wil be payable in
+ful and Customer will be Geemed to have waived any right to dispute the invoice
+4. Customer Obligations
+Customer agrees to fully complete al reasonably requested forms which may be needed to provide the Services, incuding but not limted to
+Service Order Forms, Letters of Agency, Provider Contracts and others. Ten4 shal tollow its standard and customary procedures in
+Processing SOFs under this Addendum. Services may be provided by Ten4 through one or more of its affiliates.
+Customer agrees to provide Ten all necessary access to Customer's physical and network infrastructure, 1 order Chat service may ba
+pertormed a3 sel forth herein in Me event that sald access is rat provied as requested, Customer is aware that monitoring and trouble
+ticketing may be jeopardized.
+5. Termination
+Termination Fee Cause. Exner party may immecately terminate a SOF by written notice # tha other party breaches a provision of this
+Addendum of the Master Services Agreement and the breaching party Goes not cure such breech after written notice ard a five (5) day cure
+Period in the event of any felure to pay an atnount due hereunder, of a thirty (30) day cure pericd in the event of any other breach.
+if Ten4 Terminates for Cause, Ten4 wil have ra further Nability of obigabon under this Addendum and accompanying SOF.
+Eary Termination Fee If Custoener terminates ary Services price to the expiration of the Service Term, Customer shall pay Ten4 an Early
+Termnaton Fee equal to the MRC of the initial contract value bmes the number of months remaining under contract for that site. In no event
+shall Customer be entitled to any refund Of akeady paid charges if the SOF, Addendurn of MSA, Of any Porton therectf, is terninated.
+Ifa phone system opton s taken and this Agreement is lerminated for convenience within ninety (90) days from the phone system installabor,
+Customer has tha opton to return the equipment to Ten undamaged and in good working order. Ten shall then reimburse Customer fifty
+Hercent (50%) of re NRC paid to Tens,
+Al the termination of this Agreement, the Customer shall, within thirty (30) days of said termination, return af rented equipment to Tend
+undamaged and in good working order. Customer shal denstat and shp the equipment using a shipping label provded by Tend. Tend shall
+use reascnable Gscretion in determining the condition of the equipment upon its return. It is also agreed thal the falure of the Custorrer to return
+any equipment, either within tirty (30) days of the termination of thes Agreement or in a condition reasonably determined to be undamaged and
+in good working order, shall make the Customer liable to Ten in tha aenount of One Thousand Dollars ($1,000) as liquidated camages
+Ten4 and Customer have caused tis Addendum to be executed below by thelr duly authonzed signatories.
+Customer; Yuma Center Distributed Computing, inc. dba Tend
+By: Deanna R. Kelly ,
+—
+Toe Fxcecvbhe. Tite: Vice President
+EXHIBIT A
+Hosted Voice Solutions
+Monthly Recurring Charges (MRC-1)
+SIP Trunk Bundle (Small) - Incudes up to 5x Enhances SIP Trunks, up to 10x O'Ds, 1n E911 fee,
+urimited local and domestic (US and Can). long distance calling in accortanca with Ten4's AUP,
+Standard SIP Trunk, Unlimited - includes Unilimtec domastic (US and Can) termination (oul-bourd),
+unlimied inbound (nom toll-free) and 1xTN, Additional on-demand (burstabla) SIP Trunks biled at $38.95
+Path per month.
+Managed Edgemarc 2900a - A managed scalable VPNiroule thal supports dual Ethemet WAN and 4.
+managed VLAN, includes 2 FXO ports and 6 FXS ports. Licensed for up 10 300 concurrent WAN VoIP calls
+Includes C2E subscription and monitoring
+Non-Recurring Charges
+On-ste Setup 4 instatation
+Local Number Porting (on-boarding)
+Remote Setup & Canfiguraton of Ecgemarc Device
+~ All Pricing Exciudes Taxes --
+E911 NOTICE
+Customer understands and accepts the requirements and lrnitations Provided in the E911 document, which are incorporated herein and
+Constitute part of this Addendum.
+SERVICE LEVEL AGREEMENT
+For al Customer sites tat complete a SOF with Gesignated Hosted Voce SLA equipment, Tené shall warrant the following levels of Service
+on tha network when installed by Tend or an authorized technician
+4. General Standard. Ten wil use reasonable etorts under the circumstances to mantan its averal network Quality. The quality of
+Séfvice provided hereunder shall ba consistent wth other common Carrier industry standards. government regulations and sound business
+dractices.
+©. Interruptions in Service. Interruptions in service, which are not due to Customer's negligence or non-compliance with the
+Provisions of the Agreement (including al Addendums, SOFs aid other relevant documents attacted Mereto}, or the operation or malfunction
+of faciities, power, of equipenent prowided by Customer, wil Oe Credited to Custoner as set forth below for the part of the service that the
+interrupton affects. A credit allowance wil be made when an interrupton occurs because of a lature of any component furnished by Tent
+Under this Agreement.
+c. Credit for interruptions An lerruption period begins when Customer reports a service, factity, of cirouit to be interrupted through
+the opening of @ trouble ticket ard makes it available tor testing and repair. An interruption period ends when the service, facility, Of Greuit &
+Operative, It Customer reports a service, facility. or circuit to be inoperative but declines to make it available for lesting and reper, it is
+consdered to be impaired, U4 not interrupted.
+i For calculating credit alowances, every mantn Is considered to have 30 days. A credit slowance is applied on a pro rata basis
+against te monthly recurring charges for the affected service and is dependent upon the length of the interruption Only those factities on the
+interrupted portion of the circuit will receive a credit. No credit will be Gven on the usage-sensitive porton af the sevice
+LI A crect allowance wil be given for interruptions of 30 minutes or more, upon weritten request of the customer no later than ten
+(10) Dusiness days after the occurrence of the Cutage to Customer's Tend Account Manager. Cred allowances wil be calculated as folows.
+i. If the Interruption continues tor less than 24 hours
+fa) 130th of the monthiy recurring charge if its the first interrupton in the same biling period
+{b) 230th of the monthiy recurring charge if there was a previous interruption of at least 24 hours in the same billing period
+tv, Ifthe interruption contnwes for more than 24 hours, 120th of the monthly recurring charge for the first 24 hours and 2/J0ths of
+such rate for each additonal 24 hours (or fraction thereo!), however, if service is interrupted for over 24 hours more than cace in the same
+billing penod, the 2/30ths allowance applies to the first 24 hours of the SOCONG and subsequent interruptions.
+¥ Two of more interruptons of 30 minutes of more during any one 24-hour period shal be considered as ON@ interrupbon.
+GC. Maximum Credit. Cred#ts attroutabie to any biting period for interruptions of sensce shall not exceed the total monthly recurring
+Charges for that penod for the service and facilities furnished by Ten4 rendered useless or Substantially impaired. The credits set forth in this
+SLA shall ba Ten4s sole llabilty and Custorrer's sole remedy in the event of any interruption. Uniess otherwise Specficaly provided in this
+Agreement, under no orcumstances shall an interruption be Geened a breach of the Agreement
+¢. Interruption™ Defined. For the purpose of applying this provision, the word interruption (whether capitalized or not) shal mean a
+complete loss of service resulting in the inability to complete calls (either incoming oF cutpoing of both) due to equipment mattunction or
+human errors for a continuous period of more than thity (30) minutes. Interruption* does net include, avd no allowance shall be gven tor,
+semice Oficulties such a3 slow cial tone. circuits busy of cther network andior Switching capacity shortages. Nor shal the Wlerrupbor
+alowance apply where service is interrupted by the Negligence or willful act of Customer or where Ten4, Pursuant to the terms of the
+Agfeement, suspends of terminates service because of Nonpayment of bills due to Tend, unlawful or improper use of the facilities of service,
+Of any other reason cowered by the Agreenent. No allowance shal be mace for interruptons dus to electric power failure where. by the
+Prowsions of this Agreement, Customer is fesponsible for providing electric power.
+{ Limitations on Credit Allowances. No credit allowance will be made for:
+i Interruptions arising from the acts or omissions of, of fon-complance with, the provisions of this Agreement or any schedule or
+exhibit thereto by Customer or any authorited user, Of any interruptions due to any party other than Ten4 or for events happening on any other
+to, the service of Ten or to Ten4s facilities;
+li. Interruptions due ta the failure or malfunction of non-Ten4 equipment. including service connected ta Customer-provided
+electric power,
+We Interruptions of service durng any perod in which Ten4 is not Qiven full and free access to its facilities and equoment for tha
+Purposa of investigating and correcting interruptions;
+Ww. Interruptions of service dunng any scheduled maintenance period of when Customer has released sensce to Tend for
+Maintenance purposes of for implementation of a Customer oeder for a Change in service arrangenents;
+Vv. Interruptions of service dus to force majeure @vents beyond the reasonable contro! of Tent.
+SERVICE DELIVERY AND ESCALATION
+a. Support Hours. Standard live support hours are Monday through Friday, San to 8pn ESTIEDT. Routine requests for changes
+(MACDs) are processed Gurng standard support hours. Emergency atter hours, weekend and holiday support available 24/7 via
+cal-back service.
+Support Contact Information:
+Phone — 885.787.6999 or 856.422.5300
+Emat-
+b. Priority Definitions and Processes.
+|. MACD: Routine request for Moves, Adds. Cranges or Deletion of configured services (none service-alecting).
+ii Low: Experiencing intermittent problems (0g. state, echo) tat Go not impact the @bdil@y to conduct business.
+fal, Medium: Sernce is impared, but Customer can stil conduct business
+lv, High: Experiencing 50% of more service Outage of one ce more locations, arcuts, of lines. This may also include intermittent
+problems that are so severe that they impact the ability to conduct business.
+Mote All HIGH service outage tickets receive immediate attenton ard follow Ups will be made every 2 hours until issue ts closed.
+Priority Target Time Escalation Guidelines
+2™ Level
+¢. Customer Support Contacts. Ten4 has technical support aveladle to assist Custoener. Customer can contact Ter4's Management
+tearn listed Delow:
+Tectineal Support 888 787 6999 suppotitend us )
+_Serior Network Engineer, Bryan Lalonde 856 422 5304 dlaloncegdtert us
+Drrectcr, Network Engineering, Tom McDonnell | 856 422.5309 tredcnrabiiien4 us
+VP Operatons. Scott Kiemm | 856 422.5302 shiemen@tend us
+DISCONNECTS
+Customer explicitly requests and Ten4 shall submit @ written request for disconnecton to Customer's current Prowder!s Upon completion of
+Porting of lines to Ten4's service at each Customer location. Customer understands and agrees that a request for cisconmect and cancelation
+does not guarantee performance of same; disconnection May be contingent upon final payment or other factors. Tend shall not ba responsiile
+for any charges resulting from Customer's current provider tailing to pertorm the requested disconnect.
+NETWORK CHANGES
+Customer understands and agrees that Ted's ablity 10 provide Services may be affected by Customer's network design and any changes to
+ts network Gasign oF security requrements may hinder or altogether pravent a Cusiorer's ste trom receiving Services Should Customer
+maike any network Gesign changes which require Tend to operate within Customer's network, Customer shall ratify Tens as scon as
+reasonably possible Tend shal make a feasonabie etfort to verity which, if any, Customer sites may be affected by ihe change and notty
+Customer within five (5) business days
+wirice ATH
+Sie
+EXHIBIT B
+Services Administration Options
+Monthly Recurring Charges (MRC-2)
+NOC SERVICES
+Dunng the Service Term, Tend agrees 10 provide help desk services relating to Customer's broadband network as Isted herein, and as may
+be amended hereafter in writing. Ten4 agrees to provide the following Services.
+Extended helpdesk networkWAN Support, including trouble bcket creation and resolution with undertying providers:
+Coverage period: 12 x 6 (Bam - Bom, Mon = Sat, ESTEDT)
+Thety (30) minute response time during coverage period
+Access to Setvice inventory at each location on NOC Services SOF, via Ten4 Postal
+Reporting with matrics (callsiemals received, tickats opened, sites aYtected, tickets resolved, response tenes)
+Cancellaton of existing services upon request
+After-hours coverage for interruption of Provider Services andior connectivity issues is provided at an additional expense.
+i new broadband services are being ordered. Customer agrees to execute the referenced connectivity order's with underying carrier's OR
+Customer will execute a Letter of Authonzation (LOA), allowing Tend to purchase connectivity sonices for ths sta as Ogteed to by he
+Parties ard described herein above.
+B's agreed that the Customer end user wil call Tend's help desk with any network issue. or via other mutualy agroed upon method Tent
+shall promplly contact carrier for carriar-related issues but Tend is not responsible for any delay that iz caused solely by the cavriar in rezalving
+SUCh carier-related issues.
+see eae
+wwirial ARN
+Sue

@@ -1,0 +1,126 @@
+This Comcast Enterprise Services Sales Order Form (Sales Order) shail be affective upon acceptance by Comeast This Sales Order is made a part of the Comcast Enterprise Services Master Services Agreement,
+entered between Comcast and the undersigned and is subject to the Product Specific Attachment for the Service(s) ordered herein, iocated at http //business comcast.comventerprise-terms-of-service/index.aspx, (the
+Agreement}. Unless otherwise indicated herein, capitalized words shall have ihe same meaning as in the Agreement.
+E911 NOTICE
+Comcast Business Class Trunking Service may have the E911 limitations specified below.
++ The National Emergency Number Association (NENA), a 911 industry organization that makes recommendaticns for standardized services relating to E911, has issued guidelines thal state The PBX owner is,
+responsible for creating customer records, preferably in NENA standard format, that identify caller focations. To facilitate Customer's compliance with these guidelines and with associated state and locat requirements
+related to provision of Automatic Location information (ALI) for E911 services, Comcast offers two options:
+a. Comcast wil send to the ALi database or Subscriber Location Database (SL.DB) the main biling lelephone number and the main address provided by Customer. or
+. Customer may choose ta sign up for up to 10 Emergency Location information Numbers (ELINs) that Customer could assign to zones within Customer's premises that woutd be separately identified to the £911
+call taker. The location information, such as a specific floor, side of a building, or other identifying information, could assist emergency responders to more quickly reach the appropriate focation. Customers solely
+responsible for programming i's PBX system to map each station to one of these numbers, and for updating the system as necessary to reflect moves or additions of stations within the premises. Comcast will send
+the assigned ELINs to the ALI or SLOB database, as is sppropriate
++ Many jurisdictions require businesses using muitiline telephone systems to program their systems to transmil specific location information for 811 calls. Customer bears sole responsibility to ensure that it identifies
+and complies with al! such requirements. in any event, if Customer does not maintain £911 records in a timely and accurate manner, the E941 call taker may not receive proper location information, and emergency
+responders may be delayed or even prevented from timely reaching the caller's location.
++ Battery Back Up - The integrated Access Device (iAD) provided by Comcasl is not equipped with battery backup. it is Customer's responsibility to ensurs adequate back-up power is provided to ensure service
+continuity during a power outage, as employees would otherwise be unable to use the Services, including diating 9-1-1, when power is unavailable.
++ Calls using the Service, including calls to 911, may not be completed if there is a problem with network facilities, inctuding network congestion, network/equipment/power failure, or another technical problem
++ Alt questions should be directed to 1-800-391-3000, E911 Service, Private Branch Exchange, and Direct inward Dial Service.
+By signing beiow, Customer acknowledges, agrees to and accepts the terms and conditions of this Sates Order
+| Signature: /ZpA i Sales Rep: Andrea Haddow-SP_
+g ART 4 f \re & ow Ske : Sales Rep E-Mail: ahaddow@telarus.com
+owercl Mawes fer i Alt Regions
+Division: Ail Divisions
+COMCAST ENTERPRISE SERVICES
+MASTER SERVICES AGREEMENT (MSA) _
+MSA Term:60 months
+CUSTOMER INFORMATION
+This Master Service Agreement ("Agreement") sets forth the terms and conditions under which Comcast Cable Communications
+Management, LLC and its operating affiliates (Comcast) will provide communications and other services (Services) to the
+above Customer. The Agreement consists of this fully executed Master Service Agreement Cover Page (Cover Page), the
+Enterprise Services General Terms and Conditions (General Terms and Conditions), any written amendments to the
+Agreement executed by both parties ("Amendments"), the Product-Specific Attachment for the applicable Services ("PSA(s)")
+and each Sales Order accepted hereunder ("Sales Orders). In the event of any inconsistency among these documents,
+precedence will be as follows: (1) this Cover Page (2) General Terms and Conditions, (3) PSA(s), , and (4) Sales Orders. This
+Agreement shall be legally binding when signed by both parties and shall continue in effect until the expiration date of any
+Service Term specified in a Sales Order referencing the Agreement, unless terminated earlier in accordance with the
+Agreement.
+MSA ID#: PA-9646867-ahadd
+Customer Name:8 & | Auto Supply inc.
+|
+The Customer referenced above may submit Sales Orders to Comcast during the Term of this Agreement ("MSA Term). After
+the expiration of the initial MSA Term, Comcast may continue to accept Sales Orders from Customer under the Agreement, or
+require the parties to execute a new MSA.
+The Agreement shall terminate in accordance with the General Terms and Conditions. The General Terms and Conditions and
+PSAs are located at http://ousiness.comcast.com/enterprise-terms-of-service/index.aspx(or any successor URL).Use of the
+Services is also subject to the High-Speed Internet for Business Acceptable Use Policy (AUP) located at
+http://business.comcast.com/customer-notifications/acceptable-use-policy (or any successor URL), and the High-Speed Internet
+for Business Privacy Policy (Privacy Policy) located at http://ousiness.comcast.com/customer-notifications/customer-privacy-
+statement (or any successor URL). Comcast may update the General Terms and Conditions, PSAs, AUP and Privacy Policy
+from time to time upon posting to the Comcast website.
+Services are only available to commercial customers in wired and serviceable areas in participating Comcast systems (and may
+not be transferred). Minimum Service Terms are required for most Services and early termination fees may apply. Service
+Terms are identified in each Sales Orders, and early termination fees are identified in the applicable Product Specific
+Attachments.
+BY SIGNING BELOW, CUSTOMER AGREES TO THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+CUSTOMER SIGNATURE (by authorized representative)
+COMCAST USE ONLY (by authorized representative)
+a
+(Comcast.
+Letter of Agency
+Piease print or type the following information. All blank spaces must be completed.
+Billing Name ("Company"): B&l Auto Supply
+(As it appears on customer's current vendor bill)
+Billing Address: 135 Commerce Drive
+City: Fort Washington State: PA Zip: 19034
+If the company is switching Its current phone number(s) to Comcast, please print the telephone number(s) and the name(s) of Company's current loca!
+phone service providers in the spaces below.
+Area code(s) and telephone number(s) Company wants switched to Comcast (you may also insert a number range, @.g., 215-555-0000 thru 215-555-
+9999):
+Telephone Number Current Local Provider
+tL
+Please read the following information:
+The undersigned is an authorized representative of Company. Company chooses Comeast for all its landline calling needs across town, across the country and
+worldwide for the telephone number(s) listed above (if applicable). Company understands that Comcast will take the place of its current landline phone service
+provider(s) for focal, focal toll, and long distance services. Company understands that, for each of these services, it may designate only one provider per service for
+any one telephone number. Company also understands that for cach of the telephone numbers listed above the service provided by Comcast includes all distances,
+which means that Company may only designate one provider for alt of its calling needs for any one telephone number.
+The wndersigneds signature on this form authorizes Comcast to act as Company's agent in making the changes from Company's current service provider(s), and to
+switch Companys telephone number(s), listed above (if applicable}, to Comcast. Company understands that its current service provider(s) may charge a fee to switch
+its service to Comcast and that Company may consult that provider as to whether a fee will apply.
+Please sign here: .
+Authorized Representative's Signature: Date: / 2 q . 1b
+Authorized Representative's Name (Print): J [] 4 wn Ac. how S$
+Authorized Representative's Title (Print): er ea, Ma. et
+<s
+COMCAST
+BUSINESS
+Responsible Organization Letter of Authorization
+As the end-user subscriber, of the authorized representative of sn end-user subscriber. of certain Toll Free service numbers {the Customer), { hereby
+authorize Cameast Phone, LLC to be the Responsible Organization (Resp Org") for the following Toll Free service numbers, including acting on my behalf, and
+Current Resp Org: Netcarrier to Resp Org ID: JTNO1
+Toll Free Number Calling Area Designation
+is Granaca— artontzan
+Gs ° esniesean
+@s Ehareaean
+(Des eases (Zraawwecan
+Bus © (rariezean
+Gs NAD. (iraripscan
+Bes D [panipoean
+(is Ganson antoean
+$ (ranana [Zkanieacan
+Ges (ranava (Zkanssean
+is Eeeuns (Zraniecean
+(es Ganson Gamsveean
+[is Granams—— anrevean
+Bes eanaa [raniaccan
+Gs Beauoa Garman
+Ss Gpruos hanecean
+fs eanaca——arusecan
+fs Graeme —aniveean
+(is Gear anrosean
+Chs (kattoa Cantecean
+Customer Name: B&! Auto Sy;
+(As it appears on customers bill copy)
+Address: 135 Commerce Drive
+City: Fort Washington State: PA Zip: 19034
+Sohn D Achowsh
+Customer Contact: Mike Biter — Phone: 215-643-9393
+Delivery Date:
+| attest under penalty of law and as an authorized employee, or an authorized representative, of the Customer that the Customer is the exclusive end-user subscriber af
+the Toll Free service numbers iisted athove Tre Customer assumes ail liability for the use (including without limitation, authorized, fraudulent or misappropriated) of traffic
+of any other end-user subscnber wi rd to the Tolt Free service numbers listed.
+Authorized Signatur Date [2-G AC
+Print Name oha DdAe howshke , i AW.

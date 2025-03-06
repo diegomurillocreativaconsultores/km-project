@@ -1,0 +1,1132 @@
+LINGO  Privileged and Confidential  
+MASTER  SERVICES AGREEMENT  
+This Master  Services Agreement (Agreement) is made as of the 1st of November  2023 , by and between:  
+(1) LINGO  TELECOM, LLC. DBA LINGO  (here inafter referred to as  LINGO  which shall be deemed to mean and include its 
+affiliates, successors and assigns), a corporation  duly organized and validly existing under the laws of the State of Texas , and having its 
+principal office at 25925 Telegraph Road, Suite 210, Southfield, MI 48033;  and  
+(2) SELECT MEDICAL CORPORATION  (hereinafter referred to as  CUSTOMER  which shall  include its subsidiaries , joint 
+ventures, partnerships, managed and contracted entities  a company having its principal office located at 4714 Gettysburg Road 
+Mechanicsburg, PA 17055.  LINGO and CUSTOMER may be referred to individually as a Party and collectively as the Parties.  
+WHEREAS  CUSTOMER  desires to have LINGO  provide, and LINGO  agrees to provide to CUSTOMER , certain services 
+described in  the attached Schedule  A, service order forms,  and in its applicable  state  tariffs ; 
+NOW THEREFORE, in consideration of the mutual covenants and conditions contained herein, the sufficiency of which is 
+hereby acknowledged, the parties agree  as follows:  
+Section 1.  The Services; Engagement of LINGO . 
+1.1 Services .  The services to be performed by LINGO  (the Services) pursuant to this Agreement shall be 
+described in the attached Schedule  A and/or future service amendments , service order forms , service schedules, service level 
+agreements, tariffs, and service responsibility agreements  which , when fully executed by both Parties,  shall thereby become incorporated 
+into and form a n integral part of this Agreement.  Unless otherwi se specified in a particular amendment  or service order form , use of 
+Services constitutes acceptance of Service . CUSTOMER  understands LINGO  will use best commercial  efforts: (a) to provide the Services 
+by the date requested, (b) to prevent service interrup tions, (c) to promptly restore the Services when service interruptions occur, and (d) 
+to ensure  the uptime and delivery of  its network and those of its underlying providers comply with industry standards.  LINGO s Service 
+Level Agreement c overing the Services is incorporated into this Agreement and attached her eto as S chedule B.  LINGO  is providing the 
+Services to CUSTOMER  from fa cilities located in the United States of America.   
+1.2 Installation .  Once LINGO  schedules installation and confirms an installation time with CUSTOMER , 
+CUSTOMER  must be present with facilities available and fully accessible , unless otherwise agreed to . If LINGO  technician arrives at the 
+location and CUSTOMER  is not present or facilities are not available or accessible or CUSTOMER  otherwise cancels or postpones 
+installation without a 24 -hour notice to LINGO , LINGO  reserves the right to assess a  CUSTOMER  Missed Call trip charge of one hundred 
+and fifty -nine dollars ($159) per missed site visit ; LINGO shall waive the first three (3) Missed Call trip charges per billing cycle.  
+CUSTOMER s first invoice from LINGO  will include a partial month of Service plus the first full month of Service billed in advance. 
+CUSTOMER s first invoice may contain charges for only a portion of the Services requested. Depending on the Service ordered and 
+locations to be served it may t ake up to three (3) billing cycles until charges for all Services requested appear on the invoice, as is industry 
+standard. After the initial billing cycles, CUSTOMER s invoice will include charges for one  (1) month of Service for all ordered Services, 
+including any usage charges. Usage based charges are billed in arrears. CUSTOMER  should expect to receive a final invoice from its 
+existing local, long distance, and/or data service provider(s) if LINGO  is replacing a previous provider. LINGO  is not responsib le for 
+contacting CUSTOMERs  prior provider(s) should it/they continue to bill CUSTOMER  for services following conversion to LINGO . All 
+LINGO  charges and savings provided in any quotation or proposal are before taxes, surcharges, assessments, or other fees  are applied.  
+1.3 Schedule  A.  All terms and conditions of Schedule A that conflict with the terms of this Agreement  shall be 
+superseded by this Agreement, unless expressly superseded . All changes to Schedule A of this Agreement must be in writing and sign ed 
+by both Parties . 
+1.4 LINGO  Equipment.  All Customer  Premises Equipment (CPE) installed by LINGO  to provide Services to 
+CUSTOMER  shall remain the sole property of LINGO , unless purchased by CUSTOMER  in a separate written Bill of Sale agreement. 
+CUSTO MER  agrees to return all such CPE to LINGO  within sixty (60) days of termination. Equipment returned after sixty (60) days will 
+not be credited toward CUSTOMER s account and CUSTOMER  shall be responsible for full replacement costs. CUSTOMER  agrees to 
+be responsible for ensuring that no liens attach to LINGO  equipment and must immediately cause any such liens to be removed at 
+CUSTOMER s expense upon request. CUSTOMER  will be always res ponsible  for the proper installation, operation,  and maintenance of 
+any equipment it provides that is used in connection with the Service. In addition, CUSTOMER  is responsible for ensuring that all such 
+equipment is technically and operationally compatible  with the Service and in compliance with the terms set forth in this Agreement and 
+all incorporated documents.  
+1.5 Maintenance .  CUSTOMER  acknowledges that from time-to-time LINGO , or its third-party  underlying 
+providers, may perform certain network and eq uipment maintenance and during these times Service may be interrupted. Services may 
+be temporarily unavailable or limited because of capacity limitations and may be temporarily interrupted because of equipment  
+modifications, upgrades, relocations, repairs,  and similar activities. To minimize impact to CUSTOMER , scheduled maintenance will be 
+performed during the non -peak hours of 11 pm to 5 am. LINGO  operates and maintains Service only up to the CUSTOMER  demarcation 
+point. LINGO  is not responsible for any ne twork elements beyond the CUSTOMER  demarcation point. If a maintenance event  is likely to  
+cause Service to be interrupted or unavailable , LINGO  will make commercially reasonable efforts to notify affected CUSTOMER s at least 
+twenty -four (24) hours prior to the interruption  but may interrupt Service . LINGO  may exercise discretion in choosing the notification 
+method and in determining if notification is needed. When notification is required,  LINGO  will identify by market where scheduled 
+maintenance will occur.  
+Section 2.  Fees.  
+2.1 Charges for Services .  All fees are invoiced and payable in U.S. dollars.  For the Services, CUSTOMER  
+shall compensate LINGO thirty (30) days subsequent to receipt of an invoice  in accordance with the rates on Schedule A . No discounts 
+apply to taxes, surcharges, assessments, or other regulatory or third -party fees (including, but not limited to, promotional credits, 
+LINGO  Privileged and Confidential  
+installation charges, nonrecurring charges, special construction , or CPE charges, passthrough charges, access and port charges, taxes, 
+municipal and franchise fees, governmental and regulatory surcharges and assessments, line recovery charges, interexchange ac cess 
+charges, or E -911 fees). Any new Services added under t he CUSTOMER account number applicable to this Agreement , following the 
+initial order , will be pursuant to  and subject to this Master Services Agreement . LINGO  reserves the right to adjust CUSTOMER  pricing 
+following delivery of notice to CUSTOMER  as require d by the applicable state public utility commission where Services are provided, or 
+with ninety  (90) days notice, whichever is greater ; however, Lingo shall provide a POTs rate guarantee for the Initial Term whereby rates 
+for AT&T service areas shall not be increased for eighteen (18) months and twelve (12) months in all other service areas. LINGO  may, 
+from time to time, provide CUSTOMER  with software or services from third party vendors (Third Party Services) that are billed to 
+CUSTOMER  as a separate li ne item from Services provided hereunder. If the price LINGO  pays for any such Third -Party Services changes 
+at any time, CUSTOMER  agrees that LINGO  may pass those price changes on to CUSTOMER  without markup . Fees and charges include, 
+but shall not be limit ed to, one -time installation charges, LEC installation charges, monthly line charges, line recovery charges, taxes, 
+assessments, surcharges, CPE charges, and any fees paid by LINGO  on CUSTOMER s behalf to register and maintain domain names 
+for CUSTOMER . In addition, if LINGO performs any On-Site repair services, LINGO will advise CUSTOMER  of the necessity prior to 
+undertaking said services. CUSTOMER  will be billed for such  services that are det ermined to be a result of a problem not resulting from 
+a LINGO  Network Outage, such as any issue caused by any element of CUSTOMER s phone systems, equipment, and networks. 
+CUSTOMER  will be billed LINGO s then -current standard rate, with a one -hour minimum  charge per call. Commencing on the Installation 
+Date (the date the Service is installed and available for CUSTOMER s use).  Notwithstanding the foregoing, LINGO acknowledges that, as 
+a condition to payment hereunder, LINGO must submit invoice(s) as require d by this Section within One Hundred Twenty (120) days 
+following completion of the applicable month  Services provided .  Failure to submit invoice(s) within such time period will result in forfeiture 
+by LINGO of its right to payment for such month(s)  of Ser vices not invoiced . 
+2.2 Payment of Invoices .  Payment Obligations: The Parties agree that LINGO  shall invoice CUSTOMER  
+monthly  for Services  commencing on the installation date (date the Services are installed and available for CUSTOMER s use) . Subject 
+to Section 2.3, all invoiced amounts, less disputed amounts, are due as above and shall be paid by CUSTOMER  in immediately available 
+U.S. funds. If any payment and/or documented dispute is not received by LINGO  within  sixty (60) calendar days  of receipt of invoice : (i) 
+CUSTOMER  shall pay a late fee in an amount equal to one and one -half percent (1.5%) of the unpaid balance on the account calculated 
+on a daily basis; (ii) LINGO  may suspend or terminate the Services. Lingo represents and warrant s that the invoice date will be the same 
+day that the invoice is emailed to the CUSTOMER .  
+2.3 Disputed Amounts .  CUSTOMER  may dispute all or any portion of an invoice by providing notice of the 
+dispute to LINGO  not more than sixty (60) days  after the invo ice date ; CUSTOMER agrees to  pay all undisputed amounts by the applicable 
+due date.  Such notice shall include all documentation reasonably necessary for LINGO  to investigate the dispute, including LINGO s 
+invoice number, the dispute period, the amount in dispute (the Disputed Amount), the Service in dispute, the reason for the dispute and 
+detailed supporting documentation, including the related LINGO s CDRs that are being disputed.  CUSTOMER 's failure to notify LINGO  
+within sixty (60) calendar days of th e invoice date shall create an irrefutable presumption of the accuracy of the charges contained in the 
+invoice and CUSTOMER  shall be barred from disputing such charges.  CUSTOMER  may deduct the Disputed Amount from the next 
+invoice received from LINGO , pen ding the dispute resolution.  If the Disputed Amount or any part thereof was not in fact due to LINGO , 
+no further action will be taken by either Party (such amount having been deducted from a prior invoice). If the Disputed Amou nt or any 
+part thereof is du e to LINGO , CUSTOMER  shall pay all such charges and the associated late fees specified in Section 2.2  above to LINGO  
+within thirty (30) days of an invoice being reissued .    
+2.4 Taxes .  The rates and charges set forth in this Agreement (including Schedule  A and any subsequent 
+service order forms ) do not include any applicable foreign, federal, state, or local taxes, surcharges, (including any state or federal universa l 
+service fund surcha rges) or similar fees (collectively, Taxes and Fees). Taxes and Fees shall be separately stated on the invoice and 
+shall be paid directly to LINGO  at the same time as all other charges due and payable in accordance with this Agreement. To request an 
+exem ption from Taxes and Fees, CUSTOMER  must complete and submit LINGO s Tax and USF Exemption Certificate Forms  prior to or 
+simultaneous with submission of the first order . CUSTOMER  also agrees to submit an amended annual exemption form as needed, and 
+as appl icable. CUSTOMER  acknowledges and agrees to pay all Taxes and Fees as set forth in each invoice. Failure to timely pay all 
+Taxes and Fees constitutes a material breach of this Agreement.  
+2.5 Credit.   By executing this Agreement, CUSTOMER  accepts LINGO s initial and continuing credit approval 
+procedures and policies, as they may be amended from time to time. LINGO  reserves the right to withhold initiation of full implementation 
+of Services under this Agreement pending initial satisfactory credit review and a pproval.  After the credit review, LINGO  may require a 
+Deposit (or an increase in a Deposit) to secure timely payment of all invoices hereunder. Upon request by LINGO , CUSTOMER  shall 
+provide financial statements or other information reasonably required for  LINGO  to evaluate the ongoing credit worthiness of CUSTOMER . 
+Section 3.  Limited Use of Intellectual Property.  
+3.1 Access .  In performing the Services, LINGO  may provide CUSTOMER  access to various intellectual 
+property (including software programs) of LINGO  and various third parties.  In all cases, CUSTOMER  is a limited user of said intellectual 
+property and has no ownership therein as described in Section 3.20.  CUSTOMER  agrees not to copy, translate, disassemble, decompile, 
+reverse engineer or create a derivative work of said intellectual property.  
+3..2 Ownership .  CUSTOMER  acknowledges that all rights, title and interest in any intellectual property 
+(including software programs) that is made available  to CUSTOMER  as part of the Services, including without limitation, all improvements 
+and derivative works of said intellectual property, are the sole property of LINGO  or its licensors.  
+Section 4.  Term.  
+This Agreement shall be effective upon the date it has been  exec uted by both Parties . CUSTOMER  agrees to 
+subscribe to the Services listed herein for  a period of three (3) years (the Initial Term, and together with all Renewal Terms (as defined 
+below), the Term) unless modified by mutual agreement of the Parties or  canceled or terminated by either Party in accordance with the 
+terms of this Agreement. The Term shall automatically be extended (each such extension, a Renewal Term) at the expiration o f the Initial 
+Term and each Renewal Term for an additional term of one (1) months unless written notice is given by either Party at least forty-five (45) 
+days before expiration of the Initial Term or the then current Renewal Term that such Party does not consent to such extension. , During 
+LINGO  Privileged and Confidential  
+the first twelve (12) months of the Initial Term the CUSTOMER shall maintain a minimum of 1,500 local Service lines within  LINGO 's 
+footprint.   In consideration for the commitment to maintain the minimum 1,500 Service lines for the first twelve (12) months, and 
+notw ithstanding any other provision of the MSA, CUSTOMER  may terminate Service lines for any reason after the first twelve (12) months 
+of Service without incurring early termination liability charges. After the first twelve (12) months of Service, Customer may  disconnect as 
+many Service  lines as they wish.   In such case, CUSTOMER  must submit forty-five (45 ) days notice to  LINGO  and reference this 
+Agreement. Should CUSTOMER  not meet the commitment above to maintain 1,500 Service lines for the first twelve (12) months, then 
+CUSTOMER  will be required to pay the Early Termination Charges listed in Section 5.5 .  
+Section 5.  Termination /Discontinuance/Suspension . 
+5.1 Termination , Discontinuance  or Suspe nsion by LINGO : LINGO  may terminate this Agreement, discontinue 
+Services and/or suspend the performance of any of its obligations hereunder and LINGO  shall have no further obligation to provide the 
+Services if:  
+a) CUSTOMER  fails to timely pay any amount in accordance with this Ag reement and fails to cure such breach within thirty 
+(30) calendar days after the receipt of written notice thereof ; or 
+b) CUSTOMER  breaches any material provision of this Agreement, other than those related to payment of charges, and fails 
+to cure such breach  within thirty (30) calendar days after the receipt of written notice thereof; or  
+c) CUSTOMER  uses the Services for any unlawful, unauthorized,  or fraudulent purpose or in any unlawful manner and fails 
+to cure such breach within thirty (30) calendar days afte r the receipt of written notice thereof; or  
+d) In the reasonable judgment of LINGO  and upon thirty (30) calendar days prior written notice, the passage or adoption of 
+any law, rule, regulation that will make it materially unable  to provide Services . 
+The effective date of any termination under this Section 5 shall be set forth in a notice of termination.  No termination or suspension of 
+Services by LINGO  relieves CUSTOMER  of its obligation to pay for Services provided prior to the effective date of ter mination or any fees 
+associated with termination prior to the end of the Term.  Notwithstanding the foregoing, if LINGO does not provide Services prepaid by 
+Customer, Lingo shall remit any pro-rata prepaid funds to Customer  by credit to the account for futu re costs or check remittance (in the 
+instance of termination) within sixty (60) days .  
+5.2 Termination by either Party : Either Party may terminate this Agreement, without notice or an opportunity to 
+cure, if:  
+a) The other Party ceases doing business as a goi ng concern, makes an  assignment for the benefit of creditors, admits in 
+writing to its inability to pay its debts as they become due; or  
+b) The other Party files a voluntary petition in bankruptcy, is adjudicated a bankrupt or an insolvent; or  
+c) The other Part y files a petition seeking for itself any reorganization, arrangement, composition, readjustment, liquidation, 
+dissolution,  or similar arrangement under any present or future voluntary petition in bankruptcy, is unable to pay its debts 
+when due, is adjudic ated as bankrupt or by statute, law or regulation or files an answer admitting the material allegations 
+of a petition filed against it in any such proceeding; or  
+d) The other Party consents or acquiesces in the appointment of a trustee, receiver, or liquidato r of it or of all or any 
+substantial part of its assets or properties, or it or its shareholders shall take any action looking to its dissolution or 
+liquidation.  
+5.3 Termination by CUSTOMER :  CUSTOMER  may terminate this Agreement and suspend the performance 
+of any of its obligations hereunder (other than for payment for Services provided prior to the effective date of termination)  if LINGO  fails to 
+perform any material obligation under this Agreement o r violates any material term or condition of this Agreement (Cause), and such 
+failure or violation is not cured within thirty (30) calendar days following receipt of a default notice from CUSTOMER .  The effective date 
+of any termination for Cause shall b e set forth in a notice of termination, which date shall be no less than  five ( 5) days after expiration of 
+the applicable cure period.  
+5.4 Survival .  The rights and obligations of the Parties as set forth in Sections 2, 3.1, 7, 8, 10, and 11 shall 
+survive expiration or termination of this Agreement for any reason , together with any other terms by their nature which need to survive .  
+Additionally, all payment obligations that accrued prior to the termination of this Agreement shall survive any termination o r expiration of 
+this Agreement.  
+5.5 Early Termination Charges .  In the event CUSTOMER does not meet the commitment in Section 4  to 
+maintain 1,500 Service lines for the first twelve (12) months, then CUSTOMER  agrees to pay LINGO early termination charges in  an 
+amount equal to all fixed recurring charges, all outstanding but unpaid non -recurring charges, any waived fees or charges, and all other 
+unpaid charges incurred during the first twelve (12) months.  
+Section 6.   Representations and Warranties.  
+6.1 Representations a nd Warranties by CUSTOMER .  CUSTOMER  represents and warrants that CUSTOMER : 
+LINGO  Privileged and Confidential  
+(a) Has full power and authority to execute, perform and undertake the obligations set forth in this Agreement and that, 
+to the best of its actual knowledge, it is not a party to any agreement, nor will it enter into any other agreement, that wou ld be breached  
+by or that would prohibit it from entering  or performing this Agreement;  
+(b) Shall obtain all applicable authorizations, notifications, filings, local corporate, governmental,  and regulatory approvals 
+necessary for CUSTOMER  to enter  and perform its obligations under this Agreement and the same are in full force and effect and shall 
+comply in all respects with all applicable local laws and regulations affecting the subject matter hereof; and  
+(c) Executing and performing the obligations of  this Agreement, to the best of its actual knowledge, will not violate or 
+conflict with any law, rule or regulation applicable to it, any provisions of its constitutional documents, any order or judg ment of any court 
+or other agency or governmental body ap plicable to it or any of its assets or any contractual restriction.  
+6.2 Representations and Warranties by LINGO .  LINGO  represents and warrants that LINGO : 
+(d) Has full power and authority to undertake the obligations set forth in this Agreement and that it is  not a party to any 
+agreement, nor will it enter into any other agreement, that would be breached by or that would prohibit it from entering into  or performing 
+this Agreement;  
+(e) Shall obtain all applicable authorizations, notifications, filings, local corpor ate, governmental,  and regulatory approvals 
+necessary for LINGO  to enter into and perform its obligations under this Agreement and the same are in full force and effect and shall 
+comply in all respects with all applicable local laws and regulations affecti ng the subject matter hereof; and  
+; 
+(f) Executing and performing the obligations of this Agreement, to the best of its actual knowledge, will not violate or 
+conflict with any law, rule or regulation applicable to it, any provisions of its constitutional docume nts, any order or judgment of any court 
+or other agency or governmental body applicable to it or any of its assets or any contractual restriction.  
+Section 7.   Limitation of Liability  and Disclaimer of Warranties . 
+7.1 Limitation of Liability.   NEITHER PARTY SHALL BE L IABLE TO THE OTHER PARTY OR ANY OTHER 
+PERSON, FIRM, ENTITY, OR THIRD PARTY IN ANY RESPECT, FOR ANY INCIDENTAL, INDIRECT, PUNITIVE, SPECIAL OR 
+CONSEQUENTIAL DAMAGES OF ANY KIND INCLUDING BUT NOT LIMITED TO, ANY LOSS OF USE, LOSS OF BUSINESS, LOSS 
+OF DATA, L OSS OF PROFITS, LOSS OF CUSTOMER S OR GOODWILL, REGARDLESS OF THE FORM OF THE ACTION, WHETHER 
+IN CONTRACT, WARRANTY, STRICT LIABILITY OR TORT, INCLUDING WITHOUT LIMITATION, NEGLIGENCE OF ANY KIND, AND 
+REGARDLESS WHETHER A PARTY WAS ADVISED, HAD REASON TO KN OW, OR IN FACT KNEW OF THE POSSIBILITY OF 
+LIABILITY. LINGO  SHALL NOT BE LIABLE FOR THE ACTS, ERRORS, OMISSIONS OR DELAYS CAUSED BY THIRD PARTY 
+VENDORS. UNLESS OTHERWISE PROVIDED FOR IN THIS AGREEMENT, ANY LINGO  LIABILITY TO CUSTOMER  FOR ANY 
+DAMAGES OF ANY KIND SHALL BE LIMITED TO AN AMOUNT NOT TO EXCEED $100,000.00  REMEDIES UNDER THIS 
+AGREEMENT ARE EXCLUSIVE AND LIMITED TO THOSE EXPRESSLY STATED IN THIS AGREEMENT.  
+7.2 Disclaimer of Warranties.  EXCEPT FOR THE WARRANTIES STATED IN THIS AGREEMENT, LINGO  
+MAKES NO REPRESENTATION OR WARRANTY, EXPRESSED OR IMPLIED, CONCERNING THE SERVICES PROVIDED 
+HEREUNDER OR DESCRIBED HEREIN. LINGO  SPECIFICALLY DISCLAIMS ANY AND ALL IMPLIED WARRANTIES,  INCLUDING 
+WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, COMPLE TENESS OR FITNESS FOR A PARTICULAR 
+PURPOSE OR USE, OR TITLE OR NON -INFRINGEMENT OF THIRD -PARTY  RIGHTS.  
+Section 8.   Indemnity.  
+8.1 Indemnification by LINGO .  LINGO  agrees to defend, indemnify,  and hold CUSTOMER  harmless from any 
+costs and liabilities of any kind (including reasonable attorneys  fees) arising out of or relating to  the gross negligence or willful misconduct 
+of LINGO , its employees, agents, contractors, or suppliers  (iii) the use by LINGO  or its ag ents/employees  of any Customer Data in violation 
+of applicable federal, state, and local laws or regulations . 
+8.2 Indemnification by CUSTOMER .  CUSTOMER  agrees to defend, indemnify and hold LINGO  harmless from 
+any costs and liabilities of any kind (includi ng reasonable attorneys fees) arising out of or relating to: (i) the use of the Services by 
+CUSTOMER  inconsistent with the terms of this Agreement, (ii) representations or warranties made by CUSTOMER with respect to the 
+Services in a manner inconsistent w ith this Agreement, (iii) any claims by an end user or any subscriber in connection with any or all 
+services or products furnished by CUSTOMER  to end users, and (iv) the use by CUSTOMER  or any end user of the Service in violation 
+of applicable federal, sta te, and local laws or regulations , including fraudulent calls . 
+Section 9.   Publicity.  
+Except as expressly permitted hereby, neither LINGO  nor CUSTOMER  shall use the name or any of the trademarks 
+of the other Party or  disclose in any of its advertising or other materials that the other Party is providing or receiving service hereunder, 
+without prior written consent from the other partys General Counsel or legal equivalent/delegated agent with actual authority .  In add ition, 
+no prior submission to or approval by either Party shall be required in connection with the disclosure of the Services provided in the 
+Agreement as required by applicable law (including, without limitation, U.S. state and federal securities laws).   
+Section 10.  Acceptable Use Policy , Tran sfer/Resale  of Services , and Fraudulent Calls . 
+10.1 Acceptable Use Policy . CUSTOMER  agrees t o abide by LINGO s Acceptable Use Policy,  which is attached 
+hereto as Sch edule C, which sets forth the guidelines for acceptable use of all products and services offered by LINGO . LINGO shall 
+advise Customer of any changes to this policy through an Amendment.   
+10.2(a)  Move or Transfer and Resale of Services . If a branch or other CUSTOMER  site relocates to another 
+location in a LINGO  market where the same Services are available, CUSTOMER  may move Services to the new location, subject to 
+payment of installation charges for the new location, if applicable; however, pricing may vary by location, an d CUSTOMER s rates may 
+LINGO  Privileged and Confidential  
+increase or decrease. Early Termination Charges listed in Section 5.5. may apply in the event CUSTOMER  moves to a location not served 
+by LINGO  or CUSTOMER  ceases to do business. Services may not be transferred or resold, and any serv ice order form entered into 
+pursuant hereto, may not be transferred or assigned, by operation of law or otherwise, without LINGO s prior written approval. Any 
+attempted assignment or transfer without LINGO s prior written approval shall be void. All Servic es provided under this Agreement are not 
+intended for resale by CUSTOMER . Should CUSTOMER  desire to resell the Services, LINGO  and CUSTOMER  shall enter into a separate 
+agreement to cover such wholesale services.  
+10.2( b) Dives ted Entity .  It is acknowledged  that CUSTOMER  may elect to sell a facility (hereinafter Divested 
+Entity) licensed under this Agreement to a yet  unidentified third -party and that CUSTOMER  may wish to continue to utilize LINGO s 
+Services at such facility to provide uninterrupted service s for such third -party.  Therefore, it is agreed that for a period of twelve (12) 
+months from the date of sale of any facility licensed under this Agreement, CUSTOMER  may utilize the LINGO  Services in order to have 
+uninterrupted Services at the location .   
+10.2( c)    Sold Entity .  It is further acknowledged that CUSTOMER  may elect to sell a facility (hereinafter Sold Entity) 
+licensed under this Agreement to a yet  unidentified third -party and that CUSTOMER  may wish  to separate the Sold Entity fr om receiving 
+Services under its Agreement.   Therefore, it is agreed that effective the first of the month following receipt of  the required  written termination 
+notification from CUSTOMER  (including via email), LINGO  shall remove Sold Entity/Entities from CUSTOMER s account and CUSTOMER  
+shall not be liable for any further License Fees for Sold Entities , except for the Early Termination Charges listed in Section 5.5 may apply.  
+10.3 Fraudulent Calls . CUSTOMER  is solely responsible for selection, implementation , and maintenance of 
+security features for protection against unauthorized calling, and LINGO  shall have no liability,  therefore. CUSTOMER  is solely responsible 
+for payment of long distance, toll  and other telecommunications charges, including but not limited to international calling charges, incurred 
+through use of the Services being provided hereunder. CUSTOMER  shall indemnify, defend,  and hold LINGO  harmless from all costs, 
+expenses, claims or actions (including reasonable attorneys fees) arising from fraudulent calls of any nature carried by means of the 
+Services . CUSTOMER  shall not be excused from paying LINGO  for Services provided to CUSTOMER  or any portion thereof on the basis 
+that any port ion of the Services related to fraud.  In the event LINGO  reasonably believes, after fully investigating the authenticity thereof, 
+that fraudulent calls are being made  from a CUSTOMER location , nothing contained herein shall prohibit LINGO  from taking imme diate 
+action, without notice to CUSTOMER , that it deems reasonably necessary to prevent such calls from taking place. Except for the foregoing, 
+CUSTOMER  acknowledges and agrees that nothing in this Agreement obligates LINGO  to investigate the authenticity of any calls charged 
+to CUSTOMER 's account and LINGO shall not be liable for any fraudulent calls processed by LINGO  and billed to CUSTOMER 's account.   
+Section 11.  Confidentiality.  
+11.1 Confidential Information .  Each Party acknowledges and agrees that it will have ac cess to information, 
+including, but not limited to, intellectual property, trade secrets, business information, ideas, expressions and this Agreem ent, which are 
+proprietary to and/or embody the substantial creative efforts of the other Party, either becaus e such information is marked or otherwise 
+identified by the disclosing Party orally or in writing as confidential or proprietary, has commercial value, or because it is not generally 
+known in the relevant trade or industry.  Such information includes, with out limitation, the specific terms of this Agreement (all such 
+information hereinafter referred to as Confidential Information).  The Parties agree that Confidential Information shall remain the sole 
+and exclusive property of the disclosing Party (Discl osing Party), and the receiving Party (Receiving Party) agrees to maintain the 
+Confidential Information in strict confidence.   
+11.2 Authorized Disclosure .  The Receiving Party agrees not to disclose or permit any other person or entity 
+access to the Co nfidential Information to the same extent that such Party protects its own Confidential Information, but in any event 
+reasonable care, except that such disclosure shall be permitted to an employee, agent, representative or independent contract or of the 
+Receiving Party requiring access to the same on a need to know basis.  Need to know means that the employee, agent, represen tative 
+or independent contractor requires the Confidential Information to perform their responsibilities in accordance with the ter ms and conditions 
+of this Agreement.  
+11.3 Restrictions .  The Receiving Party agrees that it shall: (i) not copy, translate, disassemble, decompile, 
+reverse engineer or create a derivative work from the Confidential Information, unless authorized hereunder by the Disclosing  Party; (ii) 
+not alter or remove any identification of any copyright, trademark or other proprietary rights notice which indicates the ownership of any 
+part of the Confidential Information; and (iii) notify the Disclosing Party of the circumstances surrounding any possession, use or knowledge  
+of the Confidential Information by any person or entity other than those authorized by this Agreement.   
+11.4 Exclusions . Confidential Information shall exclude any information that: (i) has been or is obtained by the 
+Receiving Party from a source independent of the Disclosing Party which has not received such information from the Disclosing Party; (ii) 
+is or becomes generally available to the public other than as a result of an unauthorized disclosure by the Receiving Party o r its personnel; 
+or (iii) is independently developed by the Receiving Party without reliance in any way on the Confidential Information provided by the 
+Disclosing Party. The Receiving Party is entitled to disclose Confidential Information if it is required to be disclosed unde r judicial order, 
+regulatory requirement, or statutory requirement, provided that the Receiving Party provides written notice and an opportunit y for the 
+Disclosing Party to take any available protective action prior to such disclosure.  
+11.5 Employees and Ind ependent Contractors .  The Parties acknowledge that certain employees or independent 
+contractors of each Party may have access to the Confidential Information of the other party.  Each Party agrees that it shall cause such 
+employees and other persons to pr otect the Confidential Information in a manner consistent with the Parties obligations set forth herein.  
+11.6 Effect of Termination .  Upon any termination or expiration of this Agreement, unless otherwise instructed 
+by the Disclosing Party, the Receiving Party shall cease using any Confidential Information of the Disclosing Party and, at the request or 
+instruction of the Disclosing Party, shall either return, delete, or overwrite any such Confidential Information then in the possession of the 
+Receiving Par ty as of the termination date within thirty (30) days following such termination date.   
+11.7 Specific Performance .  Each Party agrees that, as the damages to the other party from a breach of 
+obligations under this Section 11  are and may be impossible to determine with reasonable certainty, the non -breaching Party shall have 
+the right, in the event of a breach by the other party of its obligations unde r this Section 11 , to specific enforcement thereof.  The remedies 
+LINGO  Privileged and Confidential  
+of the non -breaching Party under this Section 11  shall be cumulative, and the right of specific performance granted hereby shall not be 
+deemed to foreclose or limit any other remedy or right of the non -breaching party under this  Agreement, at law or in equity.  
+Section 12.  Miscellaneous.  
+12.1 Force Majeure .  If either Party's performance of this Agreement or any other obligation hereunder (except 
+for any payment obligation) is prevented, restricted or interfered with by causes beyond their re asonable control including but not limited 
+to acts of God, fire, explosion, railroad disaster, vandalism, power failure, cable cut, storm, or other similar occurrence, any law, order, 
+regulation, direction, action or request of any Governmental Authority, or civil or military authority, or by national emergencies, 
+insurrections, riots, wars, strikes, lockouts or work stoppages or other labor difficulties, actions or inactions of a third party provider or 
+operator of facilities employed in the provision of t he Services, suppliers' failures, shortages, breaches, or delays, then such Party shall 
+be excused from such performance on a day -to-day basis to the extent of such prevention, restriction, or interference. Notwithstanding 
+the previous, s hould the underlyi ng carrier provide any credits, LINGO shall pass -through any credits. Such Party shall use reasonable 
+efforts under the circumstances to avoid or remove such causes of non -performance and shall proceed to perform with reasonable 
+dispatch whenever such caus es are removed or cease.  
+12.2 Relationship of the Parties .  Nothing in this Agreement shall be deemed to constitute a partnership or joint 
+venture between the parties, nor shall either Party be deemed the agent of the other.  CUSTOMER  acknowledges that LINGO  may perform 
+its obligations through its affiliates or through the use of agents, subcontractors,  or independent contractors; provided, however, that 
+LINGO  shall remain liable for the acts or omissions of its agents, subcontractors,  and independent contractors.  
+12.3  Notices .    All legal notices  (terminations, amendments & addendums except those to address pricing 
+solely, etc.)  and other communications required or permitted under this Agre ement will be in English, in writing, and wi ll be deemed to 
+have been duly given: (a) when delivered by hand ; (b) five (5) days after being sent by Registered or Certified Mail, return receipt 
+requested and postage prepaid, to the addresses in the table below  (rows 1 -2). Notices regarding operational changes (pricing, 
+invoicing, etc.) may be done via email as indicated in the table below  (rows 3 -4). 
+To Select Medical:  Select Medical Corporation  
+Attn: EVP & CIO  
+4714 Gettysburg Rd.,  
+Mechanicsburg, PA 17055  
+ LINGO:  
+ LINGO TELECOM , LLC  DBA LINGO 
+ATTN: LEGAL DEPARTMENT  
+25925  TELEGRAPH RD, SUITE 210 
+SOUTHFIELD , MI 48033  
+E-mail: contracts@lingo.com  
+With a copy to  
+(non-service):  Select Medical  Corporation  
+Attn: Sr. VP and Dpt. GC  
+4714 Gettysburg Rd.,  
+Mechanicsburg, PA 17055    
+Operational:  PFinkbeiner@selectmedical.com  & 
+RLacey@selectmedical.com  
+ Operational:  n/a 
+Invoicing:  isinvoices@selectmedical.com  Invoicing:  n/a 
+LINGO shall update their notice address within ten (10) days of change.   
+12.4 Non-Waiver .  No term or provision hereof shall be deemed waived,  or any breach ex cused, unless such 
+waiver or consent shall be in writing and signed by the Party claimed by the other to have waived or consented.  Any consent by any Party 
+to, or waiver of, a breach by the other, whether express or implied, shall not constitute a consent  to, waiver of, or excuse for any other 
+different or subsequent breach.  
+12.5 Partial Invalidity .  If any term or provision of this Agreement shall be found to be illegal or unenforceable, 
+then notwithstanding such illegality or unenforceability, this Agree ment shall remain in full force and effect and such term or provision shall 
+be deemed to be restated to reflect the original intentions of the Parties as nearly as possible in accordance with applicable law.  
+12.6 Headings .  The headings used in this Agreement are for reference purposes only and shall not be deemed 
+a part of this Agreement.  This Agreement was drafted with the joint participation of both Parties and shall be construed neither against 
+nor in favor of either,  but rather in accordance with the fair meaning thereof.  In the event of any apparent conflicts or inconsistencies 
+between this Agreement , Schedule , or Exhibit , to the extent possible such provisions shall be interpreted to make them consistent, and if 
+such is not possible, the provisions of such Schedule or Exhibit shall prevail.  
+12.7 Advice of Counse l. Each Party acknowledges that, in executing this Agreement, such Party has had the 
+opportunity to seek the advice of independent legal counsel and has read  and understood all the terms and provisions of this Agreement.  
+12.8 Entire Agreement .  This Agreement, Schedule s, and Exhibit s hereto, all of which are incorporated by this 
+reference, constitute the entire agreement and understanding between the Parties with respect to its and their subject matter and may not 
+be contradicted by evidence of any prior or contemporaneous oral or written agreement.  
+12.9 Amendment .  Excluding Rate updates provided in Schedule A, t his Agreement may be amended or 
+supplemented onl y by a writing that refers specifically to this Agreement and is signed by duly authorized representatives of both parties.  
+Any terms and conditions varying from this Agreement and the Schedules or Exhibit s, on any order or written notification from eithe r Party 
+are void . 
+12.10  No Third -Party  Beneficiaries .  The Parties do not intend, nor will any clause be interpreted, to create for 
+any third party any obligations to or from either LINGO  or CUSTOMER  hereunder except as is specifically set forth herein.  
+LINGO  Privileged and Confidential  
+12.11 Assignment . Neither party may assign its rights and obligations, whether by operation of law or otherwise, 
+without the prior written consent of the other party, not to be unreasonably withheld.  Notwithstanding the foregoing, either  party, in 
+connection with a merger,  reorganization, or sale of all or substantially all the assets or equity of such party, may assign this Agreement 
+in its entirety to such partys successor without the other partys consent  upon written notification , which shall not be unreasonably withhe ld.  
+This Agreement shall bind and inure to the benefit of the parties, their respective successors and permitted assigns.  
+12.12  Settlement of Disputes.  The Parties desire to resolve disputes arising out of this Agreement without 
+litigation. Excluding any  disputes arising out of Sections 2 herein, as well as otherwise specifically provided in or permitted by this 
+Agreement, in the event of any dispute, difference of opinion or controversy arising in connection with this Agreement, the P arties shall 
+use goo d faith efforts to arrive at an agreeable resolution through discussions escalating to at least the Vice President level with in their 
+respective organizations.  
+12.13  Governing Law; Venue .  The validity, construction and performance of this Agreement and the legal 
+relations among the parties to this Agreement shall be governed by and construed in accordance with the laws of the state of Delaware , 
+without giving effect to its conflict of law p rinciples. The parties agree that the federal or state courts sitting in the state of Delaware  shall 
+be the exclusive courts of jurisdiction and venue for any litigation, special proceeding,  or other proceeding as between the parties that 
+may be brought, o r arise out of, or in connection with, or by reason of this Agreement.    
+12.14  Nonperformance .  To the extent any nonperformance by either Party of its obligations under this Agreement 
+results from or is caused by the other Partys failure to perform its obligations under this Agreement, such nonperformance shall be 
+excused.  
+12.15  Mutual Cooperation .  LINGO  and CUSTOMER  each will use commercially reasonable efforts to achieve 
+the objectives of this Agreement.  
+12.16  Counterparts; English Language .  This Agr eement may be executed in any number of counterparts, each 
+of which shall be deemed an original but all of which together shall constitute one and the same instrument. This Agreement i s entered 
+into in the English language.  In the event of any dispute con cerning the construction or meaning of this Agreement, reference shall be 
+made only to this Agreement as written in English and not to any translation hereof into any other language, and this English  language 
+version shall be controlling for all purposes.  
+  12.17  Liability Insurance .   LINGO, at its expense, shall carry a policy or policies of professional and general 
+liability insurance and workers compensation insurance, issued by an insurance carrier, providing coverage in the amount of at least One 
+Million Dollars ($1,000,000) per o ccurrence and Three Million Dollars ($3,000,000) aggregate per year, which insures Customer against 
+any act, error or omission of LINGO, its employees,  and agents. LINGO shall also have Errors and Omissions/Privacy and Network 
+Security (sometimes otherwise  known as Cyber Liability): providing protection against liability for (1) system attacks, (2) denial or loss of 
+service attacks, (3) unauthorized access and use of computer systems, (4) spread of malicious software code, and (5) liabilit y arising from 
+the unauthorized access, loss or disclosure of private or confidential data with a minimum limit of $ 5,000,000 for each claim .  Additionally, 
+a fidelity bond or crime insurance for dishonest acts of LINGOs employees with a limit of liability of one (1) milli on dollars in the aggregate.  
+Cyber liability and general liability  insurance shall cover Customer via a named insured or through a functionally equivalent blanket 
+endorsement, without a right of contribution. 
+IN WITNESS  WHEREOF , THE DULY AUTHORIZED REPRESENTATIVES OF THE PARTIES HERETO HAVE CAUSED THIS AGREEMENT TO BE 
+DULY EXECUTED AS OF THE DATE BELOW . 
+   APPROVED /SMC  (NON-ASSENT INITIALS ): 
+ LINGO TELECOM , LLC  DBA LINGO  SELECT MEDICAL CORPORATION  
+By:   
+By:  
+Brian Rusignuolo, EVP & CIO  
+ Print name & title   Print name & title  
+PFPF
+Brian Rusignuolo (Nov 2, 2023 13:53 EDT)
+11/6/2023 | 5:48:04 PM PST
+Vice President, Sales Andrea Lang
+LINGO  Privileged and Confidential  
+SCHEDULE A  
+Services: Attach Initial Service Order Form  – Multi Location Services Order Form  
+LINGO  Privileged and Confidential  
+SCHEDULE B :  SERVICE  LEVEL  AGREEMENT   
+(Broadband  - Managed  Services  - Digital  Voice  - POTS)  
+Broadband  Services  
+PERFORMANCE  GUARANTEED.  
+At Lingo,  we back up our promises  with industry -leading  performance  and reliability  guarantees  
+- demonstrated  by our superior  performance  of providing  high-value,  mission -critical  data access and 
+transmission  services  to the commercial  marketplace.  Lingo guarantees maximum  network availability,  
+minimal  packet  loss, latency,  and on time installation.  If Lingo  is not performing  as promised,  or 
+Customer  lose connectivity  as defined  below,  Customer  is entitled  to receive  a credit.  This declaration 
+is another way that Lingo demonstrates its commitment to complete Customer satisfaction.  
+LINGO  INTERNET  ACCESS  GUARANTEES  99.99%  NETWORK  AVAILABILITY.  
+Lingo guarantees that  the Lingo  network will be available 99.99%  of the time.  Customer  will receive a credit  
+of 1/30th  of the Monthly  Recurring  Charge  (MRC)  for that month  for each eight consecutive business  
+hours  of service  non-availability  (Service  Outage).  A Service  Outage  does not include interruptions  
+that occur  during  scheduled  periods  of maintenance  or upgrades.  
+LINGO  INTERNET  ACCESS  VIA FIXED  WIRELESS  GUARANTEES  99.9%  NETWORK  AVAILABILITY.  
+Lingo  guarantees  that Internet  Access  provided  over Fixed  Wireless  will be available  99.9%  of the time.  
+Customer  will receive  a one-time 10% MRC credit  at the impacted  location  for that month based  on 
+network  availability.  Availability  = The amount  of time that the network  will be available as  measured  in 
+minutes  per month.  The calculation  is: Total  minutes  of actual  availability  divided by  the total number  
+of minutes  in a month  (Covered  Time).  Service  Interruptions  Excluded  from Covered  Time:  Loss of 
+power  at the impacted  location;  Impacted  location  is unable  to conduct business  due to an event  
+beyond  the control  of Lingo  (i.e. acts of nature,  fire, civil unrest); Service  interruptions  caused  by any 
+non-Lingo  provided  equipment  or service;  Service  is not used in a manner  prescribed  by Lingo  
+including  moving  or adjusting  any configurations  without authorization  or instruction  provided  by 
+Lingo.  
+MINIMAL  PACKET  LATENCY.  
+Lingos  Latency  SLA is measured  as the round -trip response  time from Lingo  to each of the Customers  
+sites across  the Lingo  -provided  connection.  No SLA is offered  for IP packets  traversing the public 
+internet.  
+MINIMAL  PACKET  LATENCY  FOR FIBER DEDICATED INTERNET ACCESS  (DIA) SERVICES.  
+Lingo  guarantees  an average  monthly  latency  of less than 55 milliseconds  within  the Lingo network 
+and between sites using Fiber Dedicated Internet Access. Customer will be entitled to a prorated 
+credit equivalent  to one (1) day's share of Customers monthly recurring  access charge for any  month  in 
+which Lingo's  average  latency  exceeds  55 milliseconds.  
+LINGO  Privileged and Confidential  
+MINIMAL  PACKET  LATENCY  FOR FIXED  WIRELESS.  
+Lingo  guarantees  an average  monthly  latency  of less than 150 milliseconds  within  the Lingo network  
+using  Fixed  Wireless. Customer  will be entitled  to a prorated  credit  equivalent  to one (1) day's share of 
+Customers monthly recurring access charge for any month in which Lingo's average latency exceeds  150 
+milliseconds.  
+MINIMAL  PACKET  LOSS.  
+Lingos Packet Delivery SLA is measured as the percent of packets delivered from the Customer 
+Management  Router  or the Lingo  network  operation  center  (NOC)  as appropriate  to each of the 
+Customers  sites across  the Lingo - provided  connection  during  a calendar  month.  No SLA is offered for 
+IP packets  traversing  the public  internet.  
+Lingo  guarantees  an average  monthly  Internet  packet  loss of less than one (1%) percent. Customer will  
+be entitled  to a prorated  credit  equivalent  to one (1) day's  share  of Customers  monthly  recurring access  
+charge  for any month  in which  Lingo's  average  packet  loss exceeds  one (1%)  percent.  
+JITTER.  
+Also known  as delay  variation,  jitter is defined  as the variation  or difference  in the end-to-end delay 
+between  received  packets  of an IP or packet  stream.  Jitter is usually  caused  by imperfections  in 
+hardware or software optimization or varying traffic conditions and loading. Excessive delay 
+variation  in packet  streams  usually  result  in additional  packet  loss which  detrimentally  affects  voice 
+quality.  
+The Jitter SLA provides  that Lingos  Internet  Network  monthly  jitter performance  will not exceed  
+20 milliseconds. Performance is measured by periodically collecting data across the Lingo Telecom  
+Internet  Network,  from which  a monthly  average  is derived.  
+MONITORING.  
+Lingo  will proactively  monitor  Static  IP type  services  regardless  of technology  or service  type. Only Static  
+IP internet  circuits  will be monitored,  which  will identify  circuit  health,  up and down  statistics and 
+network outages.  
+ON-TIME INSTALLATION.  
+Lingo  guarantees  new service  installation  by the quoted  activation  date,  provided  by Customers 
+Account  Support  Team,  contingent  on the approved  order  and credit  acceptance  by Lingo  and the 
+availability  of properly  conditioned  physical  and wiring  facilities  between  Customer  service  location and 
+the appropriate  network  point  of presence.  The below  stated  SLA installation  intervals  are based on 
+the Provisioning time from when the Provisioning group receives the order through completion  of 
+the order;  this does not include  upfront  processing  time of each order.  
+If Lingo  does not meet  the respective  installation  intervals  listed  below,  Customer  is entitled  to the 
+following:  
+LINGO  Privileged and Confidential  
+Access 
+Technology  Fiber 
+Dedicated 
+Internet 
+Access (DIA)  Cable 
+Broadband 
+Access  Fixed  Wireless 
+Broadband 
+Access  DSL Network 
+Broadband 
+Access  
+Installation 
+Commitment:   
+90 business 
+days**   
+30 business days 
+*  
+30 business  days  
+    21business  
+    days * 
+Credit:  One full month  
+MRC at the 
+impacted location  One full month  
+MRC at the 
+impacted 
+location  One full month 
+MRC at the 
+impacted 
+location  One full month  
+MRC at the 
+impacted 
+location  
+*Digital subscriber line (DSL) and Cable are best effort services;  therefore the installation intervals  
+will begin  once we have confirmation  that service  can be delivered  to the location.  If it becomes 
+necessary to order an alternate product or if construction is involved, a new installation interval  will begin  
+once we have confirmation  on the ability  for that service  to be delivered  to the location.  
+**Fiber Dedicated Internet Access  installation  can take up to 120 days if construction  (either  major  
+or minor  is required),  access  issues,  Customer  not ready,  technical  issues,  or a facilities  upgrade  is 
+needed.  The Customer  will not receive  a credit  if the aforementioned  issues  occur.  
+Projects  with a written  Statement  of Work that  include  an installation  timeline are  not subject  to the 
+above installation intervals.  
+Note:  The network  performance  metrics  defined  in the Terms  and Conditions  and any applicable Service  
+Order  do not apply  to non-availability  of network  services  arising  from traffic  or other service  impacts  
+induced  by extraordinary  events  such as viruses,  denial  of service  attacks,  and other  network  events  
+that are not originated  by or are beyond  the control  of Lingo.  
+MEAN  TIME TO REPAIR.  
+Mean  Time  TO Repair  [MTTR]  = (Service  Outage  – Excluded  Outage  Time  Hours)/Outage  Count), 
+provided,  that Service  Outage  Time,  Excluded  Outage  Time and Outage  Count  are measured  over a single 
+calendar month. A Service Outage does not  include interruptions that  occur during  scheduled periods of 
+maintenance or upgrades.  
+Customer  Premise  Equipment  [CPE]  MTTR  = Replacement  equipment  will be shipped  for second (2nd)  
+business  day delivery,  if (a) the trouble  is isolated  to the Lingo provided  equipment, and (b) the root cause  
+of the failure  is determined  by Lingo  by 1 pm EST. 
+LINGO  Privileged and Confidential  
+Technology   
+Fiber 
+Dedicated 
+Internet 
+Access (DIA)  
+Broadband 
+(Cable, DSL)   
+Broadband 
+(T1, Ethernet 
+over Copper)   
+Granite Grid 
+Broadband   
+Fixed 
+Wireless   
+VoIP 
+Mean  Time  to 
+Repair (Trouble 
+Related):   
+8 business 
+hours   
+48 business 
+hours   
+48 business 
+hours   
+4 business hours   
+24 business 
+hours   
+6 business  hours, 
+excluding 
+broadband 
+remediation events  
+Mean  Time  to 
+Repair 
+(Replacement 
+Equipment 
+Required)   
+2 business days  
+2 business days  
+2 business days  
+2 business days  
+2 business days  
+2 business  days 
+Credit 
+(Trouble 
+Related):  One time 
+10% MRC 
+credit  at the 
+impacted 
+location  One time 
+10% MRC 
+credit  at the 
+impacted 
+location  One time 
+10% MRC 
+credit  at the 
+impacted 
+location  One time 20% 
+MRC 
+credit  at the 
+impacted 
+location  One time 
+20% MRC 
+credit  at the 
+impacted 
+location   
+SEE BELOW  
+Credit 
+(Replacement 
+Equipment 
+Related)  One time 
+15% MRC 
+credit  at the 
+impacted 
+location  One time 
+15% MRC 
+credit  at the 
+impacted 
+location  One time 
+15% MRC 
+credit  at the 
+impacted 
+location  One time 
+15% MRC 
+credit  at the 
+impacted 
+location  One time 
+15% MRC 
+credit  at the 
+impacted 
+location  One time 15% MRC 
+credit  at the 
+impacted location  
+Managed  Platform  Services  
+Lingo  Managed  Services  includes  initial  configuration  management  of Lingo  Managed  Services devices,  
+software,  and rule-based  settings.  For Customers  that subscribe  to Lingos  MSP Premium Support  
+service,  requests  for configuration  changes  will be responded  to within  three  (3) to five (5) business  
+days.  Lingo  technical  support  does not extend  into the Customers  local area network, internal  
+applications,  PCs or server  operating  systems  or non-Lingo  software  applications.  
+Lingo  SLA for latency  on VPN tunnels  (from  Lingo  point  of presence  (PoP)  to Lingo  PoP), is 
+contingent  on both ends of the VPN utilizing  Lingo  Dedicated  Internet  Access.  
+LINGO  Privileged and Confidential  
+SERVICE  AVAILABILITY.  
+Available  means  the Managed  Platform  Service  is available  for access  and use by End Users  over the  
+Internet  and operating  in material  accordance  with the associated  written  or electronic materials  
+and specifications  for the Service.  Lingo  guarantees  that the Managed  Platform Service  network  will 
+be available  99.99%  of the time, meaning  at least 99.99%  of the total number of minutes  in a calendar  
+month  during  the Term,  excluding  the Managed  Platform  Service  not being  Available  because of  any 
+of the Exceptions.  Exceptions  mean  (a) any act or omission  by any third party;  (b) access  to or use 
+of the Service  that does not strictly  comply  with the Service Agreement  and the specifications  for 
+Service;  (c) factors outside of Lingos  reasonable  control, including  any force  majeure  event  or 
+Internet  access  or related  problems;  (d) failure,  interruption, outage  or other  problem  with any 
+software,  hardware,  system,  network,  facility  or other  item not supplied  by Lingo;  (e) any scheduled  
+or critical  maintenance;  or (f) disabling,  suspension  or termination  of the Managed  Platform  Service  
+pursuant  to the Agreement.  
+SERVICE  UPTIME.  
+Managed  Services  Cloud  Management  Systems  and Gateways  will be operational  and available with 
+a service  uptime  SLA of at least 99.99%  of the time in any calendar  month.  (Less  than 4.38 minutes  
+unscheduled  downtime  per month).  This specifically  excludes  any on-premise  components.  Any 
+maintenance  that will impact  customer  operations  will be advertised  at least 3 business  days in 
+advance  of the start of the window.  Maintenance  will be planned  outside  core business  hours  when  
+possible.  Lingo  reserves  the right to open  emergency  maintenance windows  when  needed.  Forced  
+majeure  and planned  network  maintenance  are excluded  from service  uptime.  
+CREDITS.  
+If the service  uptime  SLA is not met in any calendar  month,  Customer  will be eligible  to receive  the 
+following service credits:  
+Uptime 
+Percentage  Service Credit  
+< 99.99%  but 
+> 99.90% : One time  10% 
+MRC credit at the  
+impacted location  
+< 99.90%  but 
+> 99.0%:  One time  20% 
+MRC credit at the  
+impacted location  
+< 99.0%:  One time  35% 
+MRC credit at the  
+impacted location  
+LINGO  Privileged and Confidential  
+SOFTWARE  SUPPORT  & MEAN  TIME TO REPAIR  [MTTR]  
+Managed  Services  Software  Support  
+Support   
+Standard  Plan Production 
+Support  Premier 
+Support  
+Call Center 
+Availability   
+24 x 7  
+24 x 7  
+24 x 7 
+Support Response  
+Time 24 X 7 (Sev 1) 
+12 X 5 (Sev, 2, 
+Sev 3, Sev 4) 24 X 7 (Sev 1) 
+12 X 5 (Sev, 2, 
+Sev 3, Sev 4) 24 X 7 (Sev 1, 
+Sev 2) 
+12 X 5 (Sev 3, 
+Sev 4) 
+Response  Time  
+Sev 1: Within  1 hour  
+Sev 2: Within  6 hours  
+Sev 3: Within  12 
+hours  
+Sev 4: N/A  Sev 1: Within  
+30 minutes  
+Sev 2: Within  
+4 hours  
+Sev 3: Within  
+8 hours  
+Sev 4: Within  
+24 hours  Sev 1: Within  
+30 minutes  
+Sev 2: Within  2 
+hours  
+Sev 3: Within  4 
+hours  
+Sev 4: Within  
+12 hours  
+Sev 4: per 
+schedule  
+Severity  Level 1 – Service  is not available  
+Severity  Level 2 – Service  is available,  but performance  or some  features  are severely  degraded, materially  
+affecting  normal  use of the Service  
+Severity  Level 3 – Service  is available  and critical  functions  are usable,  but there  is a non-critical malfunction  
+Severity  Level 4 – Cosmetic  of feature  requests, service  is functioning  as designed  
+LINGO  Privileged and Confidential  
+MANAGED  SERVICES  EQUIPMENT  REPLACEMENT  
+Hardware  Replacement  SLA 
+Replacement  Service  Plan 
+RTP (Return  for Placement)  Next Business Day Same  Business  Day 
+Ships  NBD (Mon  - Fri) after unit 
+returned   
+Advanced Replacement: Ships  
+NBD (Mon - Fri), if RMA 
+request  is received  by 
+8:00pm  EST  
+Advanced  Replacement: Ships  SBD 
+(Mon  - Fri), if RMA request  is 
+received by 6:00pm EST  
+Advanced  Replacement  ships  before  unit returned  
+Digital  Voice  
+Lingo  Digital  Voice  Installation  SLA 
+Existing  Broadband  Environments*  / 10+ Locations  
+HPBX*  / Integrated  Voice  / IP PRI^ DV Cloud  / SIP Trunks  
+From  Start of  Provisioning to  Service  Activation   
+From  Start of  Provisioning to  Service  Activation  
+29 Business  Days  
+19 Business  Days 
+^Lingo  One, DV Retail  & RPOS  service  offerings  are hosted  private  branch  exchange  (HPBX)  
+packages.  Thus,  the Installation  SLA for  those offerings is the  same as  HPBX.  
+* If ordered  with Broadband,  the Provisioning  / Installation  Phase  begins  with the Installation of the 
+Broadband  Circuit.  The Broadband  Installation  interval  varies  from 21 to 120 business days 
+depending  upon  the broadband type.  
+Should  Lingo  Installation  Intervals  not meet the total SLA Interval  commitment  from Order 
+Submission  to Service  Activation,  CUSTOMERS  WILL BE ELIGIBLE  FOR A 100%  CREDIT  FOR ANY 
+ACCESSED  INSTALLATION,  SHIPPING  & ACTIVATION  FEES CHARGES.  
+LINGO  Privileged and Confidential  
+TDM Voice  (POTS)  
+Provisioning  SLA 
+On –Time Migration 
+Commitment:   
+Existing Service  Lines: Transfer of existing time  division multi -plexing  (TDM) voice  services (plain old  
+telephone  service  (POTS), remote  call forwarding  (RCF)) to Lingo  within ten (10)  business days and 
+error  free in accordance  with the scheduled  implementation  plan.  * 
+New Service  Lines : Installation  of new lines of TDM voice  services  (POTS,  RCF) to Lingo  within ten (10) 
+business  days and in accordance  with the scheduled  implementation  plan. *  
+Time  to correct:  
+2 - Business  days. 
+1 - 2 Year Term:  
+1 - 2 Year Term:  Credit  for one full month  of your monthly  recurring  service  charge.  
+3+ Year Term:  3+ Year  Term:  Credit for  one full month of your  monthly recurring service charge,  any 
+overage  charges  and additional  fees on the account  for that same  billing  cycle.  
+* Services must be currently available and capable of being migrated from partnering regional  
+Bell operating  companies  (RBOC)  or a reseller  of RBOC  services.  Complex  Services and facilities -
+based  locations  are excluded  from this commitment  as well as any individual case basis  
+arrangements  made  between  Customer  and Lingo.  
+Customer  Service  SLA 
+Account 
+Maintenance 
+Commitment:  Call Management  Service  Changes : Adds,  Changes  or Disconnects  in Call Management  Services 
+within  five (5) business  days of request.  * 
+Non-Complex  Service  Changes : Adds,  Changes  or Disconnects  to existing  TDM voice  services 
+within  five (5) business  days and error  free in accordance  with the scheduled  implementation plan.  
+* 
+Complex Service Changes : Adds, Changes or Disconnects to existing TDM voice complex services within  
+fifteen  (15) business  days and in accordance  with the scheduled  implementation plan.  * 
+Time  to correct:  Two (2)  Business days 
+Service  Response and 
+Repair Commitment:  Response  Time:  
+Lingo  will respond  with our understanding  of the repair  issue  and status  of the repair 
+resolution within one (1) hour.  
+Repair  Time:  
+Lingo  commits  to repair  any Lingo  service -related  issue within  a 24-hour period.   
+Time  to correct:  One (1) Business  Day 
+LINGO  Privileged and Confidential  
+Service Reliability 
+Commitment:  Lingo  will resolve  any service -related  problems  the first time within  the Service  Response  and Repair  
+Time  stated  above.  If any service -related  problem  under  this Service  Level  Agreement occurs  twice  
+within  any 2-month  period,  only the affected  Customer  location  relating  to this Service Level  
+Agreement  can be moved  to another  provider  without  penalty.   
+Time  to correct:  1 business  day 
+* Services  must  be currently  available  and migratable  from underlying  service  provider  or a reseller  
+of service  providers  services.  Moves,  adds,  changes,  deletions  (MACDs)  must  be for eligibly  available  
+services  with the underlying  service  provider  or reseller  of service  providers services.  Service  moves  
+are subject  to quote  from the underlying  service  provider  or reseller of  service  providers  services.  
+Expedites  are available  upon  request  for an additional  fee. 
+* Installations  of new lines that require  site-visit or involve  more  than 4 lines are quoted  on an 
+individual  case basis  (ICB).  Lingo  will meet  or beat the quoted  due date or guaranteed  30- business  
+day installation  interval.  
+ Problems  caused  by Customer  equipment  or changes  to their equipment  or incompatibility  
+with Lingos network or the network of  any Lingo supplier are not  covered under this agreement. 
+Acts of God out of Lingos or any Lingo suppliers control are not covered under this 
+agreement.  Lingo and its suppliers will do anything and everything to correct these types of 
+situations.  To invoke  this guarantee,  Customer  must  give written  notice  of the problem  to Lingo 
+and allow  Lingo  reasonable  time to correct  the problem.  Written  notice  may be given  by mail, 
+email  to contracts@lingo.com  or by fax. If a service -related  problem occurs and Customer 
+accepts a credit or negotiated settlement satisfactory to the Customer from Lingo  as 
+compensation  of such problem,  such acceptance  of a credit  or negotiated  settlement constitutes 
+agreement that service -related  problem is resolved to their satisfaction and is considered  a 
+waiver  of the right to move  affected  location  to another  provider.  Certain  services such as PRI, 
+Fiber Dedicated Internet Access  and other  high cost services  will require  the Customer  to pay back 
+any pre-paid non- recurring  charges  (NRCs)  or promotional  credits  provided  under  their 
+agreement.  
+Upfront  Processing  Time 
+Lingo performs many steps before the actual submission of the order to the Provisioning groups.  
+The below  upfront  processing  time is not part of any of the aforementioned  SLA intervals. The SLA 
+installation  intervals  are based  on the Provisioning  time from when  the Provisioning group receives 
+the order through completion of the order; this does not include upfront processing time of each 
+order.  The SLA intervals for all products are based on the actual installation  intervals  and credit s will 
+be honored  based  on the installation  intervals  only and will not take into consideration the time 
+needed to process the Customer onboarding, coordination activities,  and/or  upfront  processing  time.  
+The standard  upfront  processing  time is stated  below:  
+LINGO  Privileged and Confidential  
+Day 0 - 
+Contract 
+Signed   
+Day 0 – 2 Order 
+Submission  Day 2 - Order 
+Released  to 
+Account 
+Management and 
+Service 
+Fulfillment 
+Teams   
+Day 4 - 
+Welcome Call Day 11 - 
+Kickoff  Call with your 
+Lingo 
+Implementation 
+Team   
+By Day 16 - 
+Provisioning 
+Begins  
+Day 0 Up to 2 Business  
+Days Up to 2 Days Up to 7 Days 3 - 5 Days Up to 2 Days 
+LINGO  Privileged and Confidential  
+SCHEDULE C: Lingo - Acceptable Use Policy  
+Introduction  
+This Acceptable Use Policy sets forth the guidelines for acceptable use of all products and services 
+offered by Lingo Telecom, LLC. dba Lingo dba BullsEye (provider of services under the Lingo, BullsEye, 
+Impact Telecom, Excel Telecommunications, VarTec Tel ecom, Trinsic, Matrix Business Technologies, 
+Americatel, Startec, Teligent, 1010123, 1010719 and 1016868 brand names), hereinafter Lingo.  
+Lingo seeks to promote a high level of responsible behavior in connection with the use of the Internet 
+and all Lingo 's communications products and services. All users are required to comply with all Lingo 
+terms and conditions and this Acceptable Use Policy, along with any applicable agreements, as well 
+as any applicable tariffs or service schedules. Each user is strictl y responsible for its compliance with, 
+and its customers' compliance with, this Acceptable Use Policy, as well as the policies of any other 
+networks accessed by the user.  
+Disclaimers and Indemnification  
+Subject to the other provisions of this Acceptable Us e Policy, Lingo provides an unfiltered connection 
+to the Internet via its IP -related Services. Lingo is not responsible for any materials accessible on or 
+through Lingo's products or services. No data, documents, materials, or information that enters the 
+Network is reviewed before being transmitted to users. Accordingly, Lingo neither controls nor 
+accepts responsibility for the content of any, but not limited to, communications that are transmitted 
+or made available to users, regardless of whether they orig inated from users of our IP -related Services. 
+Users are solely and fully responsible for their content.  
+In addition, Lingo expressly disclaims any responsibility for the accuracy or quality of information 
+provided by third parties that may be obtained thro ugh the use of our IP -related Services. ALL 
+MATERIAL AND INFORMATION OBTAINED BY ANY USER THROUGH OUR INTERNET ACCESS IS PROVIDED 
+"AS IS" WITHOUT WARRANTIES OF ANY KIND, INCLUDING BUT NOT LIMITED TO ANY RELATED TO PRIVACY, 
+SECURITY OR INTERGRITY OF ANY DAT A USER TRANSMITED OVER THE INTERNET. IN NO EVENT WILL LINGO 
+BE LIABLE FOR ANY DAMAGES, EITHER DIRECT OR INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL, 
+FOR USE OF OR INABLITY TO USE LINGO'S INTERENT ACCESS, OF ANY KIND, DELAY OF OR PARTIAL 
+DELIVERY, TERMIN ATION OR RIGHTS OF LOSS OF PROFITS, DATA, BUSINESS OR GOODWILL, OR TO 
+PROVIDE ANY INDEMNIFICATION OR ANY OTHER REMEMDY TO ANY USER OF LINGO'S INTERNET 
+ACCESS. USER'S SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING AND ACCESSING OUR IP -
+RELATED SERVICES. T his limitation will not apply to claims relating to death or personal injury, which 
+arises out of products deemed to be consumer goods under applicable law. To the extent that the 
+jurisdiction to which any user is subject does not allow any part of such li mitation, such part does not 
+apply. Lingo does not warrant that our IP -related Services will meet any user's requirements, or that it 
+will operate in combination with any software and/or services, which any user may select to use, that 
+the operation of our  Internet Access service will be uninterrupted or error free, that any errors will be 
+corrected and/or that our IP -related Services will meet any particular criteria of performance or 
+quality.  
+You agree to indemnify, defend and hold harmless Lingo, its par tners, agents, independent 
+representatives and employees from and against any damages, judgments, expenses and other 
+liabilities resulting from any final determination that the data, information and/or content stored, 
+received or transmitted, now or in the  future, from your account, infringes trademark, service mark, 
+trade secret, trade dress, copyright, patent, right of privacy, right of publicity, moral rights or other 
+intellectual property rights and from any other damages, claims or suits or actions whi ch may arise, 
+LINGO  Privileged and Confidential  
+now or in the future, as a result of your use of our IP -related Services. This indemnification shall survive 
+any termination of use of our IP -related Services.  
+IP Numbers and Domain Names  
+Users may only use: (i) IP numbers assigned by Lingo f or applicable products and services and (ii) 
+domain names for which they have registered and must keep current information on file with the 
+registrar.  
+Customer Security Measures  
+Any and all users of our IP -related Services are responsible for their own sec urity measures and for 
+configuring their own IT systems to provide the maximum accountability possible. Users are also solely 
+responsible for ensuring the confidentiality of account information, data,  and password access. At 
+any time if an end user finds t hat the end user's security has been breached, the end user is 
+responsible for reporting the violation and handling the repair to stop the violation.  
+Security  
+Any and all users of our IP -related Services are individually responsible for immediately notifyi ng Lingo 
+should the user become aware of any situation that may in way affect our products and services 
+and/or our Network or systems. A server that is compromised has the potential to be disruptive to our 
+Network and other users. For that reason, Lingo re serves the right to take your server offline without 
+your consent if it is accessed or manipulated by a third party. Lingo does not represent or warrant to 
+anyone any obligation regarding monitoring or policing of activities which may occur while 
+customers  use our products and services, nor does Lingo have any liability to any party, including our 
+customers or their customers, regarding any violation of this Acceptable Use Policy.  
+Filters  
+Lingo reserves the right to use any appropriate and necessary devices  to ensure compliance with 
+the Acceptable Use Policy including but not limited to installation of any equipment and or systems 
+that will allow Lingo to filter and/or terminate service to our IP -related Services.  
+Prohibited Use  
+You agree to comply with all applicable local, state,  and federal laws and regulations regarding use 
+of all products and services provided by Lingo. The following is an outline of some of the prohibited 
+uses of our services. The examples of prohibited use set forth below and throughou t this Acceptable 
+Use Policy are non-exclusive and  are provided as guidelines to customers and other users of our 
+products and services.  
+Our products and services may only be use for lawful purposes. The transmission, distribution, or 
+storage of any information, data, or material in violation of any applicable law or regulation is 
+prohibited. Without limitation of the foregoing, it is strictly prohibited to create, transmit, distribute, 
+upload or post and/or store any information, data, or material wh ich in our sole discretion:  
+• Infringes any copyright, patent, trademark, trade secret, or other intellectual property 
+right. Is obscene, indecent or constitutes, fosters,  or promotes child pornography. All illegal 
+pornography is prohibited.  
+LINGO  Privileged and Confidential  
+• Is libelous, defamatory, hateful, racist, malicious, treasonous, promotes or incites violence, 
+threatens national security, or public health and safety, constitutes an illegal threat or 
+abuse, or is in any way illegal or unlawful.  
+• Violates export control laws  or encryption laws.  
+• Encourages conduct that would constitute a criminal offense or give rise to civil liability.  
+• Violates or is alleged to violate federal or state laws applicable to Internet usage, state 
+"spam" laws, the federal CAN -SPAM Act, FCC , and St ate Robocall laws, or any other 
+applicable law or regulation.  
+• Potentially exposes Lingo to any civil or criminal liability.  
+• Is unfair or deceptive under the consumer protection laws of any state.  
+• Exposes confidential or proprietary information of Lingo or any other party.  
+• Is used for any unlawful purposes or activities whether civil or criminal.  
+The following general actions are considered "abuse" and are violations of this Acceptable Use Policy 
+and are strictly prohibited. The following outline is not cons idered exclusive and is only to be used as 
+a general guideline. Our services and products shall not be used:  
+• to attempt to gain unauthorized access to Lingo's Network or systems or attempt to breach 
+its authorization protocols or security measures.  
+• to obst ruct, restrict or inhibit any other user, whether a customer of Lingo or a user of any 
+other system or network, from using any of Lingo's services or products.  
+• to impersonate another user or otherwise falsify one's username  in email or any post to any 
+news group or mailing list.  
+• in any manner that constitutes in any way harassment, whether through language, 
+frequency or size of message.  
+• for creating, forwarding, posting or distribution of chain messages of any type. This includes 
+but is not limited to any me ssages also referred to as "Pyramid" or "Ponzi" schemes.  
+• to forge message headers or a sender's identity or  taking any similar action with the intent 
+of bypassing restrictions or limit on access to a specific service or site. This does not restrict 
+the leg itimate use of aliases or anonymous re -emailers.  
+• to falsify identity or contact information to circumvent this Acceptable Use Policy. This does 
+not restrict the legitimate use of aliases or anonymous re -emailers.  
+• for attempts to circumvent or alter the pro cesses or procedures to measure time, 
+bandwidth utilization, or other methods or document use of Lingo's products and services.  
+• to maintain a continuous connection to the Internet namely unattended automated 
+operations or server connectivity applications, or continuously reconnect to the Internet 
+even when you are not actively using the connection. If a user session on "dial -up" 
+connection is connected for a suspicious period of time, we may terminate the session.  
+• in email address "harvesting" or "dictionar y attacks."  
+• to send massive quantities of data (i.e., "flooding" with ICMP, SMTP, or any other type of 
+traffic that exceeds accepted norms or size or frequency) with the intent of filling circuits, 
+overloading systems, and/or crashing hosts.  
+• in a manner t hat degrades, causes disruption to, harms Lingo's service, Network,  or 
+systems.  
+• to attack or disable any user, host or site, nor shall any files containing a computer virus or 
+corrupted data be intentionally transmitted.  
+• to distribute or propagate any type  of program, script, or command designed to interfere 
+with the use, functionality, or connectivity of any Internet user, host or system or site.  
+• to propagate messages, via email, instant message or otherwise, that contain computer 
+worms, viruses, control characters of Trojan horses.  
+• to intentionally inject false information or data into the Internet.  
+• to disrupt newsgroups with materials, postings, or activities that are (as determined by 
+Lingo in its sole discretion) frivolous, unlawful, obscene, t hreatening, abusive, libelous, 
+LINGO  Privileged and Confidential  
+hateful, excessive, or repetitious, unless such materials or activities are expressly allowed or 
+encouraged within the specific newsgroup, and you must comply with the rules for 
+content and commercial USENET & IBC postings fo r groups.  
+• to post any advertisement or other commercial solicitation to any newsgroup. Lingo's 
+reserves the right to, in its sole discretion, to determine whether a post constitutes an 
+advertisement or commercial solicitations.  
+• to post a single article or substantially similar articles to an excessive number of newsgroups 
+or mailing lists or  continued posting will be considered off -topic when it provokes 
+complaints from the regular readers or the newsgroup or is deemed so by Lingo. A violation 
+of this polic y will result in immediate termination of the user account.  
+• to post binary files to newsgroups whose charter does not specifically allow for such files.  
+• to post via Lingo's Internet access any solicitation for mail -back to an email address 
+(including addre ss on non -Company users) with the intention of bypassing this Acceptable 
+Use Policy.  
+• to cancel newsgroup posting other than their own or  using autoresponders  or cancel -bots 
+(or similar automated or manual routines), which generate excessive network traffic  or 
+disrupt Usenet newsgroup/email use by others (except in cases of official newsgroup 
+moderators performing their duties).  
+• to engage in "Excessive Cross -Posting" (ECP) or "Excessive Multi -Posting" (EMP) or "Usenet 
+SPAM" or "Mail bombing" (no matter what the content might be) as generally defined by 
+the Internet community.  
+• in filtering messages (e.g., NoCem) in an intrusive manner.  
+• to perform any unauthorized creation, cancellation, or removal of any newsgroups.  
+• in the exploitation of any scripts presented  on web pages (e.g., forms for answering 
+questions or for entering data).  
+• to perform "walking" a database for the purpose of collecting data contained therein 
+(whether  this behavior requires that the reader of the page must knowingly ignore files 
+such as " robot.txt" which is designed to guide cataloguing robots/programs).  
+• to operate a robot on a site's page after the site has requested that the behavior cease.  
+• to configure a web page to act maliciously against users that visit that web page.  
+• to create and c ancel accounts with the sole purpose of gaining financial advantage in 
+the form of customer points, usage commissions or any other financial advantage.  
+If Lingo determines, in our sole discretion, that any other abuse, or inappropriate or illegal activity is 
+occurring, Lingo reserves the right to suspend or terminate access or use of our products and services 
+for or exercise other rights and remedies set forth in this Acceptable Use Policy.  
+Suspension or Termination  
+In the event that any user of Company pro ducts or services engages in any conduct that in any way 
+violates this Acceptable Use Policy, or is in any way illegal or improper, Lingo reserves the right to 
+suspend and/or terminate the service or the users access to Lingo products and services. In the event 
+of any suspension, termination or adverse action by Lingo, the user remains responsible for timely 
+remittance of all charges and fees for the remainder of the contract term.  
+Lingo will under normal circumstances and conditions attempt to contact and notify you in the event 
+that we become aware of activity that violates this Acceptable Use Policy to request that the 
+customer cease and desist in any activities in violation of this Acceptable Use Policy. However, you 
+are advised that in the event of a th reat to the operations to Lingo or in the event that Lingo becomes 
+aware of activities that are (or are suspected to be) improper or illegal, or where the operation of 
+our network is threatened, Lingo reserves the right to immediately suspend and/or termin ate the 
+product and/or service without notification. Lingo also reserves the right to take appropriate actions 
+against any user who violates the terms and conditions of this Acceptable Use Policy or who have 
+LINGO  Privileged and Confidential  
+Company -assigned IP numbers listed on abuse data  sites such as NJABL and Spews. Customers waive 
+the right to any credit under a service level agreement when the interruption is due to an Acceptable 
+Use Policy violation.  
+Charges  
+Lingo reserves the right to directly charge any user for its hourly costs as sociated with any users  
+breach of this Acceptable Use Policy and corresponding materials or equipment needed to address 
+the breach, including investigation or remedy of the breach, allegations by third parties, or 
+subpoenas or requests for information.  
+Investigations and Cooperation with Law Enforcement  
+Each user is responsible for providing reasonable assistance to Lingo in investigating and resolving 
+issues, problems, and/or complaints arising out of the services provided to such user. In the event of 
+suspected, alleged, or actual illegal activity or ot her inappropriate activity, Lingo will notify and/or 
+cooperate with applicable law enforcement authorities for potential civil, criminal investigation, 
+prosecution,  or lawsuit. In the event Lingo receives a formal or informal request for assistance from a 
+law enforcement authority in respect of suspected, alleged,  or actual illegal conduct, Lingo reserves 
+the right to notify or to cooperate with law enforcement authorities in accordance with state and 
+federal law. Customer will have no cause of action whats oever for any such notification of, or 
+cooperation with, law enforcement authorities.  
+Policy Modifications  
+Lingo reserves the right to modify, alter or otherwise update this Acceptable Use Policy, including 
+imposing additional reasonable restrictions on us e, from time to time without notice, and such 
+modifications will be effective immediately upon posting on the website. In addition, you agree to 
+review this Acceptable Use Policy periodically to be aware of such modifications and your continued 
+access or u se of our products and services will be deemed your conclusive acceptance of the 
+modified Acceptable Use Policy.  
+Copyrighted Works  
+Our service and/or equipment may not be used, in any manner or means, to violate protected works 
+of copyright holders. Lingo reserves the right to terminate the service of copyright infringers.  
+Any complaint regarding alleged copyright infringement by someone should be sent to:  
+Lingo Telecom, LLC.  
+Attn.: Legal Department  
+25925 Telegraph Road, Suite 210  
+Southfield, MI 48033  
+legal@lingo.com   
+To be effective, a notification of claim of copyright infringement must be provided in writing and 
+must include the following information:  
+• A physical or electronic signature of the owner of or a person  authorized to act on behalf 
+of the owner of an exclusive copyright right that is allegedly infringed.  
+LINGO  Privileged and Confidential  
+• Identification of the copyrighted work claimed to have been infringed, or, if multiple 
+copyrighted works at a single online site are covered by a single notification, a 
+representative list of such works at that site.  
+• Identification of the material that is claimed to be infringing or to be the subject of 
+infringing activity and that is to be removed or access to which is to be disabled, and 
+information reas onably sufficient to permit Lingo to locate the material.  
+• Information reasonably sufficient to permit Lingo to contact the Complaining Party, such 
+as an address, telephone number, and, if available, an electronic mail address at which 
+the Complaining Party  may be contacted.  
+• A statement that the Complaining Party has a good faith belief that use of the material in 
+the manner complained of is not authorized by the copyright owner, its agent, or the law.  
+• A statement that the information in the notification is accurate, and under penalty of 
+perjury, that the Complaining Party is the owner of or is authorized to act on behalf of an 
+exclusive right that is allegedly infringed.  
+Verison 10.2023  
+TASK1718722--Lingo-Select Medical-Lingo
+Master Services Agmt w exh
+Final Audit Report 2023-11-02
+Created: 2023-11-01
+By: Gabriella Nater (GNater@selectmedical.com)
+Status: Signed
+Transaction ID: CBJCHBCAABAA_t59jovuDYTX2P5JMT1IwnFdrImW_o9d
+"TASK1718722--Lingo-Select Medical-Lingo Master Services Ag
+mt w exh" History
+Document created by Gabriella Nater (GNater@selectmedical.com)
+2023-11-01 - 5:51:29 PM GMT- IP address: 204.90.98.254
+Document emailed to Paul Finkbeiner (pfinkbeiner@selectmedical.com) for approval
+2023-11-01 - 5:52:10 PM GMT
+Email viewed by Paul Finkbeiner (pfinkbeiner@selectmedical.com)
+2023-11-01 - 11:43:38 PM GMT- IP address: 172.225.31.0
+Document approved by Paul Finkbeiner (pfinkbeiner@selectmedical.com)
+Approval Date: 2023-11-02 - 1:10:17 AM GMT - Time Source: server- IP address: 204.90.98.254
+Document emailed to Brian Rusignuolo (brusignuolo@selectmedical.com) for signature
+2023-11-02 - 1:10:19 AM GMT
+Document e-signed by Brian Rusignuolo (brusignuolo@selectmedical.com)
+Signature Date: 2023-11-02 - 5:53:13 PM GMT - Time Source: server- IP address: 204.90.98.254
+Agreement completed.
+2023-11-02 - 5:53:13 PM GMT

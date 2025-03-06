@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "ACC PS 401",
+  "Agreement Classification": "Master Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "ACC Business",
+  "Party1 Role": "provider",
+  "Party2 Name": "Acorn Health",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified",
+  "Signature Date": "12/7/2022",
+  "Term": "36 months",
+  "Renewal Term": "Not specified",
+  "Recurring Monthly Charges": "Not specified",
+  "Nonrecurring Charges": "Not specified",
+  "Services": "AT&T Internet Access as sold by ACC Business aka AT&T High Speed Internet - Enterprise",
+  "Locations": "Coral Gables, FL",
+  "Payment Terms": "Orders for each location will be billed in accordance with the rates in effect at time of order submission.",
+  "effective_date": "Date on which the last party signs the Pricing Schedule",
+  "signature_date": "12/07/2022"
+}

@@ -1,0 +1,58 @@
+Hosted Voice Addendum
+Customer Legal Name: Tipco Technologies, Inc.
+Service Location Address: 9501 Discovery Blvd., Suites 110 &115, Manassas, VA 20109
+Billing Contact and e-mail address: Terri Lyons, territ@tipeotee-eom _terrid@tipcotec.com
+As of the date this Hosted Voice Addendum is signed by Customer (Effective Date), Ten4 and Customer enter into this Agreement
+and, in addition to the terms herein, agree to be bound by Ten4's Hosted Voice Terms and Conditions, which can be found at
+www.ten4.us/hvTC and which are incorporated herein and constitute part of this Agreement.
+1. Service Term
+The Service Term for Hosted Voice Services is thirty-six (36) months from date of install for each location.
+Auto Renewal: Following the Initial Service Term, this Agreement shall renew automatically on a month-to-month basis upon the
+same terms and conditions, and either party either party may terminate at any time with sixty (60) days written notice.
+2. Coverage & Charges
+Services: During the Service Term, Ten4 agrees to provide the following hosted voice equipment and services at the stated rates for
+each site listed herein above, and as may be amended hereafter in writing.
+MONTHLY RECURRING|CHARGES (MRC)
+DESCRIPTION MONTHLY EXTENDED
+QUANTITY
+2 Business Complete Seat w/phone $30.95 $61.90
+2. Polycom VVX 350 - Upcharge $1.91 $3.82
+MRC SUBTOTAL $65.72
+Pricing Excludes Taxes
+NON-RECURRING CHARGES (NRC)
+DESCRIPTION PRICE
+EXTENDED
+QUANTITY
+On-site installation (half day) | $600.00 $600.00
+Remote Setup for Virtual PBX and VoIP services | $199.95 $199.95
+NRC SUBTOTAL $799.95
+Pricing Excludes Taxes & Shipping
+MRC: Customer agrees to pay Sixty-Five Dollars and Seventy-Two Cents ($65.72) per month for a Term of thirty-six (36)
+months, invoiced to Customer on a monthly basis, which shall become due and payable on the first day of each month.
+NRC: Customer agrees to pay a one-time fee of Seven Hundred Ninety-Nine Dollars and Ninety-Five Cents ($799.95) in
+advance, at the time this Agreement is signed.
+In addition to the terms and conditions in the MSA and listed herein, CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE
+BOUND BY ANY UNDERLYING SERVICE PROVIDER CONTRACTS.
+Charges may not include taxes, fees, or regulatory surcharges that may be assessed on the Services (Taxes), and Customer will
+be responsible for all such Taxes. Billing for Services shall commence when this Agreement is signed and shall continue on a
+monthly basis for the Term of Service.
+3. Payments
+Customer will pay all Charges as set forth herein. Ten4 invoices are payable monthly in advance at the beginning of each month
+and are due net thirty (30) days from the date of the invoice. Services may be suspended if payment is not received within thirty (30)
+days following date due.
+4. Emergency Services 911 Dialing
+Customer understands and accepts the requirements and limitations provided in the E911 document, which can be found at
+www.ten4,us/E911 and which are incorporated herein and constitute part of this Addendum.
+1700 Union Avenue, Suite B » Baltimore, MD 21211 » 410-464-8900 » www.ten4.us
+5. Service Level Agreement
+Customer understands and accepts the requirements and limitations provided in the Hosted Voice Service Level Agreement, which
+can be found at www.ten4.us/hvSLA and which are incorporated herein and constitute part of this Contract.
+Acceptance
+Customer has caused this Agreement to be executed below by its duly authorized signatory.
+Client: nt Tipco Technologies, Inc. Distributed Computing, Inc. dba Ten4
+By: Deanna R. Kelly
+The V hb Title: Vice President
+Date: a Prasiclen Date: 12/03/2020
+ Who
+PROPRIETARY & CONFIDENTIAL
+Ten4 + Page 2

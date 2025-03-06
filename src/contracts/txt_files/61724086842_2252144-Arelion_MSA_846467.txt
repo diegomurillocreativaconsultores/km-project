@@ -1,0 +1,546 @@
+*Arelion
+Master Service Agreement
+This Master Service Agreement (this Agreement or MSA"), dated Nov 21", 2023 ("Effective Date), is entered into by and
+between Arelion U.S. Inc., a company duly organized under the laws of the State of Delaware, and having its principal office at
+2325 Dulles Corner Boulevard, Suite 550, Herndon, VA 20171 ("Arelion), and Free Range internet LLC, a company duly
+Organized under the laws of Arizona, and having its principal office at 1440 N 2™ Ave, Ajo, AZ 85321 (the Customer"}:;
+individually referred to as a Party and collectively referred to as the Parties.
+1
+11
+13
+1.5
+24
+Scope and Structure
+This Agreement sets forth the general terms and conditions governing the Parties relationship with respect to the
+purchase by Customer of services from Arelion (the Services") and is entered into with the expectation that Customer
+will submit one or more orders using Avelion's standard service order form ("Orders") to Arelion for the purchase of
+Services pursuant to this Agreement. The Services provided pursuant to this Agreement shall be subject to (a) the terms
+of this Agreement; (b) the applicable Service Level Agreement; and (c) any additional terms and conditions included in
+the Order for the Service.
+From time to time, Custorner may order Services from Arelion subject to a Service Level Agreement that was not initially
+made part of this Agreement, in such event, the Parties agree that the terms of the relevant Service Level Agreement
+will be incorporated into the Agreement and that Service Level Agreement will apply to all such Services.
+The Parties agree that Affiliates (as such term is defined below) of Arelion and/or Customer shall be permitted to enter
+into Orders pursuant to this Agreement, subject to the completion of a credit check and the provision of all required
+information for the submission and processing of payments. Arelion and Customer shall cause their respective Affiliates
+to comply with the terms of this Agreement and shail be liable and responsible for their respective Affiliates
+performance pursuant to each Order and this Agreement. Any references to Arelion and Customer in this Agreement
+are deemed to be references, respectively, to any such Arelion Affiliate or Customer Affiliate that enters into an Order.
+Unless otherwise agreed in an Order, any notices to be provided pursuant to the Agreement, whether to a signatory or
+to an Affiliate, shall be provided to the address set forth in this Agreement for such purpose and the Affiliates shall
+provide appropriate contact and banking information as required to facilitate invoicing and payment.
+The term Affiliate means, in relation to a Party, any entity, whether incorporated or not, which owns, directly or
+indirectly, a majority interest in that Party (a "Parent Company), or in which a fifty percent (50%) of greater interest is
+owned, directly or indirectly, by a Parent Company and, in the case of Arelion, such entity is part of the Arelion group of
+companies providing communications services.
+Term
+The term of this Agreement (the Agreement Term) shall commence on the Effective Date and shail thereafter
+automatically continue in effect unless terminated in writing by either Party with thirty (30) calendar days prior written
+notice, subject to the terms and condtions of this Agreement.
+Each accepted Order shall have its own minimum term as indicated on the Order (the "Service Term"), which shall
+commence in accordance with Section 4 below. If a Service Term is not specified in an Order, the Service Term for the
+relevant Service shail be twelve (12) months. After the expiration of the Service Term, each Order automatically shall
+continue in effect subject to termination by either Party upon thirty (30) calendar days prior written notice or until the
+Parties agree in writing on a new Service Term. in the event that the Service Term for a particular Service extends
+beyond the Agreement Term, such Service(s} shall remain in effect for the agreed upon time of Service, subject to all of
+the terms and conditions of this Agreement as if it were still in effect.
+Confidential and proprietary Information
+Page 3(12)
+*Arelion
+3
+3.1
+3.3
+3.5
+41
+Ordering Services
+Custorner may order Service from Arelion pursuant to this Agreement by submitting a signed Order. Each submitted
+Order shall be considered an offer from Customer and shall be binding on the Parties only when signed by a duly
+authorized representative of Arelion, All Orders shall be subject to availability and acceptance by Arelion. if submitted,
+a Customer purchase order document shall be construed solely as evidence of Customer's internal business processes,
+and any terms, provisions or conditions contained in Customer's purchase order shall be of no force and effect, and shall
+not in any way be deerned to amend, modify, supersede, alter or supplement this Agreement or the applicable Order.
+Upon receipt of an Order, Arellion will use commercially reasonable efforts either to accept or reject the Order within
+five (5) business days, but may extend this interval for Orders involving the provision of services procured from a third-
+party (e.g., local tails). As used in this Agreement, the term business day means a day (other than a Saturday or
+Sunday) when clearing banks are open for the transaction of general banking business in the country or city in which a
+relevant activity is to be performed or the relevant Service is to be rendered.
+Arelion will send Customer via electronic mail a committed date by which the Service will be ready (the Committed RFS
+Date") within twenty-one (21) calendar days from the date of receipt by Aretion of a fully signed and unamended
+version of the Order or, with respect to Services relying upon a service procured by Arelion from a third-party supplier
+("Off-Net Element"), when Arelion receives the committed delivery date from the third-party supplier for the Off-Net
+Element. If the Committed RFS Date is not met, Customer may claim credits according to the applicable Service Level
+Agreement. However, if the Committed RFS Date is not met due to reasons attributable to the Off-Net Element,
+Arelion's sole responsibility will be to pass through to Customer upon request the late delivery credits Arelion actually
+receives from the third party supplier of the Off-Net Element.
+The rates and charges set forth in each Order relying upon an Off-Net Element are contingent upon the performance of
+@ site survey by Arelion. Customer shall provide Arefion with timely information regarding each site and access to the
+site in order to perform a site survey. If after a site survey or the commencement of work at a site, Arelion determines
+that unexpected or additional work, facilities or equipment are required to provide the Service, Arelion will advise
+Custorner and shall reserve the right to modify the charges for the Service upon notice to Customer in order to account
+for any increased costs arising from conditions at the site. If the notified increase is greater than ten percent (10%) of
+the total value of the charges for the Service at the relevant site during the committed Service Term, Customer shall
+have the right to terminate the Service at the affected site upon written notice to Arelion. Such termination right shall
+be Customer's sole and exclusive remedy and shall expire if it is not exercised within ten (10) calendar days of receipt of
+notice from Arelion regarding the increase in charges.
+Delivery and Testing
+When a Service is ready for use by Customer, Aretion will send a notification to Customer by electronic mail. The date
+on which such notice is issued shall be the ready-for-service date (RFS Date"). Customer shall have three (3) calendar
+days to test the Service (the "Testing Period"). The acceptance date for the Service provided by Arefion pursuant to an
+Order shall be the earlier of (a) three (3) calendar days after the RFS Oate, or (b) the date on which Customer notifies
+Arelion of its acceptance of the Service. Uniess Customer notifies Arelion in writing within the Testing Period that the
+Service is not functioning in accordance with the applicable specitications, Customer shall be deerned to have accepted
+the Service and the Service Term for the Service shall commence on the first day following the end of the Testing Period.
+if Customer believes that the Service is not operating in accordance with the specifications set forth in the applicable
+Service Level Agreement, Customer will notify Arelion within the Testing Period and will provide a written explanation of
+the problem, including any test data. Upon receipt of the notice, Arelion will re-test the Service. If Arelion determines
+that the Service is not working in all material respects in accordance with the applicable specifications, Arelion will work
+with the Customer to identify the cause(s) and rectify any problem with the Service that Arelion is responsible for and
+Contidential and proprietary information
+Page 2032)
+*Arelion
+44
+45
+46
+61
+5.3
+5.4
+natity the Customer when the Service Is ready. The process in Section 4.1 will then be repeated, If Arelion determines
+that the Service is working in all material respects in accordance with the applicable specifications or that the cause of
+the Service not working is within Customer's responsibility or that of a third-party not contracted by Arelion, then the
+Service Term will commence as stated in Section 4.1 above.
+Security
+it requested by Arelion in connection with an Order or a proposed assignment, Customer or Customer's Affiliate or
+proposed assignee shail submit a completed credit application. Arelion reserves the right to withhold initiation or full
+implementation of Service or consent to an assignment without penalty pending the completion of a satisfactory credit
+evaluation and Customer may be required to pay a deposit or, with respect to usage-based Services, become subject to
+a limit on the charges that Customer may incur before a payment is required (Credit Limit"). At any time during the
+Agreement Term, Arelion may require or revise a deposit amount or Credit Limit if, in Arelions sole discretion, there is
+a material and adverse change in Customer's financial condition, business prospects, or payment history. The amount
+of the deposit shall not exceed two (2) month's charges (and/or, as the case may be, estimated total monthly charges)
+under the applicable Order.
+Mf Customer fails to provide Aretion with a new or revised security deposit within ten (10) business days of a request
+from Arelion, then Arelion shail have the right to suspend the provision of Service to Customer without liability and/or
+terminate this Agreement and any Orders without further notice or demand, Arelion shall have the right to apply the
+deposit to cure any payment defaults (or to pay any applicable Taxes as defined in Section 6.5) and shall refund any
+remaining amount paid to Arelion pursuant to this Section without interest no later than thirty (30) days after
+termination or suspension of Service,
+if Customer fails to pay any charges incurred in excess of Customer's Credit Limit within three (3) calender days of a
+ftequest from Arelion, then Arelion shall have the right to suspend the provision of Service to Customer without lability
+and/or terminate this Agreernent and any Orders without further notice or demand.
+Invoicing and Payment
+Arelion's charges for each Service shall be set forth in the applicable Order. Customer shall pay to Arelion all recurring
+and non-recurring charges for Service, plus all applicable Taxes (as defined in Section 6.5 below). All payments due
+under this Agreement shall be made by wire transfer or ACH in immediately available funds in the currency specified in
+the relevant Order to the account or accounts designated by Arelion. Payment shall be made directly to Arelion by
+Customer from an account registered in Customer's name. Arelion shall have the right to reject any payment submitted
+by a third-party or from an account registered to a third-party, and such rejection shall not reliewe Customer of its
+obligation to make payment in accordance with this Agreement.
+The Service will be invoiced as from the start of the Service Term. The invoice will include the monthly recurring charges
+for the Service (including committed charges for Service billed on a usage basis) (the "MRC(s)") and, as applicable, non-
+recurring charges. When the Service Term starts on a day other than the first day of the month or terminates on other
+than the last day of the month, the charge for that month shall be determined by pro-rating the monthly payment by
+the number of days during which Service was provided,
+Arelion will invoice MRCs and non-recurring charges monthly in advance and usage-based charges exceeding an agreed
+comenitment in arrears. Arelion will provide Custorner with an invoice for Service and Customer shail pay Arelion in full
+within thirty (30) calendar days of the date of the invoice (the Due Date"). Subject to the provisions of Section 6.4
+below, if Arelion does not receive full payment by the Due Date, Arelion may (a) charge Customer interest on the unpaid
+balance at the rate of 18% per annum or the highest lawful rate, whichever is lower, (b) require a deposit or impose a
+credit limit pursuant to Section 5 above, and/or (c) suspend or terminate Service pursuant to Section 7 below. Customer
+shall pay all costs and expenses, including, without limitation, reasonable attorneys fees, incurred by Arelion in
+collecting past due balances.
+*Arelion
+5.5
+6.5
+6.6
+71
+63
+6.4
+if Customer, in good faith, disputes any charges invoiced by Arefion, Customer (a) shall provide Arelion with written
+notice explaining the factual or legal basis for the dispute (with reasonable support to identify the nature of the billing
+dispute) prior to the Oue Date, (b) may withhold the amounts specifically in dispute and identified in the dispute notice,
+and (c) shall pay all other amounts prior to the applicable Due Date in full and in accordance with this Agreement,
+Failure by Customer to notify Arelion in writing of a dispute by the applicable Due Date of the invoice on which a charge
+appears shall be deemed acceptance of the validity of the invoice and charge, and waiver of all disputes in connection
+with the invoice. The Parties will make a good faith effort to resolve billing disputes as expeditiously as possible. if a
+dispute is resolved in favor of Customer, then Customer shall receive a credit on its next invoice for the disputed
+amount, If a dispute is resolved in favor of Arelion, then Customer shall make payment of the disputed amount
+withheld by Customer plus interest within thirty (30) calendar days of the resolution of the dispute.
+Unless agreed otherwise in an Order, all prices shall be exclusive of sales, use, excise, franchise, utility, VAT, gross
+receipts and any other similar taxes, duties, regulatory fees or surcharges (including federal and state universal service
+surcharges or contribution arnounts }, or levies (other than income tax) incurred, contributed by or charged to or against
+Arelion because of the sale, use or provision of Service by Arelion to Customer ("Tax"). In the event such a Tax becomes
+Gue or is applicable, the respective amount will be added to the charges payable by Customer and specified in the
+relevant invoice. Charges shall not include any taxes for which Customer previously has furnished Arefion with a valid
+and up-to-date exemption certificate. iM Customer is entitled to an exemption from any Tax in connection with a
+particular Service, Customer shall provide Arefion with a current copy of a valid exemption certificate. Arelion will give
+effect to any valid exemption certificate on a prospective basis after Aretions receipt of such exemption certificate,
+Customer shall indemnify, defend, and hold harmless Arelion from all Taxes and related penalties and interest that may
+be assessed on Arelion for disallowed or invalid exemption certificates. Upon request, Customer shall provide Arelion
+with a certificate of tax residency.
+Customer shall make payment free and clear of any deduction or withholding on account of any tax, duty or other
+charges of whatever nature imposed by any taxing or governmental authority. If Customer is required by any law,
+regulation or order issued by a taxing or governmental authority to make any such deduction or withholding, Custorner
+shall, together with the relevant payment, pay such additional amounts as will ensure that Arelion actually receives and
+is entitled to retain, free and clear of any such deduction or withholding, the full ammount which it would have received if
+no such deduction or withholding had been required.
+Suspension and Termination
+In the event of a breach of any material term or condition of this Agreernent by a Party, excluding a failure by the
+Customer to pay amounts due under the Agreement, the non-breaching Party may terminate any Orders affected by the
+breach upon thirty (30) calendar days price written notice, unless the breaching Party cures the breach during such
+thirty (30) day period,
+Either Party may terminate this Agreement, subject to applicable law, immediately in the event that the other: (a)
+becomes insolvent; (b) files or initiates proceedings or has proceedings filed or initiated against it, seeking liquidation,
+reorganization or other relief (such as the appointment of a trustee, receiver, liquidator, custodian or such other
+official) under any bankruptcy, insolvency or other similar law; (c) makes an assignenent for the benefit of the creditors
+Of makes an application to a court of competent jurisdiction for protection from its creditors; (d) admits in writing its
+inability to pay its debts as they mature: or (e) ceases to function as a going concern or to conduct its operations in the
+normal course of business.
+in the event that Custorner defaults by failing to pay any amount due to Arelion that has not been disputed in good
+faith in accordance with Section 6 of this Agreement and does not cure such default within ten (10) calendar days of
+receipt of written of electronic notice from Arelion, then Arelion shall, in addition to any rights or legal or equitable
+remedies that it may have under this Agreement or by law, have the right to (a) suspend the provision of Service
+pursuant to any Order(s) or this Agreement without any liability or further notice until such time as Customer has paid
+all past due amounts in full, including any interest, and/or (b) terminate the Agreement and/or Order(s).
+Contidential and proprietary information
+Page 4(22)
+*Arelion
+65
+8.1
+7.3
+74
+75
+76
+Upon termination of this Agreement for any reason, all rights of Customer to order new or additional Service under this
+Agreement will cease, and Customer shall be obligated to pay for all Services rendered and deliverables provided
+through to the effective date of such termination. Customer agrees and acknowledges that the loan or use of any IP
+addresses shall terminate and the IP addresses shall revert and be returned to Arelion without delay when this
+Agreement and/or any related Orders hereunder are terminated.
+In the event that this Agreement or an Order is terminated by Arelion by reason of Custorners breach pursuant to this
+Section 7, of is cancelled by Customer in the absence of a material breach by Arelion, Customer shall pay to Arelion an
+early termination charge equal to (a) one-hundred percent of the MRCs that would have become due for each month
+of pro-rated portion thereof in the unexpired portion (if any) of the first twelve (12) months of the Service Term, and
+(b) seventy-tive percent of the MACs that woukd have become due for each month or pro-rated portion thereof in the
+unexpired portion (if any) of months thirteen (13) through the remainder of the originally scheduled Service Term. In
+addition, Customer shall reimburse Arelion for any third-party termination or cancellation charges incurred by Arelion
+a5 a result of the termination or cancellation by Customer. Such charges shall be payable within thirty (30) calendar
+days of the date on which Arelion provides an invoice for such early termination charges. Customer agrees and
+acknowledges that the actual damages in the event of such termination or cancellation would be difficult or impossible
+to ascertain, and that the charge in this Section is intended, therefore, to establish a pre-estimate of the loss and is not
+intended as a penalty,
+Provision and Use of Service
+The Service shall be provided im accordance with the applicable Service Level Agreement. Customer agrees and
+acknowledges that Service may be provided in areas outside of the country where Arelion Is licensed to provide service
+through Affiliates, provided. However, that Arelion shall continue to bill Custorner for such Services and to serve as
+Customer's point of contact for ordering and billing matters. All Service provided through a Arelion Affiliate outside of
+the country where Arelion is licensed shall be subject to, and governed by, the terms and conditions of this Agreement.
+Each Party will provide the other with any reasonable information (including without limitation design layout, circuit
+facility assignment, and other information), access and assistance required to install, test, inter-connect, maintain and
+repair the Service, The Service provided by Arelion pursuant to the Agreement shall only be used for purposes intended
+under the Agreement, and in accordance with all applicable laws, orders, rules and regulations. Aretion shall be
+entitled, at its option, to immediately suspend Service if in its opinion the Service is being used in a manner that may
+result in liability or other damage for Arelion or any of Arelion's customers. Arelion reserves the right to involve and
+co-operate with the police or other relevant authorities if a criminal violation is suspected, in order to bring such
+misuse and/or violation to an end,
+Each Party agrees to conduct Its operations in a manner that does not interrupt, impair or interfere with the operation
+of the other Party's network or services. The Service shall be provided subject to Arelions Acceptable Use Policy, which
+is hereby incorporated by reference and shall be provided to Customer upon request and can be accessed at Arelions
+website (https://www.arelion.com/legal. html). The Parties agree that if Arelion, in its sole discretion, determines that
+an emergency action is necessary to protect its own network, then Aretion may block any path over its network used by
+Customer.
+Customer has sole responsibility for installation, maintenance, testing and operation of facilities, services and
+equipment other than those specifically provided by Arelion as part of a Service provided in connection with this
+Agreement or an Order. Customer shall be responsible for ensuring that services, equipment, cabling and/or
+connections ordered by Customer from third-parties are provided and available at the sarne time as the Services being
+provided by Arelion. iin the event such Customer-ordered services, equipment, cabling and/or connections or other
+services are not ready at such time as the Services provided by Arelion pursuant to Section 4 of this Agreement, Arelion
+shall have the right to begin billing for its Services.
+Arelion will provide Service only up to the relevant demarcation point and shall not be responsible for providing any
+facility, equipment, access or Service on the Customer side of the demarcation point. The demarcation point shall be
+daa a
+Contidential and proprietary information
+Page 5( 12)
+*Arelion
+the point at which Arelions responsibility to provide access, equipment and Service ends and where Customer's
+responsibilities begin, as identified on the applicable Order. Arelion will not be responsible for providing any access,
+equipment or Service on the Customer side of the demarcation point or for providing in-house cabling, connectivity or
+conduits unless specifically agreed in writing in the Order by the Parties.
+7.7 \f Arefion installs any facilities or equipment on the Customer premises for purposes of providing Service, Customer (a)
+shall be liable for any loss or damage to Arelions facilities or equipment arising from the negligence, intentional act, or
+unauthorized maintenance or other cause, including theft, of Customer or its employees or agents, (b) will provide
+Arelion (or its designated subcontractors} access to such facilities of equipment as required for Arelions proper
+performance of its obligations and to provide Service, (c} shall nat, and shall not permit any third-party, to repair,
+disconnect, alter, rearrange or tamper with Arelion's facilities or equipment, (d) will be responsible for providing and
+maintaining, at its own expense, the space, the level of power (including the necessary grounding as is required for the
+installation), heating and air conditioning, and humidity levets necessary to maintain the proper environment for the
+equipment, and (e) will provide Arelion upon termination or expiration of the Agreement or an Order with access to its
+premises to facilitate Arelion's removal of its property and equipment.
+7.8 Customer understands and agrees that Arelion is an intermediary for the transenission of the Customer's and third-party
+information, and that Arefion does not audit. select nor modify the information or content contained in these
+transmissions, except as required by law. Arelion shall have no liability or responsibility for any information, content,
+software, service, data, program, virus of product accessed, transmitted, provided or distributed via the Service.
+Customer understands and agrees that use of data communications networks and the Internet may not be secure and
+that connection to and transmission of data and information over the Internet and such facilities provides the
+opportunity for unauthorized access to computer systems, networks, and all data stored therein.
+7.9 During the Agreement Term, Arelion may modify the contiguration and specifications of the Services, provided such
+modifications are necessary due to technical, economic or regulatory developments or to maintain the quality standard
+of the Services offered by Arelion and will not affect the essential characteristic features of the Services ordered
+7.10 The Agreement and the provision of the Services, equipment and the use of any software embedded or included in such
+equipment does not and shall not be construed to transfer, assign, convey or grant to Customer any right, title and/or
+interest in the equipment, the software, the Service or any intellectual property of any type.
+8 Limitation of Liability
+9.1 Neither Party shall be liable to the other Party, in contract, tort (including negligence) or for breach of statutory duty or
+in any other way for (a) any economic loss, loss arising from or in connection with loss of revenues, profits, contracts,
+customers or business or from failure to realize anticipated savings, (b) any loss of goodwill or reputation, (c) the loss or
+corruption of any data, and/or (d) any Indirect, consequential, special, incidental, exemplary or punitive loss or damage,
+in connection with this Agreement whether or not the Party knew or should have known of the possibility of such
+damages in advance.
+9.2 Subject to Sections 9.1 and 9.3, each Partys lability under or in connection with this Agreement (whether in tort,
+contract or otherwise) shall be limited to the lower of amount(s) paid by Customer for the Service affected by the event
+giving rise to the liability during the six (6) months prior to the event giving rise to the liability.
+9.3 Nothing in this Agreement shall limit or exclude a Party's liability for death or personal injury resulting from negligence,
+amounts due for Services provided under this Agreement, or for any other type of liability, loss or damage which by
+applicable law cannot be limited or excluded,
+94 Except as provided in this Agreement, Arelion makes no other warranty, express or implied, as to the description,
+quality, merchantability completeness, or fitness for any purpose of any Service or space provided or arranged in
+connection with this Agreement or any other matter, all of which warranties are hereby expressly excluded and
+disclaimed.
+i SS
+Contigential and proprietary Information
+Page 0412)
+*Arelion
+95
+10.1
+9.3
+10
+11.1
+10.3
+11
+Except as set out in the Service Level Agreement for the relevant Service, Arelion shall not be liable to pay any damages
+in connection with the failure or inability to satisfy the service levels set out in the Service Level Agreement or for any
+loss or damage sustained by Customer (or Custorners customers) due to any degradation in the quality of the Service,
+the failure or breakdown of any facilities or equipment used in providing the Service, the loss or corruption of data, or
+any issues pertaining to the content or information transmitted or any interruption to the Services, regardless of the
+Cause or duration thereof.
+Force Majeure
+In no event shall elther Party have any claim or right against the other Party for any failure of performance by such
+other Party (excluding payment obligations) if such failure of performance is caused by or is the result of causes beyond
+the reasonable contro! of such other Party (a Force Majeure Event"), including, but not limited to, fire, lightning strikes,
+flood or other natural catastrophe; laws, orders, rules, regulations, directions or actions of governmental authorities
+having jurisdiction over the subject matter of this Agreement or any civil or military authority; the condemnation,
+compulsory purchase or taking by eminent domain of a Party's facilities used in connection with the Service; a fiber cut
+caused by a third-party; the insolvency of an underlying facility provider or other supplier; national emergency,
+insurrection, terrorism, riot or war; labor strike that effects delivery of committed service or other similar occurrence
+recognized as a Force Majeure Event under applicable law and jurisprudence.
+Notwithstanding anything in this Agreement to the contrary, if a failure of performance caused by a Force Majeure
+Event exceeds thirty (30) calendar days, either Party may terminate the affected Order(s) immediately on written notice
+to the other Party, without incurring any Ilability. Such right of termination must be exercised, if at all, prior to the end
+of the Force Majeure Event period, The claiming Party shall have no liability to the other Party as a result of a Force
+Majeure Event.
+indemnification
+Each Party shall indemnity and hold the other Party harmiess from any third-party claims, losses and expenses (including
+reasonable legal fees) with respect to damage to tangible property, personal injury or death caused by such Party's
+negligence or willful conduct. Customer agrees to indemnify and hold Arelion harmiess from any and aif claims arising
+from Customer's use of the Service and from any all claims brought by Customer's subscribers, customers or end-users
+resulting from any use of the Service via or through Customer.
+in all instances in which one Party (the Indemnifying Party) is obligated to indemnify another (the Indemnified
+Party") as provided for in this Agreement, the indemnified Party shall notify the Indemnifying Party promptly after
+becoming aware of the claim, damage, loss, suit or other event (the Claim") giving rise to its right of indemnification
+hereunder. The Indemnified Party shall provide the Indemnifying Party reasonable cooperation (e.g., providing copies
+of documents or testimony of witnesses), at the Indemnifying Party's expense, in the defense of the Claim. The
+indemnifying Party shall have control over the defense of the Claim, provided that the Indemnified Party shall have the
+right to participate in a secondary role at its own cost and expense with counsel of its selection, Any settlement or
+compromise of a Claim initiated or entered into by an Indemnifying Party must receive the prior written consent of the
+Indemnified Party, such consent not to be unreasonably withheld, conditioned or delayed.
+Subject to Laws
+This Agreement, and each Order, is subject to all applicable laws, and regulations, rulings and orders of governmental
+agencies and the obtaining and continuance of any required approval or authorization of any governmental body or
+agency. Either Party may terminate its obligations under this Agreement without liability if ordered to do so by the final
+order or ruling of a court or other governmental agency or if such an order or ruling makes it impossible for either Party
+to carry out Its obligations under this Agreement. The Parties contemplate that at least ten percent (10%) of the traffic
+carried over the Service will be interstate or international. If it is determined at any time that any interexchange service
+Confidential and proprietary Information
+Page 7112)
+* Arelion
+or circuit is subject to state regulation, then Arelion may terminate the affected Service upon written notice without
+ability.
+12.2 Each Party represents, covenants, and warrants that it will refrain from any activity in connection with this Agreement
+that would constitute a violation of the provisions of any applicable law governing bribery or corruption (collectively the
+Anti-Corruption Rules). in performing this Agreement, neither a Party nor any of its officers, directors, employees,
+agents, or shareholders acting on its behalf shall give, offer, pay, promise, request to pay, or otherwise authorize the
+payment of, directly or indirectly, any money or anything of value to any officer or employee of any government,
+consultants, agents, business partners or third-parties for the purpose of influencing any act or decision of such party or
+official or of the government or to secure any improper advantage in obtaining or retaining business for or with, or
+directing business to, any person. Neither Party shall request or accept any bribes or other corrupt payments from the
+other Party. Frorn time to time, at the reasonable request of the other Party, each will confirm in writing that it has
+complied with its undertakings under this Section and will provide any information reasonably requested in support of
+such compliance, Any breach of this Section shall give the non-breaching Party the right to terminate the Agreement
+without prejudice to any other rights and remedies available.
+11.3 During the Agreement, cach Party will comply with applicable data protection laws and shall implement appropriate
+technical and organizational measures in compliance with applicable law to protect Customer data against accidental or
+unlawful destruction, accidental loss, alteration, unauthorized disclosure or access, and against other unlawful forms of
+processing. In the event of a data breach involving personal information, the Party becoming aware of the breach will
+promptly notify the other Party of such breach and provide any information the other Party requires in order to comply
+with its obligations under the applicable data protection laws. Where personal data is provided by one Party to the
+other Party in relation to the Agreement for the purposes of each Party fulfilling its contractual obligations, each Party
+will process personal data as data controller strictly in accordance with the applicable data protection laws, Neither
+Party will process personal data on behalf of the other Party as data processor for the purposes of this Agreement. If
+either Party anticipates that any change to this Agreement and/or the scope of Services would require the processing of
+personal data on the other Party's behalf as data processor, then the relevant Party will immediately notify the other in
+writing and the Parties will negotiate in good faith to incorporate appropriate provisions into the Agreement in
+accordance with the applicable data protection laws. No such processing will be made until appropriate provisions have
+been agreed in writing by the Parties,
+12 Trade and Sanctions Compliance
+13.1 The term "Prohibited Party List shall refer to any list of prohibited, blocked, denied, restricted, embargoed, designated
+or sanctioned parties, as may be in force and amended from time to time, including but not limited to the lists
+maintained by the government of the United States of America (e.g., including without limitation the Specially
+Designated Nationals and Blocked Persons List maintained by the U.S. Department of the Treasury, the Entity List,
+Denied Persons List and/or Foreign Adversary List maintained or designated by the U.S. Department of Commerce (815),
+the list of statutorily or administratively debarred parties maintained by the Directorate of Defense, Trade Controls of
+the U.S. Department of State}, the European Union (e.g., the Consolidated list of persons, groups and entities subject to
+EU financial sanctions) and/or its member states, and any other government authority.
+12.3 Customer represents and warrants that (a) Customer, including its employees, officers, directors, representatives,
+agents, Affiliates and/or financial institution, is not subject to any sanctions or otherwise listed or included on a
+Prohibited Party List, and (b) Customer is not directly or indirectly owned fifty percent (50%) or more in the aggregate
+by one or more persons, entities or organizations listed on any Prohibited Party List. nor controlled by, or acting on
+behalf of or for the benefit of any party or parties included on any Prohibited Party List. Customer shall provide Arelion
+with complete and accurate information in writing detailing its direct and/or indirect ownership upon request and
+immediately shall notify Arelion in writing about any change of ownership, control and/or other circumstances that
+would place Customer in breach of the representation and warranty made in this Section.
+124 Customer hereby acknowledges and agrees that the use of the Services, which term is inclusive of any related goods,
+technology, information, equipment and/or software provided by Arelion, may be subject to import, export and trade
+*Arelion
+sanctions laws ("Trade Laws") and shall be solely responsible for its compliance with all applicable Trade Laws.
+12.5 During the Agreement Term, Customer, at all times, shall: (a) use the Services in compliance with all applicable Trade
+13
+13.1
+Laws, (b) not directly or indirectly resell, assign transfer, transmit, make available export, re-export, or provide the
+Services, directly or indirectly, to any country, destination, corporation, organization, entity or person on a Prohibited
+Party List or in violation of any Trade Laws or any prohibited end-use pursuant to Trade Laws, and (c} shall not do
+anything which would cause Aretion to be in violation of any Trade Laws. If requested by Arelion, Customer agrees to
+provide written assurances and sign other documents as may be reasonably required for Arelion to comply with
+applicable Trade Laws. The breach of any of the representations and warranties set forth above and/or the failure by
+Customer to comply with any part of this Section shall constitute a material breach of this Agreement that is not
+susceptible to cure or subject to a cure period. In the event of such a material breach, Arelion shail have the right upon
+written notice to Customer and with immediate effect to suspend the performance of any Services and/or to cancel or
+terminate any Order or this Agreement without liability or further obligation to Customer.
+Non-Disclosure
+The Parties agree that Confidential Information received from the other Party shall be kept confidential. The term
+Contidential Information shall include all information made available by or on behalf of one Party (the Disclosing
+Party) to the other Party (the Receiving Party) under or in connection with this Agreement, including but not limited
+to (a) the rates, terms and conditions of this Agreement, including any Orders, (b) all information, data, know-how,
+trade secrets or other material pertaining to the operations, technology, intellectual property, programs, strategies,
+business plans, finances, personnel, customers, suppliers, markets, network, sales, prices, policies or business affairs of
+the Disclosing Party or its Affiliates, (c) all information which is marked as proprietary, confidential or with words of
+similar meaning, (d) information otherwise supplied orally with a contemporaneous contidential designation, or (e)
+information which is known by the Receiving Party to be confidential or proprietary information or documentation of
+the Disclosing Party. The Parties agree that the terms and conditions of this Agreement and all exhibits referenced
+herein, as well as any invoices for Service provided hereunder, are Confidential Information.
+Contidential Information shall not include information that (a) is or becomes part of the public domain through no fault
+of the Receiving Party or breach of this Agreement, (b) is rightfully received by the Receiving Party from a third-party
+not acting in breach of an obligation of confidentiality owed to the Disclosing Party, (c) is independently developed by
+the personnel of the Receiving Party or any of its Affiliates without access to the information disclosed by the Disclosing
+Party, (d) is rightfully known to or possessed by the Receiving Party or its Affiliates, as evidenced by the written records
+of the Receiving Party or its Affiliates, as the case may be, prior to its receipt from the Disclosing Party, or (c) is
+disclosed by the Receiving Party with the Disclosing Party's prior written consent. The Party claiming that any of the
+exceptions set forth in this Section apply shall have the burden of proof to establish such applicability.
+Each Party agrees {a) to hold the other Partys Confidential Information in strict confidence and to disclose the
+information only to those of its employees or permitted third- parties with a legitimate need to know such information,
+(b) to exercise at least the same care in protecting the other Party's Confidential Information from disclosure as the
+Party uses with regard to its own Confidential Information, but in any event no less than a reasonable degree of care,
+and {c) not to disclose such Contidential Information to third-parties, excluding employees of an Affiliate, independent
+they agree in writing to comply with confidentiality requirements no less restrictive than those contained in this
+Section, Notwithstanding the foregoing, Receiving Party may disclose Confidential Information of Disclosing Party in
+accordance with a judicial or other governmental order or request or by operation of law, provided that Receiving
+Party, if permitted by law, will notify Disclosing Party thereof in order to allow Disclosing Party a reasonable
+opportunity to seek a protective order or equivalent, provided such notice is permissible.
+Each Party shall be liable for any breach of confidentiality by itself or any of its agents, Affiliates or representatives.
+Receiving Party shall notify Disclosing Party immediately upon discovery of any unauthorized use of disclosure of
+Confidential information or any other breach of this Agreement by Receiving Party and/or its employees, consultants or
+contractors, and will cooperate with Disclosing Party in every reasonable way to assist Disclosing Party to regain
+Contigential and proprietary information
+Page 912)
+*Arelion
+possession of the Confidential information and prevent its further unauthorized use or disclosure. Notwithstanding
+termination of this Agreement, the Parties obligations under this Section shall remain in full force and effect with
+respect to confidential knowledge and information for a period of one (1) year after the termination date of this
+Agreement.
+13.6 Neither Party shall have the right to use the other Party's or its Aftiliates trademarks, service marks or trade names or
+to otherwise or to make a public announcement or to refer to the Agreement or any Orders without the consent of the
+other Party, Notwithstanding the foregoing, either Party may make an announcement concerning this Agreement or
+any ancillary matter if required by law or by any securities exchange or governmental body with jurisdiction over the
+Party.
+14 Notices
+Formal notices under this Agreement (in particular in relation to its termination, breach, assignment or the new address for
+notices} must be in writing and delivered to the address of the Party set out in the first paragraph of this Agreement and such
+Purpose or with respect to past due amounts) may be delivered by electronic mail to the relevant contact person on a case by
+Case basis, and shall be deemed received by the other Party on the business day following the sending of the electronic mail,
+15 Assignment
+This Agreement shall be binding upon, and inure to the benefit of, the Parties and their respective permitted successors and
+assigns. Neither Party shail assign or otherwise transfer this Agreement or an Order without the prior written consent of the
+non-assigning Party, provided, however, that, either Party may assign this Agreement or an Order or its rights and obligations
+thereunder to: (a) an Affiliate; (b) pursuant to any sale or transfer of all or substantially all the assets of the assigning Party: or
+(c} pursuant to any merger or acquisition; provided, further, however, that the assignee shail agree in writing to be bound by
+the terms of this Agreement and, when Customer is the assigning Party, the assignee shall have a credit profile equal to or
+stronger than the assigning Party as reasonably determined by Arelion. Any purported assignment without a required consent
+oF that is not permitted by this Section 16 shall be deemed void and shall entitle the non-assigning Party to terminate this
+Agreement and the Services provided hereunder at its option upon ten (10) calendar days prior written notice.
+16 Relationship of the Parties
+16.1 Nothing in this Agreement will be deemed or construed to create any third-party beneficiary or any relationship of
+principal and agent, partnership or joint venture between the Parties, Unless otherwise specifically authorized in
+writing, no Party shall make any express or implied agreements, guarantees or representations, or incur any debt in the
+name of or on behalf of the other.
+16.3 Customer is the service provider with respect to its end-users and Arelion is merely a supplier to Customer with no
+relationship to Customer's end-users. The Parties agree and acknowledge that Customer shall assume all credit risk
+associated with Customer's end-users and that delays o failures in obtaining such payments from end-users shall not
+atfect of relieve Customer of its responsibility to make payments to Arelion pursuant to this Agreement
+16.4 Arelion may subcontract the performance of any of its obligations under this Agreement; provided, that Arelion's use of
+@ subcontractor shall not relieve Aretion trom any of its obligations under this Agreement.
+17 General Warranties
+Each Party represents and warrants that (a) the person executing this Agreement has the right, power and authority to
+=a aa
+Page 10{12)
+*Arelion
+execute documents and to contractually bind the executing Party; and (b) it has received all necessary permits, licenses, and
+approvals necessary to provide or use the Services.
+18 Rules of Construction
+18.1 The headings contained in this Agreement are for convenience only and are not intended to describe, interpret, define
+or limit the scope, extent or intent of this Agreernent or any provision hereof. All provisions that can be given proper
+effect only if they survive the termination or expiration of this Agreement will survive the termination or expiration of
+this Agreement.
+18.3 Should any terms of conditions within this Agreement, any appendix, and/or any Order be in conflict with or
+inconsistent with one another, the documents shall be interpreted in the following order of precedence: (a) the Order,
+(b) the applicable Service Level Agreement, and (c} this Agreement.
+18.4 if any one of more of the provisions of this Agreement shall for any reason be held to be invalid or unenforceable, the
+remaining provisions of this Agreement shall be unimpaired and shall remain in effect and be binding upon the Parties.
+In such event, the Parties agree to negotiate, in good faith, substitute valid provision(s) that most nearly approximate
+the Parties intent.
+18.5 No waiver of a default or breach of any provision of this Agreement or the failure or delay of the nonbreaching Party to
+exercise its remedies hereunder shall constitute a waiver or bar the non-breaching Party from enforcing its rights under
+this agreement with respect to the existing breach or any other subsequent default or breach. All provisions that can be
+given proper effect only if they survive the termination or expiration of this Agreement will survive the termination or
+expiration of this Agreement.
+19 Governing Law and Venue
+This Agreement shall be construed and enforced in accordance with, and the validity and performance hereof shall be
+governed by the laws of the Commonwealth of Virginia. The Parties irrevocably consent and submit to the jurisdiction in the
+courts of competent jurisdiction located in the Commonwealth of Virginia for all matters arising under this Agreement.
+20 Entire Agreement
+This Agreement (including any appendices, exhibits, attachments and/or schedules attached hereto) constitutes the entire
+Agreement between the Parties with respect to the matters set forth herein and correctly sets forth the rights, duties, and
+Obligations of each Party to the other as of the Effective Date. The Parties agree and acknowledge that they have not relied
+upon any prior agreements, promises, or representations in entering into this Agreement,
+21 Amendments
+No alteration or variation of the terms of any provision of this Agreement shall be valid unless made in writing and signed by a
+duly authorized representative of each of Arelion and Customer.
+Each Party agrees that the electronic signatures of the Parties included on this Agreement are intended to authenticate this
+Agreement and to have the same force and effect as manual signatures. The term electronic signature means any electronic
+symbol and/or process attached to or logically associated with a document and executed by a Party with the intent to sign
+such document, including facsimile, e-mail, or other electronic signatures.
+This Agreement may be executed in counterparts, In confirmation of their consent and agreement to the terms and conditions
+contained in this Agreement and intending to be legally bound thereby, the Parties have executed this Agreement,
+Arelion U.S. inc. Customer
+Conidential and proprietary information
+Page 13112)
+*Arelion
+Rrei*
+Contidential and proprietary Information
+Page 12112)

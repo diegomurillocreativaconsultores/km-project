@@ -1,0 +1,64 @@
+Hosted Voice Service Order Form     
+1700 Union Avenue, Suite B • Baltimore , MD 21211  • 410-464-8900 • www.te n4.us 
+Customer Legal Name :  Keller Williams Cornerstone Realty   
+Service Location Address :  2230 US Highway 206, Suite 4, Belle Mead, NJ 08502   
+Billing Name & Email :    
+Sales Representative :  Mary Suranofsky   
+Service Term  
+The Service Term for Hosted Voice Services is thirty -six (36) months from date of install for each location.  
+Auto Renewal: Followi ng the Initial Service Term, this  SOF shall renew automatically on a month -to-month basis upon the same terms 
+and conditions, and either party may terminate at any time with sixty (60) days written notice.  
+Coverage  & Cost  
+Services : During the Service Term, Ten4 agrees to provide the follow ing hosted voice equipment and services at the stated rates for 
+each site listed herein, and as may be amended hereafter in writing. Charges listed may not include taxes, fees, or regulatory 
+surcharges that may be assessed on the Services (Taxes), and Cu stomer will be responsible for all such Taxes.  
+MONTHLY RECURRING CHARGES (MRC)  
+QUANTITY  DESCRIPTION  MONTHLY  EXTENDED  
+10 Business Pro Seat w/Phone1 $29.40 $294.00 
+10 Yealink T54W w/Power Supply – Upcharge2 $2.56  $25.60  
+1 Edgemarc  C2E Licensing & Monitoring  $37.95  $37.95  
+1 Domestic Telephone Number (DID)  $0.75  $0.75  
+1 Edgemarc 2900a (C2E)  $9.50 $9.50 
+1 APC Battery Backup (425)  $1.95  $1.95  
+MRC SUBTOTAL  $369.75  
+ Pricing Excludes Taxes & Shipping  
+1 Local and Long -Distance Calling is included; International Calling is NOT included and will be billed additionally.  
+2 Customer agrees there is room for 8 phones in their NJ location and that they will use their existing PoE switch.  
+NON -RECURRING CHARGES  (NRC)  
+QUANTITY  DESCRIPTION  PRICE  EXTENDED  
+1 On-Site Installation (half day)  $360.00  $360.00  
+11 Phone Number LNP and/or Toll Free RESPORG  $5.00  $55.00 
+1 SBC Remote Setup and Configuration3 $375.00  $375.00  
+NRC SUBTOTAL  $790.00 
+ Pricing Excludes Taxes & Shipping  
+3 Customer must provide a static IP. Customer confirms that they are not currently under any term contracts with current prov iders.  
+MRC: Customer  agrees to  pay Three  Hundred Sixty-Nine  Dollars  and Seventy -Five Cents  ($369.75 ) per month  for a Term 
+of thirty -six (36) months  for hosted voice services , invoiced to  Customer  on a monthly basis .    
+NRC:  Customer  agrees to pay a  one-time fee  of Seven  Hundred Ninety  Dollars ($ 790.00) in advance, at the time this Agreement 
+is signed.     
+Payment Method (choose one):  
+AUTO  PAYMENT  OPTION    STANDARD PAYMENT OPTION   
+Our team will contact you  with instructions for providing   Please check here to pay your monthly invoices via check.   
+secure  credit card or ACH payment information.   
+Customer will pay all Charges as set forth in this Agreement. Ten4 invoices are payable at the beginning of each monthly billing cycle  
+and are due net thirty (30) days from the date of the invoice.  Services may be suspended if payment is not received within thirty (30) 
+days following date due.  
+Terms & Conditions  
+Customer  acknowledges they have received, read, a ccepted, and agree to the Ten4 terms of s ervice and conditions incorporated in 
+the following links. www. ten4.us/hvtc ; www.ten4.us/e911 ; www.ten4.us/hvsla . These terms and conditions only apply to Ten4 
+branded and billed services. Other managed services mentioned in t he proposal may have their own MRC or NRC costs and require 
+their own contracts and terms.  
+Keller Williams Cornerstone allcoacct@gmail.com
+ X
+ - PROPRIETARY &  CONFIDENTIAL  - Ten4  • Page 2 Customer further acknowledges that  any Ten4 hosted phone  that is deployed or used  outside of the United States has the following 
+restrictions: (1)  Ten4 will not  support 911/emergency calling ; (2) all calling originates from the United States; (3) those phones  
+must maintain a U .S. phone number . 
+Acceptance   
+Ten4  and Customer  have caused this Agreement to be executed below by their duly authorized signatories .  
+Customer : Keller Williams Cornerstone Realty   Distributed Computing, Inc.  dba Ten4     
+By:     By:  Deanna R. Kelly   
+Title:    Title:  Vice President  
+Date:   Date:       
+8/20/2021
+PresidentRaj Singh
+8/20/2021

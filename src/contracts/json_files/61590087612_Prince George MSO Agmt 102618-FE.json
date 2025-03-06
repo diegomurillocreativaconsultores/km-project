@@ -1,0 +1,28 @@
+{
+  "Agreement Name": "Managed Services Agreement",
+  "Agreement Classification": "Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc.",
+  "Party1 Role": "Provider",
+  "Party2 Name": "Palmetto Prince George Operating, LLC",
+  "Party2 Role": "Client",
+  "Effective Date": "February 19, 2018",
+  "Signature Date": "10/26/2018",
+  "Term": "60 months",
+  "Renewal Term": "60 months",
+  "Recurring Monthly Charges": "$1,430.00",
+  "Nonrecurring Charges": "$11,000.00",
+  "Services": [
+    "Grandstream Telephone System",
+    "Ten4PBX Hosted Solutions",
+    "Sierra Wireless Fixed Cellular (Internet Access)",
+    "Connectivity & Site Services Administration"
+  ],
+  "Locations": [
+    "Prince George Healthcare Center, Georgetown, SC 29440",
+    "Billing Location: Sparks, MD 21152"
+  ],
+  "Payment Terms": "Monthly invoicing, due on the first day of each month",
+  "effective_date": "Not specified",
+  "signature_date": "10/26/2018"
+}

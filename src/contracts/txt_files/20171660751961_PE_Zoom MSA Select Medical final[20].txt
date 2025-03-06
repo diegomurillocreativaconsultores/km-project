@@ -1,0 +1,1367 @@
+Zoom Master Subscription Agreement 2019 v.2 ZOOM VIDEO COMMUNICATIONS
+MASTER SUBSCRIPTION AGREEMENT
+This Master Subscription Agreement (this Agreement) is effective May 22, 2020 (Effective Date) between Select Medical 
+Corporation, a Delaware corporation, having an address of 4714 Gettysburg Road, P.O. Box 2034, Mechanicsburg, PA 17055, 
+and its Affiliates (hereinafter referred to as the Customer), and Zoom Video Communications, Inc. and its Affiliates (Zoom) 
+for Customers use of the Services (defined below) to which Customer has subscribed as specified in one (1) or more Zoom order 
+form(s) (Order Form).  Additional terms may also be set forth in the Order Forms or on Exhibits to this Agreement. In the 
+event of a conflict between the Agreement and an Order Form, the conflicting term(s) in the Order Form will not be considered 
+an amendment to this Agreement but the conflicting term(s) in the Order Form will only apply to that individual order.
+1. Definitions.  The following definitions will apply in this Agreement and the Order Forms, and any reference to the singular 
+includes a reference to the plural and vice versa.  Service specific definitions are found in Exhibit A.
+Affiliate means, with respect to a Party, any entity that directly or indirectly controls, is controlled by or is under 
+common control with that Party.  For purposes of this Agreement, control means an economic or voting interest of at 
+least fifty percent (50%) or, in the absence of such economic or voting interest, the power to direct or cause the direction 
+of the management and set the policies of such entity.
+Agreement means this Master Subscription Agreement, together with all Exhibits and all Order Forms entered into 
+pursuant to this Master Subscription Agreement, each of which is incorporated herein by reference, along with the ITSA 
+and BAA
+Charges is defined in Section 5.
+Claim is defined in Section 15.1.
+Confidential Information is defined in Section 8.
+Customer Content is defined in Section 4.2.
+Customer Data is defined in Section 4.1.
+Downtime means the Services were not available to the Internet due to causes within the reasonable control of Zoom 
+other than scheduled maintenance performed between the hours of 11 pm and 3 am PT.  Downtime does NOT include any 
+inability of Customer to access the Services caused by third parties outside of the control of Zoom (such as internet 
+service providers, network service providers or telecommunications service providers) or caused by Customer hardware, 
+software, systems or networks.
+End User means a Host or Participant (as defined in Exhibit A) who uses the Services.
+Initial Subscription Term means the initial subscription term for a Service as specified in an Order Form.
+Laws means all U.S. or non-U.S. national, regional, state, provincial or local laws, statutes, rules, regulations, 
+ordinances, administrative rulings, judgments, decrees, orders, directives, policies, or treaties applicable to Zooms 
+provision and Customers use of the Services.  
+ Service Effective Date means the date that an Initial Subscription Term begins as specified in an Order Form.
+Renewal Term means the renewal subscription term for a Service commencing after the Initial Subscription Term or 
+another Renewal Term as specified in an Order Form.
+Services means the Zoom Meeting Services and/or Zoom Phone Services described in Exhibit A to which Customer 
+has subscribed as specified in one (1) or more Zoom Order Form(s).
+Taxes and Fees and Taxes or Fees means all applicable sales, use, value-added or regulatory taxes, fees, duties, 
+charges, surcharges or assessments levied on the provision of Services to Customer (exclusive of any income tax imposed 
+on Zoom).
+2. Access, Use, Customer Responsibility.
+Zoom Master Subscription Agreement 2019 v.2 .1 Right to Use.  Zoom hereby grants to Customer a non-exclusive, non-transferable right for Customer to use the 
+Services, subject to the terms and conditions of this Agreement for the Initial Subscription Term and any Renewal 
+Term as specified in applicable Order Form.  Zoom reserves the right to enhance or modify features of the 
+Services but will not materially reduce the core functionality or discontinue any Services without providing prior 
+written notice to Customer.  Customer will receive standard updates to the Zoom Services that are made generally 
+available by Zoom during the term specified in the Order Form.  However, Zoom reserves the right to offer 
+additional functionality or premium feature improvements for an additional cost.  All rights not expressly granted 
+herein are reserved by Zoom and its licensors. Any Affiliate purchasing hereunder will be bound by and comply 
+with all terms and conditions of this Agreement. 
+2.2 Beta Versions.  Zoom or its Affiliates may, from time to time, offer access to services that are classified as Beta 
+version (i.e., a version that is not generally available).  Access to and use of Beta versions may be subject to 
+additional agreements.  Zoom makes no representations that a Beta version will ever be made generally available 
+and reserves the right to discontinue or modify a Beta version at any time without notice.  Beta versions are 
+provided AS IS, may contain bugs, errors or other defects, and Customers use of a Beta version is at the sole risk 
+of the Customer.  Zoom and its Affiliates must have a written Agreement with Customer prior to implementing 
+Beta or test versions of any products. 
+2.3 Customer Use and Responsibility.  Customer may only use the Services pursuant to the terms of this Agreement 
+and all use must conform to Zooms Privacy Policy, Acceptable Use Policy, and to the use limits imposed by the 
+purchased plan level.  Customer is solely responsible for its and its End Users use of the Services and shall abide 
+by, and ensure compliance with, all Laws in connection with its and each End Users use of the Services, 
+including but not limited to Laws related to recording, intellectual property, privacy and export control/economic 
+sanctions, to the extent applicable to said business. 
+2.4 Prohibited Use; Notification of Unauthorized Use.  Customer shall not use, and shall not permit any End User 
+to use, the Services to: (a) modify, disassemble, decompile, prepare derivative works of, reverse engineer or 
+otherwise attempt to gain access to the source code of the Services; (b) knowingly or negligently use the Services 
+in a way that abuses, interferes with, or disrupts Zooms networks, Customer accounts, or the Services; (c) engage 
+in activity that is illegal, fraudulent, false, or misleading, (d) knowingly transmit through the Services any material 
+that may infringe the intellectual property or other rights of third parties; (e) build or benchmark a competitive 
+product or service, or copy any features, functions or graphics of the Services; or (f) use the Services in violation 
+of Zooms Acceptable Use Policy or any other policy referenced herein, or any applicable Law.  Customer shall 
+notify Zoom immediately if it becomes aware of any unauthorized use of any password or account or any other 
+known or suspected breach of security or misuse of the Services.  If Customer becomes aware of any violation of 
+this Agreement in connection with use of the Services by any person, Customer may contact Zoom at 
+violation@zoom.us.  Zoom will investigate any complaints of violations that come to its attention and may take 
+any action that it believes is appropriate, in its sole discretion, including, but not limited to, issuing warnings, 
+removing content, suspending services, or terminating accounts and/or End User profiles. 
+3. Professional Use; No Commercial Transfer.  Customer may subscribe to and use the Services for business purposes, 
+and Customer agrees, if Customer is an individual, that the Services are being purchased in a business or professional 
+capacity.  Customer (excluding Affiliates) may not sublicense, sell, resell, transfer, assign, distribute, use on a timeshare 
+or service bureau basis, or charge fees to other parties for use of the Services
+4. Customer Data and Content; Responsibility for Use.
+4.1 Customer Data.  Customer Data is information provided to Zoom so that Zoom can fulfill the terms of the 
+Agreement and provide access to the Services (e.g., Company name, billing address, contact name and 
+information).  Customer is solely responsible for the accuracy of Customer Data, and Zoom has no liability 
+whatsoever for errors and omissions in Customer Data.
+4.2 Customer Content.  Customer Content is any data or content originated by Customer, or an End User, and stored 
+or transmitted using the Services.  Customer Content includes files, documents, recordings, chat logs, meeting 
+subject and attendees, transcripts, and any other information Customer or End Users may upload into the Services 
+in connection with the use of the Services.  Zoom collects and processes Customer Content only at the direction of 
+Customer and for no other purposes than the provision of Services hereunder.  As between Customer and Zoom, 
+Customer shall retain ownership of all Customer Content.  For the avoidance of doubt, in no event shall Zoom be a 
+Data Controller, as defined in the GDPR, or the substantial equivalent of a Data Controller under any Law. For 
+purposes of Section 8 below, Customer Content is not disclosed to Zoom.
+Zoom Master Subscription Agreement 2019 v.2 .3 Customer Responsibility for Customer Content.  As between Zoom and Customer, Customer is solely 
+responsible for the use of the Customer Content and compliance with all Laws pertaining to the Customer Content, 
+including, but not limited to, Laws requiring Customer to obtain the consent of a third party to use the Customer 
+Content and to provide appropriate notices of third-party rights.  Customer grants to Zoom a limited right to 
+modify, reproduce and distribute the Customer Content, solely in connection with providing the Services.  
+Customer represents and warrants that it has the right to upload the Customer Content to Zoom and that such use 
+does not violate or infringe on any rights of any third party. Under no circumstances will Zoom be liable in any 
+way for any (a) Customer Content that is transmitted or viewed while using the Services, (b) errors or omissions in 
+Customer Content, or (c) any loss or damage of any kind incurred as a result of the use of, access to, or denial of 
+access to Customer Content.  
+4.4 Zoom Obligations for Customer Content.  Zoom will maintain reasonable physical and technical safeguards to 
+prevent unauthorized disclosure of or access to Customer Content, in accordance with industry standards. Zoom 
+will notify Customer within five (5) days if it becomes aware of unauthorized access to Customer Content.  Zoom 
+will not access, view or process Customer Content except (a) as provided for in this Agreement and in Zooms 
+Privacy Policy; (b) as authorized or instructed by Customer, (c) as required to perform its obligations under this 
+Agreement; or (d) as required by Law.  Zoom has no other obligations with respect to Customer Content.
+4.5 Data Processing Agreements and Similar Agreements.  Upon request, Zoom will prepare and execute a data 
+processing agreement or addendum to this Agreement further delineating the Parties responsibilities with respect 
+to information that reasonably identifies a specific individual.
+5. Prices and Fulfillment.  For each Service subscription that Zoom provisions to Customer, Zoom will bill Customer 
+certain non-recurring and recurring charges at prices set forth in the applicable Order Form.  The prices specified in the 
+Order Form include all Zoom charges for the right to use the Services and are exclusive of all Taxes and Fees.  Prices 
+include standard support (see Zoom Help Center) and generally available updates to the Services.  Separate charges for 
+overage amounts and per-use charges may also apply, which charges will be described in the Order Form, and Customer 
+agrees to pay any undisputed charges if Customer incurs them.  Prices for professional services, if any, will be set forth in 
+a professional services Order Form.  All such Zoom charges are referred to as Charges.  
+5.1 Price Changes.  Zoom may change prices for the Services from time to time, in its sole discretion.  Zoom agrees that 
+after the initial Renewal Term, the subscription fee for any Services may not increase by more than five percent (5%) 
+annually per license over and above the subscription fee paid by Customer during the immediately preceding twelve 
+(12)-month period (Price Cap).  Any price changes will be effective upon the commencement of Customers next 
+Renewal Term; provided, that Zoom shall provide Customer with reasonable notice of any such fee increase prior to 
+the expiration of the Initial Subscription Term or any Renewal Term.  Prices for Services may also change if 
+Customer chooses to increase or decrease the number of subscriptions or add Services.  Price changes will be 
+effective at the time Customer makes such changes to Customers account.
+5.2 Discounts and Promotional Pricing.  Prices specified in the Order Form may include discounts or promotional 
+pricing, which are explicitly noted and are not subject to the Price Cap.  These discounts or promotional pricing 
+amounts may be temporary and may expire upon the commencement of a Renewal Term, without additional 
+notice.  Zoom reserves the right to discontinue or modify any promotion, sale or special offer at its sole and 
+reasonable discretion. 
+6. Invoices and Payments.  Unless specified otherwise in an Order Form, Customer shall pay all undisputed invoices within 
+thirty (30) days after receipt of such invoice.  Invoices may be emailed to the address specified by the Customer.  Except 
+as explicitly provided in this Agreement, all payment obligations are non-cancelable and all amounts paid are non-
+refundable.  Zoom shall invoice Customer for all non-recurring Charges, overage and per-use Charges, and associated 
+Taxes and Fees, on the invoice following the provision of Service giving rise to such Charges; and, shall invoice 
+Customer for all recurring Charges and associated Taxes and Fees on the invoice preceding the period in which Services 
+will be provided.     
+6.1 Purchase Order Numbers.  If a Purchase Order Number is required for processing an invoice, Customer will 
+provide such Purchase Order Number with the applicable Order Form. If issuance of a Purchase Order is delayed, 
+Customer will provide a Purchase Order Number within five (5) days of the Service Effective Date via email to 
+billings@zoom.us.  Notwithstanding the foregoing, the thirty (30) day period for payment shall commence as of 
+the applicable invoice date. Such payment period shall not restart based on any delays in issuing a Purchase Order 
+or any other Customer required procurement process.
+6.2 VAT Invoices.  If required by Law, Zoom will issue a VAT invoice to Customer.  
+Zoom Master Subscription Agreement 2019 v.2 .3 Withholding.  To the extent that any amounts payable by Customer are subject to withholding Taxes and Fees, 
+the amount payable shall be grossed up by Customer when Customer remits payment such that the amount paid 
+net of withholding Taxes and Fees equals the amount invoiced by Zoom. 
+6.4 Tax Exemptions.  In the event Customer is exempt from any Tax or Fee, Customer will provide Zoom with all 
+appropriate resale certificates, VAT registration numbers, and/or other documentation satisfactory to the 
+applicable taxing authorities to substantiate such exemption status.  
+6.5 Billing and Contract Information; Billing Disputes.  Customer represents and warrants that the Customer Data 
+provided to Zoom is complete and accurate, to the best of its knowledge.  If Customer believes an invoice is 
+incorrect, Customer must contact Zoom in writing within thirty (30) days of the date of the invoice, and identify 
+the amount in question, to be eligible to receive an adjustment or credit, which adjustment or credit, if any, shall 
+be determined by Zoom in Zooms reasonable discretion after reviews of all relevant information. Zoom will not 
+make any adverse reporting on Customer while a good faith billing dispute is pending and in no instance if 
+amicably resolved. 
+7. Zoom Proprietary Rights.  Zoom or its licensors own and shall retain all proprietary rights, including all copyright, 
+patent, trade secret, trademark, trade name and all other intellectual property rights, in and to the Services.  Zoom shall 
+retain ownership of any suggestions, ideas, enhancement requests, feedback, recommendations or other information 
+provided by Customer or any other party relating to the Services.  The Services are protected by copyright laws and 
+international copyright treaties, as well as other U.S. federal, state and international intellectual property laws and treaties.  
+Customer acknowledges that the rights granted under this Agreement do not provide Customer with title to or ownership 
+of the Services, but only a right to use under the terms and conditions of this Agreement.  
+8. Confidentiality.  Each party agrees to regard and preserve as confidential all non-public information provided by the 
+other party relating to the business, systems, operations, strategic plans, clients, pricing (including, but not limited to, the 
+pricing terms herein), methods, processes, financial data, programs, and/or products of the other party in any form, that 
+are designated as confidential, or a reasonable person knows or reasonably should understand to be confidential (herein 
+Confidential Information).  For purposes of this Agreement, Customers Confidential Information shall include 
+Customer Data, and any information disclosed to Zoom by the Customer relating to the business, systems, operations, 
+strategic plans, clients, pricing, methods, processes, financial data, programs, and/or products of the Customer.  Each 
+party agrees to limit its disclosure of the other partys Confidential Information to as few persons as possible and only to 
+those persons with a need to know that are its or its Affiliates personnel and subject to an obligation to keep such 
+information confidential.  Except as needed to fulfill their respective obligations under this Agreement, neither party shall, 
+without first obtaining the other partys prior written consent, disclose to any person, firm or enterprise, except as 
+expressly permitted herein, or use for its own benefit, or the benefit of a third party, the Confidential Information of the 
+other party. 
+8.1 Exclusions.  Confidential Information shall not include Customer Content or information that (a) is already 
+rightfully known to a party at the time it is obtained from the other party, free from any obligation to keep such 
+information confidential; (b) is or becomes publicly known or available through no wrongful act of a party; (c) is 
+rightfully received from a third party without restriction and without breach of this Agreement or any other similar 
+agreement of confidentiality; or (d) is developed by a party without the use of or reference to any proprietary, non-
+public information provided by the other party under this Agreement. 
+8.2 Exception.  Either party may disclose Confidential Information where required by law, regulation, or court order, 
+provided that the party subject to such law, regulation or court order shall, where permitted, notify the other party 
+within five (5) days, when not precluded by law of any such use or requirement prior to disclosure in order to 
+afford such other party an opportunity to seek a protective order to prevent or limit disclosure of the information to 
+third parties, and further provided that the party required to disclose such Confidential Information only disclose 
+the minimum amount of Confidential Information to be responsive to such law, regulation or court order.  Should 
+either party fail to notify the other party of a request, the party disclosing Confidential Information shall indemnify 
+the other party from any actual harm or prejudice as a result of the failure of notification. 
+8.3 Confidentiality Period and Obligations.  The confidentiality obligations set forth in this section of the 
+Agreement shall remain in effect for a period of five (5) years from the disclosure of the information.  Both parties 
+agree (a) to take reasonable steps to protect the other partys Confidential Information, and these steps must be at 
+least as protective as those the receiving party takes to protect its own Confidential Information, and no less than a 
+reasonable standard of care; (b) to notify the disclosing party promptly upon discovery of any unauthorized use or 
+disclosure of Confidential Information; and (c) in the event of any unauthorized disclosure by a receiving party, to 
+cooperate with the disclosing party to help regain control of the Confidential Information and prevent further 
+unauthorized use or disclosure of it.
+Zoom Master Subscription Agreement 2019 v.2 . Term and Termination; Suspension.  Each Order Form will specify a Service Effective Date, an Initial Subscription 
+Term, and a Renewal Term for the Services subscribed to in that Order Form.  
+9.1 Term and Renewal; Early Termination.  Unless specified otherwise in the Order Form, a Renewal Term will 
+commence automatically upon conclusion of the Initial Subscription Term or prior Renewal Term unless either 
+party sends written notice of termination at least thirty (30) days prior to the commencement of the next Renewal 
+Term.
+9.2 Termination by Either Party.  A Party may terminate this Agreement by: (a) providing written notice of 
+termination without cause to the other party, provided that all subscription terms for all outstanding Order Forms 
+have or will have expired or been terminated, or (b) providing written notice of termination for cause if the other 
+party has materially breached the Agreement and has not cured such breach within thirty (30) days of written 
+notice of such breach.  In the event of termination by Customer under 9.2(b), Customer will be entitled to a refund 
+of Charges paid for Services not yet received as of the date of termination.  
+9.3 Termination or Suspension by Zoom.  In the event Zoom reasonably believes that any End User is in material 
+breach of Sections 2 or 8, Zoom may immediately suspend or disconnect access to such End Users use of the 
+relevant Services, prior to termination for cause as provided above and until such breach is cured.  Zoom may also 
+suspend an End Users use of or access to any Service if it reasonably believes that such suspension is necessary to 
+prevent imminent harm to Zoom, Zooms network, any End User, or any third party communicating with an End 
+User.  Zoom may immediately terminate access if it reasonably believes Customer is in breach of Section 2.4.  
+Any such suspension, disconnection, or termination shall be without liability to Zoom, and Customer will remain 
+responsible for all recurring Charges incurred during the period of suspension or disconnection provided Zooms 
+beliefs as to material breaches were reasonable and Zooms actions in connection with such belief were 
+proportional to the perceived breach. 
+9.4 Termination by Zoom Due to Change in Law.  In the event of any change in Law that has the effect of 
+materially increasing Zooms costs to provide Service hereunder or effectively cancels, changes or supersedes any 
+material term or provision of this Agreement (collectively Change in Law) either party may, on thirty (30) 
+days prior written notice to the other require that they enter into good faith negotiations to revise this Agreement 
+to appropriately address the Change in Law.  If the Parties are unable to agree on such revisions within thirty (30) 
+days from the date of notice, either party may terminate this Agreement with immediate effect.
+10. Responsibilities upon Termination.  
+10.1 Cessation of Use.  Upon any termination of this Agreement, Customer shall immediately cease any further use of 
+the Services.
+10.2 Return of Customer Content.  For thirty (30) days following expiration or termination of this Agreement, Zoom 
+will provide Customer access to retrieve Customer Content, after which time Customer Content will be deleted 
+according to regularly scheduled deletion protocols.  Zoom shall certify destruction of such material, to Customer, 
+at Customers request. 
+11. Service Level Agreement.  Zoom shall make commercially reasonable efforts to ensure that Downtime does not exceed 
+0.1% in any month.  In the event of any Downtime of the Services in excess of 0.1% in any month, Zoom shall provide 
+Customer a credit in an amount equal to the Downtime percentage times Customers monthly subscription amount for the 
+Service.  Customer shall provide Zoom with prompt written notice of any Downtime.  If Zoom fails to correct any 
+Downtime situation within ten (10) business days after receipt of such notice, Customer may terminate this Agreement for 
+breach per § 9 without regard for any further cure period. 
+12. Zoom Marketplace.  The Zoom Marketplace is a site where third party developers may make available applications that 
+are interoperable with the Services and is further defined in Exhibit A.
+13. Managed Domains.  The Managed Domains functionality is made available to certain Customers and is subject to the 
+terms as further defined in Exhibit A. 
+14. Warranties.
+14.1 Limited Warranty.  Zoom warrants to Customer that the Services will, in all material respects, conform to the 
+functionality described in the Zoom Documentation.  Zooms sole and exclusive obligation, and Customers sole 
+and exclusive remedy for a breach of this warranty shall be that Zoom shall use commercially reasonable efforts to 
+Zoom Master Subscription Agreement 2019 v.2 modify the Services to conform in all material respects to the Zoom documentation, and if Zoom is unable to 
+materially restore such functionality within thirty (30) days from receipt of written notice of said breach, Customer 
+shall be entitled to terminate this Agreement upon written notice and shall be entitled to receive a pro-rata refund 
+of the unused Charges that have been paid in advance (if any) under this Agreement.  This warranty shall be in 
+effect for the term of the Agreement ("Warranty Period"). In order to exercise this Warranty, Customer must 
+notify Zoom within 30-days of discovery of any non-conformity and must exercise the right to terminate within 
+sixty (60) days of first obtaining such right to terminate, otherwise the right to terminate is waived.
+14.2 Warranty Disclaimer.  EXCEPT AS EXPLICITLY PROVIDED IN SECTION 14.1, ZOOM AND ITS 
+LICENSORS EXPRESSLY DISCLAIM ANY AND ALL OTHER REPRESENTATIONS AND 
+WARRANTIES, EITHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE WITH RESPECT 
+THERETO, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, OR THE CONTINUOUS, 
+UNINTERRUPTED, ERROR-FREE, VIRUS-FREE, OR SECURE ACCESS TO OR OPERATION OF THE 
+SERVICES AND/OR ZOOM SERVICES.  ZOOM EXPRESSLY DISCLAIMS ANY WARRANTY AS TO THE 
+ACCURACY OR COMPLETENESS OF ANY INFORMATION OR DATA ACCESSED OR USED IN 
+CONNECTION WITH THE SERVICES.  TO THE EXTENT ZOOM CANNOT DISCLAIM ANY SUCH 
+WARRANTY AS A MATTER OF APPLICABLE LAW, THE SCOPE AND DURATION OF SUCH 
+WARRANTY SHALL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW.
+15. Indemnification.  
+15.1 Indemnification by Zoom.  Provided that Customer complies with the terms of Section 15.3 below, Zoom agrees 
+to indemnify, defend and hold harmless Customer from any third party suits, claims or demands and associated 
+liabilities, costs, damages and expenses (including, but not limited to, reasonable attorneys fees, expert fees and 
+court costs) (collectively, Claims) that Customer may sustain or incur arising from (a) infringement by the 
+Services of any copyright, trademark or trade secret of a third party, or any U.S. patent, or (b) from any Claims 
+arising from violation of section 4.4 (Zoom Obligations for Customer Content) or section 8 (Confidentiality) of 
+this Agreement by Zoom or its employees, agents, affiliates, or contractors.  The indemnity in section 15.1(a) will 
+not apply to any Claim that the infringement arose from the combination of the Services with software, hardware, 
+content, data or other items not supplied by Zoom, if it directly caused the issue.  In the event that the licensed 
+Services are, or in Zooms sole opinion are likely to be, enjoined due to the type of infringement described in this 
+Section 15, Zoom, at its option and expense, may (a) replace the applicable Services with functionally equivalent 
+non-infringing technology or (b) obtain a license for Customers continued use of the applicable Services, or, if 
+the foregoing alternatives are not reasonably available to Zoom (c) terminate this Agreement and refund any sums 
+prepaid for Services not provided as a result of such termination.
+15.2 Indemnification by Customer.  Provided that Zoom complies with the terms of Section 15.3 below, Customer 
+agrees to indemnify, defend and hold harmless Zoom and its Affiliates and their respective officers, directors, 
+members, employees, consultants, agents from any Claims directly arising from (a) Customers or Customers End 
+Users use of the Services in violation of this Agreement; (b) any infringement or violation by Customer or any 
+End User of any intellectual property or other right of any person; and (c) Customers or any End Users violation 
+of any Law.  
+15.3 Indemnification Procedures.  In claiming any indemnification under this Section 15, the indemnified party shall 
+promptly provide the indemnifying party with notice of any claim that the indemnified party believes is within the 
+scope of the obligation to indemnify; provided, however, that Customers failure to give such notice shall not 
+relieve Zoom of any of its obligations under this section except to the extent that Zoom is actually prejudiced by 
+such failure.  The indemnified party may, at its own expense, assist in the defense if it so chooses, but the 
+indemnifying party shall control the defense and all negotiations relative to the settlement of any such claim; 
+provided, however, that Zoom shall not compromise or settle any claim in a manner which affects Customers 
+rights, makes admissions on Customers behalf or obligates Customer to take or not take any action, including 
+without limitation the payment of money, without Customers prior written approval, which will not be 
+unreasonably withheld or delayed.  Any settlement intended to bind the indemnified party shall not be final 
+without the indemnified partys written consent, which consent shall not be unreasonably conditioned, withheld, 
+or delayed.
+16. Limitation on Liability.
+16.1 EXCLUSIONS.  ZOOM SHALL NOT BE LIABLE TO CUSTOMER OR ANY THIRD PARTY FOR (a) THE 
+COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES.
+Zoom Master Subscription Agreement 2019 v.2 .2 NO INDIRECT DAMAGES.  IN NO EVENT SHALL EITHER PARTY OR ITS LICENSORS BE LIABLE 
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES OR DAMAGES FOR 
+LOSS OF REVENUES OR PROFITS, LOSS OF USE, BUSINESS INTERRUPTION, LOSS OF DATA, OR 
+THE COST OF SUBSTITUTE PRODUCTS OR SERVICES, WHETHER IN AN ACTION IN CONTRACT OR 
+TORT, EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+EACH PARTY AGREES TO TAKE REASONABLE ACTION TO MITIGATE ITS DAMAGES.
+16.3 AGGREGATE LIABILITY CAP.  EXCEPT FOR OBLIGATIONS OF INDEMNIFICATION OR BREACHES 
+OF CONFIDENTIALITY, IN NO EVENT SHALL EITHER PARTYS LIABILITY FOR ANY DAMAGES 
+EXCEED AN AMOUNT EQUAL TO THE TOTAL CHARGES PAID OR TO BE PAID TO ZOOM UNDER 
+THIS AGREEMENT IN THE PRIOR TWELVE (12) MONTHS PRECEDING THE INCIDENT GIVING RISE 
+TO THE CLAIM.  THIS LIMITATION APPLIES TO ALL CAUSES OF ACTION IN THE AGGREGATE, 
+INCLUDING, WITHOUT LIMITATION, BREACH OF CONTRACT, MISREPRESENTATIONS, 
+NEGLIGENCE, STRICT LIABILITY AND OTHER TORTS.  THESE LIMITATIONS SHALL APPLY 
+NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. 
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, IN NO EVENT SHALL 
+ZOOMS LIABILITY FOR BREACHES OF CONFIDENTILITY AND ITS INDEMNITY OBLIGATIONS IN 
+THE CUMULATIVE AND THE AGGREGATE EXCEED AN AMOUNT EQUAL TO $5,000,000.
+17. Force Majeure.    Neither party hereto will be liable for defaults or delays due to Acts of God, or the public enemy, acts 
+or demands of any government or governmental agency, or other unforeseeable causes beyond its control and not due to 
+its fault or negligence. 
+18. [Reserved] 
+19. Miscellaneous.
+19.1 Choice of Law and Forum.  This Agreement shall be governed by and construed under the laws of the State of 
+New York, U.S.A.  Except as provided in Section 18.4, the parties consent to the exclusive jurisdiction and venue 
+of the courts located in New York County, New York.
+19.2 Export Restrictions.  Customer acknowledges that the Services, or portion thereof may be subject to the export 
+control laws of the United States and other applicable country export control and trade sanctions laws (Export 
+Control and Sanctions Laws). Customer and its End Users may not access, use, export, re-export, divert, transfer 
+or disclose any portion of the Services or any related technical information or materials, directly or indirectly, in 
+violation of any applicable export control or trade sanctions law or regulation.  Customer represents and warrants, 
+to the best of our knowledge, that (i) Customer and its End Users are not citizens of, or located within, a country 
+or territory that is subject to U.S. trade sanctions or other significant trade restrictions (including without limitation 
+Cuba, Iran, North Korea, Syria, and the Crimea) and that Customer and its End Users will not access or use the 
+Services, or export, re-export, divert, or transfer the Services, in or to such countries or territories; (ii) Customer 
+and its End Users are not identified on any U.S. government restricted party lists (including without limitation the 
+U.S. Treasury Departments List of Specially Designated Nationals and Blocked Persons and Foreign Sanctions 
+Evaders List, the U.S. Department of Commerces Denied Parties List, Entity List, and Unverified List, and the 
+U.S. Department of State proliferation-related lists); and (iii) that no Content created or submitted by Customer or 
+its End Users is subject to any restriction on disclosure, transfer, download, export or re-export under the Export 
+Control Laws.  Customer is solely responsible for complying with the Export Control Laws and monitoring them 
+for any modifications.
+19.3 Incorporation of Zoom Policies.  Customer acknowledges and agrees that the Zoom policies included in Exhibits 
+B, C, and D are incorporated herein by reference, and Customer agrees to that it has read such policies and shall 
+comply (where applicable) with any and all obligations of Customer as set forth in such policies.  Zoom reserves 
+the right to update these policies from time to time, and will provide commercially reasonable notice of such 
+updates. 
+19.4 Waiver and Severability.  Failure by either party to exercise any of its rights under, or to enforce any provision 
+of, this Agreement will not be deemed a waiver or forfeiture of such rights or ability to enforce such provision.  If 
+any provision of this Agreement is held by a court of competent jurisdiction to be illegal, invalid or unenforceable, 
+that provision will be amended to achieve as nearly as possible the same economic effect of the original provision 
+and the remainder of this Agreement will remain in full force and effect.
+19.5 General Provisions.  This Agreement embodies the entire understanding and agreement between the parties 
+respecting the subject matter of this Agreement and supersedes any and all prior understandings and agreements 
+Zoom Master Subscription Agreement 2019 v.2 between the parties respecting such subject matter.  Any modification to this Agreement must be in writing and 
+signed by both parties.  Unless specified otherwise herein, any and all rights and remedies of either parties upon 
+breach or other default under this Agreement will be deemed cumulative and not exclusive of any other right or 
+remedy conferred by this Agreement or by law or equity on either party, and the exercise of any one (1) remedy 
+will not preclude the exercise of any other.  The captions and headings appearing in this Agreement are for 
+reference only and will not be considered in construing this Agreement.  No text or information set forth on any 
+other purchase order, preprinted form or document shall add to or vary the terms and conditions of this 
+Agreement.  No joint venture, partnership, employment, or agency relationship exists between the parties as a 
+result of this Agreement or use of the Services.
+19.6 Assignment.  Neither party may assign its rights and obligations, whether by operation of law or otherwise, 
+without the prior written consent of the other party, not to be unreasonably withheld.  Notwithstanding the 
+foregoing, either party, in connection with a merger, reorganization, or sale of all or substantially all of the assets 
+or equity of such party, may assign this Agreement in its entirety to such partys successor without the other 
+partys consent.  This Agreement shall bind and inure to the benefit of the parties, their respective successors and 
+permitted assigns.
+19.7 Copyright Infringement.  Infringement of copyrights in connection with the Services may be reported to Zooms 
+Copyright Agent through the process defined at www.zoom.us/legal.   
+19.8 Marketing.  Zoom shall not use Customers logo, name them as a customer, or otherwise disclose the contract 
+between Zoom and Customer without prior written consent from Customer or as required by law.
+19.9 Liability Insurance.  Zoom, at its expense, shall carry a policy or policies of professional and general liability 
+insurance issued by an insurance carrier, providing coverage in the amount of at least One Million Dollars 
+($1,000,000) per occurrence and Three Million Dollars ($3,000,000) aggregate per year, which insures Zoom 
+against any act, error or omission of Zoom, its employees and agents.  Zoom acknowledges its workers 
+compensation insurance shall be at state limits or greater.
+19.10 Billing Records.  Zoom will maintain complete and accurate records related to its billing of the products and/or 
+services provided under this Agreement and upon Customers reasonable request within one year of the issuance 
+of the invoice, Zoom will make available to Customer or their designee the records necessary to substantiate the 
+accuracy of Customers invoices. 
+19.11 Notice.    Customer may give notice to Zoom (such notice shall be deemed given when received by Zoom) at any 
+time by any of the following: letter delivered by nationally recognized overnight delivery service or first class 
+postage prepaid mail to Zoom at the following: 55 Almaden Blvd, San Jose, CA, 95113, Suite 600, USA, 
+addressed to the attention of: Legal or by email to legal@zoom.us.  Notice given to Customer by letter shall be 
+delivered to Customer by nationally recognized overnight delivery service or first-class postage prepaid mail to 
+the following address:  Select Medical Corporation, Attn: Chief Information Officer, 4714 Gettysburg Road, P.O. 
+Box 2034, Mechanicsburg, PA 17055.  With a copy to:  Select Medical Corporation, Attn: Senior Counsel, 4714 
+Gettysburg Road, P.O. Box 2034, Mechanicsburg, PA 17055.
+19.12 Survival.  All sections of the Agreement which by their nature should survive termination will survive 
+termination, including, without limitation, accrued rights to payment, confidentiality obligations, warranty, 
+disclaimers, indemnification and limitations of liability.
+Zoom Master Subscription Agreement 2019 v.2 IN WITNESS WHEREOF, the parties hereto, intending to be legally bound hereby, have caused this Agreement to be signed 
+by duly authorized officers or representatives as of the Effective Date.
+SELECT MEDICAL CORPORATION  ZOOM VIDEO COMMUNICATIONS, INC.
+Signature:  Signature:  
+Name:  Name:  
+Title:  Title:  
+Date:  Date:  BrianRusignuoloSenior
+VP&CIO05/21/2020
+10
+ Master Subscription Agreement: Exhibit A  
+Services Description
+This Exhibit A to the Master Subscription Agreement (MSA) describes the Services that may be ordered on an Order Form, or 
+provided by Zoom, and sets forth further Service-specific terms and conditions that may apply to Zooms provision and 
+Customers use of the Services.  Capitalized terms not defined herein shall have the meanings assigned to them in the MSA.  
+A. Definitions.  For purposes of this Service Description, the following definitions will apply:
+Host means an individual who is an identified employee, contractor, or agent of Customer to whom Customer assigns the 
+right to host Meetings.  A Host may hold an unlimited number of Meetings, but only one (1) Meeting at a time.  A Host 
+subscription may not be shared or used by anyone other than the individual assigned to be a Host.
+Meeting means a Zoom Video meeting. 
+Participant means an individual, other than the Host, who accesses or uses the Services, with or without the permission 
+and knowledge of the Host.
+Zoom Documentation means this Exhibit, the Zoom website ( www.zoom.us) and any additional description of the Services 
+which may be incorporated into this Agreement, exclusive of any legal terms and conditions.
+Zoom Meeting Services means the various video conferencing, web conferencing, webinar, meeting room, screensharing 
+and other collaborative services offered by Zoom Video that Customer may order on an Order Form.
+Zoom Phone Services means voice connectivity services, including, but not limited to, interconnected VoIP services, 
+provisioning of direct dial numbers, and related services offered by Zoom Voice Communications, Inc. (Zoom Voice) that 
+Customer may order on an Order Form.  
+B. Zoom Meeting Services.  Zoom Meeting Services enable Hosts to schedule and start Meetings and to allow Participants to 
+join Meetings for the purpose of collaborating using voice, video, and screensharing functionality. Every meeting will have 
+one (1) Host.  Chat features allow for out-of-session one-on-one or group collaboration. Further features, functionality, and 
+solutions are described at www.zoom.us.
+C. Zoom Phone Services. The following sets forth the further terms and conditions that apply to the Zoom Phone Services.
+1.Definitions. For purposes of the Zoom Phone Services, the following definitions apply:
+Device means the device assigned to a virtual extension or individual digital line set up within an account or by Zoom 
+at Customers direction or request. 
+Phone Host means the individual assigned to a number which enables use of the Zoom Voice Service.  A Phone Host 
+is a Host for purposes of the definition of End User.
+Zoom Phone Calling Plan means the pricing structure that enables Phone Hosts and End Users to access the PSTN, 
+as defined below.  Calling plans may be Metered or Unlimited as defined on the Order Form.  
+Zoom Phone Commitment means the minimum monthly bundle of minutes that a Zoom Phone Metered Calling Plan 
+Customer commits to use in connection with Zoom Phone Services.
+2. Telecommunications Provider. Zoom Voice is the telecommunications provider of Zoom Phone Services and sets 
+the terms, conditions and rates for Zoom Phone Services.
+3.Description of Services.  Zoom Phone Services are cloud-based phone services that use voice over internet protocol 
+(VoIP) to provide Customer with the following services and functionalities (as selected by Customer on an Order 
+Form):
+a.  Zoom Phone Service.  Zoom Phone Service is a cloud-based phone service that allows two-way voice calling 
+and private branch exchange (PBX) functionality, including, but not limited to, the following features: unlimited 
+extension-to-extension calling (On Net Access),  auto attendant/ interactive voice response (IVR), call routing, call 
+queuing, music on hold, call history, caller identification (outbound and inbound), call forwarding, call transfer, 
+and call recording. 
+b.Public Switched Telephone Network Communications (PSTN) Access. Phone Hosts and End Users can be 
+enabled to make and receive calls to the PSTN and be assigned a direct inward dialing phone number (DID) via a 
+Zoom Phone Calling Plan.
+11
+ c.Bring Your Own Carrier (BYOC).  BYOC allows customers to use the telecommunications provider of their 
+choice to provide PSTN access and inward DID numbers.  Zoom provides BYOC customers with software that 
+enables On Net Access and access to a range of Zoom call management features and functions.  BYOC enables 
+customers to (i) have PSTN capability in regions where Zoom does not offer PSTN Access; (ii) maintain 
+relationships with currently deployed carriers; and/or (iii) configure deployments for flexibility and redundancy.  
+Customer must ensure that its carrier provides all regulated telecommunications services and is responsible for 
+telecommunications regulatory compliance.
+d.Additional Zoom Phone Services.  Additional functionality such as enabling common area phones, and 
+additional Toll Free and DID phone numbers may be purchased as described on the Order Form.
+4. Billing and Invoicing. Zoom will bill Customer on behalf of Zoom Voice based on the Charges set forth on the Order 
+Form.  Charges based on usage, or overage amounts that exceed the Zoom Phone Commitment, will be billed in 
+arrears, the month following the month a Charge is incurred.  No adjustment will be made, or credit or refund given, for 
+usage that is less than the Zoom Phone Commitment, unless caused by the failure of the Zoom Phone Services. 
+a.On Net Access.  On Net capability will be provisioned by default for all Zoom Meeting Services.  Phone Hosts 
+may access and use On Net services at no charge for so long as the underlying license to the Zoom Meeting 
+Service remains active.
+b.Taxes.  Customer acknowledges and agrees that Zoom Phone Services are subject to certain Taxes and Fees 
+(including, but not limited to, assessments for universal service) that are not applicable to Zoom Meeting Services. 
+Accordingly, Zoom shall invoice Customer for Taxes and Fees directly attributable to the Charges.
+5. Reasonable Use and Right to Review.  Zoom Voice offers unlimited and metered Phone Calling Plans. These plans 
+are subject to this Zoom Voice Communications, Inc. Reasonable Use Policy.  Zoom Phone Calling Plans are for 
+normal and reasonable business use; unreasonable use is prohibited.  Use of Zoom Phone may qualify as unreasonable 
+if Customer (a) engages in business activities that involve continual, uninterrupted, or consistently excessive use of 
+Zoom Phone Services, (b) makes any misrepresentations to Zoom Voice that materially affect volume or type of use of 
+Zoom Phone Services, (c) engages in fraudulent or illegal use of Zoom Phone Services, including any activity that 
+violates telemarketing laws or regulations, or (d) uses Zoom Phone Services in any manner that harms Zoom Voices 
+network or facilities or interferes with the use of the service by other Customers. Use that is inconsistent with the types 
+and levels of usage by typical business customers of similar size, scope and business as Customer on the same plan 
+may be used as an indicator of abnormal or unreasonable use, including but not limited to abnormal call lengths; 
+abnormal call frequency; abnormal call duration; abnormal calling patterns that indicate an attempt to evade 
+enforcement of this Zoom Voice Communications, Inc. Reasonable Use Policy.  Zoom reserves the right to review 
+Customer use to determine if it is consistent with this Zoom Voice Communications, Inc. Reasonable Use Policy.  In 
+the event Zoom Voice reasonably determines that Customer may be engaging in unreasonable use, Zoom Voice will 
+determine the appropriate remedy and will take action to remedy any unreasonable use, including, at its sole discretion, 
+discussing the use with Customer, moving Customer to an appropriate Zoom Phone Calling Plan, terminating certain 
+Hosts, and/or otherwise modifying, suspending or terminating Customers Zoom Phone services.     
+6. Termination of Zoom Meeting Services.  Access to Zoom Phone Services requires a corresponding license to Zoom 
+Meeting Services.  In the event that the Zoom Meeting Service license is terminated, the equivalent access to Zoom 
+Phone Services will also be terminated.  At such time, Customer will be billed for any incurred usage charges, and will 
+not be credited for any pre-paid amounts toward the Zoom Phone Commitment.
+7. Zoom Voice Policies.  Customer acknowledges and agrees that the Zoom Voice Communications, Inc. policies found 
+at https://zoom.us/legal may apply to Customers use of Zoom Phone Services, and current versions are attached 
+hereto.
+8. Zoom Emergency Calling (E911) Customer Obligations.  Customer acknowledges and agrees that Customer has 
+read and understood Zoom Voice Communications, Inc.s 911 Customer Notification, found at www.zoom.us/legal, 
+which sets forth specific limitations of Zoom Phones emergency calling capabilities and Customers obligations with 
+respect to its End Users.  Such obligations include, but are not limited to:
+a. ensuring that all Phone Hosts receive Zoom Voices 911 Customer Notification;
+b. ensuring that all assigned phone numbers are registered for emergency calling purposes through the E911 link 
+within Customers account, and that all registration information remains accurate and up to date; and
+c. distributing warning stickers or other appropriate labels warning End Users that emergency service may be limited 
+or not available and instructing Phone Hosts to place such stickers on or near the Devices and other equipment 
+used in conjunction with Zoom Phone Services.  
+12
+ Zoom Voice reserves the right at any time to update the Zoom Voice Communications, Inc. 911 Customer Notification 
+as necessary to reflect changes in law or technology that affect the emergency calling capabilities of Zoom Phone 
+Services, and any such updates shall be effective immediately upon Customers receipt of notice. 
+9. Equipment.  Zoom Voice does not supply any Devices or other equipment used in connection with the Zoom Phone 
+Services, and accordingly Zoom Voice does not provide any guarantees as to the quality or operability of such Devices 
+and equipment when used to access Zoom Phone Services.  However, Zoom Voice does test certain Devices and 
+equipment to determine whether such Devices and equipment are supported on the Zoom Phone platform (although it 
+has not tested all possible Devices and equipment available in the marketplace).  The summary of Devices and 
+equipment to date that Zoom Voice has determined are supported by the Zoom Phone platform may be provided on 
+request.  Customer should consult with Zoom Voice prior to deploying any other Devices and equipment.
+D. Zoom for Government.  Zoom for Government is the Zoom Meeting Services offered by Zoom in a FedRAMP-compliant 
+cloud environment. Zoom for Government enables customers to leverage a limited version of the Zoom Meeting Services in 
+a separate, FedRAMP-compliant cloud environment hosted in Amazon Web Services Government Cloud and Zooms 
+collocated data centers (e.g. in San Jose, CA and New York), independent of the Zooms standard commercial cloud 
+environment.  Further features, functionality, and solutions are described at www.zoom.us/government.  Zoom for 
+Government currently does not include availability of cloud recordings and cloud recording transcriptions, though Zoom 
+may continue to develop feature parity between Zoom Meeting Services and Zoom for Government.  In addition, Zoom does 
+not presently offer its Zoom Phone Services or Zoom Marketplace as FedRAMP compliant.  Zoom Meeting Services and 
+Zoom for Government are independent environments and, therefore, data cannot be exchanged between them including, 
+without limitation, instant messaging data or chat data.
+1. FedRAMP Security Features.  Zoom for Government is authorized as a FedRAMP Moderate ATO.  TLS 1.2 or 
+greater is required.  Noted security features include, without limitation, secure socket layer (SSL) encryption, AES 256-
+bit encryption, role-based user security, watermark screenshots, firewall compatibility, password-protected meeting 
+option.  Zoom for Government also supports single sign-on (SSO) with SAML, OAuth, or ADFS.  
+i.Media Data in End-to-End Meeting.  When end-to-end encryption is enabled, all data in transit is protected 
+using TLS 1.2 and AES 256-bit encryption.  Data at rest is encrypted leveraging AWS S3 server-side encryption.  
+Zoom web services are secure through HTTPS.  In an encrypted meeting, Zoom meeting keys are randomly 
+generated per meeting session.  Passwords are hashed/salted using SHA256.
+ii.Chat/Notes/Closed Captioning in End-to-End Meeting.  When end-to-end encryption is enabled, 
+Chat/Notes/Closed Captioning are transferred with command channel, not data channel; the data travels within 
+SSL connection, and there is no extra AES 256-bit encrypt/decrypt for them. 
+E. Zoom Marketplace. The Zoom Marketplace, available at https://marketplace.zoom.us, is a site hosted by Zoom to provide 
+access to applications (the Apps) created by third party developers (Publishers) that are interoperable with Zoom 
+Services, and make them available from both mobile and desktop client apps. Access to and use of the Zoom Marketplace 
+and Zoom for Developers (available at https://developer.zoom.us) sites are governed by separate terms and conditions 
+available at https://zoom.us/service.  Besides testing for compatibility with Zoom, Zoom does not perform any other testing 
+and does not warrant or support the Apps.  Publishers are solely responsible for all aspects of the Apps they publish, 
+including content, functionality, availability and support.  Publishers are required to provide their own terms of service, 
+privacy policy and support information (Publisher Terms).  Customers who access or download Apps must enter into 
+Publisher Terms directly with the Publisher.  Zoom is not responsible for the Apps, their content, functionality, availability, 
+or support.  Apps are hosted AS IS and use of the Apps is at Customers own risk, subject to the Publisher Terms.  Apps 
+may become unavailable or be removed by a Publisher at any time and any data stored in them may be lost or become 
+inaccessible.  Zoom is not responsible for Customer Data transferred to a Publisher, or for any transmission, collection, 
+disclosure, security, modification, use or deletion of Customer Data by or through an App.  Publishers may use Customer 
+Data as permitted in the Publisher Terms.  Use of the Apps may require Customer Data to be transferred to the Publisher and 
+by accessing and using the App, Customer consents to the transfer of Customer Data by Zoom as required by the Publisher.  
+Zoom does not support the Apps.  Customer should contact the Publisher for support or questions.  Zoom makes no 
+representations and disclaims all warranties, express or implied, regarding Apps and reserves the right to remove an App 
+from the Marketplace at any time, in its sole discretion.
+F. Managed Domains. Zoom permits Customers to reserve domains associated with their enterprise and to manage any 
+accounts that are subscribed to Zoom using that domain (Managed Domain Customer).  Customer may only associate to 
+the Zoom Services domain(s) that they own or are legally entitled to associate for use with the Services.   In the event that a 
+Zoom account is created or exists on the reserved domain, but is not authorized by the Managed Domain Customer (the 
+Non-Managed Domain Account), the person using or creating such Non-Managed Domain Account will be notified that 
+the domain is reserved for the Managed Domain Customer and will be requested to change the domain associated with the 
+13
+ Non-Managed Domain Account.  If the person using or creating such Non-Managed Domain Account does not change the 
+domain within the period specified, that person will be deemed to have consented to the Non-Managed Domain Account 
+being added to the Managed Domain Customer and to have further consented for all data associated with the Non-Managed 
+Domain Account to be shared with the Managed Domain Customer. 
+14
+ Exhibit B: Privacy Policy
+March 29, 2020
+Dear Zoomer,
+Privacy is an extremely important topic, and we want you to know that at Zoom, we take it 
+very seriously. Here are the facts about user privacy as it relates to Zoom and your use of 
+our services:
+We do not sell your personal data. Whether you are a business or a school or an 
+individual user, we do not sell your data. 
+Your meetings are yours. We do not monitor them or even store them after your 
+meeting is done unless we are requested to record and store them by the meeting 
+host. We alert participants via both audio and video when they join meetings if the 
+host is recording a meeting, and participants have the option to leave the meeting.  
+When the meeting is recorded, it is, at the hosts choice, stored either locally on the 
+hosts machine or in our Zoom cloud. We have robust and validated access controls 
+to prevent unauthorized access to meeting recordings saved to the Zoom cloud.
+Zoom collects only the user data that is required to provide you Zoom services. This 
+includes technical and operational support and service improvement. For example, 
+we collect information such as a users IP address and OS and device details to 
+deliver the best possible Zoom experience to you regardless of how and from where 
+you join.   
+We do not use data we obtain from your use of our services, including your 
+meetings, for any advertising. We do use data we obtain from you when you visit 
+our marketing websites, such as zoom.us and zoom.com. You have control over your 
+own cookie settings when visiting our marketing websites.
+We are particularly focused on protecting the privacy of K-12 users. Both Zooms 
+Privacy Policy (attached) and Zooms K-12 Schools & Districts Privacy Policy are 
+designed to reflect our compliance with the requirements of the Childrens Online 
+Privacy Protection Act (COPPA), the Federal Education Rights and Privacy Act 
+(FERPA), the California Consumer Privacy Act (CCPA), and other applicable laws.
+We are committed to protecting the privacy and security of your personal data. If you have 
+questions, please contact the privacy team at privacy@zoom.us or the support team 
+at https://support.zoom.us. 
+Thank you, and safe Zooming!
+Aparna Bawa
+15
+ Chief Legal Officer, Zoom 
+Zoom Privacy Policy
+Zoom is committed to protecting your privacy and ensuring you have a positive experience 
+when using the services we provide, which we generally refer to as Zoom or Zoom services, 
+or when visiting our promotional or marketing websites, such as zoom.us and zoom.com.  
+This policy explains how we handle data, including what we collect and how we obtain it, 
+how we use it, when and if we disclose it, and some of your options for managing your data 
+with Zoom. It applies worldwide to all of our subsidiaries and covers all data that you 
+provide to us, as we describe below. 
+Information that can be used to identify or be reasonably associated with a specific person 
+is personal data.  Where the data described in this policy is personal data, we only 
+disclose it in the ways we have stated.
+In addition to this privacy policy, we have established policies to protect K-12 students 
+using our services through their schools for their education. For information regarding how 
+Zoom handles personal data of K-12 students who use Zoom through their schools, who we 
+generally refer to as school subscribers, please visit: Zoom for K-12 Schools & Districts 
+Privacy Policy.
+Aside from providing services to K-12 students through school subscribers as discussed 
+above under our Zoom for K-12 Schools & Districts Privacy Policy, Zoom does not 
+knowingly allow children under the age of 16 to sign up for their own accounts. If you are a 
+parent or legal guardian and believe your child has given us information, you can contact us 
+at privacy@zoom.us, and we will take appropriate steps to investigate and address the 
+issue.  
+This policy and the Zoom for K-12 Schools & Districts Privacy Policy may be updated 
+periodically because our business, or regulations that apply to Zoom, may change. If we 
+make any material changes to the way we handle personal data as described here, we will 
+notify you by posting an updated notice on our website. We encourage you to review this 
+page regularly for the latest information on our privacy practices. The effective date at the 
+top of this policy indicates when the policy was last revised.
+Collection And Use of Data
+Zoom Services
+We obtain data when you use Zoom in order to deliver our services and provide a better 
+experience to you.  The categories of data we obtain when you use Zoom include data you 
+provide to us as well as data that our system collects from you. When we say customer, 
+we mean the person or company that signs up for and has the account with Zoom.  A host 
+is someone who can host meetings under a customer account. You or user or 
+participant is anyone who uses Zoom. (You and user may also include customers. 
+16
+ Some of the information below applies only to customers, though, and we use customer 
+to highlight those places.)
+Data you give us (or that we may receive from another Zoom user, for example, in a 
+meeting invite):
+Type of Data Examples Zoom Uses it to
+Information that 
+identifies youFor customers: Account owner 
+name, billing name and address, 
+payment method
+Your name, username and email 
+address, or phone number,  when 
+you use this information to access 
+or use our services
+The phone number a Zoom Phone 
+user dials Create a customer 
+account
+Provide Zoom services
+Communicate with a 
+customer
+Respond to requests for 
+support
+Other account data Your phone number (if you 
+choose to put it in), language 
+preference, password (if SSO is 
+not used), title, departmentCreate a customer 
+account
+Provide Zoom services 
+Customer 
+content:  information you 
+or others upload, provide, 
+or create while using 
+ZoomCloud recordings, chat /  instant 
+messages, files, whiteboards, and 
+other information shared while 
+using the service, voice mailsProvide Zoom services*
+Store chat logs (for 
+delivery and so you can 
+review and search chat 
+history) 
+Store recordings, if 
+explicitly requested by 
+the host or Customer
+17
+ Store voice mail for 
+Zoom Phone
+*Zoom does not monitor or use customer content for any reason other than as part of 
+providing our services.  Zoom does not sell customer content to anyone or use it for any 
+advertising purposes.
+Data that our system collects from you: 
+Type of Data Examples Zoom Uses it to
+Technical information about 
+your devices, network, and 
+internet connectionIP address, MAC address, 
+other device ID (UDID), 
+device type, operating 
+system type and version, 
+client version, type of 
+camera, microphone or 
+speakers, connection type, 
+etc.
+The phone number of a 
+person making a call using 
+Zoom services (e.g. Zoom 
+Phone)Connect you to and 
+optimize your 
+experience using our 
+services
+Provide customers 
+dashboards and reports
+Respond to requests for 
+support
+Monitor performance of 
+our data centers and 
+networks
+Conduct anonymized, 
+aggregated analytics to 
+18
+ improve Zooms service 
+performance  
+Approximate LocationTo the nearest city (we do 
+not track your specific 
+location)Connect you to the 
+nearest data center 
+Comply with privacy 
+and other laws – for 
+example, so we can 
+provide you with the 
+right notices for your 
+area
+Suggest choices such as 
+language preferences
+Monitor performance of 
+our data centers and 
+networks
+Respond to requests for 
+support
+Information about how you use 
+Zoom (this is NOT information 
+or content you share in your 
+meetings or in chats)Did you use VoIP or a phone 
+call? 
+Did you shift from the mobile 
+client to the desktop?Optimize your Zoom 
+experience 
+Respond to requests for 
+support
+Conduct anonymized, 
+aggregated analytics to 
+improve Zooms 
+performance.
+19
+ Setting and preferences chosen 
+by the userJoin with video off
+Require meeting password
+Enable waiting room
+Do not allow screen sharing 
+other than hostTo provide you choices 
+for how you use Zoom
+MetadataDuration of the meeting / 
+Zoom Phone call 
+Email address, name, or 
+other information that a 
+participant enters to identify 
+themselves in the meeting
+Join and leave time of 
+participants
+Name of the meeting 
+Date / time that meeting was 
+scheduled
+Chat status (unless a setting 
+is actively chosen by user)
+Call data records for Zoom 
+PhoneProvide Zoom services 
+Provide customers 
+dashboards and reports
+Respond to requests for 
+support
+20
+ Recordings
+If you attend a Zoom meeting or webinar as a participant, the host may choose to record 
+the session, and if so, the host is responsible for obtaining consent from you. Zoom helps 
+hosts obtain consent from meeting participants by providing visual and audio cues to alert 
+participants of a recording. A meeting host may even turn on a pop-up notice which 
+requires a participant to click a continue button to acknowledge notice of the recording. 
+Recordings may contain personal data and may be stored in Zooms cloud at the request of 
+the customer. A meeting host may choose to store a recording of a meeting on the hosts 
+local storage device, not in Zooms cloud. When a host chooses to do that, Zoom does not 
+have any control over the recording. Our customer may also request that a transcript be 
+made of the recording stored in our cloud. The transcript, which may also contain personal 
+data, is treated the same way as the recording by Zoom.  
+Zoom Phone allows customers to record phone calls, receive voice mail recordings, and 
+obtain transcripts of voicemail, all which may contain personal information and also be 
+stored in our cloud. 
+Zoom does not monitor, access or use the recordings or transcripts that a meeting host or 
+Zoom Phone customer may choose to store in Zooms cloud, unless he or she requests us to, 
+for example, to provide technical support.  
+Attention Tracking 
+If you attend a Zoom meeting or webinar as a participant, the host (or their account 
+administrator) may have enabled Attention Tracking. This feature is operational only when 
+a host is sharing their screen. It places a small clock icon next to a participants name to 
+indicate only to the host when Zoom is not the active window on the participants 
+computer for more than 30 seconds, when the host is sharing their screen. While Zoom 
+may provide certain tools to show that attention tracker is on, it is the meeting hosts 
+responsibility to notify meeting participants if this feature is in use. Neither the meeting 
+host nor Zoom can see or access any other applications on a participants screen or 
+computer. Also, the Attention Tracker does not allow Zoom to monitor what takes place in 
+a meeting, and does not apply to meetings where screen sharing is not turned on. Using 
+other features of the service does not activate Attention Tracker. 
+Zoom Marketing Sites
+Zoom may also gather data from you when you visit our marketing websites, such as 
+zoom.us and zoom.com. These are our webpages that tell you about our product, plans and 
+pricing, features, and other information about Zoom. The categories of data we collect from 
+our websites include: data you choose to give us; data we may obtain from cookies or 
+similar analytics tools; data we receive from referrals by other customers; and data we 
+collect if you choose to answer any marketing communications. As used in this section, 
+you means visitors to our marketing pages or people who do the things we describe here. 
+(You here does not mean a user of Zoom services.)
+Data you can choose to give us:
+21
+ Type of Data Examples Zoom Uses it to
+Information 
+that identifies 
+youYour name, username, physical 
+address, email address, phone 
+numberCreate an account when you sign 
+up
+Respond to requests from you
+Send you marketing 
+communications, unless you tell 
+us not to (or if you say its OK, i.e., 
+opt-in)
+Information 
+about your jobCompany, title, departmentProvide tailored information
+Respond to requests from you
+Payment 
+informationCredit/debit card (goes directly to 
+our payment processor; credit card 
+information is not accessed or 
+stored by Zoom)Charge you when you sign up for 
+a paid plan
+Data we may obtain about you:
+Type of Data Examples Zoom Uses it to
+Data collected 
+through the use 
+of cookies and 
+pixelsData collected from tools such as Google 
+Analytics and 
+Google Ads
+(All cookies are visible in the Cookie 
+Preferences tool.  You have control over 
+what non-essential cookies you accept. 
+For more information, see our Cookie 
+Policy and the Cookie section below)Analyze how our website is 
+used so we can improve your 
+experience 
+Allow you to do things like 
+completing orders, sharing 
+pages, and remembering 
+settings.
+22
+ Evaluate the success of our 
+Marketing campaigns
+Send you tailored Zoom 
+advertising when you are on 
+other sites.
+(For more information on 
+how Zoom uses cookies, see 
+our Cookie Policy)
+Third PartiesData Enrichment services
+Mailing Lists
+Public SourcesSend you marketing 
+communications, unless you 
+tell us not to (or if you say 
+its OK, i.e., opt-in)
+Provide tailored information 
+based on your interests
+Cookies and Automated Collection of Data
+This section applies to marketing websites only and does not apply to Zoom services. There 
+are no advertising cookies or tracking technology in our services.  
+Zoom collects information about you when you visit our marketing websites, unless you 
+tell us not to by adjusting your cookie setting. We use such things as cookies and tracking 
+technologies from our advertising service provider tools (e.g., Google Ads). Information 
+collected includes Internet protocol (IP) addresses, browser type, Internet service provider 
+(ISP), referrer URL, exit pages, the files viewed on our marketing sites (e.g., HTML pages, 
+graphics, etc.), operating system, date/time stamp, and/or clickstream data. 
+We use this information to determine the offers to make for our services, analyze trends on 
+and run the marketing site, and understand users movements around the marketing site. 
+We also gather information about our visitors, such as location information at the city level 
+(which we get from IP addresses) for tailoring advertising and selecting the language to use 
+to display the website. 
+You have choices about what cookies can be used. You can adjust cookie settings by turning 
+off optional cookies in your browsers setting or by using our Cookie Preferences link at the 
+bottom of the Zoom homepage. To ensure that you do not receive Advertising Cookies, you 
+can adjust the slider at the Cookie Preferences link to Required Cookies/CCPA Opt-Out.
+23
+ For more information regarding cookies or similar technologies, please review our Cookie 
+Policy. 
+Our Referral Program
+You can use our referral program to tell others about Zoom. When you do, you will be 
+asked to provide that persons name and email so that we can contact them. We rely on you 
+to make sure the person you are referring to us has agreed to be contacted. We will send a 
+one-time email inviting them to visit the marketing site. Unless that person says they want 
+to hear more, we will only use their name and email address to send this one-time email 
+and to maintain an activity log of our referral program.
+Marketing Communications
+You can sign up to receive email or newsletter communications from us. If you would like 
+to stop receiving these communications, you can update your preferences by using the 
+Unsubscribe link found in these emails, or by emailing unsubscribe@zoom.us.
+We may send you push notifications to update you about any events or promotions that we 
+may be running. If you dont want to receive these types of communications, you can turn 
+off the setting on your device that allows these notifications to be delivered.
+Additional Data Uses
+Specific Requests. In addition to the uses described above, Zoom may also receive data 
+from you for specific purposes. When you give it to us, we use the data for that specific 
+purpose:
+To keep you up to date on the latest Service announcements, software updates, 
+upgrades, system enhancements, special offers, and other information
+To run opt-in contests, sweepstakes or other promotional activities 
+To provide you with information and offers from us or third parties
+If you choose to participate, to conduct questionnaires and surveys to provide better 
+services to our customers and end users
+To respond to you when you apply to join us (zoom.us/careers)
+To personalize marketing communications and website content based on your 
+preferences, such as in response to your request for specific information on 
+products and services that may be of interest.
+Comply with legal obligations. We use data to detect, investigate and stop fraudulent, 
+harmful, unauthorized or illegal activity. We also use data to comply with our contractual 
+and legal obligations, resolve disputes with users, and enforce our agreements, if needed.
+Disclosures
+During use of Zoom. When you use Zoom, some data will be disclosed to other participants 
+and to meeting or webinar hosts. For instance, when you attend a meeting, your name 
+might appear in the attendee list. If you turn on your video camera, your image will be 
+shown. If you send a chat or share content, that can be viewed by others in the chat or the 
+meeting.
+24
+ Customer Content, Dashboards and Reports. Customer content, including information 
+shared during meetings, information about participants in meetings and any recordings of 
+meetings, belongs to our customers. Customers may use this content, which may include 
+personal data about participants, for their own purposes. Customers may also receive data 
+we collect (for example, participants names) when they generate Zoom dashboards and 
+usage reports for themselves.
+At the direction of our Customers. As described more below, under the EUs GDPR, Zoom is 
+a Processor of customer content and personal data that our Customers may put into our 
+systems when they use Zoom. Our customers are the Controllers. We follow their 
+directions regarding this data, and may store it, delete it, or disclose it at their direction.
+For Legal Reasons. We may also disclose data when we respond to valid legal process 
+including jurisdiction. Zooms policies regarding compliance with valid legal process 
+preclude cooperation where a government does not have jurisdiction. Zoom may also 
+disclose data when reasonably necessary to preserve Zooms legal rights.
+To Third Party Service Providers. We use third-party service providers to help us provide 
+portions of the Zoom services and give support. Examples of these third parties include 
+public cloud storage vendors, carriers, our payment processor, and our service provider for 
+managing customer support tickets. They only receive data needed to provide their 
+services to us. We have agreements with our service providers that say they cannot use any 
+of this data for their own purposes or for the purposes of another third party. We prohibit 
+our service providers from selling data they receive from us or receive on our behalf. We 
+require service providers to use data only in order to perform the services we have hired 
+them to do (unless otherwise required by law). For example, we may use a company to help 
+us provide customer support. The information they may receive as part of providing that 
+support cannot be used by them for anything else. For more information about our service 
+providers, please see our Sub-processors page.
+Does Zoom sell Personal Data?
+We do not sell your data.
+We do not allow marketing companies, advertisers or similar companies to access personal 
+data in exchange for payment. We do not allow third parties to use any personal data 
+obtained from us for their own purposes, unless you consent (e.g., when you download an 
+app from the Marketplace). Our customers may use the webinar service to generate their 
+own marketing leads and they may provide marketing information to you. When you 
+register for a webinar, you provide your data to the host of the webinar, and if required, 
+any consent that you give about your data would be to them, as well.  Zoom may keep the 
+data about the registration in our system in order to facilitate the webinar, but Zoom does 
+not use or share that data other than to provide the services. A customer may also charge 
+for their webinars. Again, that transaction is between the host and participant of the 
+webinar. Zoom is not selling any data.
+As described in the Zoom marketing sites section, Zoom does use certain standard 
+advertising tools on our marketing sites which, provided you have allowed it in your cookie 
+preferences, sends personal data to the tool providers, such as Google. This is not a sale of 
+25
+ your data in the sense that most of us use the word sale. However, Californias CCPA law 
+has a very broad definition of sale. Under that definition, when Zoom uses the tools to 
+send the personal data to the third-party tool providers, it may be considered a sale. It is 
+important to know that advertising programs have always worked this way and we have 
+not changed the way we use these tools. It is only with the recent developments in data 
+privacy laws that such activities may fall within the definition of a sale.
+Because of CCPAs broad definition, as is the case with many providers since the CCPA 
+became law, we provide a Do Not Sell My Personal Information link at the bottom of our 
+marketing sites. You can use this link to change your Cookie Preferences and opt out of the 
+use of these advertising tools. If you opt out, Personal Data that was used by these tools will 
+no longer be shared with third parties in a way that constitutes a sale under CCPA.
+Data Retention
+We will retain personal data collected for as long as required to do what we say we will in 
+this policy, unless a longer retention period is required by law. Customers can delete their 
+own content.
+Transfer and Storage of Personal Data
+Zoom services generally store data in the United States, though our global data centers, 
+data may come in from wherever users are located. We may transfer your data to the U.S., 
+or to third parties acting on our behalf, for the purposes of processing or storage. Our 
+customers may choose to have their data stored outside of the U.S; for example, they may 
+choose to have their data stored in their geographic vicinity.  We may store local data 
+locally in order to comply with specific local laws and regulations. By using Zoom, or 
+providing personal data for any of the purposes stated above, you consent to the transfer to 
+and storage of your personal data in the U.S., or other location as directed by Customer. In 
+certain limited circumstances, courts, law enforcement agencies, regulatory agencies, or 
+security authorities in those other countries may be entitled to access your personal data.
+Security of your Personal Data
+Zoom is committed to protecting your personal data. We use a combination of industry-
+standard security technologies, procedures, and organizational controls and measures to 
+protect your data from unauthorized access, use, or disclosure. 
+We recommend you take every precaution in protecting your data when you are on the 
+Internet. For example, change your passwords often, use a combination of upper and 
+lower-case letters, numbers, and symbols when creating passwords, and make sure you 
+use a secure browser. If you have any questions about the security of your data, please 
+contact  our security team at security@zoom.us
+Linked Websites and Third-Party Services
+Our marketing websites may provide links to other third-party websites and services 
+which are outside our control and not covered by this policy. We encourage you to review 
+the privacy policies posted on these (and all) sites you visit or services you use.
+Data Subject Rights
+26
+ Generally, when we obtain personal data, we do so on behalf of our customers. For 
+purposes of GDPR and CCPA, our customer is the Controller, or decision maker, for the 
+personal data, and we are the Processor, acting as a service provider for, and at the 
+direction of, our customer. Processing just means doing something with the data. We are 
+typically required to follow a customers instructions about personal data we hold for that 
+customer. 
+These are certain requests you can make related to personal data about you, which we will 
+respond to as much as we can under applicable laws. (See below for other legal rights you 
+may have with respect to your personal data depending on where you reside.) 
+Access: You can request more information about the personal data we hold about 
+you. You can request a copy of the personal data. 
+Rectification: If you believe that any personal data we are holding about you is 
+incorrect or incomplete, you can request that we correct or supplement the data. 
+You can also correct some of this information directly by logging into your service 
+account, if you are a customer. Please contact us as soon as possible if you notice any 
+inaccuracy or incompleteness.
+Objection: You can let us know that you object to the collection or use of your 
+personal data for certain purposes.
+Opt Out of Sales:  You can ask us to take you out of certain advertising related to 
+your personal data by clicking on the Do Not Sell My Personal Information link. 
+Erasure: You can request that we erase some or all of your personal data from our 
+systems. For instructions on how to delete your account please 
+see https://support.zoom.us/hc/en-us/articles/201363243-How-Do-I-Delete-
+Terminate-My-Account 
+Restriction of Processing: You can ask us to restrict further processing of your 
+personal data.  (This just means you can ask us to stop using it for what we have 
+been using it for.) This may mean that we have to delete your account.
+Portability: You can ask for a copy of your personal data in a machine-readable 
+format. You can also request that we transmit the data to someone else where its 
+technically possible.
+Withdrawal of Consent: If we are processing your personal data based on consent 
+that you gave us when we got the data, you may have the right to withdraw your 
+consent at any time. For example, if you have signed up for marketing 
+communications you can request to be removed from these communications.
+Right to File Complaint: You have the right to lodge a complaint about Zooms 
+practices with respect to your personal data with the supervisory authority of your 
+country or EU Member State.
+Sometimes we will not be able to fulfill your request.  If it prevents us from complying with 
+our regulatory obligations or impacts other legal matters, if we cannot verify your identity, 
+or if it requires extraordinary cost or effort, we will tell you in a reasonable time and give 
+you an explanation. 
+27
+ To make a request, please contact our Privacy Team at privacy@zoom.us or by writing to 
+the following address:
+Zoom Video Communications, Inc.
+Attention: Data Privacy Officer
+55 Almaden Blvd, Suite 600
+San Jose, CA 95113
+US: 1-888-799-9666
+If you have a password protected Zoom account, we will use your account information to 
+verify your identity. If not, we will ask you to provide additional verification information. 
+What we request will depend on the nature of your request, how sensitive the information 
+is, and how harmful unauthorized disclosure or deletion would be.
+Additional Information About Specific Regulations 
+Residents of the European Union (EU), United Kingdom, Lichtenstein, Norway, Iceland or 
+Switzerland 
+If you reside in the European Union (EU), United Kingdom, Lichtenstein, Norway, Iceland or 
+Switzerland, you may have legal rights with respect to your personal data, including those 
+set forth under the EUs General Data Protection Regulation (GDPR). 
+GDPR requires that we have a basis for processing your data. We process your personal 
+data (i) with your consent (where applicable), (ii) to perform a contract with a customer, 
+and (iii) for other legitimate interests and business purposes. 
+Residents of the State of California 
+If you reside in California, you may have legal rights with respect to your personal data, 
+including those set forth under the California Consumer Privacy Act (CCPA). If you are a 
+California resident, you can request information about both the categories and specific 
+pieces of data we have collected about you in the previous twelve months, the reason we 
+collected it, the category of entities with whom we have shared it and the reason for any 
+disclosure. Zoom is prohibited from discriminating against California consumers that 
+choose to exercise their privacy-related rights under the CCPA.
+Zoom for Government Customers
+This paragraph only applies to Zoom for Government (ZfG) customers. The ZfG service is 
+hosted in the United States in a separate cloud authorized by FedRAMP and is accessible by 
+way of a separate website ( www.zoomgov.com).  Here is what that means for you: 
+All data collected about you while using the ZfG service or the ZfG website is stored 
+in the United States of America;
+28
+ Your data is only processed by Zoom in accordance with FedRAMP moderate 
+impact level control standards;
+The sections in this policy related to the GDPR and any other references to 
+international data handling do not apply to the personal data collected by Zoom 
+about you in connection with your use of the ZfG service or ZfG website;
+With regard to the Zoom App Marketplace, we do not allow third parties to use any 
+personal data obtained from us for their own purposes, unless it is with your 
+consent (e.g. when you download an app from the Zoom for Government 
+Marketplace: https://marketplace.zoomgov.com/).
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield 
+Zoom Video Communication, Inc. participates in and has certified its compliance with the 
+EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield. Zoom is committed to 
+subjecting all personal data received from EU member countries, Switzerland, and the 
+United Kingdom, in reliance on the Privacy Shield Frameworks, to the Framework's 
+applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our 
+certification, visit the U.S. Department of Commerce's Privacy Shield 
+List, https://www.privacyshield.gov/list.
+Zoom is responsible for the processing of personal data it receives under the Privacy Shield 
+Framework, and subsequently transfers to a third party acting as an agent on its behalf. 
+Zoom complies with the Privacy Shield Principles for all onward transfers of personal data 
+from the EU, Switzerland, and the United Kingdom including the onward transfer liability 
+provisions.
+With respect to personal data received or transferred pursuant to the Privacy Shield 
+Frameworks, Zoom is subject to the regulatory enforcement powers of the U.S. Federal 
+Trade Commission. In certain situations, Zoom may be required to disclose personal data in 
+response to valid and lawful requests by public authorities or pursuant to requests from 
+law enforcement; Zoom shall provide Notice to Customer if such a request is made within 
+five (5) days.
+If you have an unresolved privacy or data use concern that we have not addressed 
+satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of 
+charge) at https://feedback-form.truste.com/watchdog/request.
+Under certain conditions, more fully described on the Privacy Shield website 
+https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you can invoke 
+binding arbitration when other dispute resolution procedures have been exhausted.
+Standard Contractual Clauses
+In certain cases, Zoom will transfer personal data from the EU in accordance with the 
+European Commission-approved Standard Contractual Clauses, a copy of which can be 
+obtained at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087.
+Contact Us
+29
+ If you have any privacy-related questions or comments related to this privacy policy, please 
+send an email to privacy@zoom.us. You can also contact us by writing to this address:
+Zoom Video Communications, Inc.
+Attention: Data Privacy Officer
+55 Almaden Blvd, Suite 600
+San Jose, CA 95113
+If you reside in the EU, United Kingdom, Lichtenstein, Norway or Iceland, you can also 
+contact our Data Protection Officer. 
+30
+ Exhibit C:  Acceptable Use Policy
+Effective May 30, 2019
+This Acceptable Use Policy (the Policy) governs all uses of Zoom Services and 
+supplements any Master Service Agreement, Terms of Service, End User License Agreement 
+or other contracting document for the provision and use of Zoom Services (the Services 
+Agreement). Capitalized terms not defined herein have the meaning set forth in the 
+Services Agreement. This Policy defines the standards Zooms expects its Customers and 
+End Users to adhere to while using the Services.
+Zoom Services are designed to promote collaboration and effective working and business 
+relationships by connecting users through voice, video and screen-sharing capabilities. As 
+such, Zoom Services are intended for business use and purposes.
+Customers and End Users may not use the Services to:
+1. Post, stream or transmit any content, including live video, that violates this Policy
+2. Do anything illegal, facilitate any illegal activity, or promote violence.
+3. Do anything that threatens, exploits or otherwise harms children.
+4. Engage in any activity that is harmful, obscene, or indecent (particularly as such 
+would be understood in the context of business usage). This includes, for example, 
+displays of nudity, violence, pornography, sexually explicit material, or criminal 
+activity.
+5. Facilitate or support human trafficking.
+6. Engage in any activity that supports or facilitates terrorism or terrorist 
+organizations
+7. Engage in any activity that is fraudulent, false, or misleading.
+8. Engage in any activity that is defamatory, harassing, threatening or abusive.
+9. Store or transmit any data or material that is fraudulent, unlawful, harassing, 
+libelous, threatening, obscene, indecent or otherwise inappropriate.
+10. Send unauthorized messages, advertising or spam, including unsolicited 
+promotional or commercial content or other mass solicitation material.
+11. Misrepresent the Users identity or affiliation with any entity or organization, or 
+impersonate any other person.
+12. Harvest, collect, or gather user data without consent.
+13. Violate or infringe any intellectual property or proprietary rights of others, 
+including copyrights.
+14. Violate the privacy of others or distribute confidential or personal information of 
+others.
+15. Engage in any activity that is harmful or disruptive to the Services or attempts to 
+circumvent restrictions on access, usage or security of the Services. This includes 
+transmitting viruses, malware or other malicious or destructive code or using tools 
+that mask IP address location or to otherwise circumventing restrictions on use due 
+to regulations or account closures.
+If you become aware of any violation of this Policy, please contact Zoom 
+at violation@zoom.us. Zoom will investigate all reports and take immediate, appropriate 
+31
+ action where warranted (in Zooms sole discretion). If a Customer or End User violates any 
+of the terms of this Acceptable Use Policy, Zoom may immediately terminate the 
+Customers account, suspend or terminate access or take any other appropriate action, 
+including legal action if warranted.
+Reasonable Use
+Zoom provides video conferencing services for business collaboration. Zoom anticipates 
+that customers will use the services in a reasonable manner given the business purpose. As 
+such, Zoom may limit, suspend or terminate access if an End Users use exceeds reasonable 
+standards, and may monitor usage based on
+meeting lengths;
+uninterrupted meeting recordings;
+excessive recorded meeting length;
+calls made outside of business hours;
+other calling patterns indicative of an attempt to evade enforcement of Reasonable 
+Use
+Zoom may determine that abnormal, unreasonable or impermissible usage is occurring 
+based on industry standards and patterns of usage of the Services, and may take 
+appropriate steps, including suspension or termination of service. Zoom may first contact 
+the Customer and discuss appropriate usage and suitable plans to support valid use of the 
+Services.
+In addition, Unlimited recording plans cannot, under any circumstances, be used for 
+security systems.
+Unlimited Calling Plans
+Zoom offers unlimited audio calling plans (that operate with video conferencing 
+services), and Zoom Voice offers unlimited and metered Voice Calling Plans (the Calling 
+Plans). These plans are subject to this Reasonable Use Policy. The Calling Plans are for 
+normal and reasonable business use; unreasonable use is prohibited. Use of the Calling 
+Plans may qualify as unreasonable if Customer (a) engages in business activities that 
+involve continual, uninterrupted, or consistently excessive use, (b) makes any 
+misrepresentations to Zoom that materially affect volume or type of use, (c) engages in 
+fraudulent or illegal use, including any activity that violates telemarketing laws or 
+regulations, or (d) uses Zoom in any manner that harms Zooms network or facilities or 
+interferes with the use of the service by other Customers. Use that is inconsistent with the 
+types and levels of usage by typical business customers on the same plan may be used as an 
+indicator of abnormal or unreasonable use, including but not limited to abnormal call 
+lengths, frequency, duration, or calling patterns that indicate an attempt to evade 
+enforcement of this Reasonable Use Policy. Zoom reserves the right to review Customer use 
+to determine if it is consistent with this Reasonable Use Policy. In the event Zoom 
+determines that Customer may be engaging in unreasonable use, Zoom will determine the 
+appropriate remedy and will take action to remedy any unreasonable use, including, at its 
+sole discretion, discussing the use with the Customer, moving the Customer to an 
+32
+ appropriate Calling Plan, terminating certain Hosts, and/or otherwise modifying, 
+suspending or terminating Customers Zoom services.
+33
+ Exhibit D:  Zoom Phone Communications, Inc. 911 Customer Notification
+Effective March, 2019
+This notification provides important information about the ability to connect to 911 
+emergency calling services using Zoom Phone Service. Please read it carefully.
+Zoom Phone 911 Service: Zoom Phone 911 Service operates differently than traditional 
+911 service. The FCC requires us to advise our customers of the circumstances under which 
+911 may not be available or may be in some way limited by comparison to traditional 911 
+service. Such circumstances include:
+(1) Internet Connection Failure. If the Internet connection over which Zoom Phone Service 
+is provided is interrupted, you and/or your company will not have access to Zoom Phone 
+Service during that interruption and therefore will not have access to 911 service during 
+that interruption.
+(2) Network Configuration. If your companys network configuration does not permit Zoom 
+Phone Service to connect, your company will not have access to Zoom Phone Service and 
+therefore will not have access to 911 service.
+(3) Service Relocation and Non-Native Telephone Numbers. Traditional 911 service 
+automatically sends 911 calls to the appropriate local emergency responder, or Public 
+Safety Answering Point (PSAP), based on the users telephone number. Traditional 
+Enhanced 911 service (also known as E911) automatically sends 911 calls to the 
+appropriate PSAP along with the users address and telephone number. Because Zoom 
+Phone Service permits customers (and customers users) to use Zoom Phone Service 
+anywhere they have broadband Internet access, and to obtain numbers that may not 
+correspond with their current location, Zoom Phone 911 Service functions differently than 
+traditional 911 service in certain respects:
+Because a users telephone number does not necessarily correspond with the users 
+physical location, all users must provide Zoom Phone Communications, Inc. (Zoom 
+Phone) with their Registered Location when the company sets up their service. The 
+Registered Location is the street address where the users will be using Zoom Phone 
+Service.
+Zoom Phone will, where possible, automatically transmit a users Registered Location to 
+the PSAP. Accordingly, if a user relocates the equipment (for example, laptop, tablet, mobile 
+device, desktop phone or desktop computer) used to access Zoom Phone Service, the user 
+must update the Registered Location. If the user does not update the Registered Location, 
+any 911 call the user makes using Zoom Phone Service will be routed based on the users 
+previously provided Registered Location and therefore may not be routed to the 
+appropriate PSAP for the users current location.
+Once a user notifies Zoom Phone of a change in the Registered Location, there may be a 
+delay in making the new Registered Location available to properly route 911 calls and 
+advise PSAPs of the users Registered Location.
+34
+ In circumstances where direct routing to PSAPs is not available, Zoom Phone will route 911 
+calls to a 24/7 emergency call center where trained agents will ask for the name, location, 
+and telephone number of the person calling 911 and will contact the appropriate PSAP to 
+send help. The call center will not automatically receive the users address and telephone 
+number.
+(4) Loss of Electrical Power. Unless there is a backup system to power the Internet 
+connection and any equipment used to access Zoom Phone Service, phone service and 911 
+service will not be available during any power outage.
+(5) Outbound-Only Extensions. Your company may choose to enable certain extensions for 
+outbound-only calling. Outbound-only extensions will not be assigned a telephone number 
+to receive inbound calls and may not be used to call 911.
+Customer account administrators must confirm that they have read and understood this 
+notice before enrolling users on Zoom Phone Service. Customers are responsible for 
+ensuring that the Registered Location is kept updated for their users and for complying 
+with all requirements of the 911 notice.
+Zoom Voice Communications, Inc. 911 Customer Notification For Canadian Customers
+Effective March, 2019
+This notification provides important information about the ability to connect to 911 
+emergency calling services using Zoom Phone Service. Please read it carefully.
+Zoom Phone 911 Service: Zoom Phone 911 Service operates differently than traditional 
+911 service. The CRTC requires us to advise our customers of the circumstances under 
+which 911 may not be available or may be in some way limited by comparison to 
+traditional 911 service. Such circumstances include:
+(1) Be prepared during any service interruption . VoIP phone service depends not only on 
+your continued subscription (and payment) for the service, but also on Internet 
+connectivity and power to function. In the event of power, network, or Internet outages 
+(including congestion), or if your service is disconnected or suspended due to non-
+payment, you may experience a failure, disruption or delay in your 9-1-1 service. We 
+recommend that you keep an alternative phone service (such as a cellular telephone) 
+handy to increase the reliability of your access to emergency services during any service 
+interruption.
+(2) Do not disconnect. Until you are told to do so by an emergency dispatcher, do not 
+disconnect your 9-1-1 call. If you are inadvertently disconnected, call back immediately.
+(3) Network Configuration. If your companys network configuration does not permit Zoom 
+Phone Service to connect, your company will not have access to Zoom Phone Service and 
+therefore will not have access to 911 service.
+(4) Service Relocation and Non-Native Telephone Numbers. Traditional 911 service 
+automatically sends 911 calls to the appropriate local emergency call centre or national 
+35
+ emergency call centre, based on the users telephone number. Traditional Enhanced 911 
+service (also known as E911) automatically sends 911 calls to the appropriate local 
+emergency call centre or national call centre along with the users address and telephone 
+number. Because Zoom Phone Service permits customers (and customers users) to use 
+Zoom Phone Service anywhere they have broadband Internet access, and to obtain 
+numbers that may not correspond with their current location, Zoom Phone 911 Service 
+functions differently than traditional 911 service in certain respects:
+Because a users telephone number does not necessarily correspond with the users 
+physical location, all users must provide Zoom Voice Communications, Inc. (Zoom Voice) 
+with their Registered Location when the company sets up their service. The Registered 
+Location is the street address where the users will be using Zoom Phone Service.
+Zoom Voice will, where possible, automatically transmit a users Registered Location to the 
+appropriate emergency call centre. Accordingly, if a user relocates the equipment (for 
+example, laptop, tablet, mobile device, desktop phone or desktop computer) used to access 
+Zoom Phone Service, the user must update the Registered Location. If the user does not 
+update the Registered Location, any 911 call the user makes using Zoom Phone Service will 
+be routed based on the users previously provided Registered Location and therefore may 
+not be routed to the appropriate emergency call centre for the users current location.
+Once a user notifies Zoom Voice of a change in the Registered Location, there may be a 
+delay in making the new Registered Location available to properly route 911 calls and 
+advise emergency call centres of the users Registered Location.
+If a users Registered Location is not correct or for other technical reasons, the emergency 
+call centre may not have the users address and telephone number. Accordingly, users 
+should be to provide their name, location, and telephone number to an answering 
+emergency centre.
+(5) Inform other Users . You must notify employees, visitors, or other potential users of 
+your VoIP service of the nature and limitations of 911 emergency calls. To make this easier, 
+attach the stickers provided by Zoom Voice in a visible location on your equipment
+(6) Outbound-Only Extensions. Your company may choose to enable certain extensions for 
+outbound-only calling. Outbound-only extensions will not be assigned a telephone number 
+to receive inbound calls and may not be used to call 911.
+(7) Limitation of Liability . Zoom Voice does not have any control over whether, or the 
+manner in which, local emergency response centres or the national calling centre answers 
+or responds to 911 calls made using Zoom Phones Service. Zoom Voice disclaims all 
+responsibility for the conduct of local emergency response centres and the national 
+emergency calling centre. Zoom Voice relies on third parties to route 911 calls to local 
+emergency response centres and to a national emergency calling centre. Zoom disclaims 
+any and all liability or responsibility in the event such third party routes calls incorrectly or 
+the data used to route calls is incorrect. Neither Zoom Voice nor its officers, directors, 
+employees, affiliates, agents and any other service providers who provides service to you in 
+connection with Zoom Phone Service (Zoom Indemnitees) may be held liable for any 
+claims, damages, or losses, fines, penalties, costs and expenses arising from or relating to 
+36
+ Zoom Phones 911 Service (collectively, Claims), and you hereby waive any and all such 
+Claims unless such Claims arise from Zooms gross negligence, recklessness or willful 
+misconduct. You shall defend, indemnify, and hold harmless Zoom Indemnitees from any 
+Claims by, or on behalf of, your or any third party relating to the absence, failure or outage 
+of Zoom Phone Service, incorrectly routed 911 calls, and/or the inability of any user of the 
+Service to be able to use 911 service or access emergency service personnel.
+Customer account administrators must confirm that they have read and understood this 
+notice before enrolling users on Zoom Phone Service. Customers are responsible for 
+ensuring that the Registered Location is kept updated for their users and for complying 
+with all requirements of the 911 notice.

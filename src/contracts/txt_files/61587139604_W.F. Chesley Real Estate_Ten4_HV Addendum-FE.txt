@@ -1,0 +1,151 @@
+ten4
+Customer Legal Name: W. F, Ch esley Rea) Esta te, ae PYo mp aid
+Equipment Location Address:_/@ #4 Roy 3 North, Suste tor, C ny,
++ .
+As of the oay of April 2020 (Effective Date), Ten4 and Customer enter into this Addendum to the Managed Services
+Agreement ("MSA"), which was signed and dated Mares CA ¢ 6-6 and is incorporated herein by reference.
+ADDENDUM to Master Services Agreement
+HOSTED VOICE
+1. Service Term
+The Service Term for Hosted Voice Services is provided on the Service Order Form (SOF).
+Auto Renewal: Following the Initial Service Term, the SOF shall renew automatically on a month-to-month basis upon the same
+terms and conditions, and either party elther party may terminate at any time with sixty (60) days written notice.
+This Addendum shall continue in effect for as long as any SOF for Hosted Voice Services Is in effect,
+2, Coverage & Cost
+Services: During the Service Term, Ten4 agrees to provide hosted voice services for sites listed in the SOF, and as may be
+amended hereafter In writing. Ten4 offers the following Services and Products:
+e = — SIP Trunk Bundling (with option for unlimited)
+Hosted Fax
+Additional DIDs and setup
+Remote setup and configuration of Edgemare device to support SIP trunking
+Hosted Phones
+Access to account information via Ten4 Portal
+In addition to the terms and conditions in the MSA and listed hereln, CUSTOMER EXPRESSLY AND EXPLICITLY AGREES TO BE
+BOUND BY ANY UNDERLYING SERVICE PROVIDER CONTRACTS.
+All bills are due within thirty (30) days upon receipt of Ten4 invoice. Customer will pay all Charges as set forth in the SOF which
+shall be signed per location or service ordered and are incorporated herein by reference. Charges listed may not include taxes, fees,
+or regulatory surcharges that may be assessed on the Services ("Taxes"), and Customer will be responsible for all such Taxes.
+3, Emergency Services 911 Dialing
+Customer understands and accepts the requirements and limitations provided in the E911 document, which are incorporated herein
+and constitute part of this Addendum.
+4, Termination
+Termination For Cause. Either party may immediately terminate a SOF by written notice if the other party breaches a provision of
+this Addendum or the Master Services Agreement and the breaching party does not cure such breach after written notice and a five
+(5) day cure period in the event of any failure to pay an amount due hereunder, or a thirty (30) day cure period in the event of any
+other breach,
+If Ten4 Terminates for Cause, Ten4 will have no further flabllity or obligation under this Addendum and accompanying SOF.
+Early Termination Fee. If Customer terminates any Services prior to the expiration of the Service Term, Customer shall pay Ten4
+an Early Termination Fee equal to the MRC of the initial contract value times the number of months remaining under contract for
+that site. In no event shall Customer be entitled to any refund of already pald charges if the SOF, Addendum or MSA, or any portion
+thereof, Is terminated,
+5. Service Level Agreement
+For all Customer sites that complete a SOF with designated Hosted Voice SLA equipment, Ten4 shall warrant the following levels of
+Service on the network when installed by Ten4 or an authorized technician:
+a. General Standard. Ten4 will use reasonable efforts under the circumstances to maintain its overall network quality. The
+quality of service provided hereunder shall be consistent with other common carrier Industry standards, government regulations and
+sound business practices.
+b, Interruptions in Service. Interruptions in service, which are not due to Customer's negligence or non-compliance with
+the provisions of the Agreement (including all Addendums, SOFs and other relevant documents attached thereto), or the operation
+or malfunction of facilities, power, or equipment provided by Customer, will be credited to Customer as set forth below for the part of
+the service that the Interruption affects, A credit allowance will be made when an interruption occurs because of a failure of any
+component furnished by Ten4 under this Agreement.
+1700 Union Avenue, Suite B » Baltimore, MD 21211 » 410-464-8900 « www.ten4.us
+¢. Credit for Interruptions. An interruption period begins when Customer reports a service, facllity, or circuit to be
+interrupted through the opening of a trouble ticket and makes it available for testing and repair. An interruption period ends when the
+service, facility, or circuit is operative, If Customer reports a service, facllity, or circuit to be inoperative but declines to make it
+avallable for testing and repair, It is considered to be Impaired, but not interrupted.
+i. For calculating credit allowances, every month is considered to have 30 days. A credit allowance Is applied on a pro
+rata basis against the monthly recurring charges for the affected service and Is dependent upon the length of the interruption. Only
+those facilities on the Interrupted portion of the circult will receive a credit. No credit will be given on the usage-sensitive portion of
+the service.
+ii, Accredit allowance will be given for interruptions of 30 minutes or more, upon written request of the customer no later
+than ten (10) business days after the occurrence of the outage to Customer's Ten4 Account Manager, Credit allowances will be
+calculated as follows:
+ili, If the interruption continues for less than 24 hours:
+(a) 1/30th of the monthly recurring charge if it is the first interruption in the same billing period.
+(b) 2/30ths of the monthly recurring charge if there was a previous Interruption of at least 24 hours in the same
+billing period.
+iv. Ifthe interruption continues for more than 24 hours, 1/30th of the monthly recurring charge for the first 24 hours and
+2/30ths of such rate for each additional 24 hours (or fraction thereof); however, If service is Interrupted for over 24 hours more than
+once in the same billing period, the 2/30ths allowance applies to the first 24 hours of the second and subsequent interruptions.
+vy. Two or more Interruptions of 30 minutes or more during any one 24-hour period shall be considered as one
+Interruption,
+d. Maximum Credit. Credits attributable to any billing period for interruptions of service shall not exceed the total monthly
+recurring charges for that period for the service and facllities furnished by Ten4 rendered useless or substantially impalred. The
+credits set forth in this SLA shall be Ten4s sole liability and Customer's sole remedy in the event of any interruption. Unless
+otherwise specifically provided in this Agreement, under no circumstances shall an interruption be deemed a breach of the
+Agreement.
+e. Interruption Defined. For the purpose of applying this provision, the word interruption (whether capitalized or not)
+shall mean a complete loss of service resulting in the inability to complete cails (either incoming or outgoing or both) due to
+equipment malfunction or human errors for a continuous period of more than thirty (30) minutes. Interruption does not include, and
+no allowance shall be given for, service difficulties such as slow dial tone, circults busy or other network and/or switching capacity
+shortages. Nor shall the interruption allowance apply where service Is interrupted by the negligence or willful act of Customer or
+where Ten4, pursuant to the terms of the Agreement, suspends or terminates service because of nonpayment of bills due to Ten4,
+unlawful or improper use of the facilities or service, or any other reason covered by the Agreement, No allowance shall be made for
+interruptions due to electric power failure where, by the provisions of this Agreement, Customer is responsible for providing electric
+power.
+f. Limitations on Credit Allowances. No credit allowance will be made for:
+1. Interruptions arising from the acts or omissions of, or non-comptiance with, the provisions of thls Agreement or any
+schedule or exhibit thereto by Customer or any authorized user, or any interruptions due to any party other than Ten4 or for events
+happening on any other party's network, Including but not limited to internet service providers or other common carriers connected
+to, or providing service connected to, the service of Ten4 or to Ten4s facilities;
+li. Interruptions due to the failure or malfunction of non-Ten4 equipment, Including service connected to Customer-
+provided electric power;
+lil, Interruptions of service during any period in which Ten4 Is not given full and free access to its facilities and
+equipment for the purpose of Investigating and correcting interruptions;
+iv. Interruptions of service during any scheduled maintenance period or when Customer has released service to Ten4
+for maintenance purposes or for Implementation of a Customer order for a change in service arrangements;
+v. _ Interruptions of service due to force majeure events beyond the reasonable control of Ten4.
+6. Service Delivery and Escalation
+a. Support Hours. Standard live support hours are Monday through Friday, 8am to 8pm EST/EDT. Routine requests for
+changes (MACDs) are processed during standard support hours. Emergency after hours, weekend and holiday support available
+24/7 via call-back service,
+Support Contact Information:
+Phone — 888,787.6999 or 856.422.5300
+Email ~ support@ten4.us
+b, Priority Definitions and Processes.
+1. MACD: Routine request for Moves, Adds, Changes or Deletion of configured services (none service-affecting).
+li. Low: Experiencing Intermittent problems (e.g. static, echo) that do not impact the ability to conduct business,
+li, | Medium: Service Is impalred, but Customer can still conduct business.
+~ PROPRIETARY & CONFIDENTIAL - Tend + Page 2
+Iv. High: Experiencing 50% or more service outage of one or more locations, circuits, or lines. This may also include
+intermittent problems that are so severe that they impact the abllity to conduct business,
+Note: All HIGH service outage tickets receive immediate attention and follow ups will be made every 2 hours until issue is
+closed,
+Priority
+Target Time Escalation Guidelines
+1* Level 2™ Level I 3" Level 4" Level
+MACD <24 hours 24 hours 28 hours 36 hours 48+ hours
+Low <8 hours [8 hours 40 hours 12 hours 24+ hours
+Medium. <4 hours [ 4 hours 6 hours 8 hours 10+ hours
+High <2 hours [2 hours 4 hours 6 hours 6+ hours
+c., Customer Support Contacts. Ten4 has technical support available to assist Customer, Customer can contact Ten4's
+management team listed below:
+1 Level
+2" Level
+3" Level
+4"" Level
+Technical Support 888.787.6999 support@ten4.us
+Senior Network Engineer, Bryan Lalonde 856.422.5304 blalonde@ten4.us
+Director, Network Engineering, Tom McDonnell 856.422.5309 tmedonnell@ten4.us
+VP Operations, Scott Klemm 856.422.5302 sklemm@ten4.us
+7. Disconnects
+Customer explicitly requests and Ten4 shail submit a written request for disconnection to Customer's current provider/s upon
+completion of porting of lines to Ten4's service at each Customer location. Customer understands and agrees that a request for
+disconnect and cancellation does not guarantee performance of same; disconnection may be contingent upon final payment or other
+factors, Ten4 shall not be responsible for any charges resulting from Customer's current provider failing to perform the requested
+disconnect,
+8. Network Changes
+Customer understands and agrees that Ten4's ability to provide Services may be affected by Customer's network design and any
+changes to Its network design or security requirements may hinder or altogether prevent a Customer's site from receiving Services.
+Should Customer make any network design changes which require Ten4 to operate within Customer's network, Customer shall
+notify Ten4 as soon as reasonably possible. Ten4 shall make a reasonable effort to verify which, If any, Customer sites may be
+affected by the change and notify Customer within five (5) business days,
+Acceptance
+Ten4 and Customer have caused this Agreement to be executed below by their duly authorized signatories,
+Customer: Distributed Computing, Inc. dba Ten4
+Chest. QLIO
+By: (ate am hea rS . fey By: Deanna R. Kelly
+Title: "nem ber— Title: Vice President
+Date: 3 fy Ja-o Date: 03/05/20
+~ PROPRIETARY & CONFIDENTIAL - Tend » Page 3

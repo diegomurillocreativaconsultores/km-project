@@ -1,0 +1,45 @@
+© 2022 Frontier Communications Parent, Inc. All Rights Reserved.**Note: Please see the contract schedule for the included IP block size for DIA Orders.Circuit Hand Off/IP Topology Options – Customer Facing Interface/Port
+Hand Off:  Copper RJ45     IP Topology:  WAN/LAN
+Default Hand Off: Copper RJ45  Default IP Topology: FLAT LAN
+Default Hand Off: Single Mode Fiber Default IP Topology: FLAT LAN
+Default Hand Off:  Copper RJ45  IP Topology Does Not ApplyCustom Hand Off/IP Topology Selection Required
+Custom Hand Off/IP Topology Selection Required
+Custom Hand Off Selection Required:If a customer needs a fiber hand off, they will need to source and install their own media converterDIA Order – With a Frontier Router  - Hand off/IP Topology is fixed as shown
+DIA Order 5M to 1G – Without a Frontier Router – Please Make Your Selections
+DIA Order 2G to 10G – Without a Frontier Router – Please Make Your Selections
+EPL/EVPL/ELAN Order (All Endpoints or use Note to specify per site) A
+B
+C
+DEquipment Interface/Hand off
+Equipment Interface/Hand off
+Equipment Interface/Hand off:Static IP Topology
+Static IP Topology
+Provide Detail Here if a mix of hand off options is required at specific endpoints:Technical
+Selections
+Form
+Customer Name: Service Address:
+2
+© 2022 Frontier Communications Parent, Inc. All Rights Reserved.5. Call Failover destination:
+• All calls would failover to this number when the Frontier SIP device cant be reached.
+• If the field is left blank, we will assume no call failover destination is needed. You will also be able to adjust 
+this on a per DID level using the SIP configuration portal post installation. The Order PM will provide more 
+details on the portal and can assist with failover configuration.2. We need to know how many digitis we should send to the customer for inbound calls.
+**10 is the most common option, and the inbound digits are used by the customers PBX to map the call to the correct extension.1. Desired Main 911 Number:
+The main number will resolve the address on file for the location.
+** If you do not have a number yet, this could be the selected during the order process when DIDs are assigned.
+911 Notes :
+The 911 requirements differ by area and location, so the customer is responsible to determine what their setup 
+needs to be. If the customer has other needs such as ELIN/ERL or PS/ALI we need to know that now.
+Additional fees apply for those other services and PS/ALI is not available in all areas.
+3. SIP Services will be handed off via a Copper RJ45 connector.
+• If a PRI hand off was requested, then that type of interface will be provided.
+• If an Analog hand off was requested, then we will provide a 66 block/punch down or similar.
+4.1   If yes, which option below?
+Allow 1+ international dialing (only 1+ international Dialing/Calling permitted)
+Allow 011 international dialing (only 011 international Dialing/Calling permitted)
+Allow both 1+ and 011 international dialing (both 1+ and 011 international Dialing/Calling permitted)4. International dialing: SIP Order  Configuration questions/Notes: E
+* These settings are not able to be changed once the order is placed,  please confirm with customer prior to ordering. If you need help with this 
+settings, a Solutions Engineer can provide assitance.
+Agent Name:Agent Acknowledgement; by checking this box, I confirm that I have reviewed this information with the customer
+Date:No Yes
+This form requires use of the full Adobe Acrobat program (latest version) and may not work using a PDF browser plug in.

@@ -1,0 +1,288 @@
+COMMERCIAL SERVICE AGREEMENT  
+ THIS SERVICE AGREEMENT  (THE AGREEMENT)  
+INCORPORATES BY REFERENCE THE BARCONNECTS, LLC 
+(BARC  OR PROVIDER ) TERMS OF SERVICE, 
+ACCCEPTABLE USE POLICY, AND PRIVACY POLICY, ALL 
+FOUND AT  HTTP:// WWW.BARCCONNECTS.NET/FORMS .  
+WHERE ANY OF THE TERMS OF THIS AGREEMENT CONFLICT WITH THE ABOVE -REFERENCED POLICIES, OR 
+WITH THE TERMS OF SERVICE, THIS AGREEMENT SHALL 
+CONTROL.  
+1. PAYMENT  
+a) Nonrecurring charges  and recurring charges shall be due 
+within fifteen  (15) days of the date of the invoice: billing 
+shall commence upon the service being provisioned and 
+deemed operational by PROVIDER. Any amount not 
+received within fifteen  (15) days of the date of the invoi ce 
+will be subject to PROVIDERs standard late charge of 1.5 % 
+per month.  
+b) If Customer is not able to provide written evidence of the pertinent exemption to PROVIDER, Customer agrees to pay 
+any sales, use, gross receipts, excise, access, bypass or 
+other loca l, state and Federal taxes or charges imposed on 
+or based upon the provision, sale or use of the Services or 
+Equipment provided. PROVIDER and Customer will cooperate with the appropriate authority as to applicability 
+of taxes or charges. Taxes or charges w ill be separately 
+stated on Customer's invoice.  
+2. USE 
+Customer may use the Services for any lawful purpose for 
+which they are intended, provided that Customer will not 
+use the Services so as to interfere with or impair service 
+over any of the facilities and associated equipment 
+comprising the PROVIDER fiber o ptic cable network and 
+associated equipment, or to impair the transmission or privacy of any communications over the fiber optic 
+facilities and associated equipment of PROVIDER, or of 
+other users.  PROVIDER, by the service hereunder, is 
+providing circuits for the customer on a private network, 
+and may provide switching services within that network, 
+however PROVIDER is not utilizing the switching 
+capabilities of the Public Switched Telephone Network.  
+ 3.    SERVICE LOCATION, DATE  AND TERM  
+THE SERVICE LOCATION IS:  670 Oakland Circle  
+                                                        Raphine VA 24472  
+THE ESTIMATED SERVICE DATE IS: 04/14/2020  
+ THE TERM OF THIS AGREEMENT IS: TWO (2)  YEARS  
+a) PROVIDER shall use reasonable efforts to make Services 
+available by the estimated service date. PROVIDER shall not 
+be liable for any damages whatsoever resulting from delays 
+in meeting any Service dates due to delays resulting from 
+NORMAL CONSTRUCTION PROCEDURES. Such delays shall include, but not be limited to, delays in obtaining necessary 
+regulatory approvals for construction, delays in obtaining 
+right of way approvals, and delays in actual construction 
+work. If Customer is not ready to accept PROVIDER Services 
+30 days after the spec ified service date, PROVIDER shall 
+commence billing.  
+b) After the term of this contract, if Customer has not given 
+PROVIDER 90 days prior written notice of its intent to 
+disconnect, the Contract will then be automatically 
+renewed on a month -to-month basis, an d Customer may 
+then disconnect Service upon 30 days written notice.  
+c) PROVIDER may use its own network (On -Net) and the 
+networks of other carriers (Off- Net) to provide 
+completed circuits to its customers.  Where PROVIDER 
+does use Off- Net facilities to f ulfill this contract, PROVIDER 
+may note that portion of its circuit price within this 
+contract related to Off -Net providers, and if the contract is 
+renewed on a month -to-month basis, PROVIDER will 
+automatically increase or decrease the customers bill by 
+the amount that an Off -Net provider increases or 
+decreases its charges to PROVIDER.    
+3. CUSTOMER RESPONSIBILITIES  
+a) Access - Customer is responsible for arranging access to 
+any of the rights of way, conduit and equipment space 
+necessary to provide Service on the premises so that 
+PROVIDER -authorized personnel, employees, or agents 
+may install, repair, maintain, inspect, replace o r remove 
+any and all facilities and associated equipment provided by 
+PROVIDER. Access to such sites shall be made available at 
+a time mutually agreeable to Customer and PROVIDER. 
+PROVIDER shall also have the right to obtain access to its 
+cable installed in  Customer -provided conduit at any splice 
+or junction box.  
+b) Provision of Customer Premises Equipment Space, Conduit, 
+and Electrical Power - Customer shall provide the necessary 
+customer's premise equipment space, conduit, and 
+electrical power required to terminate and maintain the 
+facilities used to provide Service on all applicable premises 
+without charge or cost to PROVIDER. The space, conduit, and power must be made available to PROVIDER on a 
+timely basis. Customer shall be responsible for assuring 
+that the  equipment space and associated facilities, conduit 
+and rights of way which it is providing are a safe place to 
+work and are protected against fire, theft, vandalism or 
+other casualty, and that the use thereof complies with all 
+COMMERCIAL SERVICE AGREEMENT  
+ applicable laws, rules and r egulations and with all 
+applicable leases or other contractual agreements.  
+c) Governmental Authorizations -  Customer shall be 
+responsible to obtain and continue in effect all 
+government authorizations necessary to permit Customer 
+to receive Service and comply  with its obligations under 
+this contract.  
+4. EQUIPMENT  
+a) Title  – Unless explicitly purchased outright by the 
+Customer, C ustomer agrees that all right, title and interest 
+in all the fiber optic or other facilities and associated 
+equipment provided by PROVID ER hereunder shall at all 
+times remain exclusively with PROVIDER. Customer shall not create or permit to be created any liens or 
+encumbrances relating to Customer's use of the Service or 
+arising from the location of the equipment. Upon 
+termination of Servi ce, PROVIDER shall remove its 
+equipment and shall have the right, but not the obligation, 
+to remove all other facilities from any applicable premises.  
+b) Maintenance – PROVIDER shall use reasonable efforts to 
+maintain the Services in accordance with applicabl e 
+performance standards therefor. Unless otherwise 
+explicitly agreed to in writing under a managed network 
+service agreement or fee -for-service, t here are no 
+additional charges for PROVIDER maintenance services. 
+However, PROVIDER shall have no responsibili ty for the 
+maintenance and repair of facilities and equipment which 
+it does not furnish and PROVIDER may assess Customer its 
+standard charge for false call outs.  
+5. DEFAULT  
+If Customer (a) shall fail to pay any amount required under 
+this Contract and such failure continues for ten (10) days 
+after written notice to Customer that the same is due and 
+payable, or (b) fails to comply with any other material 
+provision of this Contract and such noncompliance 
+continues for thirty (30) days after written notice to 
+Customer thereof, then PROVIDER, at its sole option, may 
+elect to pursue one or more of the following courses of 
+action: either (I) terminate this Contract whereupon in 
+addition to all sums then due and payable, all future 
+monthly or other charges thereunde r or hereunder shall 
+become immediately due and payable, (ii), take appropriate action to enforce payment, including suspension of all or any part of the Service, and/or (iii) 
+pursue any other remedies as may be provided at law or in 
+equity.  
+6. LIMITATIONS OF LIABILITY  
+ a) Liability for Service Interruptions -  To the extent that any 
+part or portion of the Service is unavailable, interrupted, 
+degraded or otherwise unsatisfactory for any reason, PROVIDER and Customer agree that Customer's sole and 
+exclusive remedy shall be the credit allowances for 
+interruptions as follows:  The Customer may, upon request directed to PROVIDERs designated representative, receive 
+a credit at the rate of 1/60
+th of the monthly charges 
+applicable to the affected facilitie s for each twelve hour 
+period in excess of the first four hours that the affected 
+service fails to conform to the technical standards.  If a 
+portion of the facilities fails to conform to the technical 
+standards over a period of thirty days after written no tice by 
+Customer to PROVIDER, Customer may terminate the 
+affected portion of the facilities without a cancellation 
+charge.  
+b) Liability for Damages to Property –  PROVIDER shall not be 
+liable for any damages whatsoever  to Property at any 
+Customer premises res ulting from the installation, 
+maintenance, repair or removal of equipment and 
+associated wiring unless the damage is caused by 
+PROVIDER's willful misconduct.  
+c) Liability for Services and Equipment Not Provided by 
+PROVIDER – PROVIDER shall not be liable  for any damages 
+whatsoever associated with Service, channels, or equipment which it does not  furnish to Customer, or  for any act or 
+omission of any entity furnishing to Customer facilities or 
+equipment used for or with  the Service.  
+d) Liability for Force Majeure Events –  PROVIDER shall not be 
+liable for any failure of performance or Service for reasons beyond its reasonable control including but not limited to 
+casualty, act of God, wind, flood, tornado, storm, fire, 
+explosion, vandalism , cable cut, governmental order, riot, 
+insurrection, strike, lockout, condemnation or loss of 
+rights -of-way 
+e) Liability for Negligence or Fault of Customer  – PROVIDER 
+shall not be liable for any interruptions or damages due to 
+the fault of negligence of Cust omer or due to the failure or 
+malfunction of Customer -provided equipment or facilities.  
+f) Liability Regarding Governmental Authorization –  PROVIDER 
+shall use best efforts to obtain and keep in effect all 
+government authorizations necessary, in order to provi de 
+Service under this Contract. PROVIDER shall be entitled to 
+take, and shall have no liability for, any action necessary 
+including termination, to bring the Service into conformance 
+with any governmental regulations or authorizations, and 
+Customer shall fully cooperate in and take such action as 
+may reasonably be requested by PROVIDER as part of such compliance.  
+g) No Special Damages -  In no event shall PROVIDER be liable 
+for special damages including, but not limited to, lost 
+revenues or profits, consequenti al damages, or exemplary 
+or punitive damages as a result of its performance or 
+nonperformance of this Contract.  
+COMMERCIAL SERVICE AGREEMENT  
+ h) Managed N etwork Services  – Managed network services 
+includes the configuration, support and monitoring of 
+switch, router, firewall and wireless access point network hardware necessary for the delivery of Internet, tele phone  
+(voice)  and TV services.  PROVIDER will make reasonable 
+efforts to implement industry standard security practices on 
+all network hardware deployed at the customer site.  
+Custom er may , at any  time,  request an audit of the security 
+on all configured network hardware at their site.  PROVIDER  
+does not assume support or security responsibility for any PC, server, software application or database on the 
+customers  network.  Should any of the customers  PCs, 
+servers, software or databases become compromised due 
+to a virus , ransomware  or malware introduced either 
+internally or externally, PROVIDER assume s no 
+responsibility.  
+7. TERMINATION  
+ PROVIDER may terminate this Contract without liability and 
+Customers payment obligation will be apportioned if:  
+a) the facilities used to provide Service are taken by exercise  
+of condemnation ; 
+b) damages inflicted by Customer render PROVIDERS 
+network  inoperable or economically  unfeasible to repair ; 
+or 
+c) the facilities used to provider Service are damaged beyond 
+repair by a  force majeure event .   
+Customer may terminate this Agreement without liability 
+only i f PROVIDER fails to remedy or address any 
+deficiencies in  technical standard s agreed to by PROVIDER 
+over a period of thirty days after advance written notice by 
+Customer to PROVIDER to cure said deficiency . 
+In all other cases, in the event of termination of this 
+Agreement by Customer, Customer shall be responsible for 
+paying to P ROVIDER all monthly recurring charges 
+Customer would have paid through the term specified in 
+Section 3 above.  
+8.  INDEMNIFICATION  
+PROVIDER shall be indemnified, defended and held harmless  by Customer against all claims, suits, 
+proceedings, expenses, losses,  liabilities, or damages  
+(collectively "Claims") arising from the use of Service 
+pursuant to this Contract  involving:  
+a) Claims of third parties, including patrons or customers of 
+Customer, arising out of, resulting from, or related to the 
+Customer's resal e or attempted resale of the Service:  
+b) Claims for libel, slander, invasion of privacy, or 
+infringement of copyright arising from any Communication 
+using the Service:  c) All other claims arising out of any act or omission of 
+Customer, or customers or patrons of Customer, in connection with the Services made available to Customer under the terms of this Contract. Customer agrees to 
+defend PROVIDER against any such claim and to pay, 
+without limitation, all litigation costs, reasonable attorney 
+fees and court costs, settlement payments, and any 
+damages awarded or resulting from any such claim.  
+9. ASSIGNMENT  
+PROVIDER may, without obtaining any further consent 
+from Customer, assign a ny of its rights, privileges, or 
+obligations under this Contract. Customer shall not, 
+without prior written consent of PROVIDER, which consent 
+shall not be unreasonably withheld, assign, transfer, or in 
+any other manner dispose of, any of its rights, privi leges, or 
+obligations under this Contract.  
+10. WARRANTIES  
+a) THERE ARE NO AGREEMENTS, WARRANTIES, OR 
+REPRESENTATIONS; EXPRESS OR IMPLIED EITHER IN FACT 
+OR BY OPERATION OF LAW, STATUTORY OR OTHERWISE, 
+INCLUDING WARRANTIES OF MERCHANTABILITY AND 
+FITNESS FOR A PARTICULAR PURPOSE OR USE, EXCEPT THOSE EXPRESSLY SET FORTH HEREIN.  
+11. MISCELLANEOUS   
+This Contract may be modified, waived or amended only by 
+a written instrument signed by the party against which 
+enforcement thereof is sought, shall be binding upon the parties' respective successors and assigns, and constitutes 
+the entire agreement between PROVIDER and Customer.  
+12. REGULATORY JURISDICTION  
+In the event that provisions set  forth in this Agreement are 
+determined to be in violation of any rule, order, decision , 
+or tariff of any state or federal agency having regulatory 
+jurisdiction over PROVIDER, the terms of this Agreement 
+shall be deemed to be modified to the extent permissible 
+under such rule, order, decision or tariff.  
+13. JURISDICTION  
+The rights and obligations of the parties under this Contract shall be governed by and construed and enforced in 
+accordance with the laws of the Commonwealth of 
+Virginia.  
+14. INTERNET ACCEPTABLE USE POLICY  
+COMMERCIAL SERVICE AGREEMENT  
+ PROVIDER Direct Internet Access (DIA) is subject to 
+PROVIDERs Acce ptable Use Policy (AUP)  which is available 
+on the Internet at http://www.barconnects. net. Customers 
+contracting for DIA are subject to the terms and conditions 
+outlined in the AUP. PROVIDER reserves the right to modify 
+the AUP from time to time.  
+[SIGNATU RE PAGE FOLLOWS]  
+COMMERCIAL SERVICE AGREEMENT  
+IN WITNESS WHEREOF, THE PARTIES HAVE SIGNED THIS 
+AGREEMENT AS OF THIS 9TH  DAY OF  April, 2020. 
+ BARCONNECTS, LLC:  
+  By: ___________________________  
+Name: Michael Keyser  
+Title: Chief Executive Officer  
+CUSTOMER:  
+ By: ___________________________  
+Name:  
+Title:  
+Ava Harrington
+Marketing & Technology Manager

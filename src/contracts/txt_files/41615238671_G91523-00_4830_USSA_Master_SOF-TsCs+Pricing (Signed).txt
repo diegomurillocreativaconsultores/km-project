@@ -1,0 +1,203 @@
+Contract ID: G91523-00 - Ts&Cs+Pricing
+Reference ID: 4830
+Routing Code: U-U-E
+-   - Verizon CONFIDENTIAL
+ Master Service Order Form
+to the U.S. Services Agreement
+HORD COPLAN MACHT, INC. (Customer)Verizon Business Network Services LLC on 
+behalf of affiliates identified in this Agreement 
+or in the online Service Publication and Price 
+Guide (individually and collectively Verizon 
+Providers of U.S. Services) (Verizon)
+Customer Signature: 
+{{s1_es_:signer1:signature}}Verizon Signature:
+{{se_es_:sender:signature}}
+Name:  Jerry Battaglia{{$F1}}Name: Anthony Recine
+Title:  Director of IT{{$T1}}Title:  Senior Vice President
+Date :  {{d1_es_:signer1:date}} Date:  {{sd_es_:sender:date}}
+Email: jbattaglia@hcm2.com{{$E1}}
+Valid if signed and submitted to Verizon by 10-May-2021.
+MASTER TERMS
+This U.S. Services Agreement (Agreement) is entered into pursuant to and includes the online Master 
+Terms found at https://enterprise.verizon.com/service/g-omt-us-toc-2019SEP01.htm (as modified by the part 
+of this document labeled Master Terms), as well as the Service Attachment(s) and pricing (including 
+promotions) set out in the parts of this document labeled Service Terms and Pricing.  Customer agrees that 
+all future Orders will be subject to the terms of the Agreement.
+Customer understands that the online Master Terms and Service Attachments include service descriptions, 
+requirements, service level agreements (where applicable), payment terms and other terms and conditions, 
+which materially affect the rights, obligations and remedies of all Parties. 
+Verizon may change the Master Terms and Service Terms from time to time, effective upon 15 days posting 
+or other notice.  By continuing to use Service(s) after a change becomes effective, you agree to be bound 
+by the changed terms, which apply to new and previously-ordered Services.   It is Customers responsibility 
+to check the online Master Terms and Service Terms regularly for changes. 
+The Parties acknowledge the Agreement includes consent to use CPNI to market new Services.  
+Parties
+Customer: HORD COPLAN MACHT, INC. Verizon:  Verizon Business Network Services 
+LLC on behalf of affiliates identified in this 
+Agreement or in the online Service Publication 
+and Price Guide (individually and collectively 
+Verizon Providers of U.S. Services)
+Registered Office Address:
+700 E PRATT ST STE 1200Registered Office Address: 
+One Verizon Way
+3/4/2021
+Contract ID: G91523-00 - Ts&Cs+Pricing
+Reference ID: 4830
+Routing Code: U-U-E
+-   - Verizon CONFIDENTIAL
+BALTIMORE, MD 21202-4917
+USABasking Ridge, NJ 07920
+USA
+Registered No., ABN or CIN (if applicable): 
+N/ARegistered No. or ABN (if applicable): 
+Not applicable
+VAT/GST/Consumption Tax Number (if 
+applicable):
+N/AVAT/GST/Consumption Tax Number (if 
+applicable):
+N/A
+Additional Legal Entity Information (if 
+applicable): Additional Legal Entity Information (if applicable):
+Not applicable
+Address for Notices: 
+700 E PRATT ST STE 1200
+BALTIMORE, MD 21202-4917
+USA
+jbattaglia@hcm2.comAddress for Notices: 
+Verizon Business Services
+10000 Park Meadows Drive
+Lone Tree, CO 80124
+Attn:  Customer Service
+Email:  notice@verizon.com
+With a subject of OFFICIAL LEGAL NOTICE
+SERVICE TERMS
+The "+" following the Service name indicates it is an Optimized Service; it is not a part of the Service name. 
+The absence of a "+" following the service name indicates it is a non-Optimized Service.
+New Services
+1.Access (Interstate) / Access +; terms are located at https://enterprise.verizon.com/service/access-
+plus-toc-2020NOV17.htm.
+2.Internet Dedicated / Internet Dedicated +; terms are located at 
+https://enterprise.verizon.com/service/ids-plus-toc-2021FEB01.htm.
+ PRICING
+Service Details
+1.SERVICES PROMOTIONS
+Access +
+Optimized Service Promotion Name Promotional Terms
+Internet Dedicated New Service Incentivewww.verizonenterprise.com/external/service_guid
+e/reg/pr_internet_dedicated_plus_new_service_in
+centive_promotion.pdf
+Internet Dedicated Valueenterprise.verizon.com/service/pr-internet-
+dedicated-value-promo.pdf
+Verizon Services 90 Day Satisfaction Guarantee 
+for Servicehttps://enterprise.verizon.com/service_guide/reg/p
+r_verizon_services_90_day_satisfaction_guarante
+e_for_service_promotion_v2.pdf
+Internet Dedicated +
+Contract ID: G91523-00 - Ts&Cs+Pricing
+Reference ID: 4830
+Routing Code: U-U-E
+-   - Verizon CONFIDENTIAL
+Optimized Service Promotion Name Promotional Terms
+Internet Dedicated New Service Incentivewww.verizonenterprise.com/external/service_guid
+e/reg/pr_internet_dedicated_plus_new_service_in
+centive_promotion.pdf
+Internet Dedicated Valueenterprise.verizon.com/service/pr-internet-
+dedicated-value-promo.pdf
+Verizon Services 90 Day Satisfaction Guarantee 
+for Servicehttps://enterprise.verizon.com/service_guide/reg/p
+r_verizon_services_90_day_satisfaction_guarante
+e_for_service_promotion_v2.pdf
+NEW SERVICE(S)
+1.ACCESS + (OPTIMIZED)
+1.1Service Charges
+Charges
+Order-based pricing is provided in the Service Order Form.
+1.2Promotions Related to Service Charges. The following promotions will be applied to Optimized 
+Services as indicated below.
+Optimized Service Promotion Name Promotional Terms
+Internet Dedicated New Service Incentivewww.verizonenterprise.com/external/service_guid
+e/reg/pr_internet_dedicated_plus_new_service_in
+centive_promotion.pdf
+Internet Dedicated Valueenterprise.verizon.com/service/pr-internet-
+dedicated-value-promo.pdf
+Verizon Services 90 Day Satisfaction Guarantee 
+for Servicehttps://enterprise.verizon.com/service_guide/reg/p
+r_verizon_services_90_day_satisfaction_guarante
+e_for_service_promotion_v2.pdf
+2.INTERNET DEDICATED + (OPTIMIZED)
+2.1Service Charges
+Charges
+Order-based pricing is provided in the Service Order Form.
+2.2Promotions Related to Service Charges. The following promotions will be applied to Optimized 
+Services as indicated below.
+Optimized Service Promotion Name Promotional Terms
+Internet Dedicated New Service Incentivewww.verizonenterprise.com/external/service_guid
+e/reg/pr_internet_dedicated_plus_new_service_in
+centive_promotion.pdf
+Internet Dedicated Valueenterprise.verizon.com/service/pr-internet-
+dedicated-value-promo.pdf
+Contract ID: G91523-00 - Ts&Cs+Pricing
+Reference ID: 4830
+Routing Code: U-U-E
+-   - Verizon CONFIDENTIAL
+Verizon Services 90 Day Satisfaction Guarantee 
+for Servicehttps://enterprise.verizon.com/service_guide/reg/p
+r_verizon_services_90_day_satisfaction_guarante
+e_for_service_promotion_v2.pdf
+SERVICE ORDER FORM (OPTIMIZED SERVICES)
+Quote ID 205179959
+Quote Version # 0
+Order Section # 1455652
+Order Summary by Location: 
+Location ID Location Address Service Provided by Currency MRC NRC
+91810991C 
+- Baltimore700 E PRATT ST, STE 1200, 
+BALTIMORE, MD 21202-
+4917, United StatesMCI Communications 
+Services LLC d/b/a 
+Verizon Business 
+ServicesUSD 975.00 0.00
+Total excluding Taxes (as defined in the Contract) USD 975.00 0.00
+Service Order Details: All Services provided by MCI Communications Services LLC d/b/a Verizon Business Services 
+unless otherwise specified.  The invoice will be based on service configuration at time of invoice reflective of any changes 
+made by the Customer.
+1.Service Delivered to:
+Location ID: 91810991C - Baltimore
+700 E PRATT ST, STE 1200, BALTIMORE, MD 21202-4917, United States
+Service SummaryMRC
+(USD)NRC
+(USD)
+Access + 950.00 0.00
+Internet Dedicated + 25.00 0.00
+Total (USD) excluding Taxes (as defined in the Contract) 975.00 0.00
+Service Detail for Location ID(s): 91810991C - 
+Baltimore
+(See Appendix and Contract for any additional charges)Activity 
+TypeQuantityMRC
+(USD)NRC
+(USD)
+Access +, Service ID: 1352942329
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Local Access - Op/App Performance: Gold / Silver - 1 
+Gbps - UNI Speed: 1 Gbps (GigE) - TPV UNI Speed: 1 
+Gbps (GigE) 1ADDED N/A 950.00 0.00
+Promotion: Internet Dedicated Value 0.00 0.00
+Additional Promotions included: 
+Internet Dedicated New Service Incentive
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Internet Dedicated +, Service ID: 1352942337
+Activity Type: ADDED
+Service Commitment: 36 Months 
+Internet Dedicated Port - Tiered - 1 Gbps ADDED N/A 25.00 0.00
+Promotion: Internet Dedicated Value 0.00 0.00
+Additional Promotions included: 
+Internet Dedicated New Service Incentive
+Contract ID: G91523-00 - Ts&Cs+Pricing
+Reference ID: 4830
+Routing Code: U-U-E
+-   - Verizon CONFIDENTIAL
+Verizon Services 90 Day Satisfaction Guarantee for Service
+Total (USD) excluding Taxes (as defined in the Contract) 975.00 0.00
+Additional Information:
+1 Taxes are not included, may vary from month to month and are subject to change.

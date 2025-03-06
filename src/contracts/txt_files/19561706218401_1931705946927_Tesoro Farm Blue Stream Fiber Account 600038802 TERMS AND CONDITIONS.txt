@@ -1,0 +1,949 @@
+https://www.bluestreamfiber.com/legal/business -terms -and-conditions/  
+Business Terms and Conditions  
+1.0 AGREEMENT.  The Blue Stream Business Class Terms and Conditions ( Terms and Conditions ), and 
+any Blue Stream Business Class Service Orders (as described in Section 2.2 below) are hereby 
+incorporated into the Blue Stream Business Class Service Agreement ( Service Agreement ) and 
+constitute the  Master Agreement  by and between Customer and Blue Stream (Blue Stream) 
+(collectively, the  Parties  or each individually a  Party ) for the services specified on Service Orders 
+(Services ). The attachments to these Terms and Conditions ( Attachments ) further describe BLUE 
+STREAMs Services and are hereby incorporated by reference. The Attachments may set forth additional 
+terms and conditions for the applicable Service.  
+2.0 SERVICES AND SERVICE ORDERS.  
+2.1 Subject to the terms and conditions of the Master Agreement (including, without limitation, 
+Customers compliance with its obligations set forth in Section 5), BLUE STREAM shall provide Customer 
+with the Services in accordance with any Service Order enter ed into by the Parties. Unless otherwise set 
+forth, BLUE STREAM shall use commercially reasonable efforts to provide the Services seven (7) days a 
+week, twenty four (24) hours a day, excluding scheduled maintenance, required repair and events 
+beyond BLU E STREAMs reasonable control.  
+2.2 Customer shall request Services hereunder by issuing to BLUE STREAM one or more proposed 
+service and/or work order(s) (in the form provided or approved by BLUE STREAM) or via a mutually 
+agreed electronic order entry system. Upon BLUE STREAMs acceptance o f a proposed service and/or 
+work order(s), such proposed service and/or work order(s), shall be deemed a Service Order 
+hereunder and shall be deemed incorporated into the Master Agreement. A proposed service and/or 
+work order shall be deemed accepted upon the earlier of (a) BLUE STREAMs acceptance of such 
+proposed service and/or work order in writing; or (b) BLUE STREAMs commencement of delivery of the 
+Service(s) set forth in such proposed service and/or work order.  
+3.0 SERVICE & EQUIPMENT INSTALLATION.  Customer shall obtain and maintain, or ensure   that each 
+Customer employee or branch office to whom the Services will be provided, or who shall use the Service 
+(each, an  End User ), shall obtain and maintain throughout the Term, such consents (including without 
+limitation landlord and land owner consents) as are necessary to timely permit, and shall timely permit, 
+BLUE STREAM personnel to install, deliver, operate and maintain the  Services and Blue Stream 
+Equipment (as  defined in  Section 4  below) at Customers and any Customer End Users facilities. 
+Customer shall permit Blue Stream reasonable access to the Customer and any End User facilities at any 
+time as needed to install, configure, upgrade, maintain or remove the Blue Stream Equipment and other 
+Service components collocated at Customers or an End Users facilities. Customer shall make and 
+maintain throughout the Term all reasonable site preparations necessary to permit the installation, 
+maintenance and operation o f the Service and any BLUE STREAM Equipment as specified by BLUE 
+STREAM and that is required to provide the Services hereunder. In addition, Customer will provide BLUE 
+STREAM with floor space, rack space, other space and clean power as is reasonably necess ary for the 
+installation and operation of BLUE STREAM Equipment at the Customer locations identified in a Service 
+Order. Customer shall not charge BLUE STREAM, and shall ensure that BLUE STREAM does not incur, any 
+fes or expenses whatsoever in connection with Customers provision of space, power, or access as 
+described herein, or otherwise in connection with Customers performance of its obligations pursuant to 
+this Section 3; and any such fees or expenses charged b y a Customer End User shall be borne solely by 
+Customer. Provided that Customer properly performs all necessary site preparation and provides BLUE 
+STREAM with all required consents, BLUE STREAM shall use commercially reasonable efforts to install 
+the Servi ce in accordance with the requested Service start date indicated on a Service Order. In the 
+event that BLUE STREAM is unable to install the Service in accordance with the agreed upon schedule as 
+a result of (i) Customers (or its End Users) failure to del iver any required materials, support or 
+information to BLUE STREAM; or (ii) BLUE STREAM not being able to obtain access to equipment or 
+software at the installation location as necessary for installation of the Service, then Customer shall pay 
+BLUE STREAM the standard installation fee as identified on the applicable Attachment hereto for any 
+installation trip made by BLUE STREAM and an additional installation fee for each subsequent trip 
+necessitated to perform the Service installation. Interconnection of t he Services and BLUE STREAM 
+Equipment with Customers or an End Users equipment will be performed by Customer unless 
+otherwise agreed in writing between the Parties.  
+4.0 SUPPORT & MAINTENANCE.  BLUE STREAM shall use commercially reasonable efforts to maintain 
+the BLUE STREAM - provided and installed equipment, including as applicable, any cabling, cable 
+modems, related splitters, routers or other items, (collectively,  BLUE STREAM Equipment ) on BLUE 
+STREAMs side of the demarcation points used by BLUE STREAM to provide the Service(s). 
+Notwithstanding any contrary provision set forth in the Master Agreement, equipment and services on 
+Customers side of the demarcation poi nts as well as any other Customer -provided equipment are the 
+responsibility of Customer. BLUE STREAM shall provide a telephone number and email address for 
+inquiries and remote problem support for the Service(s). All such Customer support shall be provided  
+only to Customers designated personnel, as mutually agreed upon by BLUE STREAM and Customer. 
+Customer is responsible for all communications and interfaces with its End Users. In no event shall BLUE 
+STREAM be responsible for providing support for any netw ork, equipment or software not provided and 
+installed by BLUE STREAM or for issues or problems beyond its control. Notwithstanding anything to the 
+contrary in the foregoing, BLUE STREAM shall use commercially reasonable efforts to restore any cable 
+cuts on  the BLUE STREAM network and shall keep Customer reasonably advised of such restoration 
+progress. Customer agrees to provide routine operational Service support for BLUE STREAM Equipment 
+and Service components collocated at Customers or an End Users faci lity, including without limitation 
+by performing reboots, as requested by BLUE STREAM.  
+5.0 CUSTOMER OBLIGATIONS.  
+5.1 The Services are to be used solely for general business and commercial purposes. Customer agrees 
+that:  
+A. The Services provided by BLUE STREAM will be utilized solely in accordance with all applicable laws 
+and regulations and for Customers use; (ii) Customer shall not sell, resell sublease, assign, license, 
+sublicense, share, provide, or utilize in conjunc tion with or otherwise offer or make the Services 
+available to other users, service locations or tenants, and shall not charge others to use the Services, in 
+whole or in part, directly or indirectly, or on a bundled or unbundled basis. Customers are specif ically 
+prohibited from permitting other users and/or locations to access the BLUE STREAM Internet Service, 
+whether through wireless or other means; and (iii) Customer will adhere to any BLUE STREAM policies, 
+rules and regulations provided to Customer. Customer acknowledges that BLUE STREAM may change 
+such policies, rules and regulations at any time.  
+B. Customer (or Customers authorized representative and each end user of Customers Account) is at 
+least 18 years of age. Customer has provided and will continue to provide to BLUE STREAM accurate, 
+complete, and current Customer information, including but  not limited to Customers legal name, 
+address, phone number(s), and payment data (including but not limited to credit card numbers and 
+expiration dates). Customer agrees that during the term of this Agreement Customer will promptly 
+notify us if there is a ny change in the information that Customer has provided to us in accordance with 
+the terms of this Agreement. If Customer fails to provide and maintain accurate information, Customer 
+is in breach of this Agreement.  
+C. Use of the Services must respect the property rights of BLUE STREAM and others. Title and intellectual 
+property rights to the Services are owned by BLUE STREAM, its agents, suppliers or affiliates or their 
+licensors or otherwise by the owners of such ma terial and are protected by copyright laws and treaties. 
+The copying, redistribution, reselling or publication of any part of the Services without express prior 
+written consent from BLUE STREAM and other owners of such material is prohibited.  
+D. BLUE STREAM shall have the right, upon reasonable prior notice and during Customers normal 
+business hours, and subject to any reasonable security requirements, to audit Customers use of the 
+Service, to ensure Customers compliance with these Terms and  any applicable Business Customer 
+Agreement. In the event that BLUE STREAMs audit reveals that Customers usage of the Service(s) 
+exceeds Customers rights hereunder or under any applicable Business Customer Agreement, BLUE 
+STREAM may charge to Customer a n amount equal to one and a half times the Service charges that 
+would have been due for such excessive usage as liquidated damages and not as a penalty. In addition, 
+Customer shall either discontinue any excess usage or thereafter continue to pay BLUE STRE AMs then -
+current fees for such additional usage.  
+E. Any breach of this Section 5 shall be deemed a material breach of this Agreement. In the event of 
+such material breach, BLUE STREAM shall have the right to restrict, suspend or terminate immediately 
+any or all Service Orders, without liability on the pa rt of BLUE STREAM and then to notify Customer of 
+the action that BLUE STREAM has taken and the reason for such action, in addition to any and all other 
+rights and remedies under this Agreement.  
+5.2 Customers use of the Service(s) (including all content transmitted via the Service(s)) shall comply 
+with all applicable laws and regulations and the terms of the Master Agreement. Customer agrees not to 
+resell or redistribute (whether for a fee or otherw ise) the Service, or any portion thereof, or make any 
+use of the Service(s) other than for Customers internal business purposes, unless otherwise agreed in 
+writing by BLUE STREAM. Customer shall ensure that its End Users use of the Service(s), if any,  shall 
+comply with all applicable laws and regulations and terms of the Master Agreement and any applicable 
+Terms of Use (which are incorporated herein by this reference). Terms of Use means all applicable 
+Service policies, including without limitation a cceptable use policies, and other terms and conditions 
+established by BLUE STREAM and available on the BLUE STREAM web 
+site,  https://www.bluestreamfiber.com/business/ , as may be modified from time to time by BLUE 
+STREAM, in its sole discretion. BLUE STREAM may audit Customers use of the Service(s) remotely or 
+otherwise, to ensure Customers compliance with the Master Agreement.  
+5.3 Customer shall ensure that all BLUE STREAM Equipment at Customers and Customers End Users 
+facilities remains free and clear of all liens and encumbrances and Customer shall be responsible for loss 
+or damage to the BLUE STREAM Equipment while at Custome rs or an End Users facilities. As between 
+the Parties, Customer is solely responsible for: (a) all use (whether or not authorized) of the Service(s) by 
+Customer, an End User or any person or entity, which use shall be deemed Customers use for purpose s 
+of this Agreement; (b) all content that is viewed, stored or transmitted via the Service(s); and (c) all third 
+party charges incurred for merchandise and services accessed via the Service(s), if any. Customer agrees 
+to conform its equipment and software,  and to ensure that each End User conforms its equipment and 
+software, to the technical specifications for the Service(s) provided by BLUE STREAM.  
+6.0 TERM.  The Master Agreement shall commence on the date of the last signature on the Service 
+Agreement (the Effective Date) and shall remain in effect for the term specified in the Service 
+Agreement, or if no term is specified, until the expiration or terminatio n of all Service Orders (the 
+Term). The Term for the applicable Service(s) shall be set forth in the Service Order (Initial Order 
+Term) and shall remain in effect until expiration as set forth in the Service Order. Unless otherwise 
+specified in the Service Agreement, if the Customer continues to receive Service(s) after the expiration 
+of the Initial Order Term, the Service(s) shall renew on a month -to-month basis on the same terms and 
+conditions (Renewal Order Term, collectively with Initial  Order Term, Order Term). The fees for the 
+Renewal Order Term shall be as set forth in Section 8.  
+7.0 PRICING POLICY:  Prices and price guarantees exclude taxes and fees, however designated, including 
+but not limited to applicable regulatory, PEG and franchise fees, and regulatory recovery fees, cost 
+recovery charges, Subscriber Line Charges, Network Line Fees, PRI charges , other carrier access fees 
+and/or access fees, Carrier Service Fees, surcharges, the Broadcast TV fee, Sports Surcharge, excises, 
+program related fees (such as universal service, telecom relay services for the visually/hearing impaired , 
+rights -of-way access, and programs supporting the 911/E911 system), additional equipment, 
+installation, late fee, service call and repair charges, and measured, per call or other usage -based or 
+separately billed charges (collectively, the Separate Fees and Charges). The Separate Fees and Charges 
+will vary depending upon your service location and the services to which you subscribe. Not all of the 
+Separate Fees and Charges apply to all services. Customers who participate in a promotional offer with a 
+discount on monthly service fees will revert back to the standard monthly fee for the service at the end 
+of the promotional period, unless the customers service is earlier terminated for any reason.  Any 
+promotional, discounted or guaranteed price for service applies only to the price of the particular 
+service or services identified, and excludes the Separate Fees and Charges.  
+8.1 PAYMENT.  For each Service, Customer agrees to pay BLUE STREAM all recurring and non -recurring 
+charges, fees and taxes, (which may include Service installation and activation charges, measured and 
+usage -based charges, local, long distance, directory assistance and operator services calling charges, and 
+equipment and facilities charges) (collectively the Service Charges) as set forth on the Service Order in 
+accordance with the following payment terms: Service Charges will be billed to Customer on a mont hly 
+basis, and are payable within thirty (30) days after the date appearing on the invoice. BLUE STREAM will 
+not defer any charges while Customer awaits reimbursement, subsidy, discount or credit from any third 
+party or government entity, and Customer shal l have the obligation to pay all charges regardless of the 
+status of any such reimbursement, subsidy, discount or credit. BLUE STREAM shall have the right to 
+increase Service Charges for each Service after the initial Order Term for such Service upon thirty (30) 
+days written notice to Customer. BLUE STREAM may charge a late fee for any amounts which are not 
+paid when due. Customer shall also be responsible for all costs of collection (including reasonable 
+attorneys fees) to collect overdue amounts. If BLUE STREAM fails to present a charge in a timely 
+manner, such failure shall not constitute a waiver of the charges for the fees to which it relates and 
+Customer shall pay such invoice in accordance with these payment terms.  
+8.2 Any amounts not paid to BLUE STREAM within such period will be considered past due. Failure to 
+pay charges invoiced or failure to pay on time may result in discontinuance of Service(s), the removal of 
+equipment delivered and/or the imposition of interest, early termination charges, late payment charges 
+(not to exceed the highest charges allowed by law) and/or service charges.  YOU WILL BE ASSESSED A 
+LATE FEE PER MONTH FOR EACH BLUE STREAMOUNT THAT HAS NOT BEEN PAID IN FULL AFTER 30 
+DAYS FROM THE BILLING DATE,  in addition to any past due balance.  
+8.3 Billing Statement Errors and Disputes.  Notwithstanding anything in these Terms and Conditions to 
+the contrary, Customer must provide to BLUE STREAM written notice of any billing statement errors or 
+disputed charges within thirty (30) days from the date of the bill. Customer should send written  notice 
+to: BLUE STREAM Internet, Attn: VP of Business Operations, 4236 NW 120 Ave Coral Springs, FL  33065. 
+Customer must have and present a reasonable basis for disputing any amount charged. If Customer fails 
+to object to a billing statement in writing within the 30 day period, Customer waives his/her/its right to 
+a refund or credit associated with such billing error or dispute. In all events, Customer is required to pay 
+the undisputed amount of the billing statem ent. 
+9.0 Credit Approval and Deposits.  This Agreement is contingent upon credit verification and approval of 
+the Customer by BLUE STREAM. Customer shall provide BLUE STREAM with true and correct credit 
+information requested by BLUE STREAM. Customer authorizes BLUE STREAM to make inquiries and to 
+receive information about Customers credit history from others and to enter this information in 
+Customers records and to disclose this information to appropriate third parties for reasonable business 
+purposes. BLUE STR EAM, in its sole discretion, may deny the Service(s) based upon an unsatisfactory 
+credit history, or may condition the Service(s), which may include requiring (i) pre -payment for 
+Service(s) and other charges, and/or (ii) a security deposit, valid credit ca rd on file or bank account 
+information (EFT) to secure return of equipment and payment for Services and other charges. Any cash 
+deposit will not, unless explicitly required by law, bear interest and shall be held by BLUE STREAM as 
+security for payment of C ustomers charges. Customer understands and agrees that EFTs cannot be 
+provided solely for security purposes. EFTs provided for security purposes will also automatically deduct 
+the full balance due on Customers Account on a monthly basis. By providing a  cash security deposit, or 
+a credit card or EFT number to BLUE STREAM, Customer authorizes BLUE STREAM to charge against the 
+credit card or EFT or withdraw from any security deposit or account, for: (i) the repair cost or 
+replacement value (as determined b y BLUE STREAM) of all BLUE STREAM Equipment that is not returned 
+to BLUE STREAM undamaged within ten (10) business days after disconnection of Service(s); and (ii) 
+amounts due to BLUE STREAM for Services, fees and other charges. Customer will be refunded t he 
+balance of any cash security deposit (without interest unless otherwise required by law), and all or a 
+portion of the amount charged to Customers credit card or EFT for BLUE STREAM Equipment, if 
+payment has been made for all amounts due on Customers A ccount and Customer returns the BLUE 
+STREAM Equipment undamaged. Unless otherwise required by applicable law, refunds of less than $1.00 
+will only be paid upon Customer request.  
+10.1 TAXES.  
+10.2  Customer shall pay all federal, state, and local taxes, government fees, charges, surcharges or 
+similar exactions imposed on the Service(s) and/or products that are the subject of the Master 
+Agreement including but not limited to state and local sales and  use taxes, telecommunications taxes, 
+federal and state universal service fund fees and/or state and local regulatory fees to the extent 
+applicable. BLUE STREAM shall have the right to recover from Customer the amount of any state or local 
+fees, charge s or taxes arising as a result of this Agreement that are imposed on BLUE STREAM or BLUE 
+STREAMs Services, or measured on BLUE STREAMs receipts. Such fees or taxes shall be invoiced to 
+Customer in the form of a surcharge included on Customers invoice. B LUE STREAM shall be responsible 
+for and shall pay all taxes measured by BLUE STREAMs net income. To the extent that a dispute arises 
+as to which Party is liable for fees or taxes under the Master Agreement, Customer shall bear the burden 
+of proof in showi ng that the fee or tax is imposed upon BLUE STREAMs net income. This burden may be 
+satisfied by Customer producing written documentation from the jurisdiction imposing the fee or tax 
+indicating that the fee or tax is based on BLUE STREAMs net income. Cus tomer shall be responsible for 
+providing BLUE STREAM any and all documentation substantiating a claim for exemption from taxes or 
+fees prior to the date that Service(s) are first provided under the Master Agreement. To the extent such 
+documentation is held  invalid for any reason, Customer agrees to reimburse BLUE STREAM for any tax or 
+fee liability including without limitation related interest and penalties arising from such invalid 
+documentation.  
+10.3  Customer acknowledges that currently, and from time to time, there is uncertainty about the 
+regulatory classification of some of the Services BLUE STREAM provides and, consequently, uncertainty 
+about what fees, taxes and surcharges are due from BLUE STREAM and/or its customers. Customer 
+agrees that BLUE STREAM has the right to determine, in its s ole discretion, what fees, taxes and 
+surcharges are due and to collect and remit them to the relevant governmental authorities, and/or to 
+pay and pass them through to Customer. Customer hereby waives any claims it may have regarding 
+BLUE STREAMs collectio n or remittance of such fees, taxes and surcharges. Customer understand that it 
+may obtain a list of the fees, taxes and surcharges that BLUE STREAM currently collects or passes 
+through by writing to BLUE STREAM at the following address and requesting same : Blue Stream 
+Communications, 4236 NW 120 Ave Coral Springs, FL  33065; Attention: Subscriber Tax Inquiries.  
+11.1 PROPRIETARY RIGHTS AND CONFIDENTIALITY.  
+11.2  BLUE STREAMs Proprietary Rights. All materials including, but not limited to, any BLUE STREAM 
+Equipment (including related firmware), software, data and information provided by BLUE STREAM, any 
+identifiers or passwords used to access the Service or otherw ise provided by Blue Stream, and any 
+know -how, methodologies or processes including, but not limited to, all copyrights, trademarks, patents, 
+trade secrets, any other proprietary rights inherent therein and appurtenant thereto, used by BLUE 
+STREAM to provide the Service (collectively BLUE STREAM Materials) shall remain the sole and 
+exclusive property of BLUE STREAM or its suppliers. Customer shall acquire no interest in the BLUE 
+STREAM Materials by virtue of the payments provided for herein. Customer  may use the BLUE STREAM 
+Materials solely for Customers use of the Service(s). Customer may not disassemble, decompile, reverse 
+engineer, reproduce, modify or distribute the BLUE STREAM Materials, in whole or in part, or use them 
+for the benefit of any third party. All rights in the BLUE STREAM Materials not expressly granted to 
+Customer herein are reserved to BLUE STREAM. Customer shall not open, alter, misuse, tamper with or 
+remove the BLUE STREAM Equipment as and where installed  by BLUE STREAM, and shall not remove 
+any markings or labels from the BLUE STREAM Equipment indicating BLUE STREAM (or its suppliers) 
+ownership or serial numbers.  
+11.3 Confidentiality.  Customer agrees to maintain in confidence, and not to disclose to third parties or 
+use, except for such use as is expressly permitted herein, the BLUE STREAM Materials and any other 
+information and materials provided by BLUE STREAM in connection with this  Agreement, that are 
+identified or marked as confidential or are otherwise reasonably understood to be confidential, 
+including but not limited to the content of this Agreement.  
+11.4 Software.  If software is provided to Customer hereunder, BLUE STREAM grants Customer a limited, 
+non-exclusive and non -transferable license to use such software, in object code form only, solely for the 
+purpose of using the Service for Customers internal business p urposes during the Term.  
+12.0 MONITORING, EQUIPMENT UPGRADES AND MODIFICATIONS.  BLUE STREAM has the right, but not 
+the obligation, to upgrade, modify and enhance the BLUE STREAM Equipment (including related 
+firmware) and the Service(s) and take any action that BLUE STREAM deems appropriate to protect the 
+Service(s) and its facilities . BLUE STREAM has the right to add to, modify or delete any provision of these 
+Terms and Conditions (including the Terms of Use). BLUE STREAM will notify Customer of any material 
+adverse change to these  Terms and Conditions (including the Terms of Use) or Service descriptions by 
+posting such modified Terms and Conditions (including the Terms of Use) or Service description on the 
+BLUE STREAM web site or by email, or, if applicable, in the appropriate BLUE  STREAM tariff. Upon the 
+effectiveness of any addition, modification or deletion, Customers continued use of the Service(s) shall 
+constitute Customers consent to such addition, modification or deletion, and agreement to continue to 
+be bound by the Master  Agreement. In any event, if BLUE STREAM modifies the Services or these Terms 
+and Conditions (including the Terms of Use) and such modification has a material adverse impact on 
+Customers ability to use the Service(s), Customer may, within the thirty (30) day period following the 
+date of such modification, terminate, without penalty, the Service Order relating to the affected Service.  
+13.0 TERMINATION.  Either Party may terminate a Service Order; (a) upon thirty (30) days written notice 
+of the other Partys material breach, provided that such material breach is not cured within such thirty 
+(30) day period: or (b) immediately, in the event that the other P arty liquidates, is adjudicated as 
+bankrupt, makes an assignment for the benefit of creditors, invokes any provision of law for general 
+relief from its debtors, initiates any proceeding seeking general protection from its creditors, or is  
+removed or delisted from a trading exchange. In addition, in the event that Customer fails to comply 
+with any applicable laws or regulations, the terms of the Master Agreement or the Terms of Use, BLUE 
+STREAM may upon thirty (30) days written notice suspe nd or discontinue any applicable Service in 
+whole or in part without further notice, provided that such failure is not cured within such thirty (30) 
+day period. In addition, BLUE STREAM may immediately terminate or suspend Customers or its End 
+Users use of the Service(s) if such use is determined by BLUE STREAM, in its sole discretion, to be 
+resulting in a material degradation of the BLUE STREAM network, until such time as such degradation 
+has been remedied. BLUE STREAM will use commercially reasonable ef forts to assist Customer in 
+remedying such degradation. In the event of a suspension, BLUE STREAM may require the payment of 
+reconnect or other charges before restarting the suspended Service(s). Upon the termination or 
+expiration of the Master Agreement and the Service Order(s) here under: (i) BLUE STREAMs obligations 
+hereunder shall cease; (ii) Customer shall promptly pay all amounts due and owing to BLUE STREAM for 
+Service(s) delivered prior to the date of termination or expiration, and any deinstallation fees identified 
+in the Ser vice Order(s), if any; (iii) Customer shall promptly cease all use of any software provided by 
+BLUE STREAM hereunder, and shall return such software to BLUE STREAM; and (iv) Customer shall 
+return to BLUE STREAM or permit BLUE STREAM to remove, in BLUE STRE AMs discretion, the BLUE 
+STREAM Equipment in the same condition as when received, ordinary wear and tear excepted. 
+Customer shall be responsible for reimbursing BLUE STREAM for the reasonable and documented costs 
+of the repair or replacement, at BLUE STRE AMs discretion, of any BLUE STREAM Equipment not 
+returned in accordance with this Section. In addition, notwithstanding anything to the contrary herein, 
+upon early termination of a Service Order by Customer for any reason or by BLUE STREAM for any 
+reason set forth in Section 5 above, Customer shall, at BLUE STREAMs discretion: (1) promptly pay BLUE 
+STREAM the full amount of the Service Charges that Customer would have been charged for the 
+remainder of the Term; or (2) reimburse BLUE STREAM for all volume,  term or other discounts and 
+credits provided in anticipation of full performance of Customers obligations and any unpaid portion of 
+the installation fee set forth in the applicable Service Order(s). Notwithstanding the foregoing, Customer 
+or BLUE STREAM may immediately terminate the applicable Service Order without penalty if after 
+entering into such Service Order, BLUE STREAM conducts a site survey and learns that the construction 
+costs will require a material increase in the Service Charges. The foregoi ng shall be in addition to any 
+other rights and remedies that BLUE STREAM may have under the Master Agreement or at law or 
+equity.  
+14.0 INDEMNIFICATION.  Customer agrees to defend, indemnify and hold harmless BLUE STREAM, its 
+affiliates, its service providers and suppliers and their respective officers, directors, employees and 
+agents, from and against third party claims, liabilities, damages and expenses,  including reasonable 
+attorneys and other professionals fees, arising out of or relating to: (a) the use of the Service(s), 
+including but not limited to a breach of Section 5 herein; (b) personal injury or property damage caused 
+by the negligence or willful misconduct of Customer or its employees or agents.  
+15.0 DISCLAIMER OFWARRANTY.  CUSTOMER ASSUMES TOTAL RESPONSIBILITY FOR USE OF THE 
+SERVICE(S) AND USES THE SAME AT ITS OWN RISK. BLUE STREAM EXERCISES NO CONTROL OVER AND 
+HAS NO RESPONSIBILITY WHATSOEVER FOR THE CONTENT TRANSMITTED OR ACCESSIBLE THROUGH 
+THE SERVICE(S) AND BLUE STREAM E XPRESSLY DISCLAIMS ANY RESPONSIBILITY FOR SUCH CONTENT. 
+EXCEPT AS SPECIFICALLY SET FORTH IN THE MASTER AGREEMENT, THE SERVICE, BLUE STREAM 
+EQUIPMENT AND BLUE STREAM MATERIALS ARE PROVIDED AS IS, WITHOUT WARRANTIES OF ANY 
+KIND,  EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE, NON - 
+INFRINGEMENT, SYSTEM INTEGRATION, DATA BLUE ACCURACY, QUIET ENJOYMENT, MERCHANTABILITY 
+OR FITNESS FOR A PARTICULAR PURPOSE. NO ADVICE OR INFORMATION GIVEN BY BLUE STREAM, IT S 
+AFFILIATES OR ITS CONTRACTORS OR THEIR RESPECTIVE EMPLOYEES SHALL CREATE ANY WARRANTY. 
+BLUE STREAM DOES NOT REPRESENT OR WARRANT THAT THE SERVICE(S) WILL MEET CUSTOMERS 
+REQUIREMENTS, PREVENT UNAUTHORIZED ACCESS BY THIRD PARTIES, BE UNINTERRUPTED, SECURE , 
+ERROR FREE, WITHOUT DEGRADATION OF VOICE QUALITY OR LOSS OF CONTENT, DATE OR 
+INFORMATION OR THAT ANY MINIMUM TRANSMISSION SPEED IS GUARANTEED AT ANY TIME. EXCEPT 
+AS SET FORTH IN THE MASTER AGREEMENT, BLUE STREEM DOES NOT WARRANT THAT ANY SERVICE(S) 
+OR EQUI PMENT PROVIDED BY BLUE STREAM WILL PERFORM AT A PARTICULAR SPEED, BANDWIDTH OR 
+THROUGHPUT RATE. IN ADDITION, CUSTOMER ACKNOWLEDGES AND AGREES THAT TRANSMISSIONS 
+OVER THE SERVICE(S) MAY NOT BE SECURE. CUSTOMER FURTHER ACKNOWLEDGES AND AGREES THAT 
+ANY DATA, MATERIAL OR TRAFFIC OF ANY KIND WHATSOEVER CARRIED, UPLOADED, DOWNLOADED OR 
+OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE(S) IS DONE AT CUSTOMERS OWN 
+DISCRETION AND RISK AND THAT CUSTOMER WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO 
+CUSTOMERS OR AN E ND USERS COMPUTER SYSTEM OR EQUIPMENT (INCLUDING NETWORK 
+EQUIPMENT) OR LOSS OF SUCH DATA, MATERIAL OR TRAFFIC DURING, OR THAT RESULTS FROM, 
+CUSTOMERS OR ITS END USERS USE OF THE SERVICE(S) INCLUDING, BUT NOT LIMITED TO, 
+CUSTOMERS OR END USERS SENDING OR RECEIVING, OR UPLOADING OR DOWNLOADING, OR 
+ATTEMPTS TO DO SAME, OF SUCH DATA, MATERIAL OR TRAFFIC. IN ADDITION, CUSTOMER 
+ACKNOWLEDGES AND AGREES THAT BLUE STREAMS THIRD PARTY SERVICE PROVIDERS DO NOT MAKE 
+ANY WARRANTIES TO CUSTOMER UNDER THIS AGREEMENT  AND BLUE STREAM DOES NOT MAKE ANY 
+WARRANTIES ON BEHALF OF SUCH SERVICE PROVIDERS UNDER THIS AGREEMENT, EXPRESS OR IMPLIED, 
+INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON -
+INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, SYSTEM INTEGRATION, DATA ACCURACY OR 
+QUIET ENJOYMENT.  
+16.1 LIMITATION OF LIABILITY.  IN NO EVENT SHALL BLUE STREAM BE LIABLE TO CUSTOMER, AN END 
+USER OR ANY THIRD PARTY FOR ANY INCIDENTAL, INDIRECT, CONSEQUENTIAL, AND SPECIAL OR 
+PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO THE MASTER AGREEMENT, REGARDLESS OF 
+WHETHER BLUE STREAM HAD BEEN  ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BLUE STREAMS 
+AGGREGATE LIABILITY FOR ANY REASON AND ALL CAUSES OF ACTION ARISING OUT OF OR RELATING TO 
+THE MASTER AGREEMENT (INCLUDING,  BUT NOT LIMITED TO, CONTRACT, TORT (INCLUDING  
+NEGLIGENCE) AND STRICT PRODUCT LIABILITY)) SHALL BE LIMITED TO THE FEES PAID OR OWED BY 
+CUSTOMER UNDER THE SERVICE ORDER THAT IS THE SUBJECT MATTER OF THE CLAIM IN THE SIX (6) 
+MONTHS PRECEDING THE DATE THE CLAIM ARISES. IN NO EVENT SHALL BLUE STREAMS AFF ILIATES, 
+THIRD PARTY SERVICE PROVIDERS OR SUPPLIERS HAVE ANY LIABILITY TO CUSTOMER HEREUNDER. BLUE 
+STREAM SHALL NOT BE RESPONSIBLE FOR ANY LOSSES OR DAMAGES ARISING AS A RESULT OF THE 
+AVAILABILITY OF THE SERVICE, INCLUDING THE INABILITY TO REACH 911 OR OTH ER EMERGENCY 
+SERVICES, THE INABILITY TO CONTACT A SECURITY SYSTEM OR REMOTE MEDICAL OR OTHER 
+MONITORING SERVICE PROVIDER OR ANY FAILURE OR FAULT RELATING TO CUSTOMER -PROVIDED 
+EQUIPMENT, FACILITIES ORSERVICES.  
+16.2 Limitations on BLUE STREAMs Liability for Customer Equipment and Software.  Customer 
+Equipment may be damaged or suffer service outages as a result of the installation, self -installation, use, 
+inspection, maintenance, repair, and removal of the BLUE STREAM Equipment and the Services. Except 
+for gross negligence or willful miscondu ct by it, BLUE STREAM shall have no liability whatsoever for any 
+damage, loss, or destruction to the Customer Equipment. In the event of gross negligence or willful 
+misconduct  by BLUE STREAM, it shall pay at its sole discretion for the repair or replacement of the 
+damaged parts up to a maximum of $250. This shall be Customers sole remedy relating to such activity. 
+When Customer uses certain features of the Service(s), such as on -line features of the Service(s) (where 
+available), you may require special software, applications, and/or access to the Internet. BLUE STREAM 
+makes no representation or warranty that any sof tware or application installed on your computer(s) or 
+the Internet does not contain a virus or other harmful feature. It is your sole responsibility to take 
+appropriate precautions to protect any computer and other hardware of yours from damage to its 
+software, files, and data as a result of any such virus or other harmful feature. BLUE STREAM is not 
+required to provide you with any assistance in removal of viruses. If BLUE STREAM decides, in its sole 
+discretion, to install or run virus check software on yo ur computer(s), BLUE STREAM makes no 
+representation or warranty that the virus check software will detect or correct any or all viruses. You 
+acknowledge that you may incur additional charges for any service call made or required on account of 
+any problem r elated to a virus or other harmful feature detected on your system. BLUE STREAM SHALL 
+HAVE NO LIABILITY WHATSOEVER FOR ANY DAMAGE TO OR LOSS OF ANY HARDWARE, SOFTWARE, 
+FILES, OR DATA RESULTING FROM A VIRUS, ANY OTHER HARMFUL FEATURE, OR FROM ANY ATTEMPT 
+TO REMOVE IT.  
+16.3  BLUE STREAM does not represent, warrant, or covenant that the installation of the software or 
+applications described in the preceding paragraph or access to its web portal(s) will not cause the loss of 
+files or disrupt the normal operations of any Customer  Equipment, including but not limited to your 
+computer(s). FOR THESE AND OTHER REASONS, YOU ACKNOWLEDGE AND UNDERSTAND THE 
+IMPORTANCE OF BACKING UP ALL FILES TO ANOTHER STORAGE MECHANISM PRIOR TO SUCH 
+ACTIVITIES. YOU UNDERSTAND AND ACCEPT THE RISKS IF  YOU DECIDE NOT TO BACK UP FILES. NEITHER 
+BLUE STREAM NOR ITS AFFILIATES OR AGENTS SHALL HAVE ANY LIABILITY WHATSOEVER FOR ANY 
+DAMAGE TO OR LOSS OF ANY SOFTWARE, FILES, OR DATA.  
+16.4  YOU UNDERSTAND THAT YOUR COMPUTER OR OTHER DEVICES MAY NEED TO BE OPENED, 
+UPDATED, ACCESSED OR USED EITHER BY YOU OR BY BLUE STREAM OR ITS AGENTS, IN CONNECTION 
+WITH THE INSTALLATION, UPDATING OR REPAIR OF ITS SERVICES. THE OPENING, ACCESSING OR USE OF 
+YOU R COMPUTER, OTHER DEVICES USED IN CONNECTION WITH BLUE STREAMS SERVICES MAY VOID 
+WARRANTIES PROVIDED BY THE COMPUTER OR OTHER DEVICE MANUFACTURER OR OTHER PARTIES 
+RELATING  TO THE COMPUTERS OR DEVICES HARDWARE OR SOFTWARE. NEITHER BLUE STREAM NOR 
+ANY OF ITS AFFILIATES, SUPPLIERS, CONTRACTORS OR AGENTS, SHALL HAVE ANY LIABILITY 
+WHATSOEVER AS THE RESULT OF THE VOIDING OF ANY SUCH WARRANTIES.  
+16.5  BY ACCEPTING THIS AGREEMENT, YOU WAIVE ALL CLAIMS AGAINST BLUE STREAM FOR 
+INTERFERENCE, DISRUPTION, OR INCOMPATIBILITY BETWEEN THE BLUE STREAM EQUIPMENT OR THE 
+SERVICE(S) AND ANY OTHER SERVICE(s), SYSTEMS, OR EQUIPMENT.  
+17.0 DISCLOSURE OF CUSTOMER INFORMATION.  Customers privacy interests, including Customers 
+ability to limit disclosure of certain information to third parties, may be addressed by, among other laws, 
+the Federal Telecommunications Act (the Telecommunications Act), the Federal Cable 
+Communicati ons Act (the Cable Act), the Electronic Communications Privacy Act, and, to the extent 
+applicable, state laws and regulations. Customer proprietary network information and personally 
+identifiable information that m ay be collected, used or disclosed in accordance with applicable laws is 
+described in Attachment B (Voice Services), the Subscriber Privacy Notice, and, if applicable, in BLUE 
+STREAMs tariff, which are incorporated herein by reference. The Subscriber Priv acy Notice is available 
+at www.bluestreamfiber.com . In addition to the foregoing, Customer hereby acknowledges and agrees 
+that BLUE STREAM may disclose Customers and its employees personally identifiable information as 
+required by law or regulation, or the American Registry for Internet Numbers (ARIN)  or any similar 
+agency, or in accordance with BLUE STREAMs Subscriber Privacy Notice or, if applicable, tariff. In 
+addition, BLUE STREAM shall have the right (except where prohibited by law notwithstanding 
+Customers consent), but not the obligation, to d isclose any information to protect its rights, property 
+and/or operations, or where circumstances suggest that individual or public safety is in peril.  
+18.0 COMPLAINT RESOLUTION.  Customer may submit a complaint to BLUE STREAM with regard to any 
+aspect of the Service(s), including the quality of the reception of video services, at any time. BLUE 
+STREAM maintains a telephone number (844 -416-1000) that is available 24 hours a day, 7 days a week. 
+When a call is received regarding a Service related issue, a customer care representative (CCR) will 
+attempt to determine the nature of the problem. If possible, the CCR will help you resolve the problem 
+over the te lephone. If the problem cannot be resolved during the call, the CCR may, if necessary, 
+schedule a service technician to visit your business. If the problem cannot be resolved by the CCR, the 
+problem will be referred to a supervisor who will make best effor ts to resolve the issue immediately. If a 
+Customer has a complaint requiring further escalation, Customer should contact BLUE STREAM at our 
+telephone number,844 -416-1000, in writing at BLUE STREAM, Attn: VP of Business Operations, 4236 NW 
+120 Ave Coral Spr ings, FL  33065, or by e -mailing us from the Contact Us section 
+on www.bluestreamfiber.com . BLUE STREAMs policy is to reply to an escalated Customer complaint 
+within thirty (30) working days of receipt. BLUE STREAM will endeavor to include in its reply a statement 
+of action taken, description of future work needed to resolve any issue or an ex planation why the 
+complaint is unjustified or outside the jurisdiction of BLUE STREAM. If Customer is dissatisfied with BLUE 
+STREAMs handling of a complaint, Customer can also contact the local or state franchising authority. 
+Information regarding Custome rs local or state franchising authority can be found on Customers 
+monthly billing statement, or by calling 844 -416-1000.  
+19.0 FORCE MAJEURE.  Notwithstanding anything to the contrary contained herein, a Party shall   have 
+no liability to the other hereunder due to circumstances beyond its control, including, but not limited to, 
+acts of God, terrorism, flood, fiber cuts, coaxial cable cuts, natur al disaster, regulation or governmental 
+acts, fire, civil disturbance, weather, or any unauthorized access to or destruction or modification of the 
+Service, in whole or in part (each a Force Majeure Event)..  
+20.1 REGULATORY AND LEGAL CHANGES, POLE ATTACHMENT AND CONDUIT CHARGES, TARIFFS.  In 
+the event of any change in applicable law, regulation, decision, rule or order, including without 
+limitation any new application of or increase in any government - or quasi -government - imposed fees or 
+charges that increases the costs or other terms of B LUE STREAMs delivery of Service(s) to Customer, or, 
+in the event of any increase in pole attachment or conduit charges applicable to any facilities used by 
+BLUE STREAM in prov iding the Service(s), Customer acknowledges and agrees that BLUE STREAM may 
+pass through to Customer any such increased fees or costs, but only to the extent of the actual increase, 
+provided BLUE STREAM notifies Customer at least thirty (30) days in advanc e of the increase. In such 
+case, and if such increase materially increases the fees or charges due by Customer hereunder for the 
+applicable Service, Customer may, within thirty (30) days after notification of such increase, terminate 
+the affected Service(s ) without incurring termination liability, provided Customer notifies BLUE STREAM 
+at least fifteen (15) days in advance of Customers requested termination date. Further, in the event that 
+BLUE STREAM is required to file tariffs or rate schedules with a re gulatory agency or otherwise publish 
+its rates in accordance with regulatory agency rules or policies respecting the delivery of the Service(s) 
+or any portion thereof, and BLUE STREAM is required under applicable law to apply those rates to 
+Customers purchase of Service(s) under the Master A greement, then the terms set forth in the 
+applicable tariff or rate schedule shall govern BLUE STREAMs delivery of, and Customers use or 
+consumption of the Service(s). In addition, if BLUE STREAM determines that offering or providing the 
+Service(s), or a ny part thereof, has become impracticable for legal or regulatory reasons or 
+circumstances, then BLUE STREAM may terminate the Master Agreement and any affected Service 
+Orders without liability, by giving Customer thirty (30) days prior written notice or a ny such notice as is 
+required by law or regulation applicable to such determination.  
+20.2  The Master Agreement, its Attachments and the Service Order(s) are subject to all applicable 
+federal, state or local laws and regulations in effect in the relevant jurisdiction(s) in which BLUE STREAM 
+provides the Service(s). If any provision of the Master  Agreement, the Attachments, or the Service 
+Order(s) contravene or are in conflict with any such law or regulation, then the terms of such law or 
+regulation shall take priority over the relevant provision of the Master Agreement, the Attachments, 
+and/ or the Service Order(s). If the relevant law or regulation applies to some but not all of the Service(s) 
+being provided hereunder, then such law or regulation will take priority over the relevant provision of 
+the Master Agreement, the Attachments, and the Service Order(s) only for purposes of those Service(s) 
+to which the law or regulation applies. Except as explicitly stated in the Master Agreement, nothing 
+contained in the Master Agreement shall constitute a waiver by BLUE STREAM of any rights under 
+appli cable laws or regulations pertaining to the installation, operation, maintenance or removal of the 
+Services, facilities or equipment.  
+21.0 ENTIRE AGREEMENT.  The Master Agreement, including without limitation all attachments   that are 
+attached hereto and incorporated herein by this reference, sets forth the entire agreement between the 
+Parties with respect to the subject matter hereof and supersedes all previo us written or oral agreements 
+or representations between the Parties with respect to such subject matter.  
+22.0 ORDER OF PRECEDENCE.  Each Service shall be provisioned pursuant to the terms and conditions of 
+the Master Agreement. In the event that BLUE STREAM permits a Customer to use its own standard 
+purchase order form to order the Service(s), the Parties hereby acknowledge and agree that the terms 
+and conditions hereof shall prevail notwithstanding any variance with the terms and conditions of any 
+purchase order submitted by Customer, and any different or additional terms contained in such 
+purchase order shall  have no force or effect. To the extent that the terms of any Service Agreement or 
+Service Order are inconsistent with the terms of these Terms and Conditions, the terms of the Service 
+Agreement then the terms of the Service Order shall control.  
+23.0 COMPLIANCE WITH LAWS.  As between the Parties, BLUE STREAM will obtain and maintain at its 
+own expense all licenses, approvals and regulatory authority required by law with respect to BLUE 
+STREAMs operation and provision of the Services as contemplated herein, and Customer wil l obtain and 
+maintain at its own expense all licenses, approvals and regulatory authority required by law with respect 
+to Customers use of the Services as contemplated herein. Unless specified otherwise in the Master 
+Agreement, e ach Party will give all notices, pay all fees and comply with all laws, ordinances, rules and 
+regulations relating to its performance obligations specified herein.  
+24.1 GOVERNING LAW.  This Agreement shall be governed by and construed and enforced in accordance 
+with the laws of the State of Florida, except to the extent superseded by federal law.  
+Attachment A  
+Business Class Cable TV Service  
+(Cable TV Service)  
+Cable TV Service:  If Customer selects to receive the Cable TV Service, BLUE STREAM shall provide 
+Basic,Expanded and Digital Cable services. Customer understands and agrees that premium program 
+services, such as HBO, Cinemax, Showtime and The Movie Channel, may not be recei ved or shown on 
+any television receiver located in any public areas, such as lounges, dayrooms, visiting areas or other 
+common areas used by groups or the general public, nor shall Customer authorize or approve of any 
+copying, taping or du plicating thereof. Additionally, some program services have surcharges for delivery 
+of their services to certain types of businesses (i.e.: restaurants, bars, grills and other types of hospitality 
+businesses) and some prohibit their program services altoge ther.  
+BLUE STREAM shall have the right to add, modify, or delete channel line -ups. 
+Customers use of the Cable TV Service is subject to the following additional terms and conditions:  
+In the event that changes in technology require the use of specialized equipment to continue to receive 
+Cable TV Services, BLUE STREAM agrees to provide such equipment and Customer agrees to pay for such 
+equipment at the same rate charged by BLUE STREAM to  commercial customers in the municipality in 
+which Customers property receiving the Cable TV Service is located.  
+In the event that any BLUE STREAM audit reveals that Customers usage of the Cable TV Service exceeds 
+Customers rights hereunder, Customer shall pay BLUE STREAM an amount equal to one and a half times 
+the Service Charges that would have been due for such excessive usage as liquidated damages and not 
+as a penalty. In addition, Customer shall either discontinue any excess usage or thereafter continue to 
+pay the applicable Service Charges for such additional usage.  
+The monthly service charges set forth in a Service Order for Cable TV Service do not include applicable 
+taxes, regulatory fees and franchise fees. Notwithstanding anything to the contrary in this Agreement, 
+the monthly service charges for the Cable TV Serv ice are subject to change in accordance with 
+commercial Cable TV rate increases applied to commercial customers.  
+Attachment B  
+Business Class Phone Service  
+(Voice Services)  
+Business Class Phone Service:  If Customer selects to receive the Business Class Phone Service, Customer 
+will receive telephone service consisting of one or more telephone lines and a variety of features, as 
+described more fully in the applicable Service Order.  
+Customers use of the Voice Services is subject to the following additional terms and conditions:  
+• Customer acknowledges that the voice -enabled cable modem used to provide Business Class Phone 
+Service is electrically powered and that the Voice Services, including the ability to access 911 services 
+and alarm, security, medical and other monitoring serv ices may not operate in the event of an electrical 
+power outage or an BLUE STREAM network service interruption. Customer also acknowledges that, in 
+the event of a power outage at Customers or any End Users facility, any back -up power supply 
+provided with  a BLUE STREAM -provided voice -enabled cable modem may enable service for a limited 
+period of time or not at all, depending on the circumstances, and that the use of a back -up power supply 
+does not ensure that the Voice Service will be available in all circ umstances.  
+• The location and address associated with the Voice Service will be the address identified on the 
+Service Order. Customer is not permitted to move BLUE STREAM Equipment from the location and 
+address in which it has been installed. If Customer moves a voic e-enabled cable modem to an address 
+different than that identified on the Service Order, calls from such modem to 911 will appear to 911 
+emergency service operators to be coming from the address identified on the Service Order and not the 
+new address. Cust omer consents to BLUE STREAMs disclosure of Customers name, address and 
+or/telephone number in response to 911 and similar public safety requests and to the telephone 
+companies serving those end users to whom Customer calls so that calls may be completed . 
+• Pursuant to 47 C.F.R. § 9.5(e), Customer shall specifically advise every end user of the Voice Service 
+prominently and in the language provided below, of the circumstances under which E911 service may 
+not be available.  
+Business Class voice -enabled customer premise equipment is electrically powered and, in the event of a 
+power outage or Blue Stream Communications network failure, Enhanced 9 -1-1 (E911) services may 
+not be available.  
+The Master Agreement prohibits moving your Blue Stream Communications voice -enabled customer 
+premise equipment to a new address. If this equipment is moved to another location, E9 -1-1 services may 
+not operate properly and emergency operators may be unable to accurately identify the callers address 
+in an emergency. The E911 location specified on the Service Order will be provided to emergency 
+operators for all emergency calls made from the telephone numbers associated with the Service Order. 
+To move your se rvice to another service location you must call Blue Stream Communications.  
+• Customer shall obtain and keep a record of affirmative acknowledgement by every end user of the 
+Voice Service of having received and understood the above advisory. Customer shall also distribute to all 
+end users of the Voice Services labels/stickers to be supplied by BLUE STREAM and instruct all end users 
+of the Voice Services to place them on our near the equipment used in conjunction with the service.  
+• Customer agrees that BLUE STREAM will not be responsible for any losses or damages arising as a 
+result of the unavailability of the Voice Service, including the inability to reach 911 or other emergency 
+services, the inability to contact a security syste m or remote medical or other monitoring service 
+provider or any failure or fault relating to Customer -provided equipment, facilities or services. Customer 
+acknowledges that BLUE STREAM does not guarantee that the Voice Service will operate with alarm, 
+secu rity, medical and/or other monitoring systems and services or Customer -provided equipment, 
+facilities and services, and that Customer must contact (at Customers sole expense) any applicable 
+alarm, security, medical or other monitoring system or service provider or other third -party service 
+provider in order to test the operation of Customer -provided equipment, facilities and systems with the 
+Voice Service.  
+• BLUE STREAMs obligation is to provide Voice Service to the customer -accessible interface device or 
+equipment installed by BLUE STREAM at the BLUE STREAM network demarcation point on the 
+Customers premises. Customer is solely responsible for coordinatin g and completing any and all 
+rearrangement, augmentation and configuration of Customer -provided equipment, facilities and 
+systems to be used with the Voice Service and connecting such equipment, facilities and systems to the 
+BLUE STREAM network interface d evice or equipment. Customer must notify BLUE STREAM at least 
+seventy two (72) hours prior to the Customers scheduled installation appointment if the Customer 
+seeks to reschedule installation for any reason. Additional charges may apply for non -standard 
+installation and missed installation appointments.  
+• Customer agrees to provide BLUE STREAM and its authorized agents with access to Customers 
+internal telephone wiring at the network interface device or at some other minimum point of entry in 
+order to facilitate the installation and operation of the Voic e Service over existing wiring. Customer 
+hereby authorizes BLUE STREAM to make any requests from Customers landlord, building owner and/or 
+building manager, as appropriate and to make any requests necessary to other or prior communications 
+service provide rs as necessary and appropriate to ensure that BLUE STREAM has all access to inside 
+wiring and cabling necessary and sufficient to efficiently and securely install the Voice Service and all 
+related equipment.  
+• Information relating to Customer calling details (Calling Details), including the quantity, 
+configuration, type, destination and amount of Voice Service usage by Customer, and information 
+contained in Customers bills (collectively, Customer Proprieta ry Network Information or CPNI), that 
+is obtained by BLUE STREAM pursuant to its provision of the Voice Service will be protected by BLUE 
+STREAM as described herein, in the Blue Stream Communications Privacy Policy and in accordance with 
+applicable fede ral and state requirements. Notwithstanding the foregoing, the following shall not be 
+CPNI: (i) Customers directory listing information, and (ii) aggregated and/or compiled information that 
+does not contain customer - specific references, even if CPNI was used as a basis for such information.  
+BLUE STREAM may use and disclose CPNI when required by applicable law. BLUE STREAM may use CPNI 
+and share CPNI with its partners and contractors without Customer consent: (i) to provide services and 
+bills to Customer; (ii) pursuant to applicable law; (iii)  to protect the interests of BLUE STREAM,  Customer 
+and related parties in preventing fraud, theft of Services, abuse, harassment and misuse of telephone 
+services; (iv) to protect the security and integrity of BLUE STREAMs network systems; and (v) to marke t 
+additional BLUE STREAM services to Customer that are of the same category as the services that 
+Customer purchases from BLUE STREAM. BLUE STREAM will obtain Customers consent before using 
+CPNI to market to Customer BLUE STREAM services that are not withi n the categories of services that 
+Customer purchases from BLUE STREAM. Customer agrees that, except as provided in Section 16.0 of 
+the Terms and Conditions and applicable law, BLUE STREAM will not be liable for any losses or damages 
+arising as a result of disclosure of CPNI.  
+• In the event that a material error or omission in Customers directory listing information, regardless of 
+form, is caused by BLUE STREAM, Customers sole and exclusive remedy shall be a partial service credit 
+in an amount set by BLUE STREAMs then -curren t standard policies or as prescribed by applicable 
+regulatory requirements, if any. Notwithstanding the foregoing, BLUE STREAM shall have no other 
+liability for any error or omission in any directory listing information.  
+Attachment C  
+Business Class Broadband High Speed Internet  
+(Internet Service)  
+Broadband High Speed Internet (Internet Service): Customers use of the Internet Service is subject 
+to the following additional terms and conditions:  
+BLUE STREAMs provision of any Internet Service is subject to availability.  
+BLUE STREAM shall allow Customer employees to use (however, in no event shall BLUE STREAM be 
+responsible for) a Virtual Private Network (VPN) and to allow the VPN to pass through the cable 
+modem of any Internet Service, as applicable, provided that BLUE STREAM shall have the right to 
+disconnect (or demand the immediate disconnection of) any such Internet Service that degrades any 
+service provided to other subscribers on the BLUE STREAM network.  
+Customer shall not upload, post, transmit or otherwise make available on or via the Internet Service any 
+material (including any message or series of messages) that violates or infringes in any way upon the 
+rights of others, that is unlawful, threatening, abusive, obstructive, harassing, libelous, invasive of 
+privacy or publicity rights, that in the circumstances would be obscene or indecent, that constitutes hate 
+speech, that is otherwise offensive or objectionable, or that encourages conduct that would co nstitute a 
+criminal offense, give rise to civil liability or otherwise violate any law. BLUE STREAM may remove 
+content that in its judgment violates these standards.  
+BLUE STREAM shall have the right, but not the obligation, to: (a) monitor traffic and content on its 
+network, in its sole discretion, including through the use of automatic content filters (including without 
+limitation spam, virus, and adult language sniff ers and filters); and (b) monitor Customers bandwidth 
+utilization. In addition, BLUE STREAM shall have the right, but not the obligation, to; (i) review public 
+content associated with the Internet Service, including chat rooms, bulletin boards and forums,  in order 
+to determine compliance with the Master Agreement and any rules now or hereafter established by 
+BLUE STREAM; and (ii) remove (or demand the removal of) any such content that BLUE STREAM 
+determines to be unacceptable or to violate the terms of the  Master Agreement, any bandwidth 
+utilization limitations or other Terms of Use.  
+Each tier or level of Services has limits on the maximum throughput rate at which Customer may send 
+and receive data at any time and the maximum throughput rate may be achieved in bursts, but generally 
+will not be sustained on a consistent basis. The throu ghput rate experienced by Customer at any time 
+will vary based on numerous factors, including without limitation, the condition of Customers inside 
+wiring, computer configurations, Internet and BLUE STREAM network congestion, time of day and the 
+accessed website servers, among other factors.  
+https://www.bluestreamfiber.com/legal/business -service -agreement/  
+Business Service Agreement  
+BLUE STREAM BUSINESS CLASS SERVICE AGREEMENT  
+This Blue Stream Business Class Service Agreement sets forth the terms and conditions under which Blue 
+Stream will provide to Customer the services, Internet, Cable and Phone (the Service or Services), 
+indicated in this Agreement as shown in the attach ed summary of Services or other similar document or 
+work order form (Service Order). We sometimes refer to the Customer as you or your and we 
+refer to Blue Stream as Blue Stream, we, us or our.  
+IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, YOU MUST IMMEDIATELY STOP THE USE OF 
+THE SERVICE(S) AND NOTIFY BLUE STREAM SO THAT YOUR ACCOUNT MAY BE CLOSED.  
+1. Subscription to Services.  By signing or electronically submitting this Agreement with BLUE STREAM, 
+Customer subscribes to the Services identified on the Service Order. The Service Order shall become 
+binding on the Parties when (i) it is specifically accepted by BLUE STREAM either e lectronically or in 
+writing, (ii) BLUE STREAM begins providing the Services described in the Service Order, or (iii) BLUE 
+STREAM begins installation for delivery of the Services described in the Service Order, whichever is 
+earlier; provided, however, the Parties agree and acknowledge that the binding effect of the Service 
+Order and this Agreement is contingent upon BLUE STREAMs engineering review to determine the 
+serviceability of the premises. If BLUE STREAM determines that th e premises do not meet its 
+serviceability requirements, the Service Order and this Agreement shall be of no further force or effect. 
+When a Service Order becomes effective, it shall be deemed part of and shall be subject to this 
+Agreement.  
+Upon installatio n and connection of the necessary facilities and equipment to provide the Services, or in 
+the case of Phone, the day Phone Service is activated, BLUE STREAM shall notify Customer that the 
+Services are available for use, and the date of such notice shall be  called the Commencement Date. 
+Any failure or refusal on the part of Customer to be ready to receive the Services on the 
+Commencement Date shall not relieve Customer of his/her/its obligation to pay applicable Service 
+charges.  
+2. Terms and Conditions of Service.  Customers use of BLUE STREAMs Services is specifically subject to 
+this Agreement and Customers agreement to: (i) the Business Customer General Terms and Conditions 
+located at  www.bluestreamfiber.com  (the General Terms), which may be modified by BLUE STREAM 
+from time to time in accordance with the General Terms and applicable law, and which are incorporated 
+herein by reference and made a part of this Agreement; and (ii) use the Services strictly in accordance 
+with any operating, privacy and/or use policies, and applicable service guides, located 
+at www.bluestreamfiber.com  or otherwise communicated to you, specifically including any acceptable 
+use policy (the Service Policies), which Service Policies may be modified by BLUE STREAM from time to 
+time, and which Service Policies are incorporated herein by reference and made a part of this 
+Agreement are specifically incorporated by this reference and control in the event of a conflict with any 
+other provision of this Agreement. Any new terms or policies adopted by BLUE STREAM or any 
+modifications to the existing terms and/or p olicies will, subject to any notice provisions of the General 
+Terms and applicable law, become effective upon posting a new version of the document on the BLUE 
+STREAM Web site at  www.bluestreamfiber.com  (or any successor URL(s)). Accordingly, customers and 
+users of the BLUE STREAM Services should regularly visit our Web site and review these terms and 
+conditions policy to ensure that their activities conform to the most recent version. Notwithstanding th e 
+forgoing, if BLUE STREAM makes a change to the General Terms that applies to Customer and is material 
+and adverse to Customer, Customer has thirty (30) days following notice of the change to terminate this 
+Agreement without the imposition of early termin ation charges. Customers continued receipt of 
+Services shall be deemed acceptance of any such change. If BLUE STREAM agrees not to apply the 
+changed Terms to you, the Agreement is not subject to early termination. In the event of inconsistency 
+among these  documents, precedence will be as follows: (1) any jointly executed amendment or 
+addendum to this Agreement (Addendum), (2) the General Terms, (3) the Service Policies, and (4) this 
+Customer Agreement.  
+3. Pricing.  During the initial Term of the Agreement, your quoted monthly recurring charge for Internet 
+and Phone Services will not change. Video Service prices are subject to increase at any time with prior 
+written notice to you. Other prices are subject to change at any time. Prices and price gua rantees do not 
+include taxes, fees or surcharges, including but not limited to government imposed fees and taxes, 
+government program fees (such as 911, TRS and universal service) and non -governmental fees (such as 
+subscriber line charges, line fees, access  charges, carrier service fees and broadcast TV fee, sports 
+surcharge and other programming cost recovery surcharges) and will apply and vary depending upon 
+your service location and the Services to which you subscribe. Not all taxes, fees and surcharges a pply to 
+all Services. The taxes, fees and surcharges may be changed at any time.  
+4. Payment; Charges  
+(a) You agree to pay BLUE STREAM for (i) all use of your Services (including, if BLUE STREAM is the party 
+billing you for ISP or OLP Service, for your subscription to your choice of ISP or OLP, as applicable), (ii) 
+installation and applicable service charg es, (iii) BLUE STREAM Equipment and (iv) all applicable local, 
+state and federal fees and taxes, all in accordance with this Agreement.  
+(b) If you receive VoIP Service, the fees and charges for VoIP Service begin to accrue on the Install Date, 
+as defined in this Agreement.  
+(c) All charges are payable on the due date specified, or as otherwise indicated, on my bill. You agree 
+that late charges may be assessed, subject to applicable law, on amounts that are past due. Your failure 
+to deliver payment by the due date is a breach of this Agreement. The current late fees will be provided 
+upon request and, if applicable, will not exceed the maximum late fees as set forth by applicable law. 
+BLUE STREAM reserves the right to change the late fees.  
+(d) You agree that if your Services account with BLUE STREAM is past due, BLUE STREAM may terminate 
+any of your Services or accounts, including VoIP Service, in accordance with applicable law. If you have a 
+credit due to your or a deposit is being held on any account with BLUE STREAM, the credit or deposit 
+may be used to offset amounts past due on any other account you may have with BLUE STREAM without 
+notice to you. To reconnect any terminated Services, you may be required, in addition to payment of all 
+outstanding balances on all accounts with BLUE STREAM, to pay reconnect charges or trip charges 
+(where applicable) and/or security deposits before reconnection.  
+(e) BLUE STREAM may verify my credit standing with credit reporting agencies and require a deposit 
+based on your credit standing or other applicable criteria. BLUE STREAM may require a security deposit 
+or a bank or credit card or account debit authorizatio n from you as a condition of providing or 
+continuing to provide the Services. If BLUE STREAM requires a security deposit, the obligations of BLUE 
+STREAM regarding such security deposit will be governed by the terms of the deposit receipt provided 
+by BLUE S TREAM to you at the time the deposit is collected. You agree that BLUE STREAM may deduct 
+amounts from your security deposit, bill any bank or credit card submitted by you or utilize any other 
+means of payment available to BLUE STREAM for any past due amoun ts payable by you to BLUE 
+STREAM, including in respect of damaged or unreturned Equipment.  
+(f) If you have elected to be billed by credit card, debit card or ACH transfer, you agree that you will 
+automatically be billed each month for any amounts due under this Agreement. If you make payment by 
+check, you authorize BLUE STREAM and its agents to collect this item  electronically.  
+(g) BLUE STREAM may charge fees for all returned checks and account debit, bank card or charge card 
+chargebacks. The current return/chargeback fees can be provided on request. BLUE STREAM reserves 
+the right to change return/chargeback fees.  
+(h) If you subscribe to HSD Service, you acknowledge that, even if BLUE STREAM is billing for the HSD 
+Service, your ISP or OLP may require a bank or credit card or account debit authorization or other 
+assurance of payment from you, including for charges fo r additional or continuing Services outside the 
+HSD Service billed by BLUE STREAM that are payable under the ISP Terms. You agree that BLUE STREAM 
+or your ISP (and, if applicable, OLP) may bill any bank or credit card submitted by you to your ISP or OLP 
+or utilize any other means of payment available to your ISP or OLP for any past due amounts payable by 
+you to BLUE STREAM. You also agree that responsibility for billing for your HSD Service subscription may 
+be changed between BLUE STREAM and your ISP or OLP  upon notice to you.  
+(i) All use of your Services, whether or not authorized by you, will be deemed your use and you will be 
+responsible in all respects for all such use, including for payment of all charges attributable to your 
+account (e.g., for VOD movies, merchandise order ed via Internet, international long distance charges, 
+etc.). BLUE STREAM is entitled to assume that any communications made through your Services or from 
+the location at which you receive the Services are your communications or have been authorized by you.  
+You are legally responsible for all costs and charges associated with communications made through your 
+Services or from the location at which you receive the Services, whether made by you or a third party. 
+Your Services may contain or make available infor mation, content, merchandise, products and services 
+provided by third parties and for which there may be charges payable to third parties (which may 
+include your choice of ISP or OLP and/or entities affiliated with BLUE STREAM). You agree that all such 
+charges incurred by you or attributed to your account will be your sole and exclusive responsibility and 
+agree to pay the same when due, and shall indemnify and hold harmless BLUE STREAM for all liability for 
+such charges. You agree that BLUE STREAM is not re sponsible or liable for the quality of any content, 
+merchandise, products or services (or the price thereof) made available to you via the Services, for the 
+representations or warranties made by the seller or manufacturer of any such item, or for any damag e 
+or injury, if any, resulting from the use of such item.  
+(j) You acknowledge that currently, and from time to time, there is uncertainty about the regulatory 
+classification of some of the Services BLUE STREAM provides and, consequently, uncertainty about what 
+fees, taxes and surcharges are due from BLUE STREAM a nd/or its customers. Accordingly, you agree that 
+BLUE STREAM has the right to determine, in its sole discretion, what fees, taxes and surcharges are due 
+and to collect and remit them to the relevant governmental authorities, and/or to pay and pass them 
+through to you. You further agree to waive any claim s you may have regarding BLUE STREAMs 
+collection or remittance of such fees, taxes and surcharges. You further understand that you may obtain 
+a list of the fees, taxes and surcharges that BLUE STREAM currently collects or passes through by writing 
+to BLUE  STREAM at the following address and requesting same: BLUE STREAM, 12409 NW 35th Street, 
+Coral Springs, FL 33065; Attention: Subscriber Tax Inquiries (?).  
+(k) You agree that it is your responsibility to report BLUE STREAM billing errors within 30 days of receipt 
+of the erroneous bill so that Service levels and all payments can be verified. If not reported within 30 
+days, you agree that any errors are therefo re waived.  
+5. PHONE SERVICE E911 NOTICE.  In some of our service areas, BLUE STREAM offers interconnected 
+voice over IP (VoIP) Phone Services, which may include Hosted VoIP Services. Our VoIP Phone Services 
+have certain limitations and restrictions that do not generally apply to traditional circ uit switched phone 
+services. IF YOU ARE SUBSCRIBING TO BLUE STREAMS VOIP PHONE SERVICE, YOU ACKNOWLEDGE 
+RECEIPT AND UNDERSTANDING OF THE FOLLOWING E911 NOTICE: BLUE STREAMS VOIP PHONE 
+SERVICE ALLOWS YOU TO BLUE STREAMESS E91 1 SERVICES. YOU WILL NOT BE ABLE TO BLUE 
+STREAMESS E911, HOWEVER: (I) IN THE EVENT OF A POWER OUTAGE BEYOND THE DURATION OF ANY 
+BACK -UP POWER SOURCES. BLUE STREAM MAY PROVIDE A BATTERY BACK -UP WHICH WILL PROVIDE 
+POWER TO THE BLUE STREAM MODEM FOR A LIMITED  PERIOD OF TIME IN THE EVENT OF A POWER 
+OUTAGE. BATTERY BACKUP IS NOT GUARANTEED, AND DOES NOT SUPPLY POWER TO THE PHONE 
+ITSELF. YOU SHOULD NOTIFY BLUE STREAM IMMEDIATELY IF THE BATTERY IS LOW, EXHAUSTED OR 
+INOPERABLE. IF BLUE STREAM DOES NOT PROVIDE A MOD EM OR BACKUP BATTERY POWER FOR BLUE 
+STREAM SERVICES UTILIZING A TELEPHONE CABLE MODEM, YOU MUST PROVIDE IT AND IT WILL 
+REMAIN YOUR RESPONSIBILITY IN ALL RESPECTS; (II) IN THE EVENT OF A NETWORK OUTAGE; OR (III) 
+DURING PERIODS WHEN YOUR BROADBAND CONNECTION  IS UNAVAILABLE. YOU SHOULD NEVER MOVE 
+THE LOCATION OF YOUR BLUE STREAM PROVIDED BLUE STREAM MODEM OR PHONE EQUIPMENT 
+WITHOUT NOTIFYING US. THE ADDRESS ASSOCIATED WITH AN E911 CALL IS THE AUTHORIZED ADDRESS 
+WHERE BLUE STREAM SERVICE WAS ORIGINALLY PROVIDED . IF YOU MOVE THE BLUE STREAM MODEM 
+OR OTHER BLUE STREAM PHONE EQUIPMENT FROM THE ORIGINAL SERVICE LOCATION, A CALL TO E911 
+USING THAT EQUIPMENT WILL STILL IDENTIFY THE ORIGINAL SERVICE LOCATION. YOU ARE AWARE 
+THAT THERE MAY BE A DELAY OF AT LEAST ONE BUSI NESS DAY AFTER INSTALLATION OF SERVICE FOR 
+E911 SERVICE AVAILABILITY. YOU AGREE THAT, TO THE MAXIMUM EXTENT ALLOWED BY LAW, BLUE 
+STREAM SHALL HAVE NO LIABILITY FOR ANY DAMAGES CAUSED, DIRECTLY OR INDIRECTLY, BY YOUR 
+INABILITY TO ACCESS THE SERVICES, INCLUD ING E911 SERVICES.  
+6. CPNI Approval.  Customer has a right, and we have a duty, under federal law, to protect the 
+confidentiality of customer proprietary network information (CPNI). CPNI includes information such as 
+the quantity, technical configuration, type, destination, location and amoun t of use of a 
+telecommunications service. We desire to use your CPNI (or disclose or permit access to our agents and 
+affiliates that provide communications related Services) to market communications related services 
+(such as Internet and cable services) to you. IF YOU APPROVE, YOU DO NOT HAVE TO TAKE ANY ACTION. 
+HOWEVER, YOU DO HAVE THE RIGHT TO RESTRICT OUR USE OF YOUR CPNI. You may deny or withdraw 
+our right to use your CPNI at any time by calling us at 954 -753-0100. If we do not hear fr om you within 
+30 days of this notification, we will assume that you approve our use of CPNI for the purpose of 
+providing you with information about other communications -related services. Denial of approval will not 
+affect the provision of any Services to which you subscribe. Approval or denial of approval for use of 
+CPNI outside of the Service to which you subscrib e is valid until you affirmatively revoke or limit your 
+approval or denial.  
+7. Porting of Telephone Numbers.  Until your telephone number is ported to us, your existing local 
+exchange carrier will be responsible for providing access to emergency services such as 911. You agree 
+that, during this porting process, we assume no responsibility and have no liability for  the accuracy of 
+the local exchange carrier records or its ability to provide access to 911 services.  
+8. Telephone Authorization and New Telephone Numbers.  To complete a phone order, you must 
+execute a Letter of Agency (LOA) and submit it to BLUE STREAM, or otherwise complete a third party 
+verification process. New Telephone numbers are subject to change prior to the install. Customers 
+should not print thei r new number on stationery or cards until after the install is complete.  
+9. Directory listings.  Our liability for any errors or omissions in any directory listings (including liability 
+for failing to publish a listing or publishing an unlisted listing) is limited to the amounts paid by you to 
+BLUE STREAM for the listing service.  
+10. Term and Termination; Early Termination Fee.  The term of this Agreement begins on the 
+Commencement Date and continues for the term specified in the Service Order. The then current 
+General Terms, Service Policies and pricing will apply during any renewal Term. Rates for the Services 
+and associated discounts are based on Customers Agreement to purchase such Services for the entire 
+applicable Term. Notw ithstanding anything in the Agreement to the contrary, Customers termination of 
+the Agreement before the expiration of the agreed upon Term without cause or BLUE STREAMs early 
+termination of the Agreement for cause, will require that Customer pay to BLUE  STREAM an early 
+termination fee calculated as follows: (a) all unpaid amounts for Services provided through the date of 
+termination; plus (b) all related reasonable expenses of BLUE STREAM including, but not necessarily 
+limited to, construction and instal lation costs, discounts, credits or competitive contract buyout charges 
+and/or all previously waived non -recurring charges for the Services; plus (c) 100% of the monthly 
+recurring charges at the rates stated in an applicable Service Order form for all mont hs remaining in the 
+applicable Service Order Term. Customers reduction of Services (downgrade) before the expiration of 
+the agreed upon Term without cause will require that Customer pay to BLUE STREAM an early 
+termination fee calculated as follows: (a) all unpaid amounts for Services provided through the date of 
+the downgrade; plus (b) all related reasonable expenses of BLUE STREAM including, but not necessarily 
+limited to, construction and installation costs, discounts, credits  or competitive contract b uyout charges, 
+all previously waived non -recurring charges for the Services and/or costs associated with implementing 
+the downgrade; plus (c) 100% of the difference between the monthly recurring charges at the rates 
+stated in the original Service Order for m and the monthly recurring charges at the rates for the 
+downgraded service, for all months remaining in the applicable Service Order Term.  
+Unless otherwise agreed to by Customer, non -bulk video Services are not subject to early termination 
+fees. Customer agrees that BLUE STREAMs damages for early termination would be difficult to 
+determine and the termination charges specified herein constitute liquidated damages and are not a 
+penalty. Month -to-month service agreements may be terminated on thirty (30) day s prior written 
+notice. If Customer provides notice of termination as specified in this Section but retains BLUE STREAM 
+Service, the Customer will be converted automatically to a month -to-month agreement at the end of the 
+current term, and Customers pricing for the Servi ce will be modified to reflect BLUE STREAMs current 
+month -to-month pricing schedule. To terminate this Agreement in accordance with this Section, 
+Customer must notify BLUE STREAM Customer Care by written notice to BLUE STREAM at BLUE STREAM 
+Internet, Cabl e & Phone, Attn: VP of Business Operations, 12490 NW 35th Street, Coral Springs, FL 33065. 
+The rights and remedies set forth herein shall be in addition to any and all other legal, equitable and 
+administrative rights and remedies available to BLUE STREAM.  
+11. Access to Premises and Installation of System.  Customer grants BLUE STREAM the right to install, 
+inspect, replace, repair, relocate, alter, operate, remove and maintain its equipment (the system) in, 
+under and upon the premises at the designated service location(s). Customer, at no cost to BLUE 
+STREA M, shall secure and maintain all necessary rights of access to the service location(s) for BLUE 
+STREAM to install, operate and remove its equipment and provide the Services. If necessary, Customer 
+shall as sist BLUE STREAM in securing a right of entry or other access rights, including an easement, from 
+the land and/or building owner. BLUE STREAM in its discretion may use any existing cable, conduit or 
+other facilities located within the premises. Customer sh all pay any agreed upon custom installation fee. 
+If BLUE STREAMs access rights to the service location are terminated or restricted, early termination 
+fees will apply.  
+12. Limitation of Liability:  BLUE STREAMs total liability to Customer in connection with this Agreement 
+for any and all causes of action and claims, including without limitation, breach of contract, breach of 
+warranty, negligence, strict liability, misrepresentation and other torts, shall be limited to the lesser of: 
+(a) proven direct damages or (b) the aggregate amount of payments made by  Customer to  BLUE 
+STREAM  during  the six (6) month  period  immediately preceding  the month  in which the circumstances 
+giving rise to the claim occurred.  
+13. Indemnification:  Customer shall indemnify, defend and hold harmless BLUE STREAM and its 
+affiliates, employees, directors, officers, representatives, subcontractors, interconnection service 
+providers, suppliers and agents (Indemnified Parties) from and against all demands , claims, actions or 
+causes of action, assessments, losses, damages, liabilities, costs and expenses, including, without 
+limitation,   interest,   penalties   and  reasonable   attorneys   fees  and  disbursements (collectively, 
+Claims),  to the extent any such Claim is asserted by a third party against any Indemnified Party, 
+directly or indirectly, by reason of or resulting from any Customer failure to perform an obligation under 
+this Agreement or any action or inaction of Customer or its  employees or agents that is illegal or 
+constitutes negligence or intentional misconduct, or as a result of: (i) claims for libel, slander, 
+infringement of copyright or unauthorized use of trademark, logo, trade name or   service mark arising 
+out of use of any service; (ii) claims for patent infringement arising from combining or connection of 
+facilities to use BLUE STREAMs network; (iii) claims for damage to property and/or 
+personal   injuries   (including death) arising out   of the negligence or willful   act  or omission     of 
+Customer; and (iv) claims that the content or the actions of Customer violate any law or regulation.  
+14. DISCLAIMER OF WARRANTIES:  EXCEPT AS SPECIFICALLY SET FORTH IN THIS  AGREEMENT, BLUE 
+STREAM MAKES NO WARRANTIES, EXPRESS OR IMPLIED, AS TO ANY BLUE STREAM SERVICES, RELATED 
+PRODUCTS, EQUIPMENT, SOFTWARE OR DOCUMENTATION. RCN SPECIFICALLY DISCLAIMS ANY AND ALL 
+IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR  A PARTICULAR  PURPOSE, OR  TITLE OR NONINFRINGEMENT OF THIRD 
+PARTY RIGHTS.    
+Disclaimer of Certain Damages:  
+NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL OR 
+PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION LOSS OF USE OR LOST BUSINESS, REVENUE, 
+PROFITS OR GOODWILL, ARISING IN CONNECTION WITH THIS AGREEMENT, EVEN IF THE PARTY K NEW 
+OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES.  
+15. Force Majeure:  Neither Party shall be liable, nor shall any credit or other remedy be extended, for 
+any failure to full obligations under this Agreement due to causes beyond a Partys reasonable control, 
+including but not limited to: acts of God, flood, extreme weather, fire or other natural  calamity, terrorist 
+attack, any law, order regulation or action of any governmental entity or civil or military authority, 
+power or utility failures, cable cuts, unavailability of rights -of-way, national  emergencies , riots, wars, 
+strikes, lock -outs work stoppages or other labor difficulties. A Force Majeure event shall not excuse the 
+obligation to make a payment due pursuant to this Agreement, except to the extent that the Force 
+Majeure event physically interferes wi th and delays delivery of the payment.  
+16. Commercial Use Restrictions on Video.  Customer shall not, and shall not authorize or permit any 
+other person to: order or request pay -per-view, VOD or premium programming for receipt, exhibition or 
+taping in a commercial establishment, nor may Customer exhibit or assist in exhibiting pay -per-view, 
+VOD or premium programming in a commercial establishment, unless expressly authorized in writing to 
+do so, in advance, by both BLUE STREAM and our program provider. Customer shall indemnify and hold 
+BLUE STREA M harmless against and from any violation of this provision.  
+17. Miscellaneous.  All modifications to this Agreement, if any, must be in writing, executed by an 
+authorized BLUE STREAM Director or Vice President and the Customer. All other attempts to modify this 
+Agreement shall be void and non -binding on BLUE STREAM. This Agreement sha ll be governed by and 
+construed in accordance with federal law, the regulations of the FCC and the internal laws of the state 
+and locality in which the Service is provided, without regard to any conflicts of law provisions. Customer 
+may not assign or otherwise transfer this Agreement in any manner without BLUE STREAMs prior 
+written consent. The Parties acknowledge that BLUE STREAM is subject to the provisions of its local 
+and/or state franchise agreements, and applicable federal, state a nd local laws and regulations 
+(Applicable Law). Any duty or promise of BLUE STREAM under this Agreement that conflicts with any 
+provision of Applicable Law is to that extent void. Notwithstanding, the terms of this Agreement are 
+considered severable, and  in the event that any term is rendered unenforceable due to any such conflict 
+or is otherwise found to be invalid or unenforceable, the Parties shall replace the invalid or 
+unenforceable portion with another provision that, as nearly as possible, reflects  the original intention 
+of the Parties, and the remainder of this Agreement shall remain in full force and effect.  IN WITNESS 
+WHEREOF, the Parties hereto have executed and delivered this Agreement to be effective on the 
+latest date that either party signed  this Agreement, as shown below.  
+BLUE STREAM INTERNET, CABLE AND PHONE CUSTOMER  
+Signature: ___________________Date: 
+_______________________Print Name: 
+__________________Title: 
+________________________    Signature: _____________________Date: 
+_________________________Print Name: 
+___________________Title: 
+_________________________Services Address: 
+______________Phone: _______________________  
+CUSTOMER ACKNOWLEDGEMENT:  
+By signing,  I represent,  warrant and acknowledge that: (i) I am at least 18 years of age and the owner of 
+or tenant in the premises at the service location(s) identified in the Service Order and have authority to 
+authorize the work or service specified i n, and to be bound by, the Service Order and this Agreement; (ii) 
+BLUE STREAM may contact me at the phone number above (or such other phone number or email 
+address provided by me to BLUE STREAM), which may include autodialed calls, pre -recorded or artifici al 
+voice messages, and mobile service commercial email messages; (iii) BLUE STREAM manages its Internet 
+Network according to specific Practices and Procedures, which can be found 
+at www.bluestreamfiber.com ; (iv) the Agreement is subject to automatic renewal and early termination 
+fees; and (v) I have read, understood and agree to the contractual terms and notices set forth in this 
+Agreement, including those related to the PHONE SERVICE E911 NOTICE. The appli cable General Terms, 
+and Service Policies can be found at  www.bluestreamfiber.com .

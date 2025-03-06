@@ -1,0 +1,594 @@
+March 3 1, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+AMENDMENT NO. 5 
+This Amendment No. 5 (the Amendment) is made between National Oilwell Varco, Inc.  (Assignor) , and National Oilwell Varco, L.P.  
+(Assignee ), and Cellco Partnership, a Delaware General Partnership doing business as Verizon Wireless, on behalf of itself and its 
+controlled and/or managed affiliates (collectively Verizon Wireless),  for attac hment to Contract No. 2181465 , effective July 13, 2012  
+between Assignor and Verizon Wireless , as it may have been amended  (the Agreement).   
+ 1. Except as set forth in this Amendment, the Agreement shall continue in full force and effect in accordance with its terms. Defined 
+terms shall have the meanings set forth in the Agreement unless otherwise indicated below.  If there is a conflict between this Amendment and the Agreement  or any earlier amendment, the terms of this Amendment will prevail.   
+2. This Amendment shall be effective when executed by the p arties  (Effective Date).  In order for Verizon Wireless to implement 
+the benefits of this Amendment (including the creation of any custom plans, options, features or applications), Customer must  
+provide certain information, such as name, mobile telephone number and account information of any lines Customer wants to 
+enroll hereunder.  Following receipt of all necessary information, Verizon Wireless will complete Customers account 
+implementation within 90 days.  
+3. Assignee hereby affirms that it is bound by all of Assignors rights, liabilities and obligations under the Agreement, in every way 
+as if an original party to the Agreement and shall perform Assignors obligations that are enumerated under the Agreement.   
+4. All references throughout the Agreement to Customer and  National Oilwell Varco, Inc.  shall refer to National Oilwell Varco, 
+L.P.  as of the Effective Date of this Amendment.   
+5. Provided that Assignor is current on its payment obligations under the Agreement and Assignee has been approved as 
+creditworthy by Verizon Wireless Credit Department, Verizon Wireless hereby consents to Assignors assignment of the Agreement to Assignee, effective upon the Effective Date of this Assignment and Amendment and acknowledges all rights and 
+remedies of Assignee to exercise or grant any or all of the rights reserved to Assignor under the Agreement as though Assigne e 
+originally occupied the place of Assignor under the Agreement.   
+6. The term  of the Agreement  (Term)  is hereby extended for three (3 ) years from the Effective Date of this Amendment, and will 
+then continue on a month-to- month basis (Extended Term) until terminated by either Party with at least 30 days Legal Notice.  
+After termination, Wireless Service will continue for any active Corporate Subscribers under the Agreement and for any active 
+Employee Subscribers under their respective Verizon Wireless retail customer agreements, until their lines are either termina ted 
+or inco rporated under another Verizon Wireless agreement; however, after such termination, Verizon Wireless may remove 
+discounts, any custom plans and features, and other benefits of the Agreement from any such lines.   
+7. Section 1.9 Definitions,  is hereby modifi ed to add the following definition: Machine to Machine Lines (M2M Line(s)) : A line 
+used for transmitting data between wireless devices and computer servers or other machines, or between wireless devices, with  
+limited or no manual intervention. Customer can activate M2M Lines only on specified M2M plans.  
+8. Section  2.3, Early Termination Fees,  is hereby replaced with the following provision:  ETF: Except as otherwise provided in this 
+Agreement,  Verizon Wireless will charge an early termination fee (ETF) for lines terminated by Customer, or by Verizon Wireless 
+for default, or ported by Customer to another service provider prior to the expiration of the Line Term. The amount of the ET F is 
+determined by the Equipment or offer selected, either a) for any lines activated or renewed on a smartphone purchased from Verizon Wireless, $650.00, minus $15.00 for each full month of the Line Term completed or b) for lines activated or renewed o n 
+other Equipment, $175.00, minus $5.00 for each full  month of the Line Term completed. For M2M Lines activated on Equipment 
+Customer provides, Verizon Wireless  will charge an ETF of $50.00 for each line so terminated.  Customer may terminate any of its 
+lines within 30 days of activation without an ETF, prov ided that any Equipment purchased from Verizon Wireless at a discount on 
+any line to be terminated is returned undamaged and in good working condition within 30 days of Customers receipt of such Equipment.  Customer shall be responsible for all service -related charges incurred up to the time of termination .  
+9. Section  2.4, Early Termination Fee Waivers  /Early Equipment Upgrades,  is hereby replaced with the following provision:  
+ETF Waivers/Early  Equipment Upgrades:  During each year of the term of the Agreement as extended by Amendment No. 5, 
+Verizon Wireless will allow a certain number of Customers Corporate Subscribers to (i) terminate service without an ETF (ET F 
+March 3 1, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ Waivers), or (ii) purchase Equipment at the current standard corporate Equipment price prior to that line becoming eligible to 
+upgrade (Early Upgrades).  The number of ETF Waivers and Early Upgrades available during each year of the term of the 
+Agreement as extended by Amendment No. 5 will be equal to 10% of the number of active Corporate Subscriber lines as measured 
+on the Effective Date of Amendment No. 5 and on the anniversary of the Effective Date for any subsequent years of the Agreement 
+as extended by Amendment No. 5.  ETF Waivers and Early Upgrad es can only be used following the expiration of 180 days after 
+(a) activation of service on the applicable line, or (b) the most recent Equipment upgrade on the applicable line.  Customer must continue to meet the terms and conditions of this Agreement as amended to be eligible for ETF Waivers or Early Upgrades.  ETF 
+Waivers may not be used for Corporate Subscriber lines ported to another carrier.  ETF Waivers and Early Upgrades used for Corporate Subscriber lines of Customers participating parent or affil iate(s) lines will be deducted from the total number of ETF 
+Waivers and Early Upgrades available to Customer.  ETF Waivers and Early Upgrades are not available if this Agreement is in a  
+month-to-month status.  ETF Waivers can be used on M2M Lines.  
+10. Section  7, Plans, Features, Rates and Charges  is hereby amended by adding  the following sentence : If a line of Wireless Service 
+is no longer under a Line Term, or if Customer changes or upgrades Equipment, or assumes liability for another line of Wirele ss 
+Service, Customer will have to change to a current plan or feature for that line.  
+11. Section 4.1, Equipment Pricing, is hereby amended by adding the following sentences: Purchases of discounted Equipment 
+and accessories may not be for the purpose of reselling.  Customer must activate any discounted Equipment on Verizon Wirelesss 
+network within 30 days of receipt; otherwise, Verizon Wireless will charge Customer the difference between the discounted pri ce 
+paid and the full retail price of the Equipment.   Verizon Wireless may adjust Device pricing to reflect higher costs from  original 
+equipment manufacturers due to United States governmental  tariffs on goods manufactured outside of the United States, if 
+applicable.   
+12. Section 5 : Equipment  Purchased from Third Parties, Open Development Program , is hereby amended by adding the following 
+language: All data Equipment  supporting CDMA must be compatible with Verizon Wireless's Over the Air Parameter 
+Administration ("OTAPA") and Verizon Wireles s's Over the Air Service Provisioning ("OTASP")  to allow remote configuration of 
+services on the Equipment  including service activation and access on the Verizon Wireless network and roaming partners 
+network .  All data Equipment  supporting LTE must be com patible with Verizon Wirelesss Over the Air Equipment  Management 
+(OTADM), which allows customers to remotely manage Equipment  in the field and also allows for firmware updates, enabling 
+of services, and application of configuration updates to customers Equipment . Verizon Wireless shall have the right to perform 
+Firmware Over the Air ("FOTA") Updates, as applicable  on all Equipm ent Customer purchases from third parties, and to access 
+data Equipment  via OTAPA and OTADM for several purposes, including: (i) terminating interference with the Verizon network at 
+a charge of $25.00 per terminated Equipment , and (ii) updating the Preferr ed Roaming List. Customer must subscribe to a security 
+service and a FOTA service and ensure data Equipment  have the latest necessary security software and original equipment 
+manufacturer (OEM) firmware to maintain business continuity.  Any data charges associated with a Equipment  security or 
+firmware upgrade is the sole responsibility of Customer.   
+13. Section 15, Limitation of Liability , is hereby replaced with the following provision : LIMITATION OF LIABILITY:   SUBJECT TO THE 
+EXCLUSONS AND LIMITATIONS BELOW, THE TOTAL LIABILITY OF EACH PARTY TO THE OTHER PARTY IN CONNECTION WITH THIS AGREEMENT, FOR ANY AND ALL  EVENTS  IS LIMITED TO THE AMOUNT PAID OR PAYABLE BY CUSTOMER TO VERIZON WIRELESS 
+UNDER THIS AGREEMENT FOR  THE TWELVE (12) MONTH PERIOD PRIOR TO THE MOST RECENT EVENT, EXCLUDING AMOUNTS 
+OWED FOR DEVICES.  FOR THE PURPOSE OF THIS CLAUSE AND CALCULATION, WHERE AN EVENT GIVES RISE TO A NUMBER OF 
+SEPARATE LIABILITIES, CLAIMS OR CAUSES OF ACTION, AND/OR THERE IS A SERIES OF CONNECTED EVENTS, SUCH WILL BE 
+CONSIDERED A SINGLE EVENT. NOTHING IN THIS SECTION 15 LIMIT S EITHER PARTYS LIABILITY: ( A) IN TORT FOR ITS WILLFUL OR 
+INTENTIONAL MISCONDUCT; OR (B ) FOR BODILY INJURY OR DEATH OR FOR LOSS OR DAMAGE TO REAL PROPERTY OR TANGIBLE 
+PERSONAL PROPERTY PROXIMATELY CAUSED BY ITS NEGLIGENCE WHILE ON THE OTHER PARTYS PREMISES; OR (C) RESULTING 
+FROM A PARTYS FRAUD OR FRAUDULENT MISREPRESENTATION; OR (D) FOR DAMAGES THAT CANNOT BE LIMITED UNDER 
+APPLICABLE LAW OR REGULATION; OR (E) FOR ANY INDEMNIFICATION OBLIGATION UNDER THIS AGREEMENT.  NOTHING IN THIS 
+SECTION 15 LIMIT S CUSTOMERS LIABILITY FOR ANY AND ALL CHARGES INCURRED BY CUSTOMER UNDER THIS AGREEMENT, 
+INCLUDING ANY APPLICABLE ETF.  VERIZON WIRELESS AND ITS VENDORS WILL NOT  BE LIABLE FOR LOSSES, DAMAGES, CLAIMS 
+OR EXPENSES OF ANY KIND ARISING OUT OF THE USE OR ATTEMPTED USE OF, OR THE INABILITY TO ACCESS, LIFE SUPPORT OR MONITORING SYSTEMS OR DEVICES, 911 OR E911, OR OTHER EMERGENCY NUMBERS OR SERVICES.  
+14. Section 19, Mandatory Arbitration,  is hereby  amended by replacing the third  and fourth sentences with the following:  The 
+Federal Arbitration Act, 9 USC §§1-16, as amended, shall govern the i nterpret ation and enforcem ent of this provis ion. Any  
+arbitration shall be held before an independent arbitrator, governed and administered by the American Arbitration Association.  
+March 3 1, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+15. Section 13, Taxes, Surcharges and Exemptions, is hereby replaced with the following provision;  Taxes, Surcharges and 
+Exemptions :  If any federal, state, local or foreign tax, fee, assessment or other charge is required by law to be collected by Verizon 
+Wireless (each, a Tax), or a serving carrier charges tax to Verizon Wireless on a roaming call , then Verizon Wireless may bill such 
+amount to Customer, and Customer shall pay such amount.  If Verizon Wireless incurs a tax (other than a net income tax) or other 
+expense to comply with regulatory or administrative obligations (such as payments  to local telephone companies for delivering 
+calls f rom Verizon Wireless  customers to their customers) , Verizon Wireless may bill a surcharge to defray such expense (a 
+Surcharge).  Taxes and Surcharges may change from time to time.  With respect to any Tax other than a Tax charged by a serv ing 
+carrier on a roaming call, if Customer provides Verizon Wireless with  an exemption certificate in the form provided by law, or with 
+other evidence of exemption acceptable to Verizon Wireless, then that specific Tax will not be collected from Customer.  If a n 
+exemptio n applied by Verizon Wireless at Customer's request is found not to apply, then Customer shall upon demand pay Verizon 
+Wireless the uncollected Tax and all related interest, penalties and additions to the Tax.  Verizon Wireless shall not issue credits 
+for a Tax that is billed prior to Verizon Wireless's receipt of evidence of exemption .  
+16. Section 37,  Compliance with Laws, is amended to read as follows:   Compliance with Laws: The Parties agree that they will 
+comply with applicable laws, regulations and rules to the extent applicable under this Agreement.  Verizon Wireless will provide Wireless Service in accordance with the applicable  Privacy  Policy, set forth  at https://www.verizon.com/about/privacy/full -
+privacy-polic y, and which is incorporated into this Agreement. Customer acknowledges and agrees that it is solely responsible for 
+the use of the Wireless Service to transmit, receive, store or process it s data in compliance with applicable law. Customer further 
+acknowledges and agrees that applications provided by Verizon Wireless that involve the storage of information are not designed or intended for use with protected health information (PHI), as defined by the Health Insurance Portability and Accountability Act of 1996, as amended by the Health Information Technology for Economic and Clinical Health Act and implemented by 
+regulation; and therefore, they must not be used to create, store, transmit or receive PHI.  
+ 17. The section entitled  Regulatory Disclosures  is hereby deleted in its entirety.  
+18. The following provision is hereby added to the Agreement as Section 40:  Consent to Use of CPNI and Confidential Information 
+(Not Applicable to Arizona Customers).  Verizon Wireless wants to offer Customer customized solutions to support Customers 
+business needs. To facilitate this, Customer consents to the use and sharing of Customer Proprietary Network Information (CPN I) 
+within the Verizon family of Affiliates, and with third parties subject to non -disclosure protection, solely to offer current and future 
+Verizon products and services.  Verizon Wireless protects the confidentiality of CPNI, which is information that identifies the 
+quantity, technical configuration, type, destination, location, and amount of use of Customers subscribed telecommunications 
+and interconnected VoIP services, and related local and toll billing information. Customer has the right to refuse this conse nt, and 
+doing so will not affect any existing Services.  Customer may withdraw or limit its consent at any time via email at  cpni -
+notices@verizon.com and consent remains valid until updated by Customer . 
+ 19. The following prov ision is hereby added to the Agreement as Section 41: Export Controls:   The United States and other countries 
+may regulate the export, import and use of certain hardware, software and technological data provided under the Agreement.  Customer agrees to comply with the U.S. Export Administration Act, the regulations that the U.S. Department of Commerce 
+promulgates under it, the embargoes and sanctions established by the Department of Treasury, Office of Foreign Assets Control  
+and any other applicable laws or regulations.  If Customer chooses to access or use Equipment, Wireless Service or any website 
+or portal that Verizon Wireless maintains, in or from prohibited or sanctioned location(s), Customer will be solely responsib le for 
+compliance with local- use controls, laws and regulations, including those relating to the import and export of technical data 
+associated with that access or use.  Customer acknowledges that Verizon Wireless has made no representations concerning the 
+appropriateness, availability or legality of the content on any Verizon Wireless -maintained website or portal when accessed 
+outside the United States, and that Customers access to them from locations where their content is illegal is prohibited.  
+20. Retired Legacy  Plans : The following plan(s) (Legacy  Plans) shall no longer be available for new activations or for lines changing 
+plans.  Verizon Wireless will allow Customers existing Corporate Subscribers who are currently procuring services from Verizon 
+Wireless on such Legacy  Plans to continue to remain on such Legacy  Plans at the pricing, terms and conditions contained in such 
+Legacy  Plans until the Corporate Subscriber either changes plans or upgrades Equipment.    
+• Custom 4G Unlimited Business Plan for Smartphones (amendm ent No. 4)   
+• Custom Mobile Broadband SharePlan (Amendment No. 3)  
+• Custom Mobile Broadband SharePlan for Tablets (Amendment No. 3)  
+• Custom 4G Business TravelPass Feature (Amendment No. 4)  
+March 3 1, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ 21. Additional Pricing Offers  and Price Plan (s)/Feature(s) are hereby added  to the Agreement in the form attached hereto.  
+22. Counterparts and Admissibility of Copies: This Amendment may be executed in counterparts each of which when executed and 
+delivered shall be deemed to be an original and all of which together shall constitute  one and the same instrument.  An electronic 
+or facsimile copy  of the executed Amendment or counterpart shall be deemed, and shall have the same legal force and effect as, 
+an original document.  
+23. All provisions of the Agreement, including attachments thereto, not addressed by this Amendment remain in full force and effect.    
+IN WITNESS WHEREOF, and intending to be bound hereby, the Parties affix their signatures to this Amendment.  
+CELLCO PARTNERSHIP d/b/a VERIZON WIRELESS:  NATIONAL OILWELL VARCO, INC.:  
+By: :counter_signature  By:   :cust_signature  
+Name:   :counter_fullname  Name:   :cust_fullname  
+Title: :counter_title  Title:   :cust_title  
+Date:    :counter_date  Date:  :cust_date  
+:sales_accept  :finance_accept  
+NATIONAL OILWELL VARCO, L.P.:  
+By:   :cust_signature  
+Name:   :cust_fullname  
+Title:   :cust_title  
+Date:   :cust_date  
+:sales_accept  :finance_accept  
+Natalie Swallow
+Director, IT Knowledge Management
+April 1, 2021
+Natalie Swallow
+Director, IT Knowledge Management
+April 1, 2021
+Mark Wilets
+Director Enterprise Contracts
+April 2, 2021
+March 3 1, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ Additional Pricing Offer(s)  
+Device Payment Device Offer : During the first 365 days from the Effective Date of Amendment No. 5, provided the offer requirements 
+are met, Customers Corporate Subscribers purchasing equipment under a device payment installment agreement qualify to purcha se 
+the device(s) at th e price(s) set forth in the table below, subject to availability.  M2M Lines do not qualify for this offer.  When choosing 
+the device payment option, Customer will be charged for the device monthly for 30 months as set forth below.  If Customer 
+disconnects , upgrades a device, or chooses to prepay the total amount due under the installment agreement prior to completing the 
+full 30 -month device payment plan , Verizon Wireless will charge Customer the remaining balance of the installments due.  The monthly 
+devi ce credit amount for the remaining months will not be applied to the balance due. (For example, if the price of the device is  
+$480.00, Customer will pay $16.00 $480/30) multiplied by the number of months remaining on the 30- month installment agreement.)  
+Device Device 
+Price  Monthly 
+Device 
+Installment 
+Payment  Monthly 
+Device Credit  Monthly  
+Device  
+Cost After 
+Credit  Requirements Combinable With  
+iPhone SE 2nd 
+generation 2020 
+64GB  $399.99  $13.33 $13.33 $0.00  New service or eligible 
+upgrades on the Custom 
+Business Unlimited Voice 
+and Messaging Plans 
+with Shared Business 
+Email and Mobile 
+Hotspot or the Custom 
+Unlimited Business Plan 
+for Smartphones  Signing Bonus & 
+Loyalty Bonus with 
+multiple payouts 
+(Tiered)  
+iPhone XR 64GB  $499.99  $16.66 $16.66 $0.00  New service or eligible 
+upgrades on the Custom 
+Business Unlimited Voice 
+and Messaging Plans 
+with Shared Business 
+Email and Mobile 
+Hotspot or the Custom 
+Unlimited Business Plan 
+for Smartphones  Signing Bonus & 
+Loyalty Bonus with 
+multiple payouts 
+(Tiered)  
+Samsung A51 
+128GB  $399.99  $13.33 $13.33 $0.00  New service or eligible 
+upgrades on the Custom 
+Business Unlimited Voice 
+and Messaging Plans 
+with Shared Business 
+Email and Mobile 
+Hotspot or the Custom 
+Unlimited Business Plan 
+for Smartphones  Signing Bonus & 
+Loyalty Bonus with 
+multiple payouts 
+(Tiered)  
+Signing Bonus:  Verizon Wireless shall provide Customer with a one -time signing bonus in the amount of $40,000.00, which will be 
+applied in the form of a check to Customer payable within 60 days following the Effective Date of Amendment No. 5. This offer is contingent on Customer having 1,100 Corporate Subscriber lines (excluding M2M Lines) (Line Commitment) as of the conclusion  of 
+365 days following the Effective Date of Amendment No. 5, otherw ise Verizon Wireless will charge back Customer $35.00 per line less 
+than the required Line Commitment.  
+March 3 1, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ Loyalty Bonus with multiple payouts (Tiered): Provided Customer has maintained a minimum number of actively billing Corporate 
+Subscriber lines (excluding M2M Lines) during the (i) initial 180 days following the Effective Date of Amendment No. 5 (Period I) (ii) 
+initial 365 days following the Effective Date of Amendment No. 5 (Period II), (iii) initial 730 days following the Effectiv e Date of 
+Amendment No. 5 (Period III), and (iiii) initial 900 days following the Effective Date of Amendment No. 5 (Period IV), Verizon Wireless will provide Customer a one -time bonus per time period, in an amount set forth in the table below, paid to each qualifying 
+Corporate Subscribers individual line on the monthly invoice within 60 days following the conclusion of each applicable offer  period. 
+No partial bonus will be paid.   
+Minimum number of Active  
+Corporate Subscriber lines   Bonus Amount   
+Period I  Period II  Period III  Period IV  
+1,100 -1,599  $13.50 per line  $13.50 per line  $13.50 per line  $13.50 per line  
+1,600 -2.099  $14.50 per line  $14.50 per line  $14.50 per line  $14.50 per line  
+2,100+  $15.50 per line  $15.50 per line  $15.50 per line  $15.50 per line 
+  International Long Distance Value Feature Offer: During the initial term of the renewal term as extended by  Amendment No. 5 Verizon 
+Wireless will provide Corporate Subscribers the International Long Distance Value Feature for a $0 monthly access fee.  This feature 
+provides discounted per minute rates from the Customers home coverage area as set forth in the table below. The International Long 
+Distance Value Feature Offer is not available if the Agreement is in a month -to-month status.  
+Country  Landline 
+Terminating  Mobile 
+Terminating  Country  Landline 
+Terminating  Mobile 
+Terminating  
+  AFGHANISTAN  $1.99  $1.99    LESOTHO  $0.85  $0.91  
+  ALBANIA  $0.34  $0.48    LIBERIA  $0.59  $0.60  
+  ALGERIA  $0.39  $0.43    LIBYA  $0.98  $1.02  
+  AMERICAN SAMOA  $0.37  $0.37    LIECHTENSTEIN  $0.10  $1.11  
+  ANDORRA  $0.47  $0.69    LITHUANIA  $0.29  $0.40  
+  ANGOLA  $0.34  $0.41    LUXEMBOURG  $0.10  $0.31  
+  ANGUILLA  $0.59  $0.70    MACAO  $0.79  $0.79  
+  ANTARCTICA/SCOTT BASE  $2.85  $2.85    MACEDONIA  $0.56  $0.71  
+  ANTIGUA  $0.34  $0.46    MADAGASCAR  $2.29  $2.38  
+  ARGENTINA  $0.18  $0.36    MALAWI  $0.49  $0.51  
+  ARMENIA  $0.59  $0.70    MALAYSIA  $0.18  $0.21  
+  ARUBA  $0.34  $0.46    MALDIVES  $1.48  $1.48  
+  ASCENSION ISLAND  $1.16  $1.16    MALI REPUBLIC  $1.08  $1.16  
+  AUSTRALIA  $0.07  $0.23    MALTA  $0.74  $0.93  
+  AUSTRIA  $0.08  $0.26    MARSHALL ISLAND  $0.75  $0.75  
+  AZERBAIJAN  $0.11  $0.35    MARTINIQUE  $0.49  $0.81  
+  BAHAMAS  $0.24  $0.25    MAURITANIA  $0.99  $0.99  
+  BAHRAIN  $0.34  $0.37    MAURITIUS  $1.26  $1.26  
+  BANGLADESH  $0.34  $0.42    MAYOTTE  $0.99  $1.16  
+  BARBADOS  $0.34  $0.45    MEXICO  $0.09  $0.25  
+  BELARUS  $0.35  $0.38    MICRONESIA (FSM)  $0.78  $0.78  
+  BELGIUM  $0.08  $0.28    MOLDOVA  $1.49  $1.58  
+  BELIZE  $0.29  $0.35    MONACO  $0.08  $0.32  
+  BENIN  $0.66  $0.69    MONGOLIAN PEOP. REPU  $1.49  $1.53  
+  BERMUDA  $0.18  $0.18    MONTENEGRO, REP. OF  $0.42  $0.63  
+  BHUTAN  $1.49  $1.49    MONTSERRAT  $0.34  $0.36  
+  BOLIVIA  $0.29  $0.35    MOROCCO  $0.49  $0.61  
+  BOSNIA -HERZEGOVINA  $0.34  $0.47    MOZAMBIQUE  $1.29  $1.44  
+  BOTSWANA  $0.29  $0.37    NAMBIA  $0.81  $0.95  
+March 3 1, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ Country  Landline 
+Terminating  Mobile 
+Terminating  Country  Landline 
+Terminating  Mobile 
+Terminating  
+  BRAZIL  $0.15  $0.32    NAURU  $1.49  $1.49  
+  BRITISH VIRGIN ISLANDS  $0.49  $0.49    NEPAL  $1.49  $1.49  
+  BRUNEI  $1.49  $1.52    NETHERLANDS  $0.08  $0.28  
+  BULGARIA  $0.29  $0.60    NETHERLANDS ANTILLES  $0.08  $0.29  
+  BURKINA FASO  $0.99  $1.03    NEW CALEDONIA  $1.46  $1.46  
+  BURMA  $3.29  $3.29    NEW ZEALAND  $0.08  $0.34  
+  BURUNDI  $1.49  $1.50    NICARAGUA  $0.34  $0.44  
+  CAMBODIA  $1.49  $1.49    NIGER REPUBLIC  $0.94  $0.96  
+  CAMEROON  $0.49  $0.50    NIGERIA  $0.49  $0.60  
+  CANADA  $0.09  $0.09    NIUE  $1.99  $1.99  
+  CAPE VERDI  $0.83  $0.89    NORFOLK ISLANDS  $3.35  $3.35  
+  CASEY BASE  $1.95  $1.95    NORTH KOREA  $2.49  $2.49  
+  CAYMAN ISLANDS  $0.19  $0.29    NORWAY  $0.08  $0.26  
+  CENTRAL AFRICAN REP  $1.99  $1.99    OMAN  $1.09  $1.10  
+  CHAD  $1.99  $1.99    PAKISTAN  $0.33  $0.35  
+  CHILE  $0.19  $0.35    PALAU  $1.31  $1.31  
+  CHINA  $0.13  $0.14    PALESTINIAN AUTHORITY  $0.25  $0.26  
+  CHRISTMAS ISLAND  $1.35  $1.35    PANAMA  $0.29  $0.37  
+  COCOS ISLAND  $1.35  $1.35    PAPUA NEW GUINEA  $1.07  $1.07  
+  COLOMBIA  $0.17  $0.22    PARAGUAY  $0.34  $0.42  
+  COMOROS  $1.99  $2.07    PERU  $0.25  $0.45  
+  CONGO  $0.78  $0.78    PHILIPPINES  $0.19  $0.23  
+  COOK ISLANDS  $1.49  $1.49    POLAND  $0.19  $0.37  
+  COSTA RICA  $0.27  $0.27    PORTUGAL  $0.08  $0.29  
+  CROATIA  $0.29  $0.45    QATAR  $0.96  $0.98  
+  CUBA  $1.19  $1.19    REUNION ISLAND  $0.99  $1.16  
+  CYPRUS  $0.29  $0.32    ROMANIA  $0.32  $0.50  
+  CZECH REPUBLIC  $0.19  $0.34    RUSSIAN FEDERATION  $0.20  $0.22  
+  DENMARK  $0.08  $0.28    RWANDA  $1.21  $1.21  
+  DJIBOUTI  $0.99  $0.99    SAN MARINO  $1.25  $1.44  
+  DOMINICA  $0.50  $0.59    SAO TOME  $1.99  $1.99  
+  DOMINICAN REPUBLIC  $0.18  $0.25    SAT MAR  $8.99  $8.99  
+  EAST TIMOR  $1.38  $1.38    SAUDI ARABIA  $0.34  $0.43  
+  ECUADOR  $0.29  $0.41    SENEGAL  $0.69  $0.76  
+  EGYPT  $0.34  $0.34    SERBIA  $0.42  $0.63  
+  EL SALVADOR  $0.24  $0.27    SEYCHELLES ISLAND  $1.32  $1.32  
+  EQUATORIAL GUINEA  $1.49  $1.49    SIERRA LEONE  $0.49  $0.60  
+  ERITREA  $0.89  $0.89    SINGAPORE  $0.13  $0.13  
+  ESTONIA  $0.29  $0.64    SLOVAKIA  $0.19  $0.35  
+  ETHIOPIA  $1.02  $1.05    SLOVENIA  $0.58  $0.81  
+  FALKLAND ISLANDS  $0.99  $0.99    SOLOMON ISLANDS  $1.49  $1.49  
+  FAROE ISLANDS  $0.53  $0.54    SOMALIA  $1.49  $1.49  
+  FIJI ISLANDS  $0.49  $0.57    SOUTH AFRICA  $0.34  $0.50  
+  FINLAND  $0.08  $0.26    SOUTH KOREA  $0.07  $0.11  
+  FRANCE  $0.07  $0.17    SOUTH SUDAN  $0.89  $0.91  
+  FRENCH GUIANA  $1.49  $1.49    SPAIN  $0.07  $0.32  
+March 3 1, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ Country  Landline 
+Terminating  Mobile 
+Terminating  Country  Landline 
+Terminating  Mobile 
+Terminating  
+  FRENCH POLYNESIA  $0.34  $0.43    SRI LANKA  $0.99  $1.02  
+  GABON  $1.06  $1.16    ST HELENA  $1.99  $1.99  
+  GAMBIA  $0.59  $0.61    ST KITTS  $0.34  $0.55  
+  GEORGIA  $0.78  $0.87    ST PIERRE AND MIQUELON  $0.49  $0.63  
+  GERMANY  $0.07  $0.27    ST VINCENT ANDGRENADINES  $0.35  $0.35  
+  GHANA  $0.34  $0.42    ST. LUCIA   $0.35  $0.35  
+  GIBRALTAR  $0.29  $0.62    SUDAN  $0.89  $0.91  
+  GREECE  $0.07  $0.23    SURINAME  $1.27  $1.27  
+  GREENLAND  $0.69  $0.76    SWAZILAND  $0.77  $0.89  
+  GRENADA  $0.34  $0.53    SWEDEN  $0.08  $0.35  
+  GUADELOUPE  $0.49  $0.75    SWITZERLAND  $0.08  $0.32  
+  GUANTANAMO  $1.39  $1.39    SYRIAN ARAB REP  $0.88  $0.94  
+  GUATEMALA  $0.24  $0.26    TAIWAN  $0.06  $0.12  
+  GUINEA  $1.68  $1.85    TAJIKISTAN  $0.31  $0.31  
+  GUINEABISSAU  $1.68  $1.85    TANZANIA  $0.49  $0.54  
+  GUYANA  $0.86  $0.86    THAILAND  $0.24  $0.26  
+  HAITI  $0.34  $0.44    TOGO REPUBLIC  $1.12  $1.19  
+  HONDURAS  $0.37  $0.39    TOKELAU  $2.96  $2.96  
+  HONG KONG  $0.09  $0.17    TRINIDAD TOBAGO  $0.35  $0.48  
+  HUNGARY  $0.26  $0.45    TUNISIA  $0.49  $0.58  
+  ICELAND  $0.29  $0.67    TURKEY  $0.34  $0.46  
+  INDIA  $0.29  $0.30    TURKMENISTAN  $0.45  $0.45  
+  INDONESIA  $0.29  $0.36    TURKS/CAICOS  $0.34  $0.44  
+  IRAN  $0.34  $0.38    TUVALU  $1.49  $1.49  
+  IRAQ  $0.89  $0.99    UGANDA  $0.49  $0.51  
+  IRELAND  $0.07  $0.19    UKRAINE  $0.26  $0.31  
+  IRIDIUM  $6.00  $6.00    UNITED ARAB EMIRATES  $0.38  $0.39  
+  ISRAEL  $0.09  $0.15    UNITED KINGDOM  $0.06  $0.26  
+  ITALY  $0.07  $0.36    URUGUAY  $0.29  $0.43  
+  IVORY COAST  $0.69  $0.75    UZBEKISTAN  $0.29  $0.31  
+  JAMAICA  $0.34  $0.48    VANUATU  $1.49  $1.49  
+  JAPAN  $0.07  $0.19    VATICAN CITY  $0.10  $0.20  
+  JORDAN  $0.34  $0.42    VENEZUELA  $0.20  $0.36  
+  KENYA  $0.49  $0.58    VIETNAM  $0.54  $0.56  
+  KIRIBATI  $0.99  $0.99    WALLIS AND FUTUNA ISLANDS  $2.50  $2.50  
+  KUWAIT  $0.46  $0.46    WESTERN SAMOA  $1.19  $1.26  
+  KYRGYZSTAN  $0.33  $0.34    YEMEN  $0.98  $0.98  
+  LAOS  $1.49  $1.52    ZAIRE  $1.39  $1.39  
+  LATVIA  $0.29  $0.41    ZAMBIA  $0.29  $0.40  
+  LEBANON  $0.34  $0.44    ZIMBABWE  $0.34  $0.59  
+March 31, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+Price Plan(s)/Feature(s)  
+Custom Business Unlimited Voice and Messaging Plans with Shared Business Email and 
+Mobile Hotspot*  
+Corporate Subscribers Only  
+No Domestic Roaming or Long Distance Charges  
+These plans are NOT eligible for monthly access fee discounts.   
+Monthly Access Fe e – 1-1,099 Active Lines1 $46.00  
+Monthly Access Fee – 1,100 -1,599 Active 
+Lines1 $43.00 
+Monthly Access Fee – 1,600+ Active Lines1 $40.00  
+Data Allowance with Mobile Hotspot2 
+(with Sharing)  3 GB  
+Data Overage Rate  $10.00 per GB  
+Monthly Anytime Minutes  Unlimited  
+Domestic and International Messaging3 Unlimited  
+Notes:   Current coverage details and additional plan information can be found at www.verizonwireless.com .  Coverage includes 
+the Verizon Wireless 5G Nationwide ® network , 4G network; and the 3G and 3G Extended networks, while available. For 
+avoidance of doubt, Verizons 5G Nationwide® network is a separate network from Verizons 5G Ultra Wideband network.  
+Usag e outside of the United States will be billed at the international travel feature rate, if applicable, or pay as you go prici ng, 
+which can be found at www.verizonwireless.com/international .  Line s activating on these plans must be on 5G Nationwide or 
+4G HD voice -capable smartphones, except that existing lines on 3G smartphones may change to these plans while 3G service 
+is available.  
+*Lines that are no longer under a Line Term, purchase Equipment via a device installment plan, or purchase Equipment at full 
+retail price, and activate on, or change to, these plans will receive a $7.50 discount off of the monthly access fee. Custome r 
+may request the $7.50 discount on lines that complete their Line Term s while on these plans, which will require verification by 
+Verizon Wireless. The $7.50 discount will remain on qualifying lines of service until Customer either upgrades to a discounte d 
+device or takes advantage of an offer or promotion that requires a Lin e Term.  
+1Retroactive Credit: Customers Corporate Subscribers will initially qualify for the monthly access fees associated with the 
+1,100 -1,599 line tier above.  Provided Customer activates a minimum of 500 net new Corporate Subscriber lines within the  
+first 90 days from the Effective Date of Amendment No. 5, Verizon Wireless will apply a retroactive credit, for each Corporate Subscriber line on this plan to Customers account in an amount equal to the difference between the monthly access fee on 
+the in itial tier indicated above and the monthly access fee of the line tier Customer qualifies for, if higher, during the 90 -day 
+period.  Net new is determined by the number of new Corporate Subscriber lines activated less any Corporate Subscriber 
+lines terminated during the 90- day offer period. Provided Customer meets the requirements, Verizon Wireless will apply the 
+credit to each new qualifying Corporate Subscribers individual line, within two billing cycles and will appear as Other Cha rges 
+and Credits.  Lines that are suspended with billing, suspended without billing or disconnected will not be eligible for this credit.  
+If at any time Customer exceeds the highest number in the range in the line tiers above, upon written notice from Customer, Verizon Wireless will change the monthly access fee based on Customers total number of Corporate Subscriber lines.  If at any 
+time Customer falls below the lowest number in the range in the line tiers above, Verizon Wireless will change the monthly 
+access fee based o n Customers total number of Corporate Subscriber lines, following 30 days notice to Customer.  
+2Mobile Hotspot is available on all capable devices and allows a line to share its data allowance with multiple Wi -Fi enabled 
+devices. 3Unlimited messaging from within the United States to anywhere in the world where messaging services are available.  
+Data Sharing:  Lines on the same billing account on custom share plans with the same data overage rate can share data.  At the 
+end of each billing cycle, any unuse d data allowances will be applied to the overages of other lines, beginning with the line with 
+the lowest overage.   
+March 31, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ Custom Unlimited Business Plan for Smartphones  
+Corporate Subscribers Only  
+This plan is NOT eligible for monthly access fee discounts.  
+Monthly Access Fee with Business Email*  $54.00  
+Data Allowance1 Unlimited 
+Mobile Hotspot2 Unlimited  
+Monthly Anytime Minutes  Unlimited  
+Domestic, Canada & Mexico Long Distance Toll Free3 Included  
+Domestic and International Messaging Allowance4 Unlimited  
+Notes :  Current coverage details and additional plan information can be found at www.verizonwireless.com .  No domestic 
+roaming or long distance charges.  Coverage includes the Verizon Wireless 5G Nationwide ® network, 4G network; and the 3G 
+and 3G Extended networks, while available. For avoidance of doubt, Verizons 5G Nationwide® network is a separate networ k 
+from Verizons 5G Ultra Wideband network.   Usage outside of the United States will be billed at the international travel feature 
+rate, if applicable, or pay as you go pricing, which can be found at www.verizonwireless.com/international .  Lines activating on 
+this plan must be on 5G Nationwide or 4G HD voice -capable smartphones.  
+*Lines that are no longer under a Line Term, purchase Equipment via a device installment plan, or purchase Equipment at  full 
+retail price, and activate on, or change to, these plans will receive a $7.50 discount off of the monthly access fee. Custome r 
+may request the $7.50 discount on lines that complete their Line Terms while on these plans, which will require verificatio n by 
+Verizon Wireless. The $7.50 discount will remain on qualifying lines of service until Customer either upgrades to a discounte d 
+device or takes advantage of an offer or promotion that requires a Line Term.  
+1After 22 GB of data usage on a line during any billing cycle, usage may be prioritized behind other customers in the event of 
+network congestion.  To ensure users are able to maximize their high -speed data use for business applications, video 
+applications will stream at up to 480p.  
+2Mobile Hotspot is  available on all capable devices and allows the line to share data allowance with multiple Wi- Fi enabled 
+devices.   If 10 GB of Mobile Hotspot data usage is exceeded on any line in any given billing cycle, Verizon Wireless will limit the 
+data throughput sp eeds to up to 200 Kbps for additional usage for the remainder of the then -current billing cycle for the line 
+that exceeds the data usage.  
+3Includes domestic toll free calling and toll free calling from the United States to Canada and Mexico.  
+4Unlimited messaging from within the United States to anywhere in the world where messaging services are available.  For 
+other messaging rates go to www.verizonwireless.com . 
+Data Throughput Limitation (DTL)  Feature:   This feature can be added to a Corporate Subscriber line activated on a plan with 
+a capped data allowance to limit the data throughput on such line.  If either 25 GB, 75 GB or 100 GB  of domestic data usage is 
+exceeded on the line in any given bi lling cycle, Verizon Wireless will limit the data throughput speeds of the line to up to 600 
+kbps for additional usage for the remainder of the then -current billing cycle.   This feature can be added to or removed from a 
+Corporate Subscriber line at Custome rs discretion.   
+Custom Mobile Broadband Data Share Plans  
+Corporate Subscribers Only  
+This plan is NOT eligible for monthly access fee discounts.1 
+Monthly Access Fee  $27.00  
+Data Allowance (with Sharing)  3 GB  
+Data Overage Rate  $10.00 per GB  
+Notes: Current coverage details and additional plan information can be found at www.verizonwireless.com .  Coverage includes 
+the Verizon Wireless 5G Nationwide ® network , 4G network; and the 3G and 3G Extended networks, while available . For 
+avoidance of doubt, Verizons 5G Nationwide® network is a separate network from Verizons 5G Ultra Wideband network.  
+Usage outside of the United States will be billed at the international travel feature rate, if applicable, or pay as you go p ricing,  
+which can be found at www.verizonwireless.com/international .  Lines activating on these plans must be on 5G Nationwide or 
+4G data devices, such as connected devices, USBs, tablets, notebooks, jetpacks, etc., as indicated above, except that existing 
+lines on 3G data devices may change to these plans while 3G service is available.  
+Data Sharing:  Lines on the same billing account on custom share plans with the same data overage rate can share data.  At the 
+end of each billing cycle, any unused data allowances will be applied to the overages of other lines, beginning with the line  with 
+the lowest overage.   
+March 31, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ Custom Mobile Broadband Data Share Plans for Tablets  
+Corporate Subscribers Only  
+This plan is NOT eligible for monthly access fee discounts.  
+Monthly Access Fee  $10.00  
+Data Allowance (with Sharing)  250 MB  
+Data Overage Rate  $10.00 per GB  
+Notes: Current coverage details and additional plan information can be found at www.verizonwireless.com .  Coverage includes 
+the Verizon Wireless 5G Nationwide ® network , 4G network; and the 3G and 3G Extended networks , while available. For 
+avoidance of doubt, Verizons 5G Nationwide® network is a separate network from Verizons 5G Ultra Wideband network.  
+Usage outside of the United States will be billed at the international travel feature rate, if applicable, or pay as you go pricing, 
+which can be found at www.verizonwireless.com/international .  Lines activating on these plans must be on 5G Nationwide or 
+4G tablets, except that existing lines on 3G tablets may change to these plans while 3G service is available.  
+Data Sharing:  Lines on the same billing account on custom share plans with the same data overage rate can share data.  At the 
+end of each billing cycle, any unused data allowances will be applied to the overages of other lines, beginning with the line with 
+the lowest overage.   
+Custom  Business TravelPass Feature1 
+Corporate Subscribers Only  
+Rates are not eligible for discounts.  
+Canada and Mexico Daily Rate2 $0.00  
+Rest of World Daily Rate2,3 $10.00  
+Non -Travel Pass Countries4 Pay As You Go Rates  
+Notes :  1This f eature requires a 4G or 5G World Device.  2The daily rate covers a 24 -hour time period.  3For eligible countries, 
+4non- TravelPass country rates and additional information, go to www.verizonwireless.com/international . For voice -capable 
+devices, this feature may be added to plans that have an unlimited voice and messaging allowance and an unlimited or capped 
+data allowance using the account share option.  For data- only devices, this feature may be added to lines that have an unlimited 
+or capped data allowance using the account share option.  For data usage in Canada and Mexico and all Rest of World TravelPas s 
+countries, after the first 512 MB of usage in a day, throughput speeds for additional usage will be reduced for the remainder 
+of the day.  All data usage decrements from the domestic data allowance when added to a capped allowance plan.   
+Verizon  Wireless will terminate a line if more than half of the usage over three consecutive billing cycles is outside of the United 
+States, following 30 days notice to Customer .   
+This feature can only be added to lines activated on the following plans: Custom Business Unlimited Voice and Messaging Plans  
+with Shared Business Email and Mobile Hotspot, Custom Unlimited Business Plan  for Smartphones, Custom Mobile Broadband 
+Data Share Plans, and Custom Mobile Broadband Data Share Plans for Tablets.  
+Custom 4G Machine -to-Machine Share Plans*  
+This plan is NOT eligible for monthly access fee discounts.  
+Monthly Access Fee   Shared Data Allowance  Data Overage Rate  
+$10.00  250 MB  
+$0.015 per MB  $20.00  1 GB  
+$37.00  5GB 
+$60.00  10GB  
+Note:  Machine -to-machine coverage includes the Verizon Wireless 4G network; and the 3G and 3G Extended networks, while 
+available . Usage outside of the United States will be billed at the international travel feature rate, if applicable, or pay as you 
+go pricing, which can be found at  www.verizonwireless.com/international .  Current data coverage details and additional plan 
+information can be found at www.verizonwireless.com .  Only Customer-provided, 4G -capable machine -to-machine devices 
+may  be activated on this plan.   
+*Customer must maintain a minimum of five hundred (500) M2M lines of service in order to qualify for these plans; otherwise, Verizon Wireless reserves the right to cease offering this custom pricing to new activations, and reserves the right to migrate 
+existing lines to then current generally available M2M plans.  
+Data Sharing:  Sharing among M2M Lines is available only among M2M Lines active on this plan.  At the end of each billing 
+cycle, any unused data allowances for lines sharing on the same account will be applied to the overages of the other lines on 
+the same account beginning with the line with the lowest overage need.   
+March 31, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+LTE Business Internet 10 Mbps Speed Tier Machine -to-Machine Plans*  
+These plans are not eligible for monthly access fee discounts.  
+Monthly Access Fee1 $70.00  $90.00  $140.00  $190.00  
+Speed Tier Limit (Up to)2 10 Mbps  10 Mbps  10 Mbps  10 Mbps  
+Data Deprioritization Threshold3 25 GB  50 GB  100 GB  150 GB  
+Data Throughput Limit Threshold4 50 GB  100 GB  200 GB  300 GB  
+Throttled Speed (Up to)  600 Kbps  600 Kbps  600 Kbps  600 Kbps  
+Notes: Current coverage details and additional plan information can be found at www.verizonwireless.com . These plans are 
+restricted to the Verizon Wireless 4G network (domestic and international roaming are not available). Only select Customer-
+provided 4G data routers can be activated on these plans.  
+1The monthly access fee will not be pro -rated when moving to a higher speed tier plan during a billing cycle (the higher access 
+fee will be billed); a line cannot move to a lower speed tier during a billing cycle.  
+2Speeds represent the maximum speed but ma y be lower in the event of network congestion. 
+3After the data deprioritization threshold is met on a line during any billing cycle, usage may be prioritized behind other 
+customers in the event of network congestion.   
+4If the data throughput limit threshold is exceeded on any line in any given billing cycle, Verizon Wireless will limit the data 
+throughput speeds for additional usage for the remainder of the then -current billing cycle for the line that exceeds the data 
+usage to the applicable throttled spee d. 
+Voice calls cannot be placed or received on these plans other than to 611 or 911 (these calls may be placed anywhere in the 
+Nationwide Rate and Coverage Area).  If the voice block feature is removed, there will be a $0.25 per minute charge for voice 
+calls. 
+Text messages cannot be sent or received on these plans.  If the text message block feature is removed, there will be a $0.20  
+per message charge for messages sent or received.  
+These plans can be used for point-of-sale, mobile terminal, and business productivity applications.   Prohibited applications 
+include, but are not limited to, continuously streaming video, web hosting, and public/guest Wi -Fi systems.  
+*These plans are for machine -to-machine service (M2M Service). M2M Service refers to use of the Wireless Service for the 
+transmission of data between wireless devices and computer servers or other machines, or between wireless devices, with 
+limited or no manual intervention or supervision.  
+March 31, 2021   Verizon Wireless: 2181465AM20200122.1 
+ VERIZON WIRELESS CONFIDENTIAL  
+ LTE Business Internet 50 Mbps Speed Tier Machine -to-Machine Plans*  
+These plans are not eligible for monthly access fee discounts.  
+Monthly Access Fee1 $80.00  $100.00  $150.00  $200.00  
+Speed Tier Limit (Up to)2 50 Mbps  50 Mbps  50 Mbps  50 Mbps  
+Data Deprioritization Threshold3 25 GB  50 GB 100 GB  150 GB  
+Data Throughput Limit Threshold4 50 GB  100 GB  200 GB  300 GB  
+Throttled Speed (Up to)  600 Kbps  600 Kbps  600 Kbps  600 Kbps  
+Notes: Current coverage details and additional plan information can be found at www.verizonwireless.com . These plans are 
+restricted to the Verizon Wireless 4G network (domestic and international roaming are not available). Only select Customer-
+provided 4G data routers can be activated on these plans.  
+1The monthly access fee will not be pro -rated when moving to a higher speed tier plan during a billing cycle (the  higher access 
+fee will be billed); a line cannot move to a lower speed tier during a billing cycle.  
+2Speeds represent the maximum speed but may be lower in the event of network congestion. 
+3After the data deprioritization threshold is met on a line durin g any billing cycle, usage may be prioritized behind other 
+customers in the event of network congestion.   
+4If the data throughput limit threshold is exceeded on any line in any given billing cycle, Verizon Wireless will limit the da ta 
+throughput speeds fo r additional usage for the remainder of the then -current billing cycle for the line that exceeds the data 
+usage to the applicable throttled speed.  
+Voice calls cannot be placed or received on these plans other than to 611 or 911 (these calls may be placed anywhere in the 
+Nationwide Rate and Coverage Area).  If the voice block feature is removed, there will be a $0.25 per minute charge for voice 
+calls.  
+Text messages cannot be sent or received on these plans.  If the text message block feature is removed, ther e will be a $0.20 
+per message charge for messages sent or received.  
+These plans can be used for point-of-sale, mobile terminal, and business productivity applications.   Prohibited applications 
+include, but are not limited to, continuously streaming video, web hosting, and public/guest Wi -Fi systems. These plans cannot 
+be utilized in conjunction with a Verizon Mobile Private Network.  
+*These plans are for machine -to-machine service (M2M Service). M2M Service refers to use of the Wireless Service for the 
+transmission of data between wireless devices and computer servers or other machines, or between wireless devices, with 
+limited or no manual intervention or supervision.

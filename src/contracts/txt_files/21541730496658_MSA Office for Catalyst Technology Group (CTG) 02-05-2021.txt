@@ -1,0 +1,281 @@
+1/6 1. Provision of Terms
+ A.     General Terms
+The purchase, provision, and use of the Services is subject to the terms
+contained in this Agreement, the Order Forms, the Online Terms of
+Services, included at (the  https://www.ringcentral.com/legal/eulatos.html
+), and the Service Attachments applicable to Online Terms of Service
+Customers Services. All these documents are hereby incorporated into
+and form a part of this Agreement. RingCentral may update the Online
+Terms of Services from time to time, and will provide notice to Customer at
+the email address on file with the Account. Such updates will become
+effective thirty (30) days after such notice to Customer.
+ terms not defined in this Agreement have the meaning given to Capitalized
+them in the Online Terms of Service.
+ 2. Ordering and Term
+ A.     Ordering Services
+Customer may order the Services set forth in the relevant Attachments,
+attached hereto, by executing an Order Form in the format provided by
+RingCentral. Customer must submit the Order Form to RingCentral either
+in writing or electronically via the Administrative Portal. The Order Form
+will identify the Services requested by Customer together with: (i) the price
+for each Service; (ii) scheduled Start Date; (iii) and products rented,
+licensed or sold to Customer, if any. An Order Form will become binding
+when it is executed by the Customer and accepted by RingCentral.
+RingCentral may accept an Order Form by commencing performance of
+the requested Services. The Services and invoicing for those Services will
+begin on the Start Date, as identified in the applicable Order Form or on
+the day Services are ordered via the Administrative Portal. Customer may
+purchase additional Services, software, and equipment via the
+Administrative Portal or by executing additional Order Forms.
+ B.     Term of this Agreement
+The Term of this Agreement will commence on the Effective Date and
+continue until the last Order Form is terminated or expires, unless
+terminated earlier in accordance with its terms.
+ C.     Services Term
+The Services Term will begin on the Start Date of the initial Order Form
+and continue for the initial term set forth in the initial Order Form ( Initial
+). Upon expiration of the Initial Term, unless otherwise set forth inTerm
+the Order Form, recurring Services will automatically renew for successive
+periods as set forth in the initial Order Form (each a  ) Renewal Term
+unless either Party gives notice of non-renewal at least thirty (30) days
+before the expiration of the Initial Term or the then-current Renewal Term.
+The term of any recurring Services added to your Account after the initial
+Order Form is executed will start on the Start Date in the applicable Order
+Form, will run coterminously with the then-current Term of any preexisting
+Services unless otherwise extended in the applicable Order Form, and will
+be invoiced on the same billing cycles as the preexisting Services.MASTER SERVICES AGREEMENT
+ (together with its Attachments, the ) is made by and between THIS MASTER SERVICES AGREEMENT Agreement RingCentral, Inc., a Delaware
+ , ( ), and , located at the corporation with its primary office at 20 Davis Drive, Belmont, CA 94002 RingCentral Catalyst Technology Group (CTG)
+address set forth in the Order Form ( ). RingCentral and Customer may be individually referred to as a  or collectively as the Customer Party
+. This Agreement is effective as of the last date of signature below ( . Parties Effective Date)
+ D.     Service Attachments
+In addition to the Service Attachments referenced in the Online Terms of
+Services, the Parties may agree to add additional Service Attachments
+to this Agreement.
+Service Attachment A: Office Services
+ 3. Invoicing and Payment
+ A.     Prices and Charges
+All prices are identified in  on the Administrative Portal or in US dollars
+the applicable Order Form unless otherwise agreed by the Parties.
+Additional charges may result if Customer activates additional features,
+exceeds usage thresholds, or purchases additional Services or
+equipment. Customer will be liable for all charges resulting from use of
+the Services on its Account.
+Unless otherwise agreed between the Parties, recurring charges for the
+Services begin on the Start Date identified in the Administrative Portal or
+in the applicable Order Form, and will continue for the Term. Recurring
+charges (such as charges for Digital Lines, product licenses, minute
+bundles, and equipment rental fees) will, unless otherwise agreed
+between the Parties, once incurred, remain in effect for the then-current
+Term. RingCentral will provide notice of any proposed increase in such
+charges no later than sixty (60) days before the end of the Initial Term or
+then-current Renewal Term, and any such increase will be effective on
+the first day of the next Renewal Term.
+Administrative Fees that RingCentral is entitled to pass on to its
+customers as a surcharge pursuant to applicable Law may be increased
+on thirty (30) days written notice.
+Outbound calling rates will be applied based on the rate then in effect at
+the time of use. Customer may locate the currently effective rates in the
+Administrative Portal.
+ B.     Invoicing and Payment
+Invoices will be issued in accordance with the payment terms set forth in
+the Order Form. If Customer chooses to pay by credit or debit card, by
+providing a valid credit or debit card, Customer is expressly  authorizing
+all Services and equipment charges and fees to be charged to such
+payment card, including recurring payments billed on a monthly or
+annual basis. In addition, Customers provided credit card shall be used
+for any in month purchases of additional services and products, or
+where Customer has exceeded usage or threshold limits, any overage
+charges.
+2/6Unless otherwise stated in the applicable Order Form, recurring charges
+are billed in advance in the frequency set forth in the Order Form, and
+usage-based and onetime charges are billed monthly in arrears. Customer
+shall make payment in full, without deduction or set-off, within thirty (30)
+days of the invoice date. Any payment not made when due may be subject
+to a late payment fee equivalent to the lesser of (i) one and a half percent
+(1.5%) per month or (ii) if applicable, the highest rate allowed by Law. In
+no event may payment be subject to delays due to Customer internal
+purchase order process.
+ C.     Taxes
+All rates, fees, and charges are exclusive of applicable Taxes, for which
+Customer is solely responsible. Taxes may vary based on jurisdiction and
+the Services provided. If any withholding tax is levied on the payments,
+then Customer must increase the sums paid to RingCentral so that the
+amount received by RingCentral after the withholding tax is deducted is
+the full amount RingCentral would have received if no withholding or
+deduction had been made. If Customer is a tax-exempt entity, tax
+exemption will take effect upon provision to and validation by RingCentral
+of certificate of tax exemption.
+ 4. Termination
+ A.     Termination for Cause
+Either Party may terminate this Agreement and any Services purchased
+hereunder in whole or part by giving written notice to the other Party: i) if
+the other Party breaches any material term of this Agreement and fails to
+cure such breach within thirty (30) days after receipt of such notice; ii) at
+the written recommendation of a government or regulatory agency
+following a change in either applicable Law or the Services; or iii) upon the
+commencement by or against the other Party of insolvency, receivership
+or bankruptcy proceedings or any other proceedings or an assignment for
+the benefit of creditors.
+ B.     Effect of Termination
+If Customer terminates the Services, a portion of the Services, or this
+Agreement in its entirety due to RingCentrals material breach under
+Section 4(A), Customer will not owe any fees or charges for the Services
+in respect of any period subsequent to the date of such written notice
+(except those arising from continued usage before the cancelled Services
+are disconnected), and will be entitled to a pro-rata refund of any prepaid
+and unused fees for the cancelled Services being terminated.
+If this Agreement or any Services are terminated for any reason other than
+as a result of a material breach by RingCentral or as otherwise permitted
+pursuant to Section 4(A), the Customer must, to the extent permitted by
+applicable Law and without limiting any other right or remedy of
+RingCentral, pay within thirty (30) days of such termination all amounts
+that have accrued prior to such termination, as well as all sums remaining
+unpaid for the Services for the remainder of the then-current Term plus
+related Taxes and fees. C.     Trial Period
+In addition to the above, Customer may cancel any Services purchased
+under this Agreement with written notice to RingCentral within thirty (30)
+days of the date in which the purchase becomes effective. Except as
+otherwise provided in the Agreement between the Parties, in the event
+of a timely cancelation, Customer shall not owe any fees or charges for
+the Services being canceled in respect of any period subsequent to the
+date of such written notice (except those arising from continued Usage),
+and shall be entitled to a pro-rata refund of any prepaid and unused fees
+for the Services subject to the  . All purchases are final after  cancelation
+30 days.
+ 5. Miscellaneous
+ A.      Entire Agreement
+The Agreement, together with any exhibits, Order Forms, and
+Attachments, each of which is expressly incorporated into this
+Agreement with this reference, constitutes the entire agreement
+between the Parties and supersedes and replaces any and all prior or
+contemporaneous understandings, proposals, representations,
+marketing materials, statements, or agreements, whether oral, written,
+or otherwise, regarding such subject.
+ B.     Order of Precedence
+In the event of a conflict between these documents, the following shall
+have precedence in interpretation: (a) the applicable Order Form, (b)
+any applicable Service Attachments, (c) this Master Services
+Agreement, and (d) the Online Terms of Service.
+ C.     Execution
+Each Party represents and warrants that: (a) it possesses the legal right
+and capacity to enter into the Agreement and to perform all of its
+obligations thereunder; (b) the individual signing the Agreement and
+(each executable part thereof) on that Partys behalf has full power and
+authority to execute and deliver the same; and (c) the Agreement will be
+a binding obligation of that Party. Each Party agrees that an Electronic
+Signature, whether digital or encrypted, is intended to authenticate this
+Agreement and to have the same force and effect as manual signatures.
+ D.     Counterparts
+This Agreement may be executed electronically and in separate
+counterparts each of which when taken together will constitute one in
+the same original.
+3/6
+ the Parties have executed this Agreement below through their duly  representatives. IN WITNESS WHEREOF, authorized
+Catalyst Technology Group (CTG) RingCentral, Inc.
+By: \s1\ By:
+Name: \n1\ Name: Carson Hostetter
+Title: \t1\ Title: SVP, Field Sales
+Date: \d1\ Date: \d1\
+Managing Partner 
+2/5/2021Michael Watson
+2/5/2021
+4/6SERVICE ATTACHMENT A
+SERVICE ATTACHMENT – RINGCENTRAL OFFICE SERVICES
+This Service Attachment is a part of the Master Services Agreement (the ) that includes the terms and conditions agreed by the Parties Agreement
+under which RingCentral will provide to the Customer the RingCentral Office Services as described under the applicable Order Form.
+1.Service Overview
+RingCentral Office is a cloud-based unified communications service that includes enterprise-class voice, fax, text, call handling, mobile apps, and
+BYOD capability that integrates with a growing list of applications.
+RingCentral Office includes
+ •      Voice Services, including extension-to-extension calling and the ability to make and receive calls to and from the public switched
+telephone network (PSTN) 
+ •      Video and audio-conferencing service, including screen sharing
+ •      Collaboration Tools, including One-to-One and Team Chat, File Sharing, task management, SMS/Texting (where available) and other
+innovative tools
+RingCentral Office Services may be accessed from a variety of user End Points, including IP Desk Phones, Desktop Clients, Web Clients, Mobile
+Applications, and Software Integrations.
+2.Office Purchase Plans
+ A.    Tiers of Service
+RingCentral Office is made available in several pricing tiers, which are described more fully at https://www.ringcentral.com/office/plansandpricing.html
+While RingCentral offers unlimited monthly plans for some of its products and services, RingCentral Services are intended for regular business use.
+"Unlimited" use does not permit any use otherwise prohibited by the Acceptable Use Policy, available at 
+ , including trunking, access stimulation, reselling of the Services, etc. https://www.ringcentral.com/legal/acceptable-use-policy.html
+ B.    Minute and Calling Credit Bundles.
+Minute Bundles, e.g., Toll Free Minute Bundles, can be purchased in incremental buckets of minute in addition to any number of minutes included
+with the purchased tier. Inbound minutes are deducted from included minutes, purchased Minute Bundles, or charged as overage at the Toll-Free 
+rates currently in effect.
+International Calling Credit Bundles can be purchased in addition to any base amount included with the purchased tier.
+International External Calls are charged against Calling Credits on the Account per destination rates, or as overage once Calling Credits are
+exceeded. Currently effective rates are available at . https://www.ringcentral.com/support/international-rates.html
+Extension-to-Extension Calls within the Customer account never incur any usage fee and are unlimited, except to the extent that such calls are
+forwarded to another number that is not on the Customer account.
+Additional Calling Credits may be purchased through the Auto-Purchase feature, which can be selected for automatic purchase in various increments
+on the Administrative Portal. Auto-Purchase is triggered when the combined usage of all End Users on an Account exceeds the total Calling Credits
+or when End Users make calls with additional fees  . (e.g., 411)
+Minute Bundles and Calling Credit Bundles expire at the end of month and cannot roll over to the following month. Auto-Purchased Calling Credits
+expire twelve (12) months from date of purchase. Bundles may not be sold, transferred, assigned, or applied to any other customer.
+ 3.Operator Assisted Calling, 311, 511 and other N11 Calling.
+RingCentral does not support 0+ or operator assisted calling (including, without limitation, collect calls, third party billing calls, 900, or calling card
+calls). The Services may not support 211, 311, 411, 511 and/or N11 calling in one or more service areas. Additional charges may apply for these
+calls.
+5/64.Directory Listing Service
+RingCentral offers directory listing (the Directory Listing Service). If Customer subscribes to the Directory Listing Service, RingCentral will share
+certain Customer Contact Data with third parties as reasonably necessary to include in the phone directory (Listing Information). This information
+may include, but is not limited to, Customers company name, address, and phone numbers. Customer  RingCentral to use and disclose authorizes
+the Listing Information for the purpose of publishing in, and making publicly available through, third-party directory listing services, to be selected by
+RingCentral or third-party service providers in their sole discretion. Customer acknowledges and agrees that by subscribing to the Directory Listing
+Service, Customers Listing Information may enter the public domain and that RingCentral cannot control third parties use of such information
+obtained through the Directory Listing Service.
+Opt Out.i.  Customer may opt out of the Directory Listing Service at any time, however RingCentral is not obligated to have Customers Listing
+Information removed from third-party directory assistance listing services that have already received Customers information.
+No Liability.ii.  RingCentral will have no responsibility or liability for any cost, damages, liabilities, or inconvenience caused by calls made to
+Customers telephone number; materials sent to Customer, inaccuracies, errors or omissions with Listing Information; or any other use of such
+information. RingCentral will not be liable to Customer for any use by third parties of Customers Listing Information obtained through the Directory
+Listing Service, including without limitation the use of such information after Customer has opted out of the Directory Listing Service.
+5.RingCentral Global Office
+RingCentral Global Office provides a single communications system to companies that have offices around the world, offering  service in localized
+countries for which Global Office is available. Additional information related to Global Office Services is available at 
+ . http://www.ringcentral.com/legal/policies/global-office-countries.html
+This section sets forth additional terms and conditions concerning RingCentrals Global Office for customers that subscribe to it.
+ A.    Emergency Service Limitations for Global Office.
+RingCentral provides access to Emergency Calling Services in many, but not all, countries in which RingCentral Global Office is available, allowing
+End Users in most countries to access Emergency Services (911 in the United States and Canada, 999/112 in the United Kingdom and throughout
+the European Union, and any other applicable Emergency Services number). Emergency Services may only be accessed within the country in which
+the Digital Line is assigned, e.g., an End User with a Digital Line assigned in Ireland may dial Emergency Services only within Ireland. Access to
+Emergency Calling Services in RingCentral Global Office countries, where available, is subject to the Emergency Services Policy, available at 
+ . Customer must make available and will maintain at all times traditional landline and/or https://www.ringcentral.com/legal/emergency-services.html
+mobile network telephone services that will enable End Users to call the applicable Emergency Services number. Customer may not use the
+RingCentral Services in environments requiring fail-safe performance or in which the failure of the RingCentral Services could lead directly to death,
+personal injury, or severe physical or environmental damage.
+ B.    Global Office Provided Only in Connection with Home Country Service.
+RingCentral provides Global Office Service only in connection with Services purchased in the Home Country. RingCentral may immediately suspend
+or terminate Customers Global Office Services if Customer terminates its Digital Lines in the Home Country. All invoicing for the Global Office
+Services will be done in the Home Country on the Customers Account, together with other Services purchased under this Agreement, using the
+Home Countrys currency. Customer must at all times provide a billing address located in the Home Country. RingCentral will provide all
+documentation,  , and services in connection with the Global Office Service in English; additional language support may be provided atlicenses
+RingCentrals sole discretion.
+RingCentral will provide all documentation, licenses, and services in connection with the Global Office Service in English; additional language support
+may be provided at RingCentrals sole discretion.
+ C.    Relationships with Local Providers.
+In connection with the provision of RingCentral Global Office Services, RingCentral relies on local providers to supply certain regulated
+communication services; for example (i) for the provision of local telephone numbers within local jurisdictions; (ii) to enable you to place local calls
+within local jurisdictions; and (iii) to enable You to receive calls from non-RingCentral numbers on Customers Global Office telephone number(s), by
+connecting with the local public switched telephone network.
+RingCentrals locally  affiliates provide all telecommunications services offered to Customer within the countries in which such affiliates are licensed
+ ; in some cases, RingCentral may obtain services from locally  providers on Customers behalf.  is responsible for all licensed licensed RingCentral Inc.
+contracting, billing, and customer care related to those services.
+6/66.Definitions.
+Terms used herein but not otherwise defined have the meanings ascribed to them in the Agreement. For purposes of this Service Attachment, the
+following terms have the meanings set forth below:
+ A.  means a phone number assigned to an End User or a specifically designated location (e.g., conference room) and the    Digital Line
+associated voice service for inbound and outbound calling that permits the End User generally to make and receive calls to and from
+the public switched telephone network as well as to and from other extensions within the same Account.
+ B.  means an application or device through which any End-User might access and/or use any of the Services, including    End Point
+without limitation IP Desk Phones, Desktop Clients, Web Clients, Mobile Applications, and Software Integrations.
+ C.  means calls made and received between End Points on the Customer Account with RingCentral,    Extension-to-Extension Calls
+regardless of whether the calls are domestic or international.
+ D.  means calls made to or received from external numbers on the PSTN that are not on the Customer Account with    External Calls
+RingCentral.
+ E.  means  or the country that is otherwise designated as Customers primary or home country in the    Home Country the United States
+Order Form.

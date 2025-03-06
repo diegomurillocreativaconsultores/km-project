@@ -1,0 +1,23 @@
+{
+  "Agreement Name": "Addendum to Master Services Agreement",
+  "Agreement Classification": "Addendum",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "Distributed Computing, Inc. dba Ten4",
+  "Party1 Role": "provider",
+  "Party2 Name": "Tipco Technologies, Inc.",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified",
+  "Signature Date": "Not specified",
+  "Term": "thirty-six (36) months",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "$267.90",
+  "Nonrecurring Charges": "$1,424.00",
+  "Services": [
+    "HOSTED VOICE & FAX SOLUTIONS",
+    "SIERRA WIRELESS FIXED CELLULAR (INTERNET ACCESS)"
+  ],
+  "Locations": "715 Ordnance Road, Baltimore, MD 21226",
+  "Payment Terms": "Invoices are payable monthly in advance at the beginning of each month, due net thirty (30) days from the date of the invoice.",
+  "effective_date": "04/23/2020",
+  "signature_date": "Not specified"
+}

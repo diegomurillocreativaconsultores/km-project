@@ -1,0 +1,20 @@
+{
+  "Agreement Name": "Master Service Agreement",
+  "Agreement Classification": "Master Service Agreement",
+  "Agreement Purpose": "service provisioning",
+  "Party1 Name": "NITEL INC.",
+  "Party1 Role": "provider",
+  "Party2 Name": "Concentra Health Services, Inc.",
+  "Party2 Role": "customer",
+  "Effective Date": "Not specified",
+  "Signature Date": "Jan 14, 2022",
+  "Term": "Not specified",
+  "Renewal Term": "month-to-month",
+  "Recurring Monthly Charges": "Not specified",
+  "Nonrecurring Charges": "Not specified",
+  "Services": "communications services",
+  "Locations": "Not specified",
+  "Payment Terms": "Invoices are delivered monthly and payment is due 30 days after the invoice date.",
+  "effective_date": "01/14/2022",
+  "signature_date": "01/14/2022"
+}

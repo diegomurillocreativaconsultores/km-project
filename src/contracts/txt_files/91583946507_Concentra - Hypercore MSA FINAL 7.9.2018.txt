@@ -1,0 +1,344 @@
+Version  v1 
+HYPERCORE  NETWORKS , INC. PROPRIETARY  AND CONFIDENTIAL  – DO NOT DISTRIBUTE  
+Page 1 
+TERMS AND CONDITIONS  
+1. Service Agreement  
+a. These Terms and Conditions (Terms and Conditions) are  made by and between, Hypercore Networks, Inc. (HCN) 
+and Concentra Health Services , Inc. a Nevada  Corporation, having an address of 5080 Spectrum Drive, 1200W , Addison , 
+TX, 75001 , for the benefit of itself and its subsidiaries, affiliates, joint ventures, partnerships, managed and contracted 
+entities hereinafter referred to collectively as,  (You or Customer).  The following Terms and Conditions are incorporated 
+into the signed Agreement between You and HCN that refers to these Terms and Conditions. These Terms and Co nditions 
+with the signed Agreement constitute a legal document upon the date that these Terms and Conditions are  executed 
+(Effective Date) that details your rights and obligations as a customer of HCN.  
+b. Please review these Terms and Conditions. By signing the one page contract referencing these terms, You agree to be 
+bound by the Terms and Conditions set forth in this document. Moreover, these Terms and Conditions supersede any and 
+all written alterations to th e one page contract referencing these terms unless such suggested alterations are specifically 
+initialed by an authorized HCN representative.  
+c. If HCN makes a change to these Terms and Conditions  that has a materia l impact on the Service, You will be provided 
+notice of that change. Your continued use of the Service for thirty (30) days following such notice constitutes Your 
+acceptance of those changes.  
+2. HCN Broadband  
+a. Customer understands and agrees that HCN will con tract with one (1) or more partners to provide services to 
+Customer. Customer s broadband Agreement is with HCN, and HCN has the discretion to determine the best means to 
+obtain and/or modify the underlying service inputs to provide such broadband to Customer . Moreover, HCN may assign its 
+rights and obligations to third parties without Customer s consent. However, HCN shall provide notice of any such 
+assignment.  
+b. Operational Limits. Provisioning of the Service is subject to the availability and the oper ational limitations of the 
+requisite equipment and associated facilities. You understand and agree that temporary interruptions of the Service may 
+occur as normal events in the provisioning of the Service and that HCN is not liable for such interruptions. You further 
+understand and agree that HCN has no control over third party networks You may access in the course of Your use of the 
+Service , and therefore, delays and disruptions of other network transmissions are, beyond the control of HCN. Moreover, 
+Custo mer understands and agrees that HCN s obligation  is to use its best efforts to fulfill Customer s Agreement. Should 
+network or commercial limitations prevent HCN from such fulfillment, Customer does not have any claim for damages, 
+whether actual, consequen tial, reliance or otherwise, against HCN.  
+c. Installation Limits and the MPOE. Installation of a circuit is guaranteed only to the  MPOE (Minimum Point of Entry) as 
+determined by the local Telephone Company or ILEC (Incumbent Local Exchange Carrier). Customer  understands and 
+agrees that HCN has no control over the designation of the MPOE and  You agree  to assume additional costs for Demarc 
+Extensions unless specifically outlined otherwise in the contract for services.  
+d. Customer agrees to provide HCN and it s subcontractors reasonable access to its premises in order to install, maintain 
+and repair broadband to Customer. Customer will be responsible for payment of service charges for visits by HCN or its 
+subcontractors to Customer s premises when a service re quest results from causes not attributable to HCN or its 
+subcontractors.  
+e. HCN may charge Customer an average rate for taxes and fees based on HCN payment of taxes and fees on average 
+across its network either directly to state, federal or local authorities  or through wholesale service agreements via its 
+carriers.  
+f. HCN will charge Customer a Regulatory Recovery Fee which is a fee authorized by the FCC to be charged to cover a 
+carriers  costs to comply with regulatory requirements for licensing, reporting and  filing with the government agencies.  
+The Regulatory Recovery Fee will be set at the beginning of each year by HCN. Customer agrees to HCN s calculation of the 
+regulatory recovery fee in using HCNs services.  
+3. Renewal /Termination  
+These Terms and Conditions  shall be for the term of one (1) year, unless a different term is indicated in a separate written 
+document. Such term shall begin on the date HCN activates the Service outlined in these Terms and Conditions . These 
+Terms and Conditions  shall, upon expiration, be renewed upon identical terms by Customer s continued use of the account 
+with HCN, unless written notice of cancellation is provided no later than sixty (60) calendar days prior to the expiration  of 
+these Terms and Conditions . Termination by Customer , other than for a breach by HCN,  shall not create the right to a 
+refund of any fees paid or payable. Such termination shall be effective upon the end of the current billing cycle, and an y 
+applicable  termination fees as outlined in these Terms and Conditions  shall then be due and payable. If Customer requests 
+and HCN agrees to provide Customer service on a month to month basis, Customer will be required to give HCN sixty ( 60) 
+Version  v1 
+HYPERCORE  NETWORKS , INC. PROPRIETARY  AND CONFIDENTIAL  – DO NOT DISTRIBUTE  
+Page 2 days notice to terminate Service under the month to month arrangement. Requests for service on a month to month basis 
+must be made prior to the sixty ( 60) day notice necessary to cancel Service prior to auto renewal.  
+4. Pre-Installation Cancellation Fee  
+If Customer cancels an Order for Service prior to installation for any reason other than a failure by HCN to provide Service, 
+the following charges will be assessed against Customer and payable to HCN immediately:  
+a. For Digital Subscriber Lines (DSL) or Cab le Modem service, including (but not limited to) ADSL, SDSL, IDSL, RADSL, or 
+HDSL, a $400.00 pre -installation cancellation fee shall be assessed against Customer and payable to HCN immediately.  
+b. For T1 (or DS1) connections, including (but not limited to) F ractional T1 and Full T1 connections, DS3, Ethernet or any 
+other telecom service the pre -installation cancellation fee shall equal the total number of remaining months in the term of 
+the applicable Service Order(s), multiplied by the Monthly Recurring Char ges, payable to HCN immediately.  
+5. Early Termination Fee  
+If Service is terminated, either in whole or in part, prior to the selected term expiration  for any reason other than a breach 
+by HCN , then Customer shall pay an early termination fee equal to the tot al number of remaining months in the term of 
+the applicable Service Order(s), multiplied by the monthly recurring charges, to be paid by Customer at the non -
+promotional rate. Customer agrees that the foregoing liquidated damages are fair and reasonable and  that HCN s 
+provisioning of the Services would not be commercially viable but for these Customer commitments. Customer 
+understands that a request to move service from Customer s current location to another location that HCN reasonably 
+determines cannot be economically served by HCN shall constitute termination of Service or may incur a relocation charge.  
+6. Other Charges  
+a. Where HCN approves a Customer move and such a move is provisioned, no cancellation charge will apply to a 
+Customer s move; however, a $300 c harge for re -installation and related costs will be assessed against Customer and 
+payable to HCN with respect to such a move. The term of the Product/Service at the new location will be for at least twelve 
+(12) months from the date that re -installation is completed at the new location.  
+b. Orders requiring the shipment of hardware, e.g. Customer premises equipment, will be subject to a $20.00 shipping 
+and handling charge. Shipping and handling charges are non -refundable.   If Customer refuses the charges outlined in 
+these  Terms and Conditions  or back charges them by the credit card company, Customer agrees to pay an additional 
+$200.00, and authorizes HCN to assess this charge to the Customer Credit Card. Customer also agrees to pay all 
+reasonable collection fees required to collect any overdue, refused, or back -charged fees associated with these Terms and 
+Conditions . 
+c. If an installation appointment is cancelled after 12:00 noon (in the time zone of the affected circuit) on the business 
+day preceding the scheduled installation date or if Customer is not available at the scheduled t ime and date to permit 
+installation to proceed as scheduled, a $99.00 charge will be assessed against Customer and payable to HCN.  
+7. Equipment and Software  
+a. HCN shall not be responsible for the installation, operation, or maintenance of Customer premise equi pment (CPE) or 
+other equipment or software (including without limitation, cabling) not provided by HCN (collectively, non-HCN equipment 
+or software ). Customer shall be responsible for the use and compatibility of the non -HCN equipment or software. 
+Impair ment of Customer s use of the Services due to non -HCN equipment or software shall not relieve Customer of any 
+obligations hereunder. HCN shall not be responsible for any changes in Service which may cause non -HCN equipment or 
+software to become obsolete, r equire modification or alteration, or which may otherwise impact performance of equipment 
+or software.  
+b. Other than all software and hardware provided to You by HCN and any revised version that You choose to use, You 
+must provide all equipment, devices and software necessary to receive the Service. Due to the  infinite number of possible 
+combinations of hardware and software, You are responsible for the compatibility of your system with the Service.  
+c. In case HCN leases equipment to Customer , HCN s liability s hall be strictly limited to equipment replacement in case of 
+equipment failure.  HCN offers a twenty -four ( 24) hour replacement policy on leased equipment however it is Customers 
+responsibility to procure backup equipment in case of failure of lea sed equipment. HCN shall not incur any liability 
+associated with any circuits connected to such equipment. There shall be no SLA credits associated with any Service 
+provided to Customer due to leased equipment failure.  If HCN cannot replace  equipment with in twenty -four ( 24) hours, 
+Customer may receive a one (1) month credit for the equipment lease. Customer understands and agrees that this is 
+Customers sole and exclusive remedy when leasing equipment from HCN.  
+8. Payment  
+a. Services are billed thirty ( 30) days in advance. Any balance past -due will be billed at 1.5% per month finance charge. 
+A minimum of $100.00 disconnect/reconnect fees will be assessed on all balances exceeding forty-five (45) days past due, 
+plus applicable finance charges. HCN reserves the r ight to terminate Service without warning to any customer with an 
+outstanding balance exceeding forty-five (45) days past due. If Service is terminated for non -payment, You will be liable 
+for the remainder of Your contract immediately.  
+The effective start date of each Service shall be the first (1st) day of the contracted Service being placed into billing as 
+determined by HCN.  
+Version  v1 
+HYPERCORE  NETWORKS , INC. PROPRIETARY  AND CONFIDENTIAL  – DO NOT DISTRIBUTE  
+Page 3 b. Inclusion of credit card number on these Terms and Conditions  hereby authorizes HCN to charge all  setup, service, and 
+monthly charges (including any renewal of this Service) to Customer s Credit Card, without further notice to Customer.  
+c. Pricing quoted by HCN for Service does not include any taxes or surcharges that may be applicable. Customer will be 
+responsible for paying the appropriate taxes and surcharges for the Services ordered.  
+9. Limitations of Liability  
+a. HCN shall not be liable to Customer for any loss, damage, liab ility, claim or expense rising out of or in relation to these 
+Terms and Conditions , the Services, or HCN s equipment , unless caused by the negligent or willful acts of HCN . 
+b. HCN does not guarantee Service speeds on DSL and cable services. Any Service speeds quoted in these Terms and 
+Conditions  are to be interpreted as estimates only, and do not guarantee the receipt of such speeds upon Service delivery. 
+HCN currently guarantees a connection sp eed of 64kbps for all DSL connections, including (but not limited to) IDSL, SDSL, 
+ADSL, RADSL, and HDSL.  
+c. HCN does not guarantee actual dates of installation, or dates of Service delivery. Any dates quoted by a HCN 
+representative are meant as estimates onl y. HCN shall not be liable for any loss, damage, claim, or expense rising out of or 
+in relation to installation dates, times, or any other scheduling factors.  
+d. Customer shall have the ability to dispute invoices for Service charges, equipment fees, taxes, fees or any other item 
+for a maximum of six (6) months from the time Customer receives the invoice from HCN. HCN shall also only be able to 
+invoice Customer for missing items for a maximum of six (6) months.  
+e. For any credits associated with any outages or service issues in any given month, HCN maximum liability will be 
+Customers Service charges for that month.  
+10. Self-Installation Waiver  
+a. Customer agrees that HCN, its officers, employees, and channel partners are authorized to order a self-install  on 
+Customer s behalf whenever available, and releases them of responsibility for such tasks. Self-Install  shall be defined as 
+a line which may require Customer to perform tasks including, but not limited to, inside wiring, hardware installation, and 
+other eq uipment configuration as necessary. HCN or its third -party contractors, will aid in these tasks at the rate of $99.00 
+per hour.  
+b. In consideration of HCN furnishing services and/or equipment to enable Customer to participate in the self -installation 
+of a DS L line, Customer agrees as follows:  
+c. Customer , on behalf of itself, its successors and assigns , hereby voluntarily agree s to release, waive, discharge, hold 
+harmless, defend and indemnify HCN and its owners, agents, officers and employees from any and all claims, actions or 
+losses for bodily injury, property damage, wrongful death, loss of services or otherwise which may arise out of Customers  
+attempt for self -installation . Customer hereby acknowledge s that an unsuccessful installation  attempt could result in 
+additional costs.  
+d. Notwithstanding this Section 10, if Customer explicitly contracts for a premium installation by written agreement, a 
+self-install will not be authorized.  
+11. Customer Premises Equipment Return Policy  
+a. Equipment purchased from HCN and returned within twenty (20 ) days from the date of purchase with the original 
+shipping invoice are eligible for refund or exchange. No refunds or exchanges are allowed after twenty  (20) days from the 
+date of purchase. All items must be in new condition, including the original box, p ackaging,  manuals and accessories. 
+Products deemed defective after the twenty ( 20)-day period outlined above may be under Manufacturer s warranty . 
+Customer should consult its owner s manual for details.  
+b. An open box fee equal to twenty percent ( 20%) of the  purchase price will be charged on any opened item, unless the 
+item is defective and exchanged for the exact same item (fee not applicable in Hawaii). The twenty percent ( 20%) open box 
+fee will be assessed at the time of refund or exchange.  
+c. HCN will not accept the return or exchange of any item if the UPC code has been removed from the packaging.  
+d. Refunds on hardware will be issued in form of in -house account credit, unless otherwise requested and agreed to by 
+HCN. Refunds on purchases made with a credit card will only be made as in -house account credit, or as a credit to the 
+same card.  
+12. Notices  
+All notices given by any party or required under these Terms and Conditions  shall be in writing and addressed to:  
+Hypercore Networks, Inc.  
+Attn: Contract Administration  
+2024 W. 15th St, Ste F, #331  
+Plano, TX 75075  
+Version  v1 
+HYPERCORE  NETWORKS , INC. PROPRIETARY  AND CONFIDENTIAL  – DO NOT DISTRIBUTE  
+Page 4 If to Customer:  
+  Concentra Health Services, Inc.  
+  Attn: SVP & CIO  
+  5080 Spectrum Drive, 1200W  
+  Addison, TX  75001  
+With a copy to:  
+  Select Medical Corporation  
+  Attn: Senior Counsel  
+  4714 Gettysburg Road  
+  P.O. Box 2034  
+  Mechanicsburg, PA 17055  
+13. Acceptable Use Policy  
+a. You agree that You will NOT knowingly  use the Service to:  
+1. Upload, post, email, transmit or otherwise make available any Content (as defined below) that is unlaw ful, harmful, 
+threatening, abusive, harassing, tortious , defamatory, vulgar, obscene, libelous, invasive of another s privacy, hateful, or 
+racially, ethnically or otherwise objectionable;  
+2. Harm minors in any way;  
+3. Forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through 
+the Service;  
+4. Upload, post, email, transmit or otherwise make available any Content that You do not have a right to make available 
+under any law or under contractual or fiduciary  relationships (such as inside information, proprietary and confidential 
+information learned or disclosed as part of employment relationships or under nondisclosure agreements);  
+5. Upload, post, email, transmit or otherwise make available any Content that inf ringes any patent, trademark, trade 
+secret, copyright or other proprietary rights ( Rights ) of any party;  
+6. Upload, post, email, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional 
+materials, junk mail,  spam,  chain letters,  pyramid schemes,  or any other form of solicitation, except in those areas 
+(such as shopping rooms) that are designated for such purpose;  
+7. Upload, post, email, transmit or otherwise make available any material that contains software viruses or any other 
+computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or 
+hardware or telecommunications equipment;  
+8. Disrupt the normal flow of dialogue, cause a screen to scroll faster than other users of the Service are able to type, 
+or otherwise act in a manner that negatively affects other users  ability to engage in real time exchanges;  
+9. Interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any require ments, 
+procedures, policies or regulations of networks connected to the Service;  
+10. Intentionally or unintentionally violate any applicable local, state, national or international law, including, but not 
+limited to, regulations promulgated by the U.S. Securit ies and Exchange Commission, any rules of any national or other 
+securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange or the 
+NASDAQ, and any regulations having the force of law;  
+11. Stalk or otherwise ha rass another; or  
+12. Collect or store personal data about other users.  
+b. You understand and agree that any attempt to break security, or to access an account which does not belong to You, 
+will be considered a material breach of these Terms and Conditions, and s uch breach may result in suspension or 
+termination of the Service, and possibly referral to law enforcement authorities. Unauthorized access to the Service, to 
+restricted portions of the Service, or to the telecommunications or computer facilities used to deliver the Service, is a 
+breach of these Terms and Conditions whether or not such activities are a violation of law. Further, You are required to 
+take adequate security measures to prohibit others from unauthorized access or use of the Service, and You must take 
+prompt remedial measures upon notice of breaches, or potential breaches, of security.  
+c. Violations of HCNs  Acceptable Use Policy may also be considered a material breach of these Terms and Conditions and 
+may also result in suspension or termination of the Service.  
+d. HCN reserves the right to suspend or terminate the Service to You, or to suspend or terminate an y electronic mail 
+address, IP address, Universal Resource Locator or domain name used by You, in the event it is used in a manner which (i) 
+constitutes violation of any law, regulation or tariff (including, without limitation, copyright and intellectual pr operty laws); 
+(ii) is defamatory, fraudulent, obscene or deceptive; (iii) is intended to threaten, harass or intimidate; (iv) tends to 
+damage the name or reputation of HCN.  
+e. Under no circumstances will HCN be liable in any way for any content , including, but not limited to, any errors  
+or omissions in any Content, or for any loss or damage of any kind incurred as a result of the use of any Content posted, 
+emailed, transmitted or otherwise made available via the Service.  
+14. Indemnity  
+You agree to in demnify and hold HCN and its subsidiaries, affiliates, officers, agents, co -branders or other partners, and 
+employees, harmless from any claim or demand, including reasonable attorneys  fees, made by any third party due to or 
+arising out of Content You submit, post, transmit or make available through the Service, Your use of the Service, Your 
+connection to the Service, Your violation of these Terms and Conditions , Your violation of the Acceptable Use Policy, or 
+Your violation of any rights of another.  
+Version  v1 
+HYPERCORE  NETWORKS , INC. PROPRIETARY  AND CONFIDENTIAL  – DO NOT DISTRIBUTE  
+Page 5  
+HCN agrees to indemnity and hold You and your affiliated entities, and all of their trustees, officers, directors, 
+shareholders, legal representatives, employees, successors, assigns and agents harmless from and against any and all 
+claims, proceedings, damages, injuries, liabilities, losses, costs and expenses (including reasonable attorneys fees and 
+litigation expenses) based on claims arising under these Terms and Conditions  or any third -partys claim that the Service 
+infringes any intellectual property right.  HCN shall conduct the defense and any settlement negotiations in any such third -
+party action arising as described herein; provided, HCN shall not compromise or settle any claim in a manner that affects 
+Your rights,  makes admissions on Your behalf or obligates You to take or not take any action, including without limitation 
+the payment of money, without Your prior written approval.  
+15. Termination For Cause  
+HCN may immediately terminate all or a portion of Your Service,  or suspend any or all access to all or a portion of the 
+Service, without notice, for conduct that HCN believes is: (a) illegal, fraudulent, harassing or abusive; (b) a violation of 
+these Terms and Conditions, any policies or guidelines posted by HCN on th e Service; or (c) harmful to other users, third 
+parties, the Service, or the business interests of HCN. If HCN has terminated a portion, but not all, of Your access to the 
+Service for the foregoing reasons, You will nevertheless be responsible for the char ges for the Service. Use of the Service 
+for illegal, fraudulent or abusive purposes may be referred to law enforcement authorities without notice to the Customer. 
+Upon termination of Your Service, HCN will have no obligation to notify any third parties nor will HCN be responsible for 
+any damages that may result or arise out of termination of Your Service. Termination or suspension by HCN of the Service 
+to Customer also constitutes termination or suspension (as applicable) of Customer s license to use the Software.  
+16. Modifications To Service  
+a. HCN reserves the right to modify or discontinue, temporarily or permanently, at any time and from time to tim e, the 
+Service (or any function or feature of the Service or any part thereof) with or without notice. You agree that HCN will not 
+be liable to You or to any third party for any such modification, suspension or discontinuance of the Service.  
+b. HCN may be required to modify its pricing for the Service provided to You in case of carrier price increases, regulatory 
+price increases or general third-party price increases. In case of a price increase to Customer , HCN shall provide Customer 
+with a mini mum of thirty ( 30) day notice. Customer may terminate Service with no liability in case of such price increase 
+by HCN.  
+17. Additional Agreements  
+a. If any provision of these Terms and Conditions  is held by a court of competent jurisdiction to be contrary to law, the 
+remaining provisions of these Terms and Conditions  will remain in full force and effect.  
+b. Customer may not sell, transfer, or assign these Terms and Condit ions without the prior written consent o f HCN. 
+c. The section titles and paragraph headings in these Terms  and Conditions are for convenience only and have no legal or 
+contractual effect.  
+d. This document and the Service Order constitute the entire agreement between Customer and HCN. No verbal agreements 
+will override these documents. Addendums to these Terms and Conditions  must be specifically signed by an authorized 
+representative of the Parties . 
+18. Disclaimer Of Warranties  
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT:  
+a. YOUR USE OF THE SERVICE AND/OR SOFTWARE IS AT YOUR SOLE RISK. THE SERVICE AND/OR SOFTW ARE ARE 
+PROVIDED ON AN AS IS  AND AS AVAILABLE  BASIS. HCN EXPRESSLY DISCLAIM S ALL WARRANTIES OF ANY KIND, 
+WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NON -INFRI NGEMENT.  
+b. HCN MAKES NO WARRANTY THAT (i) THE SERVICE AND/OR SOFTWARE WILL MEET YOUR REQUIREMENTS, (ii) THE 
+SERVICE AND/OR SOFTWARE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR -FREE (FOR EXAMPLE, BUT 
+WITHOUT LIMITATION, HCN DOES NOT WARRANT THAT YOU WILL  ALWAYS RECEIVE EMAILS ADDRESSED TO YOU), (iii) 
+THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE AND/OR SOFTWARE WILL  BE ACCURATE OR 
+RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR 
+OBTAINED BY Y OU THROUGH THE SERVICE AND/OR SOFTWARE WILL MEET YOUR EXPECTATIONS, AND ANY ERRORS IN 
+THE SERVICE AND/OR SOFTWARE WILL BE CORRECTED.  
+c. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE/AND OR SOFTWARE 
+IS DONE AT YOUR OWN DISCRETIO N AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO 
+YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.  
+d. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM HCN OR THROUGH OR FROM 
+THE SERVICE AND/OR SOFTWARE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS AND 
+CONDITIONS.  
+19. Limitation Of Liability  
+a. EXCEPT FOR ITS OBLIGATIONS OF INDEMNITY, CUSTOMER EXPRESSLY UNDERSTAND S AND AGREE S THAT HCN WILL 
+NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT 
+NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF 
+Version  v1 
+HYPERCORE  NETWORKS , INC. PROPRIETARY  AND CONFIDENTIAL  – DO NOT DISTRIBUTE  
+Page 6 HCN HAS BEEN ADVISED OF THE POSSIBILI TY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OR THE INABILITY 
+TO USE THE SERVICE AND/OR SOFTWARE; (b) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES 
+RESULTING   FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES 
+RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE AND/OR SOFTWARE; (c) 
+UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (d) STATEMENTS OR CONDUCT OF 
+ANY   THIRD PARTY ON THE SERVICE AND/ OR SOFTWARE; (e) FAILURE TO INSURE THE COMPATIBILITY OF YOUR 
+SYSTEM (I.E., THE EQUIPMENT, DEVICES, AND SOFTWARE THAT YOU PROVIDE TO RECEIVE THE SERVICE) WITH THE 
+SERVICE AND/OR SOFTWARE, OR (f) ANY OTHER MATTER RELATING TO THE SERVICE AND/OR SOFTWARE.  
+b. UNLESS OTHERWISE STATED HEREIN, CUSTOM ERS SOLE REMEDY AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH 
+HCN IN CONNECTION WITH THE SERVICE AND/OR SOFTWARE IS THE CANCELLATION OF THE SERVICE AS PROVIDED IN 
+THESE TERMS AND CONDITIONS.  
+20. Exclusions and Limitations  
+SOME JURISDICTIONS DO NOT ALLOW THE  EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION 
+OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF 
+SECTIONS 18 AND 19 MAY NOT APPLY TO YOU.  
+21. General Information  
+The Terms and Conditions r eferenced herein combined with your signed agreement referencing these Terms and 
+Conditions and policies, constitute the entire agreement between HCN and You. These Terms and Conditions govern Your 
+use of the Service, superseding any prior agreements betwe en You and HCN with respect to the subject matter of these 
+Terms and Conditions. You also may be subject to additional terms and conditions that may apply when You use affiliate 
+services, third -party content or third -party software. These Terms and Conditi ons and the relationship between You and 
+HCN will be governed by the laws of the State of Texas without regard to its conflict of law provisions. You and HCN agree 
+to submit to the personal and exclusive jurisdiction of the courts located within the county  of Dallas , Texas. The failure of 
+HCN to exercise or enforce any right or provision of these Terms and Conditions will not constitute a waiver of such right or  
+provision. If any provision of these Terms and Conditions is found by a court of competent juris diction to be invalid, the 
+parties nevertheless agree that the court should endeavor to give effect to the parties  intentions as reflected in the 
+provision, and the other provisions of these Terms and Conditions remain in full force and effect. You agree that regardless 
+of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or these 
+Terms and Conditions must be filed within one (1) year after such claim or cause of action arose or be forever barr ed. 
+IN WITNESS WHEREOF , the Parties hereto have executed these Terms and Conditions  as of the EFFECTIVE DATE.  
+Concentra Health Services, Inc.  
+By: ________________________________  
+Print: _______________________________  
+Title: _______________________________  
+Date: _______________________________  
+ Hypercore Networks , Inc.  
+By: _______________________________  
+Print: ______________________________  
+Title: _______________________________  
+Date: _______________________________  
+07/09/18
+SVP & CIO
+James Talalai
+Powered by TCPDF (www.tcpdf.org)

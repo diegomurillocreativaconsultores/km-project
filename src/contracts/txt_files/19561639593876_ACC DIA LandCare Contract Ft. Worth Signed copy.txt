@@ -1,0 +1,288 @@
+ACC DIA LandCare Contract ADI_PS160 1 of 7
+ACC PS160 Single Site ADI_SSE_210610
+For Administrative Use Only              Master Agreement #:SECTION 1.  ACC BUSINESS REPRESENTATIONChannel / Retention Manager A0000804
+Matt Ellison          Associate Solution Provider Channel ID # EL005136
+Solution Provider Order Contact Additional Solution Provider Order Contact
+Terri Hill Kate Wainwright
+Solution Provider Order Contact Email Address Additional Solution Provider Order Contact Email
+thill@telarus.com kwainwright@ten4.us 
+Additional Solution Provider Order Contact Phone #SECTION 2.  ACCOUNT INFORMATION (All fields required )I.  Company Name II.  Billing Company NameCompany 1948 Josh Road Billing       1 5295 Westview Dr Street Street        2 Suite 100City State Zip Code City State Zip Code
+TX 76177 Frederick MD 21703
+Contact Person Billing Contact PersonBrent Cates Accounts Payable LandcareContact Email Address Billing Contact Email Addressbrent.cates@landcare.com AccountsPayable@Landcare.comPhone # Billing Contact Phone #III. REQUIRED FOR ALL:  Legal Company Name
+LandcareSECTION 3.  ADI SERVICE LOCATION INFORMATION FOR SINGLE LOCATIONDemarc Company Name
+LCON Mobile Phone # 
+Street Demarc
+Primary Technical Customer Contact Name (required)
+Kate Wainwright
+Primary Technical Customer Contact Phone # (required)
+(856) 505-4892
+City State Zip CodePrimary Technical Customer Contact Email Address (required)
+Fort Worth TX 76177 kwainwright@ten4.us Remarks:  Is this site a Carrier Hotel/Data Center?  NO If yes, who owns the Carrier Hotel/Data Center? If Yes Rome Opp. #?If Yes Rome Opp. #?SECTION 4A.  ACCOUNT DETAIL INFORMATIONNew Account: YES Existing Account: NO Account Number:SECTION 4B.  BILLING OPTIONSSTANDARD BILLING   (Single Account Billing) YES
+Billing Option: Dedicated Analog Phone # (recommended for Included CPE)No Toll Free(855) 511-5553Active phone number at Demarc location (required)
+CORPORATE BILLING†:   $6.50/mo. Administrative Fee† NOplus  $3.00/mo. each service location†Order for 1 new 50M Managed ADI with onsite installation required and $1500 fee waived 
+†Charges marked by † are not stabilized for the Term, are illustrative to reflect the current Service Guide rates and will Standard - Single Location Billing (default)Sold with Colocation?SELECTSold with SD WAN?SELECTAT&T DEDICATED INTERNET SERVICE PRICING SCHEDULE 
+LandcareAccounts Payable LandcareFort Worth(855) 511-5553214.425.0396Solution Provider Order Contact Phone #(856) 505-4892Solution Provider Channel ID #
+(256) 666-7780
+Alt LCON Phone #(required)(410) 464-8928Telephone # of nearest neighbor/business1948 Josh RdLandCare Fort Worth Texas
+On-Site Local Contact Name (LCON) (required)Kate WainwrightAlt LCON Contact Name (required)Zane GeeLCON Phone #  (required)(856) 505-4892LCON Email Address (required)kwainwright@ten4.us ALT LCON Email Address (required)zgee@ten4.usALT LCON Mobile Phone #  Room & Floor  
+vary in accordance with the corresponding charges set forth in the Service Guide.
+ACC Price Schedule 160 ACC Business and Customer Proprietary Updated 6/10/2021
+ACC DIA LandCare Contract ADI_PS160 2 of 7SECTION 4C.  ORDER TYPEIs this Order replacing or changing an existing ACC circuit?  * No
+*If yes, list existing circuit ID and details directly below (note: for multi-location orders, enter details for each site on ADIMultiloc sheet) 
+Existing ACC circuit IDs (required):  Reason for replacement or change (Move, Upgrade/ Downgrade, Tech Migration, etc.):  SECTION 5A.  PRICING SCHEDULE TERM AND PROMOTIONS
+Term:  2 Years Promo Code(s): 
+ Other:SECTION 5B.  SERVICE CHARGES & RATE PLANS          (will be totaled for multiple locations)Applicable supporting documentation ( printout, quote letter and ICB) must be attached                   PORT SPEEDMonthly Port ChargesTotal Number Monthly Port ChargesCPE Option/Install Charge and Other Charges 
+allSelected
+and Other Charges Totals for a Single Location Multi Locations Single LocationEthernet 50 Mbps1 $67
+SELECTHi-Cap Incr Charge/mbpsInstallation 
+ChargesAmount WaivedTotal  Port Charges Single Location: 1 $67$1,500 $1,500Monthly Circuit 
+Charges all  Multi Locations Total 
+Number SelectedMonthly Charge 
+Per Circuit Single LocationInstallation Charges                
+(Renewals=$0          Prov. Order =charges)Amount Waived
+LocationSECTION 5C.  OPTIONAL SERVICES & CHARGES - SINGLE LOCATION
+COS (Class of Service) Monthly Charges One-Time Install Charges (Waived)
+COS SELECT $0
+Single Location Optional Services Totals: 0$0 $0(additional Primary DNS is $100/month per 15 domains)(additional Secondary DNS is $100/month per 15 domains)Total  Local Access Charges Single $0 1 $524Domain Name (established during implementation)Primary.     # of domains ( up to 15 included  per ADI port ): Secondary. # of domains (up to 15 included  per ADI port): $0 $0Ethernet Interface100 Base TX 
+Electrical50 MbpsEthernetCircuit SpeedTotal Service (default)1 $524128K-NxT1 (25 miles  from PoP in the 48 states)128K-NxT1 (On-Net, Hawaii or 26+ miles from PoP in the 48 
+states)SELECTHi-Cap Ethernet MBC  (if applicable)
+LOCAL ACCESSOrder TypeNew
+Included CPE, Onsite $1500 (waived) 
+(Onsite required if over 100M)(No Tele-Install over 100Mbps)
+ACC Price Schedule 160 ACC Business and Customer Proprietary Updated 6/10/2021
+ACC DIA LandCare Contract ADI_PS160 3 of 7SECTION 5D.  TOTAL ALL CHARGES BILLED WAIVEDTotal Single Location Monthly Port, Local Access, and Optional Service Charges:$591Total Single Location Non Recurring Port, Local Access, Optional Service, and Move Charges:$0 $1,500SECTION 5E.  MINIMUM PAYMENT AND MINIMUM RETENTION PERIOD             Minimum Payment Period  
+50%The minimum retention period is 12 months for all service componentsSECTION 6.  TERMINATION
+SECTION 7.  TAX EXEMPT INFORMATION Tax Exempt: Certifications for all jurisdictions that apply must                        Federal NO
+  be attached: Applicable taxes will be applied to all invoices State NO
+County NO
+City NO
+SIGNATURE BELOW BY YOUR AUTHORIZED REPRESENTATIVE IS CUSTOMERS CONSENT TO THE
+TERMS AND CONDITIONS OF THIS PRICING SCHEDULE
+Customer acknowledges that the terms and conditions set forth in this ADI Pricing Schedule (Pricing Schedule) apply to
+Service for the duration of the Service Period.  Additional terms, conditions and charges can be viewed on the AT&T 
+Service Guide (Service Guide) located at 
+http://serviceguidenew.att.com/
+Customer further acknowledges that it must comply with the terms of the Acceptable Use Policy located at 
+http://www.att.com/aup/
+When service is ordered for multiple locations of a Corporate Billed account the rates in the ADI Multi Location Worksheet apply.NOTE:  AT&T Dedicated Internet as sold by ACC Business (ADI) (formerly known as ACC Business Managed Internet Service (MIS))Customer ACC Business
+Signature By Signature By
+Name Name
+Title Title
+Date DateThe Customer may terminate service without incurring Termination Charges prior to the end of the service term, provided the Customer is current in payment to ACC Business for services provided and replaces this Pricing Schedule with either:1)       other domestic and/or international telecommunications services provided by ACC Business  having a  new revenue commitment             equal to or greater than the revenue commitment set forth in this Pricing Schedule; or 
+Termination Charges in the event that ACC Business exercises its right of termination under this paragraph.     until supporting tax exempt documentation is provided. 2)       the same services provided by ACC Business having a new revenue commitment equal to or greater than the remaining revenue             commitment of this Pricing Schedule.
+Technical ContactAdditionally, ACC Business may terminate this Pricing Schedule in the event that (i) AT&T determines that Special Construction is necessary for ACC Business to provide the Service hereunder and (ii) Customer does not execute and return an AT&T Special Construction Pricing Schedule within the time period designated by ACC Business.  ACC Business may also terminate this PricingSchedule in the event that Customer orders On-Net access and no capacity is available.  Customer will not incur any
+Brent Catesmonths per component (from original activation date)Portion of Monthly Service Fees Applicable to Service ComponentsMinimum Payment PeriodAll Service componentsUntil end of Pricing Schedule Term, but not less than 12
+ACC Price Schedule 160 ACC Business and Customer Proprietary Updated 6/10/2021
+ACC Business MA Reference No.Customer AT&T Corp. d/b/a ACC Business
+Customer Legal Name: ACC Business
+Street Address:
+City:
+State/Province:
+Zip Code: 76177 Country: Customer Contact (for notices) ACC Business Contact (for notices)
+Name: Street Address:  400 West Avenue
+Title: City: Rochester State/Province: NY
+Street Address: Zip Code:  14611  Country:  USA
+City: State/Province: MD
+Zip Code: 21703 Country:  
+Telephone:  
+Fax:  
+Email:   This ACC Business Multi-Service Agreement between the customer named above (Customer) and AT&T Corp. doing business as (d/b/a) 
+ACC Business  "ACC Business" (each a Party) is effective when signed by both Parties (Effective Date).
+This ACC Business Multi-Service Agreement consists of the attached provisions, and the AT&T Business Services Agreement, including 
+definitions, located ahttps://www.corp.att.com/agreement/(BSA) (collectively the attached provisions and BSA constitute the MSA).  In order for Customer to purchase ACC Business Services, 
+the Parties must execute an applicable pricing schedule, referencing this MSA, reflecting the Services, the pricing and the pricing schedule 
+term (Pricing Schedule).  Collectively the MSA, Pricing Schedule and applicable Service Publications constitute the Agreement for those 
+Services.  A Service Publication includes Tariffs, Guidebooks, and Service Guides located at 
+http://serviceguidenew.att.com
+which reflect the product descriptions, rates, terms and conditions applicable to a particular Service.  Services are further subject to the 
+AT&T Acceptable Use Policy located at www.att.com/aup (AUP).  Service Publications and the AUP may be amended by AT&T
+www.att.com/aup 
+or ACC Business from time to time without notice to Customer.  The order of priority of the documents that form the Agreement 
+is: the applicable Pricing Schedule or order; the MSA; the AUP; and then Service Publications; provided, however, if applicable laws 
+or regulations of a jurisdiction prohibits contractual modification of Tariff terms, the Tariff will prevail.  In the event of a conflict within 
+the MSA between the attached provisions and the BSA, the attached provisions take precedence.  For purposes of this MSA the arbitration 
+provisions of the BSA are replaced entirely with and superseded by the following:
+ARBITRATION: ALL CLAIMS AND DISPUTES ARISING FROM THIS AGREEMENT SHALL BE SETTLED BY BINDING 
+ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION UNDER ITS COMMERCIAL 
+ARBITRATION RULES (SUBJECT TO THE REQUIREMENTS OF THE FEDERAL ARBITRATION ACT). ANY JUDGMENT 
+ON ANY AWARD RENDERED MAY BE ENTERED AND ENFORCED IN A COURT HAVING JURISDICTION. THE 
+ARBITRATOR SHALL NOT HAVE THE AUTHORITY TO AWARD ANY DAMAGES DISCLAIMED BY THIS AGREEMENT 
+OR IN EXCESS OF THE LIABILITY LIMITATIONS IN THIS AGREEMENT, SHALL NOT HAVE THE AUTHORITY TO
+ORDER PRE-HEARING DEPOSITIONS OR DOCUMENT DISCOVERY, BUT MAY COMPEL ATTENDANCE OF WITNESSES 
+AND PRODUCTION OF DOCUMENTS AT THE HEARING. THE PARTIES WAIVE ANY RIGHT TO TRIAL BY JURY AND 
+WAIVE ANY RIGHT TO PARTICIPATE IN OR INITIATE CLASS ACTIONS; IF THE PARTIES CANNOT WAIVE THESE 
+RIGHTS, THIS ENTIRE PARAGRAPH IS VOID.
+AGREED:  Customer AGREED:  AT&T Corp. d/b/a ACC Business 
+By: By:
+Name: Name:
+Title: Title:
+Date: Date:ACC BUSINESS MULTI-SERVICE AGREEMENTLandcare1948 Josh RoadFort WorthTXBrent CatesTechnical Contact5295 Westview DrFrederick(855) 511-5553brent.cates@landcare.com
+Brent CatesTechnical Contact
+ACC Business MSA UA III
+ACC Business and Customer Proprietary Last Updated 09/01/2015
+Services : Service or Services means all products and services (including 
+wireless, if applicable) ACC Business provides Customer pursuant to this 
+Agreement.
+Execution by Affiliates :An ACC Business or Customer Affiliate may sign a 
+Pricing Schedule in its own name.  Such Affiliate contract will be a separate but 
+associated contract incorporating the terms of this Agreement. Customer and 
+ACC Business will cause respective Affiliates to comply with any such separate, 
+associated contract(s). An Affiliate of a party is an entity that controls, is 
+controlled by or is under common control with such party.
+License and Other Terms :Software, Purchased Equipment and Third -Party 
+Services (a service provided directly to Customer by a third party under a 
+separate agreement between Customer and the third party) may be provided 
+subject to the terms of a separate license or other agreement between Customer 
+and either the licensor, the third -party service provider or the manufacturer. 
+Customers execution of the Pricing Schedule for or placement of an Order for 
+Software, Purchased Equipment or Third -Party Services is Customers agreement 
+to comply with such separate agreement. Unless a Service Publication specifies 
+otherwise, ACC Business sole responsibility with respect to Third -Party 
+Services is to place Customers orders for Third -Party Services, except that 
+AT&T or ACC Business may invoice and collect payment from Customer for the 
+Third -Party Services.
+Pricing and Pricing Schedule Term; Terms Applicable After End of 
+Pricing Schedule Term : Prices listed in a Pricing Schedule are stabilized until 
+the end of the Pricing Schedule Term, including applicable extensions, (Pricing 
+Schedule Term) and apply in lieu of corresponding prices in the applicable 
+Service Publication. No promotions, credits, discounts or waivers set forth in a 
+Service Publication apply. At the end of the Pricing Schedule Term, Customer 
+may continue Service (subject to any applicable notice or other requirements in a 
+Service Publication for Customer to terminate a Service Component) on a month -
+to-month basis at the prices, terms and conditions in effect on the last day of the 
+Pricing Schedule Term. ACC Business may change such prices, terms or 
+conditions on 30 days prior notice to Customer.
+MARC : Minimum Annual Revenue Commitment (MARC) is an annual 
+revenue commitment set forth in a Pricing Schedule that Customer agrees to 
+satisfy during each 12 -month period of the Pricing Schedule Term. If Customer 
+fails to satisfy the MARC for any such period, Customer agrees to pay a shortfall 
+charge equal to the difference between the MARC and the total of the applicable 
+MARC -Eligible Charges, as defined in the applicable Pricing Schedule, incurred 
+during such period, and ACC Business may withhold contractual credits until 
+Customer pays the shortfall charge.
+Termination and Termination Charges : Either party may terminate for 
+material breach upon thirty (30) days prior written notice to the other party.   If a 
+Service or Service Component is terminated by Customer for convenience or by 
+ACC Business for cause prior to Cutover, Customer (i) agrees to pay any pre -
+Cutover termination or cancellation charges set out in a Pricing Schedule or 
+Service Publication, or (ii) in the absence of such specified charges, agrees to 
+reimburse ACC Business for time and materials incurred prior to the effective 
+date of termination, plus any third -party charges resulting from the termination. If 
+a Service or Service Component is terminated by Customer for convenience or 
+by ACC Business for cause after Cutover, Customer agrees to pay applicable 
+termination charges as follows: (i) 50% of any unpaid recurring charges for the 
+terminated Service or Service Component attributable to the unexpired portion of 
+an applicable Minimum Payment Period (as defined in applicable Pricing 
+Schedule); (ii) if termination occurs before the end of an applicable Minimum 
+Retention Period (as defined in applicable Pricing Schedule), any associated 
+credits or waived or unpaid non -recurring charges; and (iii) any charges incurred 
+by ACC Business from a third -party ( i.e.,not an AT&T Affiliate) due to the 
+termination. The charges set forth in (i) and (ii) do not apply if a terminated 
+Service Component is replaced with an upgraded Service Component at the same Site, but only if the Minimum Payment Period or Minimum Retention Period, as 
+applicable, (the Minimum Period) and associated charge for the replacement 
+Service Component are equal to or greater than the corresponding Minimum 
+Period and associated charge for the terminated Service Component, respectively, 
+and if the upgrade is not restricted in the applicable Service Publication. In 
+addition, if Customer terminates a Pricing Schedule that has a MARC, Customer 
+agrees to pay an amount equal to 50% of the unsatisfied MARC for the balance 
+of the Pricing Schedule Term.
+Billing and Disputes : If Customer does not dispute a charge in writing within 6 
+months after the invoice date, Customer waives the right to dispute.  ACC 
+Business must issue a bill within six (6) months after charges are incurred (other 
+than for automated or live operated assisted calls) or it waives the charges. 
+At Customers request, but subject to ACC Business consent (which may not be 
+unreasonably withheld or withdrawn), Customers Affiliates may be invoiced 
+separately, and ACC Business will accept payment from such Affiliates. 
+Customer will be responsible for payment if Customers Affiliates do not pay 
+charges in accordance with this Agreement.
+Purchased Equipment : Except as specified in a Service Publication or Pricing 
+Schedule, title to and risk of loss of equipment ACC Business sells Customer 
+(Purchased Equipment) pass to Customer on delivery to the transport carrier 
+for shipment to Customers designated location.  AT&T or ACC Business retains 
+a purchase money security interest in all Purchased Equipment until Customer 
+pays for it in full; Customer appoints AT&T or ACC Business as Customers 
+agent to sign and file a financing statement to perfect AT&Ts and ACC 
+Business' security interest. All Purchased Equipment is provided on an AS IS 
+basis, except that AT&T or ACC Business passes through to Customer any 
+warranties available from its suppliers, to the extent that AT&T or ACC Business 
+is permitted to do so under its contracts with those suppliers.
+Privacy : Each party is responsible for complying with the privacy laws 
+applicable to its business. AT&T and ACC Business shall require its personnel, 
+agents and contractors around the world who process Customer personal data to 
+protect such information in accordance with the data protection laws and 
+regulations applicable to AT&Ts and ACC Business business. If Customer does 
+not want AT&T or ACC Business to comprehend Customer data to which it may 
+have access in performing Services, Customer must encrypt such data to be 
+unintelligible. Customer is responsible for obtaining consent from and giving 
+notice to its users, employees and agents regarding Customers and AT&Ts and 
+ACC Business collection and use of the User, employee or agent information in 
+connection with a Service. Customer agrees to make accessible or provide 
+Customer personal data to AT&T or ACC Business only if it has legal authority 
+to do so. 
+Trademarks and Publicity : Neither party will display or use the other partys 
+trade names, logos, trademarks, service marks or other indicia of origin, or issue 
+public statements about this agreement or the Services, without the other partys 
+prior written consent.
+Governing Law : Unless a regulatory agency with jurisdiction over the 
+applicable Service applies a different law, this Agreement is governed by the law 
+of the State of New York, without regard to its conflict of law principles.  The 
+United Nations Convention on Contracts for International Sale of Goods will not 
+apply.
+ACC Business MSA UA III
+ACC Business and Customer Proprietary Last Updated 09/01/2015
+Please be advised that we, (Customer), are interested in learning about and potentially purchasing certain products and services from AT&T Corp. d/b/a ACC Business and its affiliates (ACC Business), and hereby authorize
+ (SP) and such other entities or persons named below (Others Named) to act on our behalf with respect
+to the matters described herein. By this Customer Letter of Authority (Letter), SP and Others Named are authorized non-exclusively to operate as ourrepresentative in dealings between us and ACC Business in connection with the marketing, sale and purchase of telecommunications, data, and information services. This authorization includes, but is not limited to, the ability to present pricing and contracts, negotiate and order services on our behalf, as well as the ability to obtain our customer proprietarynetwork information (CPNI). Notwithstanding the foregoing authorization, neither SP nor Others Named is authorized to execute any contracts on our behalf. We understand that it is ACC Businesss legal duty to protect the confidentiality of our CPNI. CPNI is defined under federal law
+and includes information that relates to the quantity, technical configuration, type, destination, location, and amount of use of 
+a telecommunications service subscribed to by a customer of a telecommunications carrier, and that it is made available to the 
+carrier by the customer solely by virtue of the carrier-customer relationship. In order to explore the purchase of 
+telecommunications products and services from ACC Business, we hereby authorize ACC Business to use our CPNI, share our 
+CPNI with SP and Others Named, and/or provide SP and Others Named with access to our CPNI on file with ACC Business.  We 
+further grant ACC Business permission to provide SP and Others Named access to all information relating to our accounts and 
+to make changes to our accounts via orders for all services provided by ACC Business.  We acknowledge and agree that any unauthorized disclosure of CPNI by SP and/or Others Named will not result in us having any right or remedy against ACC Business.  We also understand and agree that, in order to determine service eligibility and communicate eligibility to SP and 
+Others Named, ACC Business may initiate a credit check and/or access our existing credit information on file with ACC Business. 
+I understand and agree that the signature, or electronic signature, set forth below constitutes Customers agreement under 
+this Letter and all applicable tariffs. By signing below, I represent that I have the authority to bind the Customer hereunder. For 
+all legal purposes, an electronic Letter will be deemed an original writing in accordance with any applicable state law 
+governing electronic signatures, writings and/or records, and the admissibility thereof will not be contested under any applicable best evidence rule or otherwise.  This Letter will become effective on: and will remain valid for a period of three (3) years unless revoked in writing by Customer, SP, and Others Named or ACC  
+Business.  Written revocation notices must specify the SPs and Others Named name and be received by ACC Business, 
+Attn: Customer Care, 400 West Avenue, Rochester, NY  14611-2538
+CUSTOMER: SOLUTION PROVIDER COMPANY:SOLUTION PROVIDER 
+SALES REP:
+SIGNATURE:STREET/CITY/STATE/ZIP:PRINTED NAME:EMAIL ADDRESS/
+PHONE 
+NUMBER:TITLE:SOLUTION PROVIDER ID (SPID):ADDRESS:ADDRESS:(SUITE) OTHERS NAMED/SUB-AGENTCITY:STATE: COMPANY NAME:ZIP:REP NAME:EMAIL ADDRESS:PHONE NUMBER:STREET/CITY/STATE/ZIP:EMAIL ADDRESS/
+PHONE 
+NUMBER:SUB AGENT SP ID:CUSTOMER LETTER OF AUTHORITYLandcareENTER ACC BUSINESS SOLUTION PROVIDER NAME
+Landcare Telarus LLC12/13/2021
+EL005136Brent Cates
+Fort WorthTX76177brent.cates@landcare.com
+(855) 511-5553Technical Contact1948 Josh Road45 W Sego Lily Dr / Sandy / UT / 84070Terri Hill
+1700 Union Avenue / Baltimore / Maryland / 21211
+kwainwright@ten4.us  / 856-505-4892A0000804TEN4Kate Wainwrightthill@telarus.com / 256-666-7780 
+©2019 AT&T Intellectual Property. All Rights Reserved. Last Updated 02/17/2020
+CONTACTS INFORMATION
+Solution Provider Order Contact Name: Terri Hill Email: thill@telarus.com Phone Number: (256) 666-7780
+Solution Provider Order Contact Name: Kate Wainwright Email: kwainwright@ten4.us Phone Number: (856) 505-4892
+Name:      Brent Cates Email: brent.cates@landcare.com Phone Number: (855) 511-5553
+Title Technical Contact
+Name:      Accounts Payable Landcare Email: AccountsPayable@Landcare.com Phone Number: 214.425.0396
+Name:      Kate Wainwright Email: kwainwright@ten4.us Phone Number: (856) 505-4892
+ BusinessDirect Company Administrator: Paul Oyler Email: paul.oyler@landcare.com Phone Number: 214.425.0396
+ Name:       Email: Phone Number:
+Ship to Contact Full Mailing address:INSTRUCTIONS - use Contacts tab to:
+   i) confirm customer & agent contacts (input on IG tab); overwrite if necessary
+   ii) add unique router ship-to address (if applicable)
+   iii) add additional authorized customer contacts
+SOLUTION PROVIDER ORDER CONTACTSolution Provider Order Contact for ACC Business Order Implementation & AT&T Provisioning (mandatory)Note: Individual will receive ACC Business and AT&T order implementation touchpoints and notifications.CUSTOMER CONTACTSCustomer Contact (mandatory)Additional Solution Provider Order Contact for ACC Business Order ImplementationNote: Individual will receive order ACC Business implementation touchpoints.   This additional contact will not receive AT&T Digital Notifications.
+Note: If this is a multiple location order, do not enter the updated "ship to" address here unless ALL routers are shipped to this single alternate address. If individual locations require unique ship to addresses, submit a spreadsheet with details for each location.Note: This individual will receive the ACC Business invoice. This individual will be an authorized contact for account and billing inquiries with ACC Business.Primary Technical Customer Contact (mandatory)
+Note: Primary technical contact is expected to provide technical validation for an order, and help coordinate installation. This individual will receive order implementation touchpoints or 
+notifications from ACC Business/AT&T.
+New ADI customers are automatically registered for ACC BusinessDirect, an online portal that helps customers to manage their service post-installation. Please specify the customer contact to 
+serve as the Company Administrator for BusinessDirect (this contact must be a direct employee of the customer of record):
+Note: Once established, USER ID & login information will be emailed to the company administrator by the AT&T BusinessDirect® Team. At log in, the Company Administrator can set 
+up additional users associated with the customer, as required.
+Ship to Contact for managed AT&T routers with ADI – if different than the Local Contacts
+For ADI customers with managed AT&T routers, if the Ship to Contact is different than the Local Contact (LCON) at the service address(es), please specify:Note: this individual receives the countersigned ACC Business contract, and may be different than the customer contract signing party. This individual will be an authorized contact for account and billing inquiries with ACC Business.Customer Billing Contact (mandatory)
+ACC BusinessDirect Registration (mandatory)
+ACC Business and Customer Proprietary Updated 02/17/2020

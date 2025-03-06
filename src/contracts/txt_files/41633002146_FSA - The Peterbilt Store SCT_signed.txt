@@ -1,0 +1,98 @@
+FRONTIER SERVICES AGREEMENT  
+Frontier Confidential  
+Ver. 2016.09   
+This Frontier Services Agreement  (FSA) is effective as of 09/28/2021  (Effective Date), by and between Frontier Communications of America, Inc. on behalf of itself 
+and its affiliates which provide Equipment and Services identified in the Schedules ( Frontier ), and  The Peterbilt Store, LLC , whose primary address is 120 Un iversal 
+Drive, North Haven, Connecticut, 06473 ( Customer) .   
+This document  incorpora tes the complete Frontier Services Agreement terms and c onditions  
+at http://www.Frontier.com/FSA  as an integral part of the agreement (collectively, the FSA).  
+Provision of Services  and Equipment  
+Frontier will provide and the Customer agre es to pay for the  communications, 
+installation and maintenance  services  (collectively Service ), and/or purchase 
+or lease equipment  (Equipment ), described in this FSA and Schedules issued 
+by Frontier and executed by Customer .  
+Customer acknowledges that certain  Services may be governed by tariff  or price 
+schedule filed with the Federal Communications Commission and/ or the s tate 
+public utilities commission . In the event of any inconsistencies between this FSA 
+and an applicable tariff, the tariff  shall control  except with respect  to pricing, 
+early termination charges or cancellation charges for which this FSA shall control .  
+Term  
+The term of this FSA will commence as of the date identified in the introductory 
+paragraph above or the date the FSA is executed by both Parties, whichever is 
+later (the Effective Date) and will continue through the Service  Term with 
+respect to any Servi ce or Equipment provided pursuant to this FSA. Customer 
+will purchase the Services , or lease Equipment,  identified in each Schedule for 
+the period of time stated in the Schedule (the Service Term ).  If neither party 
+provides the other with written notice  of its intent to terminate a Service at least 
+sixty (60) days prior to expiration, t he Service Term of each Service will 
+automatically renew for additional one -year periods, subject to the terms and 
+conditions of this FSA and at the then applicable one-year term rate, excluding 
+promotional rates .  If the parties agree to negotiated renewal terms, such terms 
+will not be effective unless and until documented in writing and executed by 
+both parties.  
+Payment  
+Customer shall pay all charges set forth in the Schedules and in applicable tariffs 
+during the Service Term .  Frontier will invoice Customer any non -recurring 
+charges (NRC ), monthly recurring charges (MRC) , and usage based charges .   
+In addition to the applicable charges set forth in the tariffs and Schedules, 
+Customer shall pay all applicable federal, state or local sales, use, privilege, gross 
+receipts, utility , value added, excise or other taxes ( excluding  taxes based on 
+Frontiers  net income), or any charges in lieu thereof, and any applicable 
+surcharges or fees, whether government mandated or Frontier initiated in the 
+amounts applicable at the time of billing.  Customer shall also be responsible for 
+third party charges and penalti es incurred as a result of Customers use of the 
+Services  or Equipment .   Cancellation and Early Termination Charges  
+If Customer cancels any Service or Equipment prior to delivery of any E quipment 
+or installation  of the Service  or Equipment , Customer shall pay a cancellation 
+charge  equal to  the NRC and  one (1) month of MRC  for the Service, plus the total 
+costs and expen ditures  of Frontier in connection with establishing  the Service 
+prior to Frontiers receipt of notice of cancellation, including but no t limited to 
+any Equipment restocking fees .   
+Following installation, Customer may terminate a Service or Equipment by 
+providing at least thirty (30) days prior written notice to Frontier. All unpaid 
+amounts shall be due upon termination of any Service identified in a Schedule 
+for any reason. In addition, and unless otherwise specifically provided in the 
+applicable Sche dule, if any Service  or Equipment is terminated by Customer for 
+any reason other than breach  by Frontier  or by Frontier due to Customers 
+breach , then Customer shall pay Frontier a termination charge equal to the 
+applicable MRC and all related taxes and su rcharges multiplied by the number of 
+months remaining in the Service Term.   Partial months shall be prorated.   
+Customer agrees  that Frontiers damages in the event of early termination will 
+be difficult or impossible to ascertain , and that t he charges identified in this FSA 
+are intended  to establish liquidated damages in the event of termination an d are 
+not intended as a penalty.  
+Dispute Resolution  
+Except as otherwise specifically provided in or permitted by this FSA, all disputes 
+arising in connection with this FSA shall first be resolved through good faith 
+negotiation.  If, after negotiating in good faith for a period of ninety (90) calendar 
+days, or any agreed further period, the parties are unable to resolve the dispute, 
+then each party  may seek resolution by exercising any rights or remedies 
+available at law or in equity.  Customer and Frontier agree that each  may  only  
+bring claims against the other in an individual capacity and not as a plaintiff or 
+class member in any purporte d class, representative, or private attorney general 
+proceeding.  
+Authorization and Entire Agreement  
+Each party represents that the person executing this FSA is authorized to enter 
+into this FSA on its behalf. This FSA, the terms and conditions , including the 
+Limitation of liability, warranty, indemnification, breach and other terms and 
+conditions,  at http://www.Frontier.com/FSA , and any Schedules executed by the 
+parties constitute the entire agreement between the  parties pertaining to the 
+subject matter herein and supersedes all prior oral and written proposals, 
+correspondence and memoranda with respect thereto. This FSA may not be 
+modified, amended or supplemented except by written agreement signed by an 
+authoriz ed representative of each party . 
+Frontier Communications of America, Inc.  The Peterbilt Store, LLC , 
+Signature:  {{Sig2_es_:signer2:signature}}  Signature:  {{Sig1_es_:signer1:signature}}  
+Printed Name:  {{Name2_es_:signer2:fullname}}  Printed Name:  {{Name1_es_:signer1:fullname}}  
+Title:  {{Ttl2_es_:signer2:title}}  Title:  {{Ttl1_es_:signer1:title}}  
+Date:  {{Dte2_es_:signer2:date}}  Date:  {{Dte1_es_:signer1:date}}  
+Contractual Notice:  Frontier Communications  
+111 Field Street  
+Rochester, NY 14620  
+Attn: Legal Department  Contractual Notice:  The Peterbilt Store CT , LLC 
+120 Universal Drive 
+Nort h Haven, Connecticut 06473 
+Attn:  Legal Department 
+Ava Harrington
+Director of Technology
+9/28/2021

@@ -1,0 +1,93 @@
+MSA page 1                           Customer In itial _______  
+ MASTER SERVICE AGREEMENT  
+GCC QUOTE # 01-01172024 
+This MASTER SERVICE AGREEMENT (the "AGREEMENT") is made this 17th   day of January , 202 4 between 
+Grayson Collin Communications, the Service Provider (GCC) and Select Medical Corporation  the purchaser 
+executing the Service Order (the "Purchaser") 
+WHEREAS, GCC, provides communications services which Purchaser desired to purchase as set forth herein.  
+Now, therefore, it is agreed as follows:  
+1.  During the Term of this Agreement GCC will provide Purchaser with the specific services identified on the Service 
+Order attached.  Terms & Conditions outlined in attached Service Order apply to this agreement.  
+2.  The Term of this Agreement shall be as set forth in the Service Order attached and shall extend thereafter until 
+terminated by either party upon at least 60 days prior written notice.  However, GCC may terminate this Agreement or 
+suspend services hereu nder at any time upon (a) any failure of Purchaser to pay any undisputed amounts as provided in 
+this Agreement; (b) any breach by Purchaser of any material provision of this Agreement continuing for 30 days after receipt of notice thereof; (c) any insolvency, bankruptcy, assignment for the benefit of creditors, appointment of a 
+trustee or receiver or similar event with respect to Purchaser; or (d) any governmental prohibition or required alteration 
+of the services to be provided hereunder or any violation of an applicable law, rule or regulation.  Any termination shall not relieve Purchaser of its obligation to pay any charges incurred prior to termination.  The parties rights and obligations which by their nature would extend beyond the termination, cancel lation or expiration of this Agreement 
+shall survive such termination, cancellation or expiration.  
+3.  During the Term, Purchaser shall pay GCC for the services as set forth in the Service Order.  GCC shall not increase pricing during the initial Term, but thereafter GCC may increase pricing upon 30 days prior written notice.  Normal 
+service charges shall be invoiced monthly in advance.  All amounts owed by Purchaser shall be paid within 16 days after 
+the date of invoice and GCC reserves the right to charge penalties on late payments in the amount of 5% of previous unpaid balance due.  Prices do not incl ude taxes and related charges (however designated) and all taxes, fees and 
+governmental charges imposed on the provided services shall be paid by Purchaser in addition to any other amounts 
+owing.  Such amounts will be listed separately on Purchasers month ly invoice.  
+4.  GCC may substitute, change or rearrange any equipment, facility or system used in providing services at any time and 
+from time to time, but shall not thereby alter the technical parameters of the services provided hereunder.  
+5.  GCC will grant a credit allowance for service interruption calculated an d credited in one -hour increments.  A service 
+interruption will be deemed to have occurred only if service becomes unusable to Purchaser as a result of failure of GCCs facility, equipment or personnel used to provide the service in question, and only wher e the interruption is not 
+the result of (a) the negligence or acts of Purchaser or its agents; (b) the failure or malfunction of non -GCC equipment or 
+systems; (c) circumstances or causes beyond the control of GCC; or (d) a service interruption caused by service maintenance, alteration or implementation.  In the event that service interruptions, for which a credit allowance may be granted under this Paragraph 5 (a) result in the granting of at least $3,000 in cumulative service credits during an 
+continuous 12 -month period; or (b) result in the circuit not being available for four (4) hours within a 24 -hour period on 
+four (4) separate days within a twelve (12) month period , Purchaser m ay, upon thirty (30) days written notice to GCC, 
+terminate this Agreement.  The foregoing states Purchasers sole remedy for service interruption which shall include, 
+without limitation, loss of data.  
+PFPF
+MSA page 2                           Customer In itial _______  
+ 6.  As used in this Agreement, the term GCC Group shall be (a) GCC; (b) any third parties providing facilities or 
+equipment used by GCC, in furtherance of GCCs provision of services to Purchaser (c) any affiliates of GCC or such third 
+parties; and (d) a ny director, officer, agent, servant, employee, independent contractor, or supplier of GCC , any such 
+third parties, or any such affiliates.  EXCEPT TO THE LIMITED EXTENT PROVIDED FOR ABOVE IN PARAGRAPH 5, IN NO 
+EVENT SHALL GCC GROUP BE LIABILE FOR ANY DIR ECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, SPECIAL OR 
+OTHER DAMAGES, ARISING OUT OF OR RELATED TO ANY SERVICES, EQUIPMENT, FACILIT IES OR SYSTEMS PROVIDED OR 
+UTILIZED UNDER THIS AGREEMENT (INCLUDING, WITHOUT LIMITATION, ANY DAMAGES FOR LOSS OF DATA OR 
+INTERRUPTION OF DATA TRANSMISSION), AND PURCHASER HEREBY RELEASES AND WAIVES ANY CLAIMS OR DEMANDS 
+IT MAY HAVE AGAINST GCC GROUP, FOR OR WITH RESPECT TO ANY SUCH DAMAGES.  PURCHASER FURTHER AGREES THAT ANY OTHER LIMITATION OF LIABILITY OR PROTECTION TO  WHICH GCC MAY BE ENTITLED, ARISING OUT OF THIS 
+AGREEMENT OR SERVICES PERFORMED HEREUNDER, SHALL FULLY APPLY TO AND BENEFIT GCC GROUP, IN THE SAME 
+MANNER AND TO THE SAME EXTENT SUCH PROVISIONS OR PRTOECTION APPLY TO AND BENEFIT GCC.  THERE ARE NO 
+WARRANTIE S, REPRESENTATIONS OR AGREEMENTS EXPRESSED OR IMPLIED EITHER IN FACT OR BY OPERATION OF LAW, 
+STATUTORY OR OTHERWISE, INCLUDNG WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, EXCEPT THOS EXPRESSLY SET FORTH HEREIN.  
+7.  In the event that Purchaser cancels or terminates service at any time during the initial Term of this Agreement or any renewal thereof for any reason whatsoever other than a service interruption (as defined in Paragraph 5 above), Purchaser agrees to immediately pay to GCC all sums due and owing under this Agreement and payable in accordance 
+with Paragraph 3 above which shall include without limitation service charges for any remaining months in the term 
+within 30 days of termination.  
+8.  Purchaser is responsible for all Non -Recurring and Recurring Charges on and after the Purchaser desired due date 
+(the Due Date) in the event that Purchaser refuses to accept service on and after the Due Date, Purchaser agrees to 
+still be responsible for the Recurring Charges until such time as service is accepted when Purchaser shall pay the Non -
+Recurring Charges.  
+9.  In the event that Purchaser requests additional circuit engineering or changes equipment specifications, configurations or service parameters, premises locations, or any material provision of the Service Order, Purchaser shall be charged an additional administrative fee at least equal to 5% of the original Non -Recurring Charge in addition to all 
+costs, fees and expenses reasonably inc urred in connection therewith.  
+10.  Neither party shall be liable for any delay or failure in performance of any part of this Agreement to the extent such delay or failure is caused by fire, flood, explosion, accident, war, strike embargo, governmental requirement, civil or 
+military aut hority, acts of God, inability to secure materials, labor or transportation upon reasonable commercial terms, 
+acts or omission of common carriers or warehousemen, or any other causes beyond their reasonable control.  Any such 
+delay or failure shall suspend  the Agreement until such force majeure ceases, and the Term shall be extended by the 
+length of the suspension.  
+11.  Neither party may assign this Agreement without the written consent of the other party, except that GCC may 
+assign its rights and/or obligations hereunder (a) to any subsidiary, parent company or affiliate of GCC; (b) pursuant to 
+any sale or transfer of substantially all of the assets of GCC; or (c) pursuant to any finance, merger or reorganization of 
+GCC.  
+12.  This Agreement, and the Service Order attached, set forth the full agreement of the parties with respect to the subject matter hereof and supersede any prior agreement or understanding.  If any provision hereof is held by a court to 
+be invalid, void o r unenforceable, the remainder of this Agreement shall nevertheless remain unimpaired and in effect.   
+No term or condition of this Agreement shall be modified or amended except in writing signed by an authorized representative of both parties; however, one or more additional Service Orders may be subject to the terms and 
+conditions of this Agreement.  
+PFPF
+MSA page 3                           Customer In itial _______  
+ 13.  No license, joint venture or partnership, express or implied, is granted by GCC pursuant to this Agreement.  
+14.  Each party agrees to maintain in strict confidence all plans, designs, drawings, trade secrets, and other proprietary 
+information of other party, which is disclosed pursuant to this Agreement.  
+15.  If this Agreement is entered into by more than one Purchaser, each is jointly and severally liable for all agreements, 
+covenants and obligations herein.  
+16.  This Agreement shall be governed by the laws of the State of Texas without regard to its choice of law provisions.  In 
+any action between the parties to enforce any material provisions of this Agreement, the prevailing party shall be 
+entitled to recov er its legal fees and court costs from the non -prevailing party in addition to whatever other relief a 
+court may award. 
+Customer Name:   Select Medical Corporation    Grayson Collin Communications (GCC)  
+By:_____________________________________   By:___________________________________________  
+Name:  __________________________________   Name:________________________________________ 
+Title:_____________________________________   Title__________________________________________  
+Date: _____________________________________   Date:_________________________________________ 
+Notice Address:        Notice Address:  
+PO Box 730        PO Box 2119 
+Brooklandville, MD  21022      Van Alstyne, Texas 75495  
+Paul Finkbeiner (Mar 7, 2024 16:55 EST)Paul Finkbeiner 
+PFPF
+03/07/2024
+Vice President, IT
+Paul Finkbeiner
