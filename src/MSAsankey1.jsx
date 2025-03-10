@@ -616,11 +616,27 @@ const ContractAnalysisDashboard = () => {
     const agreementTypes = data.nodes.filter(n => n.category === 'agreementType');
     const customers = data.nodes.filter(n => n.category === 'customer');
     
-    // Set column widths and positions
-    const sankeyWidth = 900;
-    const sankeyHeight = 600;
+    // Calculate dynamic dimensions based on node counts
+    // Adjust width and height to accommodate all nodes
     const nodeWidth = 120;
     const nodeSpacing = 10;
+    const minNodeHeight = 30;
+    
+    // Calculate required height for each column based on number of nodes
+    const providerColumnHeight = providers.length * (minNodeHeight + nodeSpacing);
+    const agreementColumnHeight = agreementTypes.length * (minNodeHeight + nodeSpacing);
+    const customerColumnHeight = customers.length * (minNodeHeight + nodeSpacing);
+    
+    // Calculate required height and width for the entire chart
+    const sankeyWidth = 900; // Fixed width, will add horizontal scroll if needed
+    const sankeyHeight = Math.max(
+      700, // Minimum height
+      providerColumnHeight,
+      agreementColumnHeight,
+      customerColumnHeight
+    );
+    
+    // Set column positions
     const columnPositions = {
       provider: 20,
       agreementType: sankeyWidth / 2 - nodeWidth / 2,
@@ -634,7 +650,7 @@ const ContractAnalysisDashboard = () => {
       
       let y = 0;
       return nodeGroup.map(node => {
-        const height = Math.max(30, totalCount > 0 
+        const height = Math.max(minNodeHeight, totalCount > 0 
           ? (node.count / totalCount) * availableHeight 
           : availableHeight / nodeGroup.length);
         
@@ -652,9 +668,9 @@ const ContractAnalysisDashboard = () => {
     };
     
     // Position nodes
-    const positionedProviders = getNodeHeights(providers, sankeyHeight);
-    const positionedAgreementTypes = getNodeHeights(agreementTypes, Math.min(sankeyHeight, agreementTypes.length * 40));
-    const positionedCustomers = getNodeHeights(customers, sankeyHeight);
+    const positionedProviders = getNodeHeights(providers, providerColumnHeight);
+    const positionedAgreementTypes = getNodeHeights(agreementTypes, agreementColumnHeight);
+    const positionedCustomers = getNodeHeights(customers, customerColumnHeight);
     
     // Combine all positioned nodes
     const positionedNodes = [
@@ -773,12 +789,14 @@ const ContractAnalysisDashboard = () => {
     });
     
     return (
-      <svg width="100%" height={sankeyHeight} viewBox={`0 0 ${sankeyWidth} ${sankeyHeight}`}>
-        <g>
-          {linkElements}
-          {nodeElements}
-        </g>
-      </svg>
+      <div className="overflow-auto" style={{ maxHeight: '700px', maxWidth: '100%' }}>
+        <svg width={sankeyWidth} height={sankeyHeight} viewBox={`0 0 ${sankeyWidth} ${sankeyHeight}`}>
+          <g>
+            {linkElements}
+            {nodeElements}
+          </g>
+        </svg>
+      </div>
     );
   };
 
@@ -820,7 +838,8 @@ const ContractAnalysisDashboard = () => {
             The middle column shows the Agreement Classifications from the contract data.
           </div>
           
-          <div className="overflow-x-auto">
+          {/* Updated container with scrollbars */}
+          <div className="border rounded-md">
             {renderSankey()}
           </div>
         </CardContent>
@@ -832,18 +851,20 @@ const ContractAnalysisDashboard = () => {
             <CardHeader>
               <CardTitle>
                 Common Clauses for {selectedNode.category === 'provider' ? 'Provider' : 
-                                   selectedNode.category === 'customer' ? 'Customer' : 'Agreement Type'}: {selectedNode.name}
+                                 selectedNode.category === 'customer' ? 'Customer' : 'Agreement Type'}: {selectedNode.name}
               </CardTitle>
             </CardHeader>
             <CardContent>
               {commonClauses.length > 0 ? (
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {commonClauses.map((item, index) => (
-                    <div key={index} className="bg-gray-100 p-4 rounded-md">
-                      <div className="font-medium">{item.clause.replace(/[\[\]']/g, '')}</div>
-                      <div className="text-sm text-gray-500">Frequency: {item.count}</div>
-                    </div>
-                  ))}
+                <div className="overflow-auto max-h-96">
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    {commonClauses.map((item, index) => (
+                      <div key={index} className="bg-gray-100 p-4 rounded-md">
+                        <div className="font-medium">{item.clause.replace(/[\[\]']/g, '')}</div>
+                        <div className="text-sm text-gray-500">Frequency: {item.count}</div>
+                      </div>
+                    ))}
+                  </div>
                 </div>
               ) : (
                 <div>No common clauses found</div>
@@ -855,12 +876,12 @@ const ContractAnalysisDashboard = () => {
             <CardHeader>
               <CardTitle>
                 Top Documents for {selectedNode.category === 'provider' ? 'Provider' : 
-                                 selectedNode.category === 'customer' ? 'Customer' : 'Agreement Type'}: {selectedNode.name}
+                               selectedNode.category === 'customer' ? 'Customer' : 'Agreement Type'}: {selectedNode.name}
               </CardTitle>
             </CardHeader>
             <CardContent>
               {topDocuments.length > 0 ? (
-                <div className="overflow-x-auto">
+                <div className="overflow-auto">
                   <table className="w-full border-collapse">
                     <thead className="bg-gray-100">
                       <tr>

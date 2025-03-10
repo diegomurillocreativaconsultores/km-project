@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import HomePage from "./HomePage";
 import MSAsankey1 from "./MSAsankey1";
+import Clauses from "./Clauses";
 import MSAcharts from "./MSAcharts";
 import MSAdashboard from "./MSAdashboard";
 
@@ -11,6 +12,8 @@ function App() {
     switch (activeComponent) {
       case 'MSAsankey1':
         return <MSAsankey1 />;
+      case 'Clauses':
+        return <Clauses />;
       case 'MSAcharts':
         return <MSAcharts />;
       case 'MSAdashboard':
@@ -36,6 +39,12 @@ function App() {
           className="px-4 py-2 mr-2 bg-blue-500 text-white rounded hover:bg-blue-600"
         >
           Legal Analysis
+        </button>
+        <button 
+          onClick={() => setActiveComponent('Clauses')}
+          className="px-4 py-2 mr-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+        >
+          Clause Analysis
         </button>
         <button 
           onClick={() => setActiveComponent('MSAcharts')}
