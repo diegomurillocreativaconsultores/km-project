@@ -15,7 +15,7 @@ const MSAcharts = () => {
   useEffect(() => {
     const processData = async () => {
       try {
-        const response = await fetch('/data/contract_analysis.csv');
+        const response = await fetch('/data/contract_financial_analysis.csv');
         const csvText = await response.text();
         const result = Papa.parse(csvText, {
           header: true,

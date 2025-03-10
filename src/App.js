@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import HomePage from "./HomePage";
-import MSAsankey from "./MSAsankey";
+import MSAsankey1 from "./MSAsankey1";
 import MSAcharts from "./MSAcharts";
 import MSAdashboard from "./MSAdashboard";
 
@@ -9,8 +9,8 @@ function App() {
 
   const renderComponent = () => {
     switch (activeComponent) {
-      case 'MSAsankey':
-        return <MSAsankey />;
+      case 'MSAsankey1':
+        return <MSAsankey1 />;
       case 'MSAcharts':
         return <MSAcharts />;
       case 'MSAdashboard':
@@ -32,16 +32,16 @@ function App() {
           Home Page
         </button>
         <button 
-          onClick={() => setActiveComponent('MSAsankey')}
+          onClick={() => setActiveComponent('MSAsankey1')}
           className="px-4 py-2 mr-2 bg-blue-500 text-white rounded hover:bg-blue-600"
         >
-          Collections
+          Legal Analysis
         </button>
         <button 
           onClick={() => setActiveComponent('MSAcharts')}
           className="px-4 py-2 mr-2 bg-blue-500 text-white rounded hover:bg-blue-600"
         >
-          Charts View
+          Financial Analysis
         </button>
         <button 
           onClick={() => setActiveComponent('MSAdashboard')}
