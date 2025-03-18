@@ -221,7 +221,7 @@ const ContractDashboard = () => {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const contractResponse = await fetch('/contract_results.json');
+        const contractResponse = await fetch('/contract_financial_analysis.json');
         const contractJson = await contractResponse.json();
         
         const validContracts = contractJson.filter(item => {
