@@ -4,6 +4,9 @@ import MSAsankey1 from "./MSAsankey1";
 import Clauses from "./Clauses";
 import MSAcharts from "./MSAcharts";
 import MSAdashboard from "./MSAdashboard";
+import Curate from "./Curate";
+import Relate from "./Relate";
+
 
 function App() {
   const [activeComponent, setActiveComponent] = useState('HomePage');
@@ -20,6 +23,10 @@ function App() {
         return <MSAdashboard />;
       case 'HomePage':
         return <HomePage />;
+      case 'Curate':
+        return <Curate />;
+      case 'Relate':
+        return <Relate />;
       default:
         return <HomePage />;
     }
@@ -57,6 +64,18 @@ function App() {
           className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
         >
           Dashboard View
+        </button>
+        <button 
+          onClick={() => setActiveComponent('Curate')}
+          className="px-4 py-2 mr-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+        >
+          Curate
+        </button>
+        <button 
+          onClick={() => setActiveComponent('Relate')}
+          className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+        >
+          Relate
         </button>
       </nav>
       {renderComponent()}
