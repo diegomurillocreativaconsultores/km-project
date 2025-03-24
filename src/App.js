@@ -4,7 +4,7 @@ import MSAsankey1 from "./MSAsankey1";
 import Clauses from "./Clauses";
 import MSAcharts from "./MSAcharts";
 import MSAdashboard from "./MSAdashboard";
-import Curate from "./Curate";
+import Curate from "./ContractCurate";
 import Relate from "./Relate";
 
 

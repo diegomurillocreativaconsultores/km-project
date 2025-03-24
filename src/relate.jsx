@@ -24,34 +24,33 @@ const ToggleNetworkGraph = () => {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await fetch('/data/contract_financial_analysis (178).csv');
+        const response = await fetch('/data/contract_analysis_output (3-21).csv');
         const csvText = await response.text();
         const result = Papa.parse(csvText, {
             header: true,
             skipEmptyLines: true
         });
         
-        
-        // Process the data for array values in Services
+        // Process the data for array values in Connection Services
         const processedData = result.data.map(row => {
-          let services = row['Services'];
+          let connectionServices = row['Connection Services'];
           
-          if (typeof services === 'string' && services.startsWith('[') && services.endsWith(']')) {
+          if (typeof connectionServices === 'string' && connectionServices.startsWith('[') && connectionServices.endsWith(']')) {
             try {
-              const jsonString = services.replace(/'/g, '"');
-              const parsedServices = JSON.parse(jsonString);
+              const jsonString = connectionServices.replace(/'/g, '"');
+              const parsedConnectionServices = JSON.parse(jsonString);
               
-              if (Array.isArray(parsedServices) && parsedServices.length > 0) {
-                services = parsedServices[0];
+              if (Array.isArray(parsedConnectionServices) && parsedConnectionServices.length > 0) {
+                connectionServices = parsedConnectionServices[0];
               }
             } catch (e) {
-              console.warn("Could not parse Services:", services);
+              console.warn("Could not parse Connection Services:", connectionServices);
             }
           }
           
           return {
             ...row,
-            'Services': services
+            'Connection Services': connectionServices
           };
         });
         
@@ -66,7 +65,7 @@ const ToggleNetworkGraph = () => {
         processedData.forEach(row => {
           if (row['Party1 Name']) party1Set.add(row['Party1 Name']);
           if (row['Party2 Name']) party2Set.add(row['Party2 Name']);
-          if (row['Services']) serviceSet.add(row['Services']);
+          if (row['Connection Services']) serviceSet.add(row['Connection Services']);
           if (row['Agreement Classification']) classificationSet.add(row['Agreement Classification']);
         });
         
@@ -134,7 +133,7 @@ const ToggleNetworkGraph = () => {
     const filteredData = data.filter(row => {
       const p1Match = selectedParty1 === 'all' || row['Party1 Name'] === selectedParty1;
       const p2Match = selectedParty2 === 'all' || row['Party2 Name'] === selectedParty2;
-      const svcMatch = selectedService === 'all' || row['Services'] === selectedService;
+      const svcMatch = selectedService === 'all' || row['Connection Services'] === selectedService;
       const clsMatch = selectedClassification === 'all' || row['Agreement Classification'] === selectedClassification;
       
       return p1Match && p2Match && svcMatch && clsMatch;
@@ -148,21 +147,21 @@ const ToggleNetworkGraph = () => {
     filteredData.forEach(row => {
       const party1 = row['Party1 Name'];
       const party2 = row['Party2 Name'];
-      const services = row['Services'];
+      const connectionServices = row['Connection Services'];
       const classification = row['Agreement Classification'];
       
       // Skip if any required field is missing
-      if (!party1 || !party2 || !services || !classification) return;
+      if (!party1 || !party2 || !connectionServices || !classification) return;
       
       // Add nodes
       const p1Node = addNode(party1, 'party1');
       const p2Node = addNode(party2, 'party2');
       
       if (centerNodeType === 'services') {
-        // Services in the middle
-        const svcNode = addNode(services, 'services');
+        // Connection Services in the middle
+        const svcNode = addNode(connectionServices, 'services');
         
-        // Track Party1 to Services connection
+        // Track Party1 to Connection Services connection
         const p1svcKey = `${p1Node.id}-${svcNode.id}`;
         if (!leftToMiddleConnections[p1svcKey]) {
           leftToMiddleConnections[p1svcKey] = {
@@ -173,7 +172,7 @@ const ToggleNetworkGraph = () => {
         }
         leftToMiddleConnections[p1svcKey].count++;
         
-        // Track Services to Party2 connection
+        // Track Connection Services to Party2 connection
         const svcp2Key = `${svcNode.id}-${p2Node.id}`;
         if (!middleToRightConnections[svcp2Key]) {
           middleToRightConnections[svcp2Key] = {
@@ -518,7 +517,7 @@ const ToggleNetworkGraph = () => {
       switch(type) {
         case 'party1': return 'Party 1';
         case 'party2': return 'Party 2';
-        case 'services': return 'Services';
+        case 'services': return 'Connection Services';
         case 'classification': return 'Agreement Classification';
         default: return type;
       }
@@ -592,7 +591,7 @@ const ToggleNetworkGraph = () => {
       .attr("text-anchor", "middle")
       .attr("font-size", "14px")
       .attr("font-weight", "bold")
-      .text(centerNodeType === 'services' ? "Services" : "Agreement Classification");
+      .text(centerNodeType === 'services' ? "Connection Services" : "Agreement Classification");
     
     g.append("text")
       .attr("x", width * 0.8)
@@ -636,7 +635,7 @@ const ToggleNetworkGraph = () => {
             onClick={toggleCenterNodeType}
             className={`px-4 py-2 rounded ${centerNodeType === 'services' ? 'bg-red-100 text-red-800 font-medium' : 'bg-gray-100'}`}
           >
-            Services
+            Connection Services
           </button>
           <span className="mx-2">|</span>
           <button 
@@ -690,17 +689,17 @@ const ToggleNetworkGraph = () => {
             </select>
           </div>
           
-          {/* Services Filter */}
+          {/* Connection Services Filter */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Services
+              Connection Services
             </label>
             <select
               value={selectedService}
               onChange={(e) => setSelectedService(e.target.value)}
               className="block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
             >
-              <option value="all">All Services</option>
+              <option value="all">All Connection Services</option>
               {allServices.map(service => (
                 <option key={`svc-${service}`} value={service}>
                   {service}
@@ -751,7 +750,7 @@ const ToggleNetworkGraph = () => {
       
       <div className="text-sm text-gray-600 mt-4 w-full max-w-6xl">
         <ul className="list-disc pl-5">
-          <li>Use the buttons above to toggle between Services and Agreement Classification in the middle column</li>
+          <li>Use the buttons above to toggle between Connection Services and Agreement Classification in the middle column</li>
           <li>Use the dropdown menus to filter entities and focus on specific relationships</li>
           <li>Link thickness represents number of contracts between entities</li>
           <li>Node size indicates number of connections (larger = more connections)</li>

@@ -14,10 +14,10 @@ const DataNormalizer = () => {
   const [normalizedData, setNormalizedData] = useState([]);
   const [changesMap, setChangesMap] = useState({});
   const [fileName, setFileName] = useState('normalized_contract_data.csv');
-  
+
   const toggleDuplicateSelection = (groupKey, recordIndex) => {
     setSelectedDuplicates(prev => {
-      const newSelection = {...prev};
+      const newSelection = { ...prev };
       newSelection[groupKey] = [...newSelection[groupKey]];
       newSelection[groupKey][recordIndex] = !newSelection[groupKey][recordIndex];
       return newSelection;
@@ -32,7 +32,7 @@ const DataNormalizer = () => {
     'Nonrecurring Charges (NRC)': 'Nonrecurring Charges',
     'Service Locations': 'Locations'
   };
-  
+
   // State for custom values in similar pairs
   const [customValues, setCustomValues] = useState({});
   const [editingStates, setEditingStates] = useState({});
@@ -41,12 +41,13 @@ const DataNormalizer = () => {
   const [showDuplicatesStep, setShowDuplicatesStep] = useState(true);
   const [showAnalysisStep, setShowAnalysisStep] = useState(false);
   const [showNormalizationStep, setShowNormalizationStep] = useState(false);
-  
+
+  // Updated fieldsToAnalyze: "Services" field is now "Connection Services"
   const fieldsToAnalyze = [
     'Agreement Classification',
     'Party1 Name',
     'Party2 Name',
-    'Services',
+    'Connection Services',
     'Agreement Title'
   ];
 
@@ -54,18 +55,35 @@ const DataNormalizer = () => {
     const loadData = async () => {
       try {
         setLoading(true);
-        const response = await fetch('/data/contract_financial_analysis (178).csv');
+        const response = await fetch('/data/contract_analysis_output (3-21).csv');
         const text = await response.text();
         
         Papa.parse(text, {
           header: true,
           skipEmptyLines: true,
           complete: (result) => {
-            setCsvData(result.data);
-            calculateFrequencies(result.data);
-            setNormalizedData(result.data);
+            // For each row, adjust the "Connection Services" field: parse as JSON and use only the first element
+            const adjustedData = result.data.map(row => {
+              if (row["Connection Services"]) {
+                try {
+                  const parsed = JSON.parse(row["Connection Services"]);
+                  if (Array.isArray(parsed) && parsed.length > 0) {
+                    row["Connection Services"] = parsed[0];
+                  } else {
+                    row["Connection Services"] = "";
+                  }
+                } catch (error) {
+                  // If parsing fails, leave the original value
+                }
+              }
+              return row;
+            });
+            
+            setCsvData(adjustedData);
+            calculateFrequencies(adjustedData);
+            setNormalizedData(adjustedData);
             // Find duplicates in the loaded data
-            findDuplicates(result.data);
+            findDuplicates(adjustedData);
             setLoading(false);
           },
           error: (error) => {
