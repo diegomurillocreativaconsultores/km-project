@@ -6,43 +6,97 @@ import _ from 'lodash';
 // Helper Functions
 // --------------------
 
-// Compute Jaccard similarity between two strings (tokenized by whitespace)
+// Normalize a single token by lowercasing and applying simple pluralization rules.
+const normalizeToken = (token) => {
+  token = token.toLowerCase();
+  if (token.endsWith('ies')) {
+    token = token.slice(0, -3) + 'y';
+  } else if (token.endsWith('s') && !token.endsWith('ss') && token.length > 3) {
+    token = token.slice(0, -1);
+  }
+  return token;
+};
+
+// Basic Jaccard similarity that uses normalized tokens.
 const jaccardSimilarity = (a, b) => {
-  const setA = new Set(a.split(/\s+/));
-  const setB = new Set(b.split(/\s+/));
+  const tokensA = a.split(/\s+/).map(normalizeToken);
+  const tokensB = b.split(/\s+/).map(normalizeToken);
+  const setA = new Set(tokensA);
+  const setB = new Set(tokensB);
   const intersection = new Set([...setA].filter(x => setB.has(x)));
   const union = new Set([...setA, ...setB]);
   return union.size === 0 ? 0 : intersection.size / union.size;
 };
 
-// Group similar values together based on the given threshold.
-// Returns an array of groups. Each group is an object { id, values }.
-const groupFieldValues = (values, threshold) => {
+// Extract the significant part of a name (default: first 2 words)
+const extractSignificantPart = (name, numTokens = 2) => {
+  return name.split(/\s+/).slice(0, numTokens).join(' ');
+};
+
+// Filter out common company type abbreviations.
+const filterCompanyTokens = (str) => {
+  const companyAbbrs = new Set([
+    "llc",
+    "llp",
+    "inc",
+    "corp",
+    "co",
+    "ltd",
+    "corporation",
+    "limited",
+    "gmbh",
+    "plc",
+    "s.a.",
+    "sa"
+  ]);
+  const filtered = str.split(/\s+/).filter(token => !companyAbbrs.has(token.toLowerCase()));
+  return filtered.length ? filtered.join(' ') : str;
+};
+
+// Configurable weighted similarity that uses normalized tokens and filters company abbreviations in the significant part.
+const configurableWeightedSimilarity = (a, b, sigWeight = 0.75) => {
+  if (!a || !b) return 0;
+  const sigA = filterCompanyTokens(extractSignificantPart(a));
+  const sigB = filterCompanyTokens(extractSignificantPart(b));
+  const sigSim = jaccardSimilarity(sigA, sigB);
+  const overallSim = jaccardSimilarity(a, b);
+  return sigWeight * sigSim + (1 - sigWeight) * overallSim;
+};
+
+// AI-based normalization for Agreement Classification.
+const aiNormalizeClassification = (value) => {
+  return _.startCase(value);
+};
+
+// Group similar values (each item is an object { value, count }) based on the given threshold and similarity function.
+// Each group has an id, an array of items, and a total count (sum of counts).
+const groupFieldValues = (items, threshold, similarityFn = jaccardSimilarity) => {
   const groups = [];
-  values.forEach(val => {
-    const normalizedVal = _.toLower(_.trim(val));
+  items.forEach(item => {
+    const normalizedVal = _.toLower(_.trim(item.value));
     const foundGroup = groups.find(group => {
-      const rep = _.toLower(_.trim(group.values[0]));
-      return jaccardSimilarity(normalizedVal, rep) >= threshold;
+      const rep = _.toLower(_.trim(group.values[0].value));
+      return similarityFn(normalizedVal, rep) >= threshold;
     });
     if (foundGroup) {
-      foundGroup.values.push(val);
+      foundGroup.values.push(item);
+      foundGroup.count += item.count;
     } else {
-      groups.push({ id: groups.length + 1, values: [val] });
+      groups.push({ id: groups.length + 1, values: [item], count: item.count });
     }
   });
   return groups;
 };
 
 // Generate a mapping from raw field values to normalized values based on grouping.
-const normalizeFieldValues = (values, threshold) => {
-  const groups = groupFieldValues(values, threshold);
+// Here, for each group, the default suggestion is computed from the first item’s value.
+const normalizeFieldValues = (items, threshold, similarityFn = jaccardSimilarity) => {
+  const groups = groupFieldValues(items, threshold, similarityFn);
   const mapping = {};
   groups.forEach(group => {
-    // Default normalized value is the first value in the group, in title case.
-    const normVal = _.startCase(group.values[0]);
-    group.values.forEach(val => {
-      mapping[val] = normVal;
+    const suggestion = _.startCase(group.values[0].value);
+    group.values.forEach(item => {
+      mapping[item.value] = suggestion;
     });
   });
   return mapping;
@@ -50,13 +104,33 @@ const normalizeFieldValues = (values, threshold) => {
 
 // Normalize contracts by adding normalized fields for Party1 Name, Party2 Name, and Agreement Classification.
 const normalizeContracts = (data, threshold) => {
-  const party1Values = _.uniq(data.map(row => row['Party1 Name']).filter(Boolean));
-  const party2Values = _.uniq(data.map(row => row['Party2 Name']).filter(Boolean));
-  const classificationValues = _.uniq(data.map(row => row['Agreement Classification']).filter(Boolean));
+  const party1Values = _.countBy(data, row => row['Party1 Name']);
+  const party2Values = _.countBy(data, row => row['Party2 Name']);
+  const classificationValues = _.countBy(data, row => row['Agreement Classification']);
 
-  const party1Mapping = normalizeFieldValues(party1Values, threshold);
-  const party2Mapping = normalizeFieldValues(party2Values, threshold);
-  const classificationMapping = normalizeFieldValues(classificationValues, threshold);
+  const uniqueParty1 = Object.keys(party1Values)
+    .filter(v => v)
+    .map(v => ({ value: v, count: party1Values[v] }));
+  const uniqueParty2 = Object.keys(party2Values)
+    .filter(v => v)
+    .map(v => ({ value: v, count: party2Values[v] }));
+  const uniqueClassifications = Object.keys(classificationValues)
+    .filter(v => v)
+    .map(v => ({ value: v, count: classificationValues[v] }));
+
+  // For party names, use configurableWeightedSimilarity.
+  const party1Mapping = normalizeFieldValues(uniqueParty1, threshold, (a, b) =>
+    configurableWeightedSimilarity(a, b)
+  );
+  const party2Mapping = normalizeFieldValues(uniqueParty2, threshold, (a, b) =>
+    configurableWeightedSimilarity(a, b)
+  );
+
+  // For classifications, use default grouping then apply AI normalization.
+  let classificationMapping = normalizeFieldValues(uniqueClassifications, threshold);
+  Object.keys(classificationMapping).forEach(key => {
+    classificationMapping[key] = aiNormalizeClassification(classificationMapping[key]);
+  });
 
   return data.map(row => ({
     ...row,
@@ -81,8 +155,8 @@ const Filter = ({ label, value, onChange, options }) => (
     >
       <option value="">All</option>
       {options.map(opt => (
-        <option key={opt} value={opt}>
-          {opt}
+        <option key={opt.value} value={opt.value}>
+          {opt.value} ({opt.count})
         </option>
       ))}
     </select>
@@ -100,25 +174,38 @@ const Modal = ({ children, onClose }) => (
 );
 
 // --------------------
-// Normalization Dialog for a Single Field
+// Normalization Dialog for a Single Field with Configurable Similarity
 // --------------------
 const NormalizationDialogForField = ({ fieldName, uniqueValues, initialThreshold, onApply, onCancel }) => {
   const [threshold, setThreshold] = useState(initialThreshold);
   const [overrides, setOverrides] = useState({}); // group id -> override value
 
-  const groups = useMemo(() => groupFieldValues(uniqueValues, threshold), [uniqueValues, threshold]);
+  // Similarity mode: either "jaccard" or "weighted"
+  const defaultMode = (fieldName === 'Party1 Name' || fieldName === 'Party2 Name') ? 'weighted' : 'jaccard';
+  const [similarityMode, setSimilarityMode] = useState(defaultMode);
+
+  // For weighted similarity, allow adjusting the weight for significant tokens.
+  const [sigWeight, setSigWeight] = useState(0.75);
+
+  // Choose similarity function based on the mode.
+  const simFn =
+    similarityMode === 'weighted'
+      ? (a, b) => configurableWeightedSimilarity(a, b, sigWeight)
+      : jaccardSimilarity;
+
+  // Recompute groups whenever uniqueValues, threshold, similarity mode, or sigWeight changes.
+  const groups = useMemo(() => groupFieldValues(uniqueValues, threshold, simFn), [uniqueValues, threshold, simFn]);
 
   const handleChange = (groupId, value) => {
     setOverrides({ ...overrides, [groupId]: value });
   };
 
   const handleApply = () => {
-    // Build mapping: for each group, for each raw value, mapping[raw] = override if provided, else default suggestion.
     const mapping = {};
     groups.forEach(group => {
-      const suggestion = _.startCase(group.values[0]);
-      group.values.forEach(val => {
-        mapping[val] = overrides[group.id] || suggestion;
+      const suggestion = _.startCase(group.values[0].value);
+      group.values.forEach(item => {
+        mapping[item.value] = overrides[group.id] || suggestion;
       });
     });
     onApply(mapping, threshold);
@@ -127,8 +214,39 @@ const NormalizationDialogForField = ({ fieldName, uniqueValues, initialThreshold
   return (
     <Modal onClose={onCancel}>
       <h2 className="text-xl font-bold mb-4">Normalize {fieldName}</h2>
+
+      {/* Similarity Mode Selector */}
       <div className="mb-4">
-        <label className="block mb-1">Jaccard Similarity Threshold: {threshold}</label>
+        <label className="block mb-1">Similarity Mode</label>
+        <select
+          value={similarityMode}
+          onChange={(e) => setSimilarityMode(e.target.value)}
+          className="p-2 border border-gray-300 rounded"
+        >
+          <option value="jaccard">Jaccard</option>
+          <option value="weighted">Weighted</option>
+        </select>
+      </div>
+
+      {/* When Weighted is selected, show a slider to configure weight */}
+      {similarityMode === 'weighted' && (
+        <div className="mb-4">
+          <label className="block mb-1">Weight for Significant Tokens: {sigWeight}</label>
+          <input
+            type="range"
+            min="0"
+            max="1"
+            step="0.05"
+            value={sigWeight}
+            onChange={(e) => setSigWeight(parseFloat(e.target.value))}
+            className="w-full"
+          />
+        </div>
+      )}
+
+      {/* Threshold slider */}
+      <div className="mb-4">
+        <label className="block mb-1">Similarity Threshold: {threshold}</label>
         <input
           type="range"
           min="0"
@@ -139,17 +257,18 @@ const NormalizationDialogForField = ({ fieldName, uniqueValues, initialThreshold
           className="w-full"
         />
       </div>
-      {/* Wrap the groups in a div with a fixed height and scroll bar */}
+
+      {/* Groups container with fixed height and scroll */}
       <div className="mb-4" style={{ maxHeight: '300px', overflowY: 'auto' }}>
         {groups.map(group => (
           <div key={group.id} className="mb-2 border p-2 rounded">
             <p className="text-sm text-gray-600">
-              Group {group.id}: {group.values.join(', ')}
+              Group {group.id} ({group.count} records): {group.values.map(item => item.value).join(', ')}
             </p>
             <input
               type="text"
               placeholder="Normalized value"
-              value={overrides[group.id] || _.startCase(group.values[0])}
+              value={overrides[group.id] || _.startCase(group.values[0].value)}
               onChange={(e) => handleChange(group.id, e.target.value)}
               className="p-1 border rounded w-full"
             />
@@ -190,20 +309,20 @@ const ContractViewer = () => {
   const [hideDuplicates, setHideDuplicates] = useState(false);
   const [selectedDuplicateGroup, setSelectedDuplicateGroup] = useState(null);
 
-  // Normalization dialog controls for each field
+  // Normalization dialog controls for each field.
   const [showNormalizationParty1, setShowNormalizationParty1] = useState(false);
   const [showNormalizationParty2, setShowNormalizationParty2] = useState(false);
   const [showNormalizationClassification, setShowNormalizationClassification] = useState(false);
 
-  // Filter states
+  // Filter states – these now expect arrays of objects.
   const [party1Filter, setParty1Filter] = useState('');
   const [party2Filter, setParty2Filter] = useState('');
   const [classificationFilter, setClassificationFilter] = useState('');
 
-  // Similarity threshold used for automatic normalization & duplicate detection
+  // Similarity threshold used for automatic normalization & duplicate detection.
   const [similarityThreshold, setSimilarityThreshold] = useState(0.8);
 
-  // Unique values for filters and normalization dialogs
+  // Unique values (with counts) for filters and normalization dialogs.
   const [uniqueParty1, setUniqueParty1] = useState([]);
   const [uniqueParty2, setUniqueParty2] = useState([]);
   const [uniqueClassifications, setUniqueClassifications] = useState([]);
@@ -226,9 +345,30 @@ const ContractViewer = () => {
             setOriginalContracts(dataWithId);
             const normalizedData = normalizeContracts(dataWithId, similarityThreshold);
             setContracts(normalizedData);
-            setUniqueParty1(_.uniq(dataWithId.map(row => row['Party1 Name']).filter(Boolean)).sort());
-            setUniqueParty2(_.uniq(dataWithId.map(row => row['Party2 Name']).filter(Boolean)).sort());
-            setUniqueClassifications(_.uniq(dataWithId.map(row => row['Agreement Classification']).filter(Boolean)).sort());
+
+            // Compute frequency counts for each field.
+            const party1Counts = _.countBy(dataWithId, row => row['Party1 Name']);
+            const party2Counts = _.countBy(dataWithId, row => row['Party2 Name']);
+            const classificationCounts = _.countBy(dataWithId, row => row['Agreement Classification']);
+
+            const uniqueParty1Arr = Object.keys(party1Counts)
+              .filter(v => v)
+              .map(v => ({ value: v, count: party1Counts[v] }));
+            uniqueParty1Arr.sort((a, b) => a.value.localeCompare(b.value));
+            setUniqueParty1(uniqueParty1Arr);
+
+            const uniqueParty2Arr = Object.keys(party2Counts)
+              .filter(v => v)
+              .map(v => ({ value: v, count: party2Counts[v] }));
+            uniqueParty2Arr.sort((a, b) => a.value.localeCompare(b.value));
+            setUniqueParty2(uniqueParty2Arr);
+
+            const uniqueClassificationsArr = Object.keys(classificationCounts)
+              .filter(v => v)
+              .map(v => ({ value: v, count: classificationCounts[v] }));
+            uniqueClassificationsArr.sort((a, b) => a.value.localeCompare(b.value));
+            setUniqueClassifications(uniqueClassificationsArr);
+
             setLoading(false);
           },
           error: (error) => {
@@ -251,7 +391,7 @@ const ContractViewer = () => {
     }
   }, [similarityThreshold, originalContracts]);
 
-  // Duplicate detection using contract.id
+  // Duplicate detection using contract.id.
   const { duplicatesMap, duplicateGroups } = useMemo(() => {
     let visited = new Set();
     let duplicateGroups = {};
@@ -269,8 +409,8 @@ const ContractViewer = () => {
           continue;
         if ((c1[NONRECURRING_KEY] || '').toString().trim() !== (c2[NONRECURRING_KEY] || '').toString().trim())
           continue;
-        const party1Sim = jaccardSimilarity(c1['Party1 Name'] || '', c2['Party1 Name'] || '');
-        const party2Sim = jaccardSimilarity(c1['Party2 Name'] || '', c2['Party2 Name'] || '');
+        const party1Sim = configurableWeightedSimilarity(c1['Party1 Name'] || '', c2['Party1 Name'] || '');
+        const party2Sim = configurableWeightedSimilarity(c1['Party2 Name'] || '', c2['Party2 Name'] || '');
         const classSim = jaccardSimilarity(c1['Agreement Classification'] || '', c2['Agreement Classification'] || '');
         if (party1Sim >= similarityThreshold && party2Sim >= similarityThreshold && classSim >= similarityThreshold) {
           group.push(c2.id);
@@ -288,7 +428,7 @@ const ContractViewer = () => {
     return { duplicatesMap, duplicateGroups };
   }, [contracts, similarityThreshold]);
 
-  // Mark primary record (latest Agreement Date) within duplicate groups
+  // Mark primary record (latest Agreement Date) within duplicate groups.
   const finalContracts = useMemo(() => {
     let updatedContracts = contracts.map(contract => ({ ...contract, isPrimary: true }));
     const groups = {};
@@ -322,7 +462,7 @@ const ContractViewer = () => {
     return updatedContracts;
   }, [contracts, duplicateGroups]);
 
-  // Define getDuplicateGroupColor inside the component.
+  // Helper to assign colors for duplicate groups.
   const getDuplicateGroupColor = (groupId) => {
     const colors = [
       'rgba(255, 99, 132, 0.2)',
@@ -336,7 +476,7 @@ const ContractViewer = () => {
     return colors[(groupId - 1) % colors.length];
   };
 
-  // Define toggleDuplicateGroup inside the component.
+  // Toggle duplicate group selection.
   const toggleDuplicateGroup = (groupId) => {
     if (selectedDuplicateGroup === groupId) {
       setSelectedDuplicateGroup(null);
@@ -346,7 +486,7 @@ const ContractViewer = () => {
     setCurrentPage(1);
   };
 
-  // Helper to update normalized values for a single field.
+  // Update normalized values for a single field.
   const updateNormalizationForField = (fieldRawName, normalizedFieldName, mapping) => {
     const updated = contracts.map(contract => ({
       ...contract,
