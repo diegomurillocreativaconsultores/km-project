@@ -6,8 +6,8 @@ import MSAcharts from "./MSAcharts";
 import MSAdashboard from "./MSAdashboard";
 import Curate from "./ContractCurate";
 import Relate from "./Relate";
-import Calendar from "./Calendar";
 import Calendar1 from "./Calendar1";
+import Mapping from "./Mapping";
 
 
 function App() {
@@ -29,10 +29,10 @@ function App() {
         return <Curate />;
       case 'Relate':
         return <Relate />;
-      case 'Calendar':
-          return <Calendar />;
       case 'Calendar1':
-        return <Calendar1 />;
+          return <Calendar1 />;
+      case 'Mapping':
+        return <Mapping />;
       default:
         return <HomePage />;
     }
@@ -84,16 +84,16 @@ function App() {
           Relate
         </button>
         <button 
-          onClick={() => setActiveComponent('Calendar')}
+          onClick={() => setActiveComponent('Calendar1')}
           className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
         >
           Calendar
         </button>
         <button 
-          onClick={() => setActiveComponent('Calendar1')}
+          onClick={() => setActiveComponent('Mapping')}
           className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
         >
-          Calendar1
+          Mapping
         </button>
       </nav>
       {renderComponent()}
